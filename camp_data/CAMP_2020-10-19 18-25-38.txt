@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ132	135266	P14213	1MA2,1MA4,1MA5,1MA6,1WO0,1WO1	Tachyplesin-1	Tachypleus tridentatus 	Animalia	KWCFRVCYRGICYRRCR	17	3141410	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ133	135267	P14214		Tachyplesin-2 	Tachypleus tridentatus 	Animalia	RWCFRVCYRGICYRKCR	17	2514185	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ134	135268	P18252		Tachyplesin-3 	Tachypleus gigas	Animalia	KWCFRVCYRGICYRKCR	17	2229025	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ399	41016800	P82233		Brevinin-1Ta	Rana temporaria	Animalia (Amphibians)	FITLLLRKFICSITKKC	17	10333736	Antibacterial		Experimentally Validated
+CAMPSQ457	41688618	P83663		Ranacyclin-E	Rana esculenta (edible frog )	Animalia (Amphibians)	SAPRGCWTKSYPPKPCK	17	14636071	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ481	47117121	P83719		Ranacyclin-T	Rana temporaria	Animalia (Amphibians)	GALRGCWTKSYPPKPCK	17	14636071	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ639	7994714	P82035		Uperin-4.1	Uperoleia inundata 	Animalia (Amphibians)	GVGSFIHKVVSAIKNVA	17		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ641	7994721	P82042		Uperin-3.5	Uperoleia mjobergii 	Animalia (Amphibians)	GVGDLIRKAVSVIKNIV	17		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ642	7994722	P82043		Uperin-3.6	Uperoleia mjobergii 	Animalia (Amphibians)	GVIDAAKKVVNVLKNLP	17		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ655	913452			Antimicrobial peptide , immobilized peptide E17HSA magainin 2 deletion	Synthetic construct		SNMIEGVFAKGFKKASH	17	7726486	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ659				Bombin H7	Bombina orientalis	Animalia (Amphibians)	ILGPILGLVSNALGGLL	17	10333736	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ661				Brevinin-2SKa	Rana sakuraii	Animalia (Amphibians)	FLPVILPVIGKLLNGIL	17	17174009	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ684				Temporin-1SKb	Rana sakuraii	Animalia (Amphibians)	FLPVILPVIGKLLSGIL	17	17174009	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ690	160380514	P0C5X0		Brevinin-1DYe , Dybowskin-2	Rana dybowskii	Animalia (Amphibians)	FLIGMTQGLICLITRKC	17	17688900 , 17698251	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ691	160380513	P0C5W9		Brevinin-1DYd , Dybowskin-1	Rana dybowskii	Animalia (Amphibians)	FLIGMTHGLICLISRKC	17	17688900 17698251	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ723	59800386	P69135		Tachyplesin-1 	Tachypleus gigas	Animalia	KWCFRVCYRGICYRRCR	17	2229025	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ726	913448			Antimicrobial peptide , immobilized peptide E17KGG	Synthetic construct		LKLLKKLLKLLKKLGGK	17	7726486	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1169	193794764	B8QP36		Temporin-1CEa antimicrobial peptide	Rana chensinensis	Animalia (Amphibians)	FVDLKKIANIINSIFGK	17	19341344	Antibacterial, Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ1236	109940031	P81904		Histone H2B 3 	Ictalurus punctatus	Animalia (Pisces)	PDPAKTAPKKKSKKAVT	17	9645227	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ1938	172046669	P85443		Ocellatin-5	Leptodactylus ocellatus	Animalia (Amphibians)	GLLDFLKAAGKGLVTNL	17		Antibacterial		Experimentally Validated
+CAMPSQ2455	395455154	G8YYA6		Antimicrobial peptide 2	Androctonus amoreuxi  	Animalia (Arachnids)	PFSLIPHAIGGLISAIK	17	22484288	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2456	395455153	G8YYA5		Antimicrobial peptide 1	Androctonus amoreuxi  	Animalia (Arachnids)	LFSLIPHAIGGLISAFK	17	22484288	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2786				  CPF-AM1 	Xenopus amieti	Animalia (Amphibians)	GLGSVLGKALKIGANLL	17	20226221	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3492				  Piceain 2 	Picea sitchensis	Viridiplantae	RPRCWIKIKFRCKSLKF	17	21644248	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3493				  Brevinin-1Da 	Rana dalmatina	Animalia (Amphibians)	ILPLLLGKVVCAITKKC	17	15050930	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

@@ -1,0 +1,58 @@
+Found 26 entries according to your query
+AP00570
+Ref, Pleurain-A1 (Pleurain A1, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SIITMTKEAKLPQLWKQIACRLYNTC
+AP00857
+Ref, Catestatin (human CHGA(352-372), SL21, human Cst; a neuropeptide; primates, mammals, animals) 	SSMKLSFRARAYGFRGPGPQL
+AP01373
+1NAP, Thrombocidin-1 (human TC-1, C-terminal 2-residue truncation variant of the CXC cytokine neutrophil-activating peptide-2, NAP-2; CXCL7; CXC family; kinocidins; UCSS1a; 2S=S, primates, mammals, animal 	AELRCMCIKTTSGIHPKNIQSLEVIGKGTHCNQVEVIATLKDGRKICLDPDAPRIKKIVQKKLAGDES
+AP01583
+Ref, Parkerin (UCLL1; frog, amphibians, animals) 	GWANTLKNVAGGLCKITGAA
+AP02258
+Ref, Snakin-Z (plants) 	CARLNCVPKGTSGNTETCPCYASLHSCRKYG
+AP02260
+Ref, Pleurain-a1-thel (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	RILTMTKRVKMPQLYKQIVCRLFKTC
+AP02261
+Ref, Brevifactin (lipopeptides; bacteria; XXL) 	PLGG
+AP02264
+Ref, Pleurain-D1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLSGILKLAFKIPSVLCAVLKNC
+AP02265
+Ref, Pleurain-E1 (UCLL1; frog, amphibians, animals) 	AKAWGIPPHVIPQIVPVRIRPLCGNV
+AP02266
+Ref, Pleurain-G1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GFWDSVKEGLKNAAVTILNKIKCKISECPPA
+AP02267
+Ref, Pleurain-J1 (frog, amphibians, animals; UCLL1) 	FIPGLRRLFATVVPTVVCAINKLPPG
+AP02268
+Ref, Pleurain-M1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDSVKEGLKKVAGQLLDTLKCKISGCTPA
+AP02269
+Ref, Pleurain-R1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	CVHWMTNTARTACIAP
+AP02407
+Ref, Hispidalin (medicinal plants) 	SDYLNNNPLFPRYDIGNVELSTAYRSFANQKAPGRLNQNWALTADYTYR
+AP02458
+Ref, Temporin-TP1 (frogs, amphibians, animals; XXA; UCLL1c. More AMPs?) 	FLPVLGKVIKLVGGLL
+AP02461
+Ref, Brevinin-1TP1 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPGLIKAAVGVGSTILCKITKKC
+AP02462
+Ref, Brevinin-1TP2 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPGLIKAAVGIGSTIFCKISKKC
+AP02463
+Ref, Brevinin-1TP3 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPGLIKVAVGVGSTILCKITKKC
+AP02468
+Ref, Brevinin-1LF1 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPMLAGLAANFLPKIICKITKKC
+AP02472
+Ref, Palustrin-2GN1 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLWNTIKEAGKKFALNLLDKIRCGIAGGCKG
+AP02840
+Ref, Ranacyclin-HB1 (frog, amphibians, animals; 1S=S, XXU, UCSS1a) 	GAPKGCWTKSYPPQPCFGKK
+AP02841
+Ref, Temporin-MS1 (frog, amphibians, animals; UCLL1a) 	FLTGLIGGLMKALGK
+AP02844
+Ref, Nigroain-B-MS1 (frog, amphibians, animals; 1S=S, XXU, UCSS1a) 	CVVSSGWKWNYKIRCKLTGNC
+AP03218
+Ref, Amurin-9KY (frog, amphibians, animals; 1S=S; UCSS1c; XXU; XXA) 	FLPFFAACAITRKC
+AP03231
+Ref, Brevinin-2SSb (frog, amphibians, animals; UCLL1a; BBL; More AMPs?) 	SLFSLIKAGAKFLGKNMLKQGPQYPACKVSKDSENVNWKS
+AP03232
+Ref, Ranatuerin-2SSa (frog, amphibians, animals; XXU; UCSS1; BBL) 	GLISTIWNTASNVAGTLTDSVKCKFKKC
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

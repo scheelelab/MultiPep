@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9	110278918	P0C1M1		Vespid chemotactic peptide 5e	Vespa magnifica 	Animalia (Insects)	FLPIIAKLLGGLL	13	16330062	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ10	110278919	P0C1M2		Vespid chemotactic peptide 5f	Vespa magnifica 	Animalia (Insects)	FLPIPRPILLGLL	13	16330062	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ11	110278920	P0C1M3		Vespid chemotactic peptide 5g	Vespa magnifica 	Animalia (Insects)	FLIIRRPIVLGLL	13	16330062	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ16	110279046	P0C1M5		Mastoparan-like peptide 12b	Vespa magnifica 	Animalia (Insects)	INWKGIAAMKKLL	13	16330062	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ23	110348531	A0SN48		Amolopin-2b	Amolops loloensis	Animalia (Amphibians)	FLPIVGKLLSGLL	13	17000029	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ24	110348533	A0SN50		Amolopin-2c	 Amolops loloensis	Animalia (Amphibians)	LLPIVGKLLSGLL	13	17000029	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ30	11182441	P56917		Temporin-A	Rana temporaria	Animalia (Amphibians)	FLPLIGRVLSGIL	13	9022710	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ31	11182442	P56918		Temporin-C	Rana temporaria	Animalia (Amphibians)	LLPILGNLLNGLL	13	9022710	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ32	11182443	P56919		Temporin-D	Rana temporaria	Animalia (Amphibians)	LLPIVGNLLNSLL	13	9022710	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ33	11182444	P56920		Temporin-E	Rana temporaria	Animalia (Amphibians)	VLPIIGNLLNSLL	13	9022710	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ34	11182445	P56921		Temporin-F	Rana temporaria	Animalia (Amphibians)	FLPLIGKVLSGIL	13	9022710	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ267	2493350	P79874		Temporin-B	Rana temporaria	Animalia (Amphibians)	LLPIVGNLLKSLL	13	9022710	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ522	55976268	P84263		Dahlein-1.2	Litoria dahlii	Animalia (Amphibians)	GLFDIIKNIFSGL	13	11555873	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ523	55976278	P84273		Dahlein-1.1	Litoria dahlii	Animalia (Amphibians)	GLFDIIKNIVSTL	13	11555873	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ788	84468533	Q2PGA8		Temporin-1TGa	Rana tagoi 	Animalia (Amphibians)	FLPILGKLLSGIL	13	12804591 , 16675060	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1057	158706431	A0SPI1		Vespid chemotactic peptide 5h	Vespa magnifica 	Animalia (Insects)	FLPIIGKLLSGLL	13		Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1810	224493409	P0C8U2		Temporin-PTa	Rana picturata	Animalia (Amphibians)	FFGSVLKLIPKIL	13	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2575	288561900	B3VZU2		Aponicin-1CDYa	Rana dybowskii 	Animalia (Amphibians)	FPLALLCKVFKKC	13	19539775	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3848		R4JJN6		  Pantinin-3 	Pandinus imperator	Animalia (Arachnids)	FLSTIWNGIKSLL	13	23624072	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3849				  Hp1090 	Heterometrus petersii	Animalia (Arachnids)	IFKAIWSGIKSLF	13	20950663	Antiviral		Experimentally Validated
+CAMPSQ8207				IN1	Synthetic construct		LLPWKWPWWKWRR	13	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8208				IN2	Synthetic construct		RRPWRWPWWPWRR	13	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8209				IN3	Synthetic construct		RRPWRWPRWPWRR	13	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8210				IN4	Synthetic construct		RLPWRWPRRPWRR	13	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8219				RN7-IN6	Synthetic construct		FLGGLIKWWPWRR	13	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

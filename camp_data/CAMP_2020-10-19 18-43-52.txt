@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ295	25453143	P83239		Pandinin-1 	Pandinus imperator	Animalia (Arachnids)	GKVWDWIKSAAKKIWSSEPVSQLKGQVLNAAKNYVAEKIGATPT	44	11563967	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ298	2612870	O30434		Enterocin P precursor 	Enterococcus faecium 	Bacteria	ATRSYGNGVYCNNSKCWVNWGEAKENIAGIVISGWASGLAGMGH	44	9361419	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ518	548575	P29430		Bacteriocin pediocin PA-1 precursor 	Pediococcus acidilactici 	Bacteria	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	44	1514784	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1012	3122418	P80925		Mundticin	Enterococcus mundtii	Bacteria	KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWSK	43	9733915	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1036				ETD151	Synthetic construct		DKLIGSCVWGAVNYTSNCRAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1037				ETD131	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCQT	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1038				ETD130	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCER	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1039				ETD140	Synthetic construct		NKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1040				ETD150	Synthetic construct		DKLIGSCVWGAVNYTRNCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1041				ETD152	Synthetic construct		DKLIGSCVWGAVNYTSRCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1042				ETD135	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFLNVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1043				ETD132	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFINVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1044				ETD133	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANINCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1045				ETD134	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFLNINCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1046				ETD154	Synthetic construct		DKLIGSCVWLAVNYTSNCNAECKRRGYKGGHCGSFLNVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1047				ETD156	Synthetic construct		DKLIGSCVWLAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ1048				ETD179	Synthetic construct		DKLIGSCVWGAVNYTSNCRAECKRRGYKGGHCGSFLNVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ3095				  Mutacin IV 	Streptococcus mutans UA140	Bacteria	KVSGGEAVAAIGICATASAAIGGLAGATLVTPYCVGTWGLIRSH	44	11133423	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3353				  Pp-AMP1 	Phyllostachys edulis	Viridiplantae	KSCCRSTQARNIYNAPRFAGGSRPLCALGSGCKIVDDKKTPPND	44	15784998	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3871		P86354		Viresin 	Heliothis virescens 	Animalia (Insects)	YDNVNLDEILANDRLLVPYIKCLLDEGKKAPDAKELKEHIRXAL	44	10651803	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ4130	408387562	B3EWQ2		Antimicrobial peptide 2	Taraxacum officinale 	Viridiplantae	GGKCTVDWGGQGGGRRLPSPLFCCYKPTRICYLNQETCETETCP	44	22640720	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4135	487523440	F6KSI8		Panusin	Panulirus argus 	Animalia (Crustaceans (Malacostraca))	EPEPSYVGDCGSNGGSCVSSYCPYGNRLNYFCPLGRTCCRHAYV	44	22885029	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4301	293321595	D5GR55		Gallin protein	Gallus gallus 	Animalia (Aves)	YGLVLKYCPKIGYCSNTCSKTQIWATSHGCKMYCCLPASWKWK	43	20226050	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ4323				Drosomycin	Drosophila melanogaster	Animalia (Insects)	CLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC	43	18212107	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4325				Sakacin P	Lactobacillus sake LTH673	Bacteria	KYYGNGVHCGKHSCTVDWGTAIGNIGNNAAANWATGGNAGWNK	43	8633865	Antibacterial	Gram+ve	Experimentally Validated

@@ -1,0 +1,11 @@
+satpdb15908	GFIFHIIKGLFHAGKMIHGLV	5	anticancer, antibacterial, antiviral, antimicrobial, antifungal,	anti-gram+, anti-gram-	wound healing,	apd2
+satpdb18012	FIHHIIGGLFSVGKHIHSLIHGH	3	antibacterial, toxic, antimicrobial,	hemolytic, anti-gram+, cytotoxic, anti-gram-	wound healing,	apd2, camp, hemolytik
+satpdb18202	VTCDVLSFEAKGIAVNHSACALHCIALRKKGGSCQNGVCVCRN	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic	antibiofilm, wound healing,	apd2, camp, hemolytik, yadamp
+satpdb18459	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	7	anticancer, antibacterial, antiviral, antiparasitic, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, antitrypanosomic, anti-gram-	chemotactic, antibiofilm, wound healing,	apd2, avpdb, baamps, cancerppd, hemolytik, parapep, yadamp
+satpdb19465	FIGAIARLLSKIFGKR	3	antibacterial, antiviral, antimicrobial,	anti-gram+, anti-gram-	wound healing,	apd2
+satpdb23121	FIHHIIGGLFSAGKAIHRLIRRRRR	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, anti-gram-	wound healing,	apd2, camp, hemolytik
+satpdb24196	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	5	antibacterial, antiviral, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	chemotactic, antibiofilm, wound healing,	apd2, baamps, camp, hemolytik, yadamp
+satpdb26278	ATCYCRTGRCATRESLSGVCEISGRLYRLCCR	5	antibacterial, antiviral, antiparasitic, antimicrobial, antifungal,	anti-gram+, anti-gram-	wound healing,	apd2, avpdb, camp, parapep, yadamp
+satpdb27556	ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+	6	anticancer, antibacterial, antiviral, antiparasitic, antimicrobial, antifungal,	anti-gram+, antitrypanosomic, anti-gram-	effector molecule of innate immunity, chemotactic, wound healing, enzyme inhibitor, host defense peptides,	apd2, avpdb, camp, parapep, yadamp
+satpdb28068	GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP	5	antibacterial, antiviral, antiparasitic, antimicrobial, antifungal,	anti-gram+, antitrypanosomic, antileishmania, anti-gram-	chemotactic, wound healing,	apd2, camp, parapep

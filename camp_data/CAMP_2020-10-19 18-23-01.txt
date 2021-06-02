@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ26	110815958	P0C1R0		Polybia-CP 	Polybia paulista	Animalia (Insects)	ILGTILGLLKSL	12	16129513	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ120	13431930	P82651		Tigerinin-1	Hoplobatrachus tigerinus 	Animalia (Amphibians)	FCTMIPIPRCY	11	11031261	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ123	13431933	P82654		Tigerinin-4	Hoplobatrachus tigerinus 	Animalia (Amphibians)	RVCYAIPLPIC	11	11031261	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ225	19924221	P56923		Temporin-K	Rana temporaria	Animalia (Amphibians)	LLPNLLKSLL	10	9022710	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ320	28201906	Q8MTX2		Cytotoxic linear peptide IsCT2 	Opisthacanthus madagascariensis 	Animalia (Arachnids)	IFGAIWNGIKS	11	12054688	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ736	193805999	P85870		Decoralin	Oreumenes decoratus	Animalia (Insects)	SLLSLIRKLIT	11	17981364	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ965	159163667	P02788	1B0L,1BKA,1CB6,1DSN,1EH3,1FCK,1H43,1H44,1H45,1HSE,1L5T,1LCF,1LCT,1LFG,1LFH,1LFI,,1N76,1SQY,1U62,1VFD,1VFE,1XV4,1XV7,1Z6V,1Z6W,2BJJ,2GMC,2GMD,2PMS	Human lactoferricin, HLP2	Homo sapiens	Animalia (Mammals)	FQWQRNMRKVR	11	9596699, 15155221	Antibacterial		Experimentally Validated
+CAMPSQ1049				Gratisin analogue	Synthetic construct		VXLFPKKPFLXV	12	18305357	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2574	363805424	C6FX52	2ZJP	Nosiheptide precursor	Streptomyces actuosus  	Bacteria	CTTCECCCSCS	11	19678698	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2577	288561896	B5A9S9		Dybowskin-1CDYa	Rana dybowskii 	Animalia (Amphibians)	IPLPLGYFAKKT	12	19539775	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3262				  Substance P 	Homo sapiens	Animalia (Mammals)	RPKPQQFFGLM	11	12074933	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3348				  Myxinidin 	Myxine glutinosa	Animalia (Hyperotreti)	GIHDILKYGKPS	12	19330556	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3514				  Tn-AFP 1 	Trapa natans	Viridiplantae	LMCTHPLDCSN	11	21736910	Antifungal		Experimentally Validated
+CAMPSQ3525				  PGLa-H 	Xenopus laevis	Animalia (Amphibians)	KIAKVALKAL	10	22014884	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3606				  Temporin-Rb 	Rana ridibunda	Animalia (Amphibians)	FLPVLAGVLSRA	12	21956830	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3869		P83328		40S ribosomal protein S30 	Oncorhynchus mykiss 	Animalia (Pisces)	KVHGSLARAGK	11	12147245	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3927		P86316		Big defensin 	Venerupis philippinarum 	Animalia (Molluscs (Bivalvia))	AVPDVAFNAYG	11	14673509	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4141	476007164	B3EWC5		Antimicrobial protein BL-A60	Brevibacillus laterosporus 	Bacteria	LYKLVKVVLNM	11	22244810	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4322				HLP6	Homo sapiens	Animalia (Mammals)	FQWQRNPRKVR	11	9596699	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8157		P0DMF1		Peptide Ctry2146	Chaerilus tryznai 	Animalia (Arachnids)	GIADILKGLLG	11	23415044	Antiviral		Experimentally Validated
+CAMPSQ8158		P0DMG0		Peptide Ctri9819	Chaerilus tricostatus 	Animalia (Arachnids)	NRILPTLIGPL	11	23415044	Antiviral		Experimentally Validated
+CAMPSQ8161		P0DMF2		Peptide Ctry2346	Chaerilus tryznai 	Animalia (Arachnids)	LLGGLLQSLL	10	23415044	Antiviral		Experimentally Validated
+CAMPSQ8168		P0DMF4		Peptide Ctry2606	Chaerilus tryznai 	Animalia (Arachnids)	GILDAITGLL	10	23415044	Antiviral		Experimentally Validated
+CAMPSQ8172		P0DMF6		Peptide Ctri9293	Chaerilus tricostatus 	Animalia (Arachnids)	GILDALTGIL	10	23415044	Antiviral		Experimentally Validated
+CAMPSQ8187				Tet213	Synthetic construct		KRWWKWWRRC	10	25785171	Antibacterial	Gram+ve	Experimentally Validated

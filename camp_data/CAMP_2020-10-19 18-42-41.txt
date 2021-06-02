@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8	109940059, 298776	P46169		Beta-defensin 11 precursor 	Bos taurus 	Animalia (Mammals)	GPLSCRRNGGVCIPIRCPGPMRQIGTCFGRPVKCCRSW	38	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ247	22095935	P83248		Oxyopinin-2a 	Oxyopes kitabensis 	Animalia (Arachnids)	GKFSVFGKILRSIAKVFKGVGKVRKQFKTASDLDKNQ	37	11976325	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ248	22095936	P83249		Oxyopinin-2b 	Oxyopes kitabensis 	Animalia (Arachnids)	GKFSGFAKILKSIAKFFKGVGKVRKQFKEASDLDKNQ	37	11976325	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ249	22095937	P83250		Oxyopinin-2c 	Oxyopes kitabensis 	Animalia (Arachnids)	GKLSGISKVLRAIAKFFKGVGKARKQFKEASDLDKNQ	37	11976325	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ250	22095938	P83251		Oxyopinin-2d 	Oxyopes kitabensis 	Animalia (Arachnids)	GKFSVFSKILRSIAKVFKGVGKVRKQFKTASDLDKNQ	37	11976325	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ565	6226952	P81418	1DKC	Antimicrobial peptide 1	Phytolacca americana	Viridiplantae	AGCIKNGGRCNASAGPPYCCSSYCFQIAGQSYGVCKNR	38	10759497	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ762	84027829	P84645	1R1F	Palicourein	Palicourea condensata	Viridiplantae	GDPTFCGETCRVIPVCTYSAALGCTCDDRSDGLCKRN	37	11430013	Antiviral		Experimentally Validated
+CAMPSQ786				HFIAP-1	Myxine glutinosa	Animalia (Pisces)	GFFKKAWRKVKHAGRRVLDTAKGVGRHYVNNWLNRYRZ	38	15019197	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ812	51039035	Q68KS5		Hinnavin II	Artogeia rapae	Animalia (Insects)	KWKIFKKIEHMGQNIRDGLIKAGPAVQVVGQAATIYKG	38	24272339	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ994	110560103	A6MAW5		Esculentin-2-OG10	Rana grahami	Animalia (Amphibians)	GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	37	16621155, 17272268	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1562	41019460	P83429		Spheniscin-1	Aptenodytes patagonicus	Animalia (Aves)	SFGLCRLRRGFCAHGRCRFPSIPIGRCSRFVQCCRRVW	38		Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2776		P13487	2CRD	  Charybdotoxin 	Leiurus quinquestriatus hebraeus	Animalia (Arachnids)	EFTNVSCTTSKECWSVCQRLHNTSRGKCMNKKCRCYS	37	15118082	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3383				  CRS4C-1a 	Mus musculus	Animalia (Mammals)	LQDAALGWGRRCPQCPRCPSCPSCPRCPRCPRCKCNPK	38	15235601	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3573				  Esculentin-2-OA1 	Odorrana andersonii	Animalia (Amphibians)	GIFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	37	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3574				  Esculentin-2-OA2 	Odorrana andersonii	Animalia (Amphibians)	GLFTLIKGAAKLIGKTTAKEAGKTGKLEMACKITNQC	37	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3577				  Esculentin-2-OR2 	Odorrana rotodora	Animalia (Amphibians)	GVFTLIKGATQLIGKTLGKEVGKTGLELMACKITKQC	37	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3578				  Esculentin-2-OR3 	Odorrana rotodora	Animalia (Amphibians)	GVFTLLKGATQLIGKTLGKELGKTGLELMACKITNQC	37	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3579				  Esculentin-2-OR4 	Odorrana rotodora	Animalia (Amphibians)	GVFTLIKGATQLIGKTLGKELGKTGLELMACKITEQC	37	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3580				  Esculentin-2-OR5 	Odorrana rotodora	Animalia (Amphibians)	GVFTLIKGATQLIGKTLGKELGKTGLEIMACKITKQC	37	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3850				  cod beta defensin 	Gadus morhua	Animalia (Pisces)	WSCPTLSGVCRKVCLPTEMFFGPLGCGKEFQCCVSHFF	38	23638029	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3877		P85008		Defensin-1 	Crassostrea virginica 	Animalia (Molluscs (Bivalvia))	GFGCPWNRYQCHSHCRSIGRLGGYCAGSLRLTCTCYRS	38	16297885	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3882		P85876		Bacteriocin enterocin-M 	Enterococcus faecium 	Bacteria	ATRSYGNGVYCNNSKCWNVGEAKENIAGIVISGKASGL	38		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4129	408387560	B3EWQ1		Antimicrobial peptide 1	Taraxacum officinale 	Viridiplantae	VAKCTEESGGKYFVFCCYKPTRICYMNEQKCESTCIGK	38	22640720	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4341				Enterocin X beta	Enterococcus faecium KU-B5	Bacteria	IAPIIVAGLGYLVKDAWDHSDQIISGFKKGWNGGRRK	37	20418437	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ8189				HBc147-183	Synthetic construct		TVVRRRGRSPRRRTPSPRRRRSQSPRRRRSQSRESQC	37	23785287	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

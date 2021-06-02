@@ -1,0 +1,30 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ68	1169363	P41964	1MYN	Drosomycin 	Drosophila melanogaster	Animalia (Insects)	DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC	44	7806546	Antifungal		Experimentally Validated
+CAMPSQ162	156630495	P85213		Defensin	Galleria mellonella	Animalia (Insects)	DTLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFLNVNCWCEE	44	17194500	Antifungal		Experimentally Validated
+CAMPSQ163	156630496	P85215		Defensin-like peptide 	Galleria mellonella	Animalia (Insects)	DKLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFWNVNCWCEE	44	17194500	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ313	28201847	P83313		Opistoporin-1	Opistophthalmus carinatus	Animalia (Arachnids)	GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNLVAEKIGATPS	44	12354111	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ623	74834657	P84156	1OZZ,1P00,1P0A	Defensin ARD1	Archaeoprepona demophon 	Animalia (Insects)	DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally Validated
+CAMPSQ729	159162451	P81544	1I2U,1I2V	Heliomicin	Heliothis virescens	Animalia (Insects)	DKLIGSCVWGAVNYTSDCNGECKRRGYKGGHCGSFANVNCWCET	44	10092609	Antifungal		Experimentally Validated
+CAMPSQ816	488292376	Q27HG2		Bacteriocin T8	Enterococcus faecium T8	Bacteria	ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPRR	44	Reference: Yamada, S., Komori, T., Imaseki, H (1997) Plant Physiol; 115:314.	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ820	21702214	Q8KMU4		Enterocin EJ97 	Enterococcus faecalis	Bacteria	MLAKIKAMIKKFPNPYTLAAKLTTYEINWYKQQYGRYPWERPVA	44	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.
+
+
+	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ821				Enterocin RJ-11	Enterococcus faecalis RJ-11	Bacteria	APAGLVAKFGRPIVKKYYKQIMQFIGEGSAINKIIPWIARMWRT	44	Reference: Wang, C, Sun Z, Liu Y, Zhang X, Xu G (2007) A novel antimicrobial vermipeptide family from earthworm Eisenia fetida. Eur. J Soil Biol 2007; 43:S217-S134.	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ823	3087780	Q7B2P3		Enterocin L50A	Enterococcus faecium 	Bacteria	MGAIAKLVAKFGWPIVKKYYKQIMQFIGEGWAINKIIEWIKKHI	44	Reference: Liao W, Ma D, Wang R, Han Z, Shao T, Li H, Liu S (2009) mRNA Cloning, Evolutionary Analysis and Biological Characterization of Duck Avian Beta-defensin 10. Acta Veterinaria et Zootechnica Sinica, 2009, 40(9): 1320-1326.
+	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ826	123159786	Q0Z8B6		Bacteriocin hiracin-JM79	Enterococcus hirae	Bacteria	ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPRR	44	17326750	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ880	74849791	Q9U8X3	1CIX	Tachystatin-A2	Tachypleus tridentatus 	Animalia	YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRY	44	10473569 , 11959852	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ925	417986	P33044		Antifungal protein R	Hordeum vulgare	Viridiplantae	ATITVVNRCSYTVWPGALPGGGVRLDPGQRWALNMPAGTAGAAV	44	1936240	Antifungal		Experimentally Validated
+CAMPSQ930	150387843	P0C1Z7		Tachystatin-A 1	Tachypleus tridentatus 	Animalia	YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRF	44	10473569	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ982	47117875	P80569		Bacteriocin piscicolin-126	Carnobacterium maltaromaticum	Bacteria	KYYGNGVSCNKNGCTVDWSKAIGIIGNNAAANLTTGGAAGWNKG	44	8702282	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1145	263406454	P85966	2LB7	WAMP-1a	Triticum kiharae	Viridiplantae	AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC	44	19583772	Antifungal		Experimentally Validated
+CAMPSQ2147	121140	P11699		Antibacterial protein 3	Staphylococcus haemolyticus	Bacteria	MSKLVQAISDAVQAQQNQDWAKLGTSIVGIVENGVGILGKLFGF	44		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2148	121139	P11698		Antibacterial protein 2	Staphylococcus haemolyticus	Bacteria	MEKIANAVKSAIEAGQNQDWTKLGTSILDIVSNGVTELSKIFGF	44		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2149	121138	P11697		Antibacterial protein1	Staphylococcus haemolyticus	Bacteria	MQKLAEAIAAAVSAGQDKDWGKMGTSIVGIVENGITVLGKIFGF	44		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2741				  hBD-27 	Homo sapiens	Animalia (Mammals)	QLKKCWNNYVQGHCRKICRVNEVPEALCENGRYCCLNIKELEAC	44	19373462	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2758	223331	P80930		  eNAP-1 	Equus caballus 	Animalia (Mammals)	DVQCGEGHFCHDQTCCRASQGGACCPYSQGVCCADQRHCCPVGF	44	1639474	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2912				  Coagulin 	Bacillus coagulans I-4	Bacteria	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC	44	9721655	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3127				  Cy-AMP1 	Cycas revoluta	Viridiplantae	KGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG	44	18778743	Antibacterial		Experimentally Validated
+CAMPSQ3199				  Piscidin 4 	Morone chrysops x Morone saxatilis	Animalia (Pisces)	FFRHLFRGAKAIFRGARQGWRAHKVVSRYRNRDVPETDNNQEEP	44	19266617	Antibacterial		Experimentally Validated
+CAMPSQ3969		P69240		Cysteine-rich antifungal protein 1 (Bn-AFP1)	Brassica napus 	Viridiplantae	QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHK	44	8422949	Antifungal		Experimentally Validated

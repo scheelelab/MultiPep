@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ131	1352227	P49112		Neutrophil cationic peptide 2 precursor 	Cavia porcellus	Animalia (Mammals)	RRCICTTRTCRFPYRRLGTCLFQNRVYTFCC	31	8173076	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ194	1706455	P80282		Dermaseptin B2 	Phyllomedusa bicolor	Animalia (Amphibians)	AMWKDVLKKIGTVALHAGKAALGAVADTISQ	31	8306981	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ204	17433720	P56872		Cyclopsychotride-A 	Psychotria longipes 	Viridiplantae	SIPCGESCVFIPCTVTALLGCSCKSKVCYKN	31	10430870	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ205	17433721	P56879	2ERI	Circulin-B 	Chassalia parviflora 	Viridiplantae	GVIPCGESCVFIPCISTLLGCSCKNKVCYRN	31	10430870	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ394	3915043	O18494		Styelin-C	Styela clava	Animalia	GWFGKAFRSVSNFYKKHKTYIHAGLSAATLL	31	9257708	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ420	41016986	P83640		Dermadistinctin-M 	Phyllomedusa distincta	Animalia (Amphibians)	ALWKTMLKKLGTMALHAGKAAFGAAADTISQ	31	10477123	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ425	41017605	P82742		Ranatuerin-2	Rana catesbeiana	Animalia (Amphibians)	GLFLDTLKGAAKDVAGKLEGLKCKITGCKLP	31	9784389	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ439	41017619	P82878		Ranatuerin-2Ca	Rana clamitans	Animalia (Amphibians)	GLFLDTLKGAAKDVAGKLLEGLKCKIAGCKP	31	10822101	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ673	3913451	P81466		Neutrophil defensin 2 	Mesocricetus auratus	Animalia (Mammals)	CFCKRPVCDSGETQIGYCRLGNTFYRLCCRQ	31	8890190	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ956	152032551	P85175	2B38	Kalata-B8	Oldenlandia affinis 	Viridiplantae	GSVLNCGETCLLGTCYTTGCTCNKYRVCTKD	31	16207177	Antiviral		Experimentally Validated
+CAMPSQ2206	254808355	P86047	1W9N	Lantibiotic epilancin 15X	Staphylococcus epidermidis 	Bacteria	SASIVKTTIKASKKLCRGFTLTCGCHFTGKK	31		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2781				  Kaliocin-1 	Synthetic construct		FFSASCVPGADKGQFPNLCRLCAGTGENKCA	31	12693969	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3000		P84522	1ZA8	  Vhl-1 	Viola hederacea	Viridiplantae	SISCGESCAMISFCFTEVIGCSCKNKVCYLN	31	15824119	Antiviral		Experimentally Validated
+CAMPSQ3003				  Circulin D 	Chassalia parvifolia	Viridiplantae	KIPCGESCVWIPCVTSIFNCKCKENKVCYHD	31	10691702	Antiviral		Experimentally Validated
+CAMPSQ3309				  Cecropin P2 	Ascaris suum	Animalia (Chromadorea)	SWLSKTYKKLENSAKKRISEGIAIAIQGGPR	31	11772394	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3310				  Cecropin P3 	Ascaris suum	Animalia (Chromadorea)	SWLSKTAKKLENSAKKRISEGIAIAIKGGSR	31	11772394	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3311				  Cecropin P4 	Ascaris suum	Animalia (Chromadorea)	SWLSKTYKKLENSAKKRISEGVAIAILGGLR	31	11772394	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3694				  hGAPDH	Homo sapiens	Animalia (Mammals)	GKVKVGVNGFGRIGRLVTRAAFNSGKVDIVA	31	22832495	Antibacterial, Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ3704				  pxCECA1  	Plutella xylostella	Animalia (Insects)	KPFKKLEKVGRNIRNGIIRYNGPAVAVIGQA	31	22258643	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3725				  Datucin 	Datura stramonium	Viridiplantae	TFPKCAPTRPPGPKPCDINNFKSKFWHIWRA	31	23193597	Antifungal		Experimentally Validated
+CAMPSQ3812				  EC-proHep3 	Epinephelus coioides	Animalia (Pisces)	APAKCTPYCYPTRDGVFCGVRCDFQHHHHHH	31	23291752	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3822				  Rattusin 	Rattus norvegicus	Animalia (Mammals)	LRVRRTLQCSCRRVCRNTCSCIRLSRSTYAS	31	23380721	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4018		B5L1I8		Pleurain-G1 antimicrobial peptide	Rana pleuraden 	Animalia (Amphibians)	GFWDSVKEGLKNAAVTILNKIKCKISECPPA	31	19028675	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4020		B5L1L3		Pleurain-M1 antimicrobial peptide	Rana pleuraden 	Animalia (Amphibians)	GLLDSVKEGLKKVAGQLLDTLKCKISGCTPA	31	19028675	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4028	426018835	B3EWR4		Antimicrobial peptide 2	Echinochloa crus-galli 	Viridiplantae	DRCSQQCQHHRDPDRKQQCMRECRRHQGRSD	31	22940285	Antifungal		Experimentally Validated

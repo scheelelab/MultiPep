@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ49	115502148	P84962		Bacteriocin divergicin M35	Carnobacterium divergens 	Bacteria	TKYYGNGVYCNSKKCWVDWGTAQGCIDVVIGQLGGGIPGKGKC	43	15541799	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ129	1352070	P46164		Beta-defensin 6 	 Bos taurus 	Animalia (Mammals)	QGVRNHVTCRIYGGFCVPIRCPGRTRQIGTCFGRPVKCCRRW	42	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ164	156630949	P85211		Lebocin-like anionic peptide 1	Galleria mellonella	Animalia (Insects)	EADEPLWLYKGDNIERAPTTADHPILPSIIDDVKLDPNRRYA	42	17194500	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ166	156633554	P85212		Proline-rich antimicrobial peptide 2 	Galleria mellonella	Animalia (Insects)	EIRLPEPFRFPSPTVPKPIDIDPILPHPWSPRQTYPIIARRS	42	17194500	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ268	2493576	Q27023		Tenecin-1 	Tenebrio molitor	Animalia (Insects)	VTCDILSVEAKGVKLNDAACAAHCLFRGRSGGYCNGKRVCVCR	43	7798186	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ483	47523178	O62697		Beta-defensin 1	Sus scrofa	Animalia (Mammals)	KNIGNSVSCLRNKGVCMPGKCAPKMKQIGTCGMPQVKCCKRK	42	16552064	Antibacterial		Experimentally Validated
+CAMPSQ535	584889	P38579		Bacteriocin carnobacteriocin BM1 	Carnobacterium maltaromaticum	Bacteria	AISYGNGVYCNKEKCWVNKAENKQAITGIVIGGWASSLAGMGH	43	8163526	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ537	585042	P37364		Defensin	Pyrrhocoris apterus 	Animalia (Insects)	ATCDILSFQSQWVTPNHAGCALHCVIKGYKGGQCKITVCHCRR	43	8002963	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ645	82126776	Q6QLR3		Gallinacin-6 	Gallus gallus	Animalia (Aves)	SPIHACRYQRGVCIPGPCRWPYYRVGSCGSGLKSCCVRNRWA	42	17346671	Antibacterial		Experimentally Validated
+CAMPSQ801	13345563	Q9AGM4		Listeriocin 743A	Listeria innocua	Bacteria	KSYGNGVQCNKKKCWVDWGSAISTIGNNSAANWATGGAAGWKS	43	22611416	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ802				Sakacin 5X	Lactobacillus sakei 5	Bacteria	KYYGNGLSCNKSGCSVDWSKAISIIGNNAVANLTTGGAAGWKS	43	15638766	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ805	498407133	Q47778		Bacteriocin 31	Enterococcus faecalis YI717	Bacteria	ATYYGNGLYCNKQKCWVDWNKASREIGKIIVNGWVQHGPWAPR	43	8655558	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ814	23503490	Q8GR39		Enterocin SE-K4 	Enterococcus faecalis	Bacteria	ATYYGNGVYCNKQKCWVDWSRARSEIIDRGVKAYVNGFTKVLG	43	16401077	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ822	3087781	Q7B2P2		Enterocin L50B	Enterococcus faecium 	Bacteria	MGAIAKLVTKFGWPLIKKFYKQIMQFIGQGWTIDQIEKWLKRH	43	Reference: Wang, C, Sun Z, Liu Y, Zhang X, Xu G (2007) A novel antimicrobial vermipeptide family from earthworm Eisenia fetida. Eur. J Soil Biol 2007; 43:S217-S134.	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ907	47117252	Q8T9R8	1ZRX	Stomoxyn	Stomoxys calcitrans	Animalia (Insects)	RGFRKHFNKLVKKVKHTISETAHVAKDTAVIAGSGAAVVAAT	42	12372834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ929	150387844	P0C1Z8	2DCV	Tachystatin-B1	Tachypleus tridentatus 	Animalia	YVSCLFRGARCRVYSGRSCCFGYYCRRDFPGSIFGTCSRRNF	42	10473569	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ975	145566914	P85116		Ostricacin-4	Struthio camelus	Animalia (Aves)	LPVNEAQCRQVGGYCGLRICNFPSRFLGLCTRNHPCCSRVWV	42	16459058	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2077	85540943	Q30KQ6		Beta-defensin114	Homo sapiens 	Animalia (Mammals)	DRCTKRYGRCKRDCLESEKQIDICSLPRKICCTEKLYEEDDMF	43		Antibacterial		Experimentally Validated
+CAMPSQ2713		P46161		  Bovine Beta-defensin 3  	Bos taurus	Animalia (Mammals)	QGVRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW	42	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2714		P46163		  Bovine Beta-defensin 5  	Bos taurus	Animalia (Mammals)	QVVRNPQSCRWNMGVCIPISCPGNMRQIGTCFGPRVPCCRRW	42	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2740				  hBD-26 	Homo sapiens	Animalia (Mammals)	WYVKKCLNDVGICKKKCKPEEMHVKNGWAMCGKGRDCCVPAD	42	19373462	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2818		P35618	1og7	  Sakacin P/ Sakacin 674 	Lactobacillus sake Lb674	Bacteria	KYYGNGVHCGKHSCTVDWGTAIGNIGNNAAANWATGGNAGWNK	43	8138128	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3193				  Gallerimycin 	Galleria mellonella	Animalia (Insects)	GVTITVKPPFPGCVFYECIANCRSRGYKNGGYCTINGCQCLR	42	12811766	Antifungal		Experimentally Validated
+CAMPSQ3315				  PP113 	Pteromalus puparum	Animalia (Insects)	GKWGWIYITILFADVGGFKSSRHPEERRVQERRFKRITRGPD	42	19950104	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4298	296005969			Defensin 2-2, partial	Synthetic construct		FSCDVLSFQSKWVSPNHSACAVRCLAQRRKGGKCKNGDCVCR	42	20097222	Antibacterial	Gram+ve	Experimentally Validated

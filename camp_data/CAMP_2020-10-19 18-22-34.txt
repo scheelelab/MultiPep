@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ6	109892826	P84866		Pleurostatin	Pleurotus ostreatus 	Fungi	VRPYLVAF	8	15941607	Antifungal		Experimentally Validated
+CAMPSQ497	51315827	P84071		Ascalin	 Allium cepa var. aggregatum	Viridiplantae	YQCGQGG	7	12126728	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ665	20138866	O18330		Jellein-1 	Apis mellifera	Animalia (Insects)	PFKISIHL	8	15203237	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ834	75347354	Q47505	3H5R,3H9G,3H9J,3H9Q	Microcin C7	Escherichia coli	Bacteria	MRTGNAN	7	2861788	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1091	223635095	P86168		Colutellin-A	Colletotrichum dematium	Fungi	VISIIPV	7	18599825	Antifungal		Experimentally Validated
+CAMPSQ1170				E07LKK	Synthetic construct		LKLLKKL	7	7726486	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2153	82592653	P84703		Bacteriocin	Rhizobium leguminosarum bv. viciae	Bacteria	ASILTNAS	8		Antibacterial		Experimentally Validated
+CAMPSQ2460	308191396	P86707		Antimicrobial peptide 3	Cocos nucifera	Viridiplantae	CSYTMEA	7	19111587	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2461	308191394	P86705		Antimicrobial peptide 1	Cocos nucifera	Viridiplantae	VAGRAQGM	8	19111587	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2585	357580420	B3A0L8		Antimicrobial protein 2 	Scylla serrata	Animalia (Crustaceans (Malacostraca))	SPGGA	5		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2731				  PAF26 	Synthetic construct		RKKWFW	6	11976121	Antifungal, Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2791				Anionic peptide SAAP 	Pasteurella haemolytica	Bacteria	DDDDDD	6	8552650	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2802				Combi-2 	Synthetic construct		FRWWHR	6	15853943	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3110				  Jelleine-I 	Apis mellifera	Animalia (Insects)	PFKLSLHL	8	15203237	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3121				  Microcin 7 	Escherichia coli	Bacteria	MRTGNAD	7	2861788	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3186				  PL-101 	Styela plicata	Animalia (Ascidiacea)	FFHLHFHY	8	12569105	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3219		P84182		  EP5-1 	Eisenia foetida 	Animalia (Annelids (Clitellata))	ACSAG	5	15253156	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3440				  JCpep7 	Jatropha curcas	Viridiplantae	KVFLGLK	7	21268582	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3889		P36960		Lantibiotic carnocin-UI49 	Carnobacterium sp. 	Bacteria	GSEIQPR	7		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4157	425936510	B3EWR9		Oligoventin	Phoneutria nigriventer 	Animalia (Arachnids)	QPFSLERW	8		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4610	165760956			Chain A, Cyclic Pentapeptide Which Inhibits Hantavirus. 	Synthetic construct		CPFVC	5	17441904	Antiviral		Experimentally Validated
+CAMPSQ8203				KCM11	Synthetic construct		TWWRWW	6	19734717	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8204				KCM12	Synthetic construct		KWRWIW	6	19734717	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8205				KCM21	Synthetic construct		KWWWRW	6	19734717	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8206				KRS22	Synthetic construct		WRWFIH	6	19734717	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

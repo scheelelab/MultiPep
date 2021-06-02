@@ -1,0 +1,27 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3	108533			Bactenecin 5 - bovine	Bos taurus 	Animalia (Mammals)	RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPIRPPFRPPLRFP	42	2229048	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ66	1168639	P46171		Beta-defensin 13 . BNDB-13	Bos taurus 	Animalia (Mammals)	SGISGPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW	42	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ334	298768	P46161		Beta-defensin 3 , BNBD-3	Bos taurus 	Animalia (Mammals)	EGVRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW	42	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ337	298771			Beta-defensin 6 , BNBD-6	Bos taurus 	Animalia (Mammals)	EGVRNHVTCRIYGGFCVPIRCPGRTRQIGTCFGRPVKCCRRW	42	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ486	4826692	O15263	1E4Q,1FD3,1FD4,1FQQ	Human beta-defensin-2 WT hBD - 2	Homo sapiens	Animalia (Mammals)	GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP	41	9727055	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ488	49169806	Q6IV23		Beta-defensin 8 , gallinacin - 8	Gallus gallus	Animalia (Aves)	NNEAQCEQAGGICSKDHCFHLHTRAFGHCQRGVPCCRTVYD	41	17483936	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ592	71152326	Q7TNV7		Beta-defensin 38 	Mus musculus	Animalia (Mammals)	IGPDTKKCVQRKNACHYFECPWLYYSVGTCYKGKGKCCQKRY	42	14718547	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ594	71796859	Q0R5P1		Cathelicidin-related antimicrobial peptide	Chinchilla lanigera 	Animalia (Mammals)	AKRGGFWRKVGRKLGKGIRKIGKTIKSQLGKFRPRLQYRYQF	42	17113647	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ827				Penocin A	Pediococcus pentosaceus ATCC 25745	Bacteria	KYYGNGVHCGKKTCYVDWGQATASIGKIIVNGWTQHGPWAHR	42	16735728	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ933	71152312	Q91VD6		Beta-defensin 6	Mus musculus	Animalia (Mammals)	QLINSPVTCMSYGGSCQRSCNGGFRLGGHCGHPKIRCCRRK	41		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ989	145566912	P85114		Ostricacin-2	Struthio camelus	Animalia (Aves)	APGNKAECEREKGYCGFLKCSFPFVVSGKCSRFFFCCKNIW	41	16459058	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1027	159163502	Q7YZB4	1X22	SI Moricin	Bean golden mosaic virus-[Brazil]	Virus	GKIPVKAIKKAGAAIGKGLRAINIASTAHDVYSFFKPKHKKK	42	16115804	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1031	189095921	P84818	2JR3	Pelovaterin	Pelodiscus sinensis	Animalia	DDTPSSRCGSGGWGPCLPIVDLLCIVHVTVGCSGGFGCCRIG	42	18341335	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1032	170784960	Q86MA1	2JR8	Manduca Sexta Moricin	Manduca sexta	Animalia (Insects)	GKIPVKAIKQAGKVIGKGLRAINIAGTTHDVVSFFRPKKKKH	42	18265434	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1074	150387845	P0C1Z9	2DCW	Tachystatin-B2	Tachypleus tridentatus 	Animalia	YITCLFRGARCRVYSGRSCCFGYYCRRDFPGSIFGTCSRRNF	42	10473569	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1090	20138941, 1246017	P82818, O96059	1KV4	Moricin-1, Moricin-2	Bombyx mori	Animalia (Insects)	AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKH	42	8530391	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1252	25091528	P83416		VIRE_HELVI Virescein	Heliothis virescens	Animalia (Insects)	GKIPIGAIKKAGKAIGKGLRAVNIASTAHDVYTFFKPKKRH	41		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1657	21465926	P82818	1KV4	Moricin	Bombyx mori	Animalia (Insects)	AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKA	42	11997013	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3328				  Duck AvBD9 	Anas platyrhynchos	Animalia (Aves)	ADTLACRQSHQSCSFVACRAPSVDIGTCRGGKLKCCKWAPSS	42	Reference: Liao W, Ma D, Wang R, Han Z, Shao T, Li H, Liu S (2009) mRNA Cloning, Evolutionary Analysis and Biological Characterization of Duck Avian Beta-defensin 10. Acta Veterinaria et Zootechnica Sinica, 2009, 40(9): 1320-1326.
+	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3356				  cBD-1 	Canis lupus	Animalia (Mammals)	KCWNLRGSCREKCIKNEKLYIFCTSGKLCCLKPKFQPNMLQR	42	15845463	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3402		P01475	1Z99	  Crotamine 	Crotalus durissus terrificus	Animalia (Reptiles)	YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG	42	19706485	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3419				  Beta-amyloid peptide(1-42) 	Homo sapiens	Animalia (Mammals)	DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA	42	20209079	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4128	408387563	B3EWQ3		Antimicrobial peptide 3	Taraxacum officinale 	Viridiplantae	ANKCIIDCMKVKTTCGDECKGAGFKTGGCALPPDIMKCCHNC	42	22640720	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4324				Sakacin A	Lactobacillus sake Lb 706	Bacteria	ARSYGNGVYCNNKKCWVNRGEATQSIIGGMISGWASGKAGM	41	8633865	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ8125		W0FEW1		Beta-defensin CFDB-1	Cynops fudingensis 	Animalia (Amphibians)	FAVWGCADYRGYCRAACFAFEYSLGPKGCTEGYVCCVPNTF	41	24386139	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

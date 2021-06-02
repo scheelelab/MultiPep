@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ125	134859	P08375		Sarcotoxin-1A 	Sarcophaga peregrina	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATAR	39	3888997	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ126	134861	P08376		Sarcotoxin-1B	Sarcophaga peregrina	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQVIGVAQQAANVAATAR	39	3888997	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ127	134862	P08377		Sarcotoxin-1C	Sarcophaga peregrina	Animalia (Insects)	GWLRKIGKKIERVGQHTRDATIQVLGIAQQAANVAATAR	39	3888997	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ146	146737990			Moricin-like peptide A	Galleria mellonella	Animalia (Insects)	KVNVNAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH	39	18207081	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ161	156630481	P85210		Cecropin-D-like peptide	Galleria mellonella	Animalia (Insects)	ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD	39	17194500	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ200	1709757	P80054		Antibacterial protein PR-39 	Sus scrofa	Animalia (Mammals)	RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPRFP	39	1765098	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ275	2494049	Q28880		Lingual antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	VRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK	40	7886453	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ291	25091208	P83411		Spodomicin	Spodoptera littoralis 	Animalia (Insects)	VHVGPCDQVCSRIDPEKDECCRAHGYRGHSSCYYGRMECY	40		Antifungal		Experimentally Validated
+CAMPSQ292	25452970	P83171		Ginkbilobin 	Ginkgo biloba	Viridiplantae	ANTAFVSSAHNTQKIPAGAPFNRNLRAMLADLRQNAAFAG	40	11118300	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ381	3912960	P81463		Abaecin	Bombus pascuorum 	Animalia (Insects)	FVPYNPPRPGQSKPFPSFPGHGPFNPKIQWPYPLPNPGH	39	9219367	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ546	5921174	P46167		Beta-defensin 9 , BNDB-9	Bos taurus 	Animalia (Mammals)	QGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLAPQIKCCR	40	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ664	1093740	P80389		Heterophil peptide CHP1	Gallus gallus	Animalia (Aves)	GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIR	39	7964174	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ677	98960796	Q1JV79		Lactococcin Q alpha	 Lactococcus lactis QU 4	Bacteria	SIWGDIGQGVGKAAYWVGKAMGNMSDVNQASRINRKKKH	39	16672481	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ694	110560620	A6MBN8		Odorranain-k1 antimicrobial peptide 	Odorrana grahami	Animalia (Amphibians)	GLFTLIKGAAKLIGKTVPKKQARLGMNLWLVKLPTNVKT	39	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ728	3818537	O15263	1E4Q,1FD3,1FD4,1FQQ	Human beta defensin 2	Homo sapiens	Animalia (Mammals)	DPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKPP	39	10603376	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ792				CLEAP-2	Gallus gallus	Animalia (Aves)	MTPFWRGVSLRPVGASCRDNSECITMLCRKNRCFLRTASE	40	15557621	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ809				Phormicin peptide B	Phormia terranovae	Animalia (Insects)	ATCDLLSGTGINHSACAAHCLLRGNRGGYCNRKGVCVCRN	40	11555873	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1081	82074983	Q5F378		Cathelicidin-B1	Gallus gallus	Animalia (Aves)	PIRNWWIRIWEWLNGIRKRLRQRSPFYVRGHLNVTSTPQP	40	17827276	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1161	1706745	P49913	2FBS,2FBU,2FCG,2K6O,2LMF	FALL-39	Homo sapiens 	Animalia (Mammals)	FALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	39	7529412	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1259	150421529	P83403		Cecropin	Glossina morsitans morsitans 	Animalia (Insects)	GWLKKIGKKIERVGQNTRDATVKGLEVAQQAANVAATVR	39	11886771	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1574	148872799	P81602		Defensin-B	Aedes aegypti	Animalia (Insects)	ATCDLLSGFGVGDSACAAHCIARGNRGGYCNSQKVCVCRN	40	7633471	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2698	319412668			Preprodamicornin  	Pocillopora damicornis  	Animalia (Anthozoans)	CADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCRG	39	21536670	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2777		P80571	1FJN	  Mussel Defensin MGD-1 	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	GFGCPNNYQCHRHCKSIPGRCGGYCGGXHRLRCTCYRCG	39	8925841	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3314				  PP102 	Pteromalus puparum	Animalia (Insects)	GSCSCSGTISPYGLRTCRATKTKPSHPTTKETHPQTLPT	39	19950104	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ6445	334350799	P86363		Osmotin (Fragment)	Calotropis procera 	Viridiplantae	ATFTIRNNCPYTIWAAAVPGGGRRLNSGGTWTINVAPGTA	40	21334906	Antifungal		Experimentally Validated

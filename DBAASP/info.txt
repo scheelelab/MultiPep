@@ -1,0 +1,19 @@
+I Only dowloaded "monomers"
+All sequence where in the size range 2-200
+Full_sequence was checked
+
+peptides_gramplus_grammin.csv: searched for Gram+ and Gram-
+
+
+
+
+from peptides_fungus:
+removed sequence from line 300 due the excess of commas
+
+
+from peptides_bacterial:
+removed sequence from line 795 due the excess of commas
+
+
+CUDA_VISIBLE_DEVICES="" PYTHONHASHSEED=0 python classifier_total_multilabel_tree.py 
+

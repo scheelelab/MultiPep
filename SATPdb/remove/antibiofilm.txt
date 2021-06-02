@@ -1,0 +1,14 @@
+satpdb10245	GWGSFFKKAAHVGKHVGKAALTHYL	5	anticancer, antibacterial, antiparasitic, toxic, antimicrobial,	hemolytic, anti-gram+, antitrypanosomic, anti-gram-	chemotactic, antibiofilm,	apd2, hemolytik, parapep
+satpdb11279	GLFDVIKKVASVIGGL	4	anticancer, antibacterial, antimicrobial, antifungal,	anti-gram+	antibiofilm,	apd2, cancerppd, dadp
+satpdb11815	RFGRFLRKIRRFRPKVTITIQGSARFG	3	antibacterial, toxic, antimicrobial,	hemolytic, anti-gram+, cytotoxic, anti-gram-	immunomodulatory, antibiofilm,	apd2, hemolytik, yadamp
+satpdb12888	RGLRRLGRKIAHGVKKYGPTVLRIIRIAG	4	antibacterial, toxic, antimicrobial, antifungal,	anti-gram+, cytotoxic, anti-gram-	antibiofilm,	apd2, camp, yadamp
+satpdb18202	VTCDVLSFEAKGIAVNHSACALHCIALRKKGGSCQNGVCVCRN	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic	antibiofilm, wound healing,	apd2, camp, hemolytik, yadamp
+satpdb18459	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	7	anticancer, antibacterial, antiviral, antiparasitic, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, antitrypanosomic, anti-gram-	chemotactic, antibiofilm, wound healing,	apd2, avpdb, baamps, cancerppd, hemolytik, parapep, yadamp
+satpdb18469	ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK	4	anticancer, antibacterial, toxic, antimicrobial,	anti-gram+, cytotoxic	antibiofilm,	apd2, baamps, bactibase, camp, yadamp
+satpdb20695	GKIIKLKASLKLL	2	antibacterial, antimicrobial,	anti-gram+, anti-gram-	antibiofilm,	apd2
+satpdb21633	FLSLIPHIVSGVASIAKHF	3	antibacterial, antimicrobial, antifungal,	anti-gram+, anti-gram-	antibiofilm,	apd2, dadp
+satpdb22390	GGLRSLGRKILRAWKKYGPIIVPIIRIG	7	anticancer, antibacterial, antiviral, antiparasitic, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, antileishmania, anti-gram-	antibiofilm,	apd2, camp, cancerppd, hemolytik, parapep, yadamp
+satpdb22480	ILPWKWPWWPWRR	7	anticancer, antibacterial, antiviral, antiparasitic, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, antitrypanosomic, anti-gram-	antibiofilm,	apd2, cancerppd, hemolytik, parapep
+satpdb24196	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	5	antibacterial, antiviral, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	chemotactic, antibiofilm, wound healing,	apd2, baamps, camp, hemolytik, yadamp
+satpdb24401	GRFKRFRKKFKKLFKKLSPVIPLLHLG	7	anticancer, antibacterial, antiviral, antiparasitic, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, antitrypanosomic, anti-gram-	antibiofilm,	apd2, camp, cancerppd, hemolytik, parapep, yadamp
+satpdb27768	KWCFRVCYRGICYRKCR	2	antibacterial, antimicrobial,	anti-gram+, anti-gram-	antibiofilm,	apd2

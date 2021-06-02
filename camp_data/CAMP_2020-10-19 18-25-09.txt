@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22	110348525	A0SN46		Amolopin-2a 	Amolops loloensis	Animalia (Amphibians)	FLPIVGKLLSGLSGLL	16	17000029	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ301	26391709	P83187		Beta-basrubin	Basella alba 	Viridiplantae	KIMAKPSKFYEQLRGR	16	11688973	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ576	68053335	P69016		Aurein-2.1	Litoria raniformis	Animalia (Amphibians)	GLLDIVKKVVGAFGSL	16	10951191	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ577	68053336	P69017		Aurein-2.1	Litoria aurea (green and golden bell frog )	Animalia (Amphibians)	GLLDIVKKVVGAFGSL	16	10951191	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ578	68053337	P69018		Aurein-2.5	Litoria raniformis	Animalia (Amphibians)	GLFDIVKKVVGAFGSL	16	10951191	Antibacterial,Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ579	68053338	P69019		Aurein-2.5	Litoria aurea (green and golden bell frog)	Animalia (Amphibians)	GLFDIVKKVVGAFGSL	16	10951191	Antibacterial,Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ611	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibians)	LIKIVPAMICAVTKKC	16	8144672	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ837	197239640	B5LUQ3, B5LUQ8		Fallaxidin 3.1	Litoria fallax	Animalia (Amphibians)	GLLDLAKHVIGIASKL	16	18803332	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ859	1730504	P32195		Protegrin-2	Sus scrofa	Animalia (Mammals)	RGGRLCYCRRRFCICV	16	8335113	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2579	294956525	C7B247		Imcroporin	Isometrus maculatus  	Animalia (Arachnids)	FSLLPSLIGGLVSAIK	16	19451300	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3441				  Bb-AMP4 	Bellamya bengalensis	Animalia (Molluscs (Gastropoda))	PSCVCSGFETSGIHFC	16	21262297	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3593				  Odorranain-A-OA1 	Odorrana andersonii	Animalia (Amphibians)	VVKCSYRLGSPDSQCN	16	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3597				  Hejiangin-A1 	Odorrana hejiangensis	Animalia (Amphibians)	RFIYMKGFGKPRFGKR	16	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3632				  Temporin-ALd 	Amolops loloensis	Animalia (Amphibians)	FLPIAGKLLSGLSGLL	16	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3633				  Temporin-ALe 	Amolops loloensis	Animalia (Amphibians)	FFPIVGKLLFGLSGLL	16	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3634				  Temporin-ALf 	Amolops loloensis	Animalia (Amphibians)	FFPIVGKLLSGLSGLL	16	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3635				  Temporin-ALg 	Amolops loloensis	Animalia (Amphibians)	FFPIVGKLLFGLFGLL	16	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3636				  Temporin-ALh 	Amolops loloensis	Animalia (Amphibians)	FLPIVGKLLSGLSGLS	16	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3642				  Nigroain-D3 	Rana nigrovittata	Animalia (Amphibians)	CVHWQTNTARTSCIGP	16	19778602	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3643				  Nigroain-E1 	Rana nigrovittata	Animalia (Amphibians)	DCTRWIIGINGRICRD	16	19778602	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3674				  Bmkn2 	Mesobuthus martensii	Animalia (Arachnids)	FIGAIARLLSKIFGKR	16	15062994	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3691				  Alyteserin-2Ma 	Alytes maurus	Animalia (Amphibians)	FIGKLISAASGLLSHL	16	22800568	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3696				  Alyteserin-2Mb 	Alytes maurus	Animalia (Amphibians)	ILGAIIPLVSGLLSHL	16	22800568	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3866		P86127		Riparin-2.1	Crinia riparia 	Animalia (Amphibians)	IIEKLVNTALGLLSGL	16	16470724	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ8216				RN7-IN9	Synthetic construct		FLGGLIKKWPWWPWRR	16	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

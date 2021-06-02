@@ -1,0 +1,32 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ29	11131738	P82104		Caerin-1.10	Litoria splendida 	Animalia (Amphibians)	GLLSVLGSVAKHVLPHVVPVIAEKL	25	10601876	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ36	114149278	P84596		Dermaseptin-1, DShypo 01	Phyllomedusa hypochondrialis	Animalia (Amphibians)	GLWSTIKNVGKEAAIAAGKAALGAL	25	16963159	Antibacterial,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ40	115058	P29004		Bombinin-like peptides 3 	Bombina orientalis	Animalia (Amphibians)	GIGAAILSAGKSALKGLAKGLAEHF	25	1744108	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ42	115311720	Q1ELT9	2PCO	Latarcin-1 	Lachesana tarabaevi	Animalia (Arachnids)	SMWSGMWRRKLKKLRNALKKKLKGE	25	16735513	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ61	1168440	P80393		Antimicrobial peptide THP3 	Meleagris gallopavo	Animalia (Aves)	LSCKRGTCHFGRCPSHLIKGSCSGG	25	7964174	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ243	21542189	P83189		Pseudin-2	Pseudis paradoxa	Animalia (Amphibians)	GLNALKKVFQGIHEAIKLINNHVQ	24	11689009	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ253	236997	P39080		Antimicrobial peptide PGQ	Xenopus laevis	Animalia (Amphibians)	GVLSNVIGYLKKLGTGALNAVLKQ	24	1717472	Antibacterial,antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ305	26393021	P81570		Antimicrobial peptide D3 	Spinacia oleracea	Viridiplantae	GIFSSRKCKTVSKTFRGICTRNANC	25	9762899	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ499	51701304, 403398045	P84111, J9RS19		Brevinin-1BYa	Rana boylii 	Animalia (Amphibians)	FLPILASLAAKFGPKLFCLVTKKC	24	14531844	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ500	51701305	P84112		Brevinin-1BYb	Rana boylii 	Animalia (Amphibians)	FLPILASLAAKLGPKLFCLVTKKC	24	14531844	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ501	51701306	P84113		Brevinin-1BYc	Rana boylii 	Animalia (Amphibians)	FLPILASLAATLGPKLLCLITKKC	24	14531844	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ548	59798979	P84382		Antimicrobial peptide 2 	Xenopus tropicalis	Animalia (Amphibians)	GVWSTVLGGLKKFAKGGLEAIVNPK	25	11738090	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ549	59798980	P84383		Antimicrobial peptide 3 	Xenopus tropicalis	Animalia (Amphibians)	GLASTLGSFLGKFAKGGAQAFLQPK	25	11738090	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ566	62297695	P83951		Ocellatin-1	Leptodactylus ocellatus	Animalia (Amphibians)	GVVDILKGAGKDLLAHLVGKISEKV	25	15648972	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ569	66773950	P84525		Eryngin	Pleurotus eryngii 	Fungi	ATRVVYCNRRSGSVVGGDDTVYYEG	25	15003349	Antifungal		Experimentally Validated
+CAMPSQ584	68053344	P69030		Aurein-5.2	Litoria raniformis	Animalia (Amphibians)	GLMSSIGKALGGLIVDVLKPKTPAS	25	10951191	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ828				Salivaricin B	Streptococcus salivarius K12	Bacteria	GGGVIQTISHECRMNSWQFLFTCCS	25	17194838	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1030	109157593	P49913	2FBS,2FBU,2FCG,2K6O,2LMF	C-terminal fragment, LL-37	Synthetic construct		IGKEFKRIVQRIKDFLRNLVPRTES	25	16637646	Antibacterial,Anticancer	Gram-ve	Experimentally Validated
+CAMPSQ1059	114149285	Q1EJP4		Dermaseptin-H5	Phyllomedusa azurea 	Animalia (Amphibians)	GLWSTIKNVGKEAAIAAGKAVLGSL	25	17553595	Antibacterial 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1060	114149283	Q1EJP5		Dermaseptin-H4	Phyllomedusa azurea 	Animalia (Amphibians)	GLWSTIKNVGKEAAIAAGKAALGAL	25	17553595	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1094	66773818	P69847		Grammistin Pp3	Pogonoperca punctata	Animalia (Pisces)	NWRKILGQIASVGAGLLGSLLAGYE	25		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2883				  NRC-11 	Hippoglossoides platessoides	Animalia (Pisces)	GWKSVFRKAKKVGKTVGGLALDHYL	25	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.
+
+
+	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2884				  NRC-12 	Hippoglossoides platessoides	Animalia (Pisces)	GWKKWFNRAKKVGKTVGGLAVDHYL	25	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.
+
+
+	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3903		P37715		Lysozyme 	Asterias rubens 	Animalia (Asteroidea)	SGPVPSGCLRCICVVESGXRMPNPV	25	1149747	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4338				  Brevinin-1SPd	Rana septentrionalis	Animalia (Amphibians)	FLPIIASVAAKLIPSIVCRITKKC	24	15556063	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

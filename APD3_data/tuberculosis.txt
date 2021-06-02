@@ -1,0 +1,34 @@
+Found 14 entries according to your query
+AP00310
+2K6O, LL-37 [LL37; FALL-39; cathelicidin; UCLL1; human; chimpanzee; primates, mammals, animals; XXX; XXY; XXZ; BBBh2o, BBBm; BBMm, BBPP, BBN, BBL, BBrsg, JJsn; Derivatives: many) 	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+AP01161
+1L9L, Human granulysin (GNLY, huGran, NKG5; formerly 519; a saposin-like protein, SAPLIP; 3S=S; UCSS1a; primates, mammals, animals; ZZP; VIHNN; BBMm; BBL; JJsn; Derivatives: G13) 	GRDYRTCLTIVQKLKKMVDKPTQRSVSNAATRVCRTGRSRWRDVCRNFMRRYQSRVTQGLVAGETAQQICEDLR
+AP02073
+2HKY, RNase 7 (Ribonuclease 7; Ribonuclease family, UCSS1a; 4S=S, human; primates, mammals, animals; BBomp) 	KPKGMTSSQWFKIQHMQPSPQACNSAMKNINKHTKRCKDLNTFLHEPFSSVAATCQTPKIACKNGDKNCHQSHGAVSLTMCKLTSGKYPNCRYKEKRQNKSYVVACKPPQKKDSQQFHLVPVHLDRVL
+AP02249
+Ref, Teixobactin (nonribosomally synthesized peptide antibiotic, Gram-negative bacteria, prokaryotes, lactone, XXJ, XXD4; XXM; UCSB1b; BBW) 	FISQIISTARI
+AP02376
+Ref, Lassomycin (Gram-positive bacteria, prokaryotes; XXJ; lactam; UCSB1a) 	GLRRLFADQLVGRRNI
+AP02439
+Ref, Micrococcin P1 (MP1; thiopeptide;bacteria; BBribo) 	SCTTCVCTCSCCTT
+AP02568
+Ref, B1CTcu5 (brevinin; frog, amphibians, animals, UCSS1a; 1S=S, XXU) 	LIAGLAANFLPQILCKIARKC
+AP02603
+Ref, VpAmp1.0 (XXA; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1c; Derivative: VpAmp1.1) 	LPFFLLSLIPSAISAIKKI
+AP02604
+Ref, VpAmp2.0 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a; Derivative: VpAmp2.1) 	FWGFLGKLAMKAVPSLIGGNKSSSK
+AP02688
+5AGU, Griselimycin (GM, cyclic bacteriocin; lactone; Gram-positive bacteria, prokaryotes; XXM; UCSB1b; Derivatives: MGM, CGM) 	VPSLPLVPLG
+AP02850
+Ref, Laterosporulin10 (LS10, class-2d bacteriocin, defensin-like, Gram-positive bacteria, prokaryote) 	ACVNQCPDAIDRFIVKDKGCHGVEKKYYKQVYVACMNGQHLYCRTEWGGPCQL
+AP03101
+Ref, hBD10 (human beta-defensin 10, hBD-10; UCSS1a; primates, mammals, animals; 3S=S) 	RECRIGNGQCKNQCHENEIRIAYCIRPGTHCCLQQ
+AP03102
+6MJV, hBDconsensus (synthetic, 3S=S; UCSS1a) 	KKCWNGGRCRKKCKENEKPIGYCRNGKKCCVN
+AP03162
+Ref, Pantocin wh-1 (bacteriocins; Gram-negative bacteria, prokaryotes; UCBB) 	VMWCYVFGYGFNCAVW
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

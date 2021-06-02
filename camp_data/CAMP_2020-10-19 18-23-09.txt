@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ319				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKIWKIKKLF	12	15369808	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ558	60390600	P69437		Protonectin	Agelaia pallipes 	Animalia (Insects)	ILGTILGLLKGL	12	15225564	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1104	66773812	P69839		Grammistin Gs B	Grammistes sexlineatus	Animalia (Pisces)	IGGIISFFKRLF	12	15777955	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3627				  Halictine 1 	Halictus sexcinctus	Animalia (Insects)	GMWSKILGHLIR	12	20198492	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3628				  Halictine 2 	Halictus sexcinctus	Animalia (Insects)	GKWMSLLKHILK	12	20198492	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4146	408387559	B3EWQ6		Antimicrobial protein 1	Paenibacillus alvei 	Bacteria	YSKSLPLSVLNP	12		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4147	408387561	B3EWQ7		Antimicrobial protein 2	Paenibacillus alvei 	Bacteria	FCKSLPLPLSVK	12		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8220				Myxinidin (G1)	Synthetic construct		AIHDILKYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8221				Myxinidin (I2)	Synthetic construct		GAHDILKYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8222				Myxinidin (H3)	Synthetic construct		GIADILKYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8223				Myxinidin (D4)	Synthetic construct		GIHAILKYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8224				Myxinidin (I5)	Synthetic construct		GIHDALKYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8225				Myxinidin (L6)	Synthetic construct		GIHDIAKYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8226				Myxinidin (K7)	Synthetic construct		GIHDILAYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8227				Myxinidin (Y8)	Synthetic construct		GIHDILKAGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8228				Myxinidin (G9)	Synthetic construct		GIHDILKYAKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8229				Myxinidin (K10)	Synthetic construct		GIHDILKYGAPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8230				Myxinidin (P11)	Synthetic construct		GIHDILKYGKAS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8231				Myxinidin (S12)	Synthetic construct		GIHDILKYGKPA	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8233				MH3R	Synthetic construct		GIRDILKYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8235				MD4R	Synthetic construct		GIHRILKYGKPS	12	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8245				Cm-p3	Cenchritis muricatus	Animalia (Molluscs (Gastropoda))	SRSELIVHQRRC	12	25921828	Antifungal		Experimentally Validated
+CAMPSQ8246				Cm-p4	Cenchritis muricatus	Animalia (Molluscs (Gastropoda))	SRSELIVHQRMK	12	25921828	Antifungal		Experimentally Validated
+CAMPSQ8247				Cm-p5	Cenchritis muricatus	Animalia (Molluscs (Gastropoda))	SRSELIVHQRLF	12	25921828	Antifungal		Experimentally Validated
+CAMPSQ8257				Bac2A-NH2	Synthetic construct		RLARIVVIRVAR-NH2	12	10898680	Antibacterial	Gram+ve	Experimentally Validated

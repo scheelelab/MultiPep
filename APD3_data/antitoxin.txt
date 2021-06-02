@@ -1,0 +1,36 @@
+Found 15 entries according to your query
+AP00176
+3GNY, human neutrophil peptide-1 (HNP-1, HNP1, alpha Defensin, UCSS1a; lectin; primates, mammals, animals; XXX; ZZHh, BBS; BBL; BBW; 3S=S) 	ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00177
+1ZMI, human neutrophil peptide-2 (HNP-2, HNP2, alpha Defensin, lectin; UCSS1a; primates, mammals, animals; ZZHh, BBS; 3S=S; BBMm) 	CYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00178
+1DFN, human neutrophil peptide-3 (HNP-3, HNP3, alpha Defensin, UCSS1a; primates, mammals, animals; lectin; ZZHh, BBS; 3S=S) 	DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00179
+1ZMM, human neutrophil peptide-4 (HNP-4, HNP4, alpha Defensin; UCSS1a; primates, mammals, animals; ZZH; 3S=S) 	VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV
+AP00180
+1ZMP, human defensin 5 (HD-5, HD5, DEFA5; intestinal, alpha Defensin; UCSS1a; primates, mammals, animals; BBBH2O; 3S=S; BBL; Derivatives: HD5(1-9)) 	ATCYCRTGRCATRESLSGVCEISGRLYRLCCR
+AP00283
+1KJ6, Human beta defensin 3 (hBD-3, hBD3, or DEFB103, human defensin, 3S=S, UCSS1a; primates, mammals, animals; ZZHh; BBBh2o; BBW; JJsn) 	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+AP00445
+2LYF, RTD-1 (RTD 1; rhesus theta defensin-1; monkey, primates, mammals, animals; 3S=S, Cys-rich; XXC, UCBB1b; BBS, ZZHa; BBBH2o; revisited) 	GFCRCLCRRGVCRCICTR
+AP00451
+1E4S, hBD-1 (Human beta-defensin 1; hBD1; 3S=S; UCSS1a; primates, mammals, animals; ZZH, JJsn; XXR) 	DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+AP00524
+1FD3, Human beta defensin 2 (hBD-2; hBD2; UCSS1a; human, primates, mammals, animals; ZZHh; 3S=S; JJsn) 	GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP
+AP00675
+Ref, Human beta defensin 4 (hBD-4, hBD4; UCSS1a; primates, mammals, animals; 3S=S) 	EFELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRKWDESLLNRTKP
+AP00724
+Ref, RTD-2 (RTD 2, rhesus theta-defensin 2, minidefensin; monkey, primates, mammals, animals; 3S=S, Cys-rich; XXC, UCBB1b; BBS, ZZHa) 	GVCRCLCRRGVCRCLCRR
+AP00725
+Ref, RTD-3 (rhesus theta defensin 3, minidefensin; monkey, primates, mammals, animals; 3S=S, Cys-rich; XXC, UCBB1b; BBS, ZZHa) 	GFCRCICTRGFCRCICTR
+AP01207
+Ref, Retrocyclin-1 (RC1; retro-, past and cyclin, cyclic molecule; theta-defensin; RC-100, synthetic, 3S=S, Cys-rich; UCBB1b; XXC, BBS, lectin, ZZHs. Derivatives: RC-101; RC-111; RC-111ox; RC-112) 	GICRCICGRGICRCICGR
+AP01208
+2LZI, Retrocyclin-2 (RC2; HTD-2; theta-defensin; synthetic, 3S=S, Cys-rich; UCBB1b; XXC, BBS, lectin, ZZHs; BBBH2o) 	GICRCICGRRICRCICGR
+AP01209
+Ref, Retrocyclin-3 (RC3; theta-defensin; synthetic, 3S=S, Cys-rich; UCBB1b; XXC, BBS, lectin) 	RICRCICGRRICRCICGR
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ343	3024356	P81057		Penaeidin-2a 	Litopenaeus vannamei	Animalia (Crustaceans (Malacostraca))	YRGGYTGPIPRPPPIGRPPFRPVCNACYRLSVSDARNCCIKFGSCCHLVK	50	11028917	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ475	46397849	P80696		Bacteriocin amylovorin-L 	Lactobacillus amylovorus 	Bacteria	NRWTNAYSAALGCAVPGVKYGKKLGGVWGAVIGGVGGAAVCGLAGYVRKG	50	10517609	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ544	5915688	P80703		Apolipophorin-3 	Galleria mellonella	Animalia (Insects)	VQETQKLAKTVGANLEETNKKLAPQIKSAYDDFVKQAQEVQKKLHEAASKQ	51	17194500	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ676	42661543	Q70KL2		Beta defensin 40 	Mus musculus	Animalia (Mammals)	LDTIKCLQGNNNCHIQKCPWFLLQVSTCYKGKGRCCQKRRWFARSHVYHV	50	14718547	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ853	37078647	P59890		Hipposin	Hippoglossus hippoglossus	Animalia (Pisces)	SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAHRVGAGAPVYL	51	12637028	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ911	75139849	Q7M1F3	1BK8	Defensin AMP1 , Ah-Amp1	Aesculus hippocastanum	Viridiplantae	LCNERPSQTWSGNCGNTAHCDKQCQDWEKASHGACHKRENHWKCFCYFNC	50	7628617	Antifungal		Experimentally Validated
+CAMPSQ1033	59798992	P69241	1AYJ	Raphanus Sativus Antifungal Protein 1 	Raphanus sativus var. niger	Viridiplantae	QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC	51	7780308, 1639777	Antifungal		Experimentally Validated
+CAMPSQ1106	49036106	P83952	3NGG	Omwaprin	Oxyuranus microlepidotus	Animalia (Reptiles)	KDRPKKPGLCPPRPQKPCVKECKNDDSCPGQQKCCNYGCKDECRDPIFVG	50	17044815	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1129	18202901	Q9FI23 , O80994, Q9FI23, Q9FI22		Low-molecular cysteine-rich antifungal protein LCR77 , cysteine-rich antifungal protein At2g26020	Arabidopsis thaliana	Viridiplantae	QKLCEKPSGTWSGVCGNSNACKNQCINLEGAKHGSCNYVFPAHKCICYVPC	51	8989885	Antifungal		Experimentally Validated
+CAMPSQ1167	229890071	P0C8Y4		DmAMP1	Dahlia merckii	Viridiplantae	ELCEKASKTWSGNCGNTGHCDNQCKSWEGAAHGACHVRNGKHMCFCYFNC	50	7628617	Antifungal		Experimentally Validated
+CAMPSQ2115	11386628	O24332		Cysteine-rich antifungal protein 3 precursor 	Raphanus sativus	Viridiplantae	KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC	50	7780308	Antifungal		Experimentally Validated
+CAMPSQ2566	354991235	G8GZ65		Antifungal peptide 4  	Heliophila coronopifolia  	Viridiplantae	KLCERPSGTWSGVCGNNGACRNQCIRLERARHGSCNYVFPAHKCICYFPC	50	22032337	Antifungal		Experimentally Validated
+CAMPSQ2567	354991231	G8GZ63		Antifungal peptide 2  	Heliophila coronopifolia  	Viridiplantae	KLCERPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC	50	22032337	Antifungal		Experimentally Validated
+CAMPSQ2975				  CcD1 	Capsicum chinense	Viridiplantae	QNNICKTTSKHFKGLCFADSKCRKVCIQEDKFEDGHCSKLQRKCLCTKNC	50	16794772	Antifungal		Experimentally Validated
+CAMPSQ3297				  Ha-DEF1 	Helianthus annuus	Viridiplantae	ELCEKASQTWSGTCGKTKHCDDQCKSWEGAAHGACHVRDGKHMCFCYFNC	50	17375322	Antifungal		Experimentally Validated
+CAMPSQ3342				  Strongylocin 2 	Strongylocentrotus droebachiensis	Animalia (Echinoidea)	WNPFKKIANRNCYPKTTCETAGGKKTCKDFSCCQIVLFGKKTRAKCTVVTS	51	18656496	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3527				  Hc-AFP1 	Heliophila coronopifolia	Viridiplantae	RYCERSSGTWSGVCGNSGKCSNQCQRLEGAAHGSCNYVFPAHKCICYYPC	50	22032337	Antifungal		Experimentally Validated
+CAMPSQ3529				  Hc-AFP3 	Heliophila coronopifolia	Viridiplantae	RYCERSSGTWSGVCGNTDKCSSQCQRLEGAAHGSCNYVFPAHKCICYYPC	50	22032337	Antifungal		Experimentally Validated
+CAMPSQ3656		H6U5Y1		  Garvieacin Q 	Lactococcus garvieae BCC 43578	Bacteria	EYHLMNGANGYLTRVNGKYVYRVTKDPVSAVFGVISNGWGSAGAGFGPQH	50	22210221	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3698				  Sd3 	Saccharum officinarum	Viridiplantae	RHRHCFSQSHKFVGACLRESNCENVCKTEGFPSGECKWHGIVSKCHCKRIC	51	18618271	Antifungal		Experimentally Validated
+CAMPSQ3970		A4L7R7		Defensin-1	Pinus sylvestris 	Viridiplantae	RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP	50	19683554	Antifungal		Experimentally Validated
+CAMPSQ4343		P86972		Defensin D1	Nigella sativa	Viridiplantae	KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKPPAHRCICYYEC	50	21144761	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4344		P86973		Defensin D2	Nigella sativa	Viridiplantae	KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKLPAHRCICYYEC	50	21144761	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4601	385654608			Truncated beta-defensin 16	Anas platyrhynchos (Mallard)  	Animalia (Aves)	FFLLFLQGAAGNSVLCRIRGGRCHVGSCHFPERHIGRCSGFQACCIRTWG	50	23112840	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8149		C0HJQ3		Histone H2A [Cleaved into: Acipensin 1 (Ac1)]	Acipenser gueldenstaedtii 	Animalia (Pisces)	SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVY	50	25558400	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ92	122063381	P0C2A6		Caerin-1.17	Litoria gracilenta	Animalia (Amphibians)	GLFSVLGSVAKHLLPHVAPIIAEKL	25	16554081	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ93	122063382	P0C2A7		Caerin-1.18	Litoria gracilenta	Animalia (Amphibians)	GLFSVLGSVAKHLLPHVVPVIAEKL	25	16554081	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ94	122063383	P0C2A8		Caerin-1.19	Litoria gracilenta	Animalia (Amphibians)	GLFKVLGSVAKHLLPHVAPIIAEKL	25	16554081	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ355	32396184	Q7SZH1		Pleurocidin-like peptide YT2 	Limanda ferruginea	Animalia (Pisces)	RWGKWFKKATHVGKHVGKAALTAYL	25	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ366	34101171	Q6JWQ9		Epinecidin-1 	Epinephelus coioides	Animalia (Pisces)	FIFHIIKGLFHAGKMIHGLVTRRRH	25	Aquaculture, Volume 253, Issues 1-4, 31 March 2006, Pages 204-211	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ374	38017184	P81941, Q90ZY0	1Z64	Pleurocidin	Pseudopleuronectes americanus	Animalia (Pisces)	GWGSFFKKAAHVGKHVGKAALTHYL	25	9115266 , 10898673 , 12950255 , 12878506	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ384	3913370	P81252		Caerin-1.9	Litoria chloris 	Animalia (Amphibians)	GLFGVLGSIAKHVLPHVVPVIAEKL	25	9516047	Antibacterial		Experimentally Validated
+CAMPSQ585	68053345	P69031		Aurein-5.2	Litoria aurea (green and golden bell frog )	Animalia (Amphibians)	GLMSSIGKALGGLIVDVLKPKTPAS	25	10951191	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ865	14030283	Q90ZX8		Winter flounder 4	Pseudopleuronectes americanus	Animalia (Pisces)	GWGSIFKHGRHAAKHIGHAAVNHYL	25	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1097	66773810	P69835		Grammistin GsF	Grammistes sexlineatus	Animalia (Pisces)	LFGFLIKLIPSLFGALSNIGRNRNQ	25		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1140				Caerin 1.6	Litoria splendida 	Animalia (Amphibians)	GLFSVLGAVAKHVLPHVVPVIAEKL	25	10601876	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2905				  Ranatuerin-1Ga 	Rana grylio	Animalia (Amphibians)	SMISVLKNLGKVGLGFVACKVNKQC	25	10828493	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3457				  Maximin 31 	Bombina maxima	Animalia (Amphibians)	GIGGALLSAGKSALKGLAKGLAEHF	25	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3460				  Maximin 41 	Bombina maxima	Animalia (Amphibians)	GIGGALLSVGKSALKGLTKGLAEHF	25	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3467				  Maximin 77 	Bombina maxima	Animalia (Amphibians)	GIGGALLSAGKSALKGLAKGLAEHL	25	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3685				  XPF-SE3 	Silurana epitropicalis	Animalia (Amphibians)	GFWTTAAEGLKKFAKAGLASILNPK	25	22800690	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3686				  XPF-SE4 	Silurana epitropicalis	Animalia (Amphibians)	GVWTTILGGLKKFAKGGLEALTNPK	25	22800690	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3687				Caerin 2.6 	Hybrid between female Litoria splendida and male Litoria caerulea	Animalia (Amphibians)	GLVSSIGKVLGGLLADVVKSKGQPA	25	16824041	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3688				Caerin 2.7 	Hybrid between female Litoria splendida and male Litoria caerulea	Animalia (Amphibians)	GLVSSIGKALGGLLVDVVKSKGQPA	25	16824041	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3689				Caerin 1.20 	Hybrid between female Litoria splendida and male Litoria caerulea	Animalia (Amphibians)	GLFGILGSVAKHVLPHVIPVVAEHL	25	16824041	Antibacterial		Experimentally Validated
+CAMPSQ3919		P86527		Non-specific lipid-transfer protein 1 	Nigella sativa 	Viridiplantae	ISCQDVKQSLAPCLPYVTGRAPKPA	25	19621049	Antifungal		Experimentally Validated
+CAMPSQ3946		P84925		Dermaseptin-5 	Phyllomedusa tarsius 	Animalia (Amphibians)	GLWSKIKEAAKTAGKAAMGFVNEMV	25		Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3956		P84884		Antifungal protein 1 	Passiflora edulis 	Viridiplantae	QSERFEQQMQGQDFSHDERFLSQAA	25	16766236	Antifungal		Experimentally Validated
+CAMPSQ4489		P86502		Caerin-1.10	Litoria rothii	Animalia (Amphibians)	GLLSVLGSVAKHVLPHVVPVIAEKL	25	16124032, 19539637	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4491		P86503		Caerin-1.16	Litoria rothii	Animalia (Amphibians)	GLFSVLGAVAKHVLPHVVPVIAEKL	25	16124032, 19539637	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

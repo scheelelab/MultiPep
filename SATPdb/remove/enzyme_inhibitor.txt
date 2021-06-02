@@ -1,0 +1,10 @@
+satpdb11499	CYCRIPACIAGERRYGTCIYQGRLWAFCC	6	anticancer, antibacterial, antiviral, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	chemotactic, enzyme inhibitor,	apd2, camp, cancerppd, hemolytik, yadamp
+satpdb15837	DSHAKRHHGYKRKFHEKHHSHRGY	5	antibacterial, antiviral, antiparasitic, antimicrobial, antifungal,	anti-gram+, antileishmania, anti-gram-	enzyme inhibitor,	apd2, baamps, camp, parapep, yadamp
+satpdb17626	CARLNCVPKGTSGNTETCPCYASLHSCRKYG	3	antibacterial, antimicrobial, antifungal,	anti-gram+, anti-gram-	enzyme inhibitor, antioxidant,	apd2
+satpdb20203	AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGCR	3	antibacterial, antimicrobial, antifungal,	anti-gram+, anti-gram-	enzyme inhibitor,	apd2, camp, yadamp
+satpdb21156	AALKGCWTKSIPPKPCFGKR	3	antibacterial, antimicrobial, antifungal,	anti-gram+, anti-gram-	enzyme inhibitor,	apd2, camp, dadp, yadamp
+satpdb25293	DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+	5	anticancer, antibacterial, antiviral, antimicrobial, antifungal,	anti-gram+, anti-gram-	chemotactic, enzyme inhibitor,	apd2, baamps, camp, yadamp
+satpdb27556	ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+	6	anticancer, antibacterial, antiviral, antiparasitic, antimicrobial, antifungal,	anti-gram+, antitrypanosomic, anti-gram-	effector molecule of innate immunity, chemotactic, wound healing, enzyme inhibitor, host defense peptides,	apd2, avpdb, camp, parapep, yadamp
+satpdb28233	DICTCCAGTKGCNTTSANGAFICEGQSDPKKPKACPLNCDPHIAYA	3	antibacterial, antimicrobial, antifungal,	anti-gram+	enzyme inhibitor,	apd2

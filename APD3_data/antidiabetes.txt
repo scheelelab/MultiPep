@@ -1,0 +1,38 @@
+Found 16 entries according to your query
+AP00073
+P32412, Brevinin-1E (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPLLAGLAANFLPKIFCKITRKC
+AP00078
+P40839, Brevinin-2EC (frog, amphibians, animals; XXU; 1S=S, UCSS1a; DXWZ) 	GILLDKLKNFAKTAGKGVLQSLLNTASCKLSGQC
+AP00080
+P32414, Esculentin-1 (frog, amphibians, animals; ZZI; XXU; 1S=S, UCSS1a) 	GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
+AP00082
+P40844, Esculentin-1B (frog, amphibians, animals; XXU; 1S=S, UCSS1a; derivative: esculentin-C) 	GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
+AP00163
+P81486, Dermaseptin-B4 (DRS-B4; Dermaseptin B4, DRS B4; Dermaseptin-TR1, DRS-TR1, XXA; Also: insulin-releasing peptide or IRP, UCLL1c; frog, amphibians, animals) 	ALWKDILKNVGKAAGKAVLNTVTDMVNQ
+AP00476
+P83189, Pseudin-2 (Pseudin 2; UCLL1; frog, amphibians, animals; BBL; BBMm; BBN; Derivatives: Pse-T2) 	GLNALKKVFQGIHEAIKLINNHVQ
+AP00522
+Ref, Agelaia-MP (Agelaia-MP-I; insects, arthropods, invertebrates, animals; XXA) 	INWLKLGKAIIDAL
+AP00999
+Ref, Amolopin (UCLL1c; frog, amphibians, animals; XXA) 	FLPIVGKSLSGLSGKL
+AP01128
+Ref, Magainin-AM2 (UCLL1a; frog, amphibians, animals) 	GVSKILHSAGKFGKAFLGEINKS
+AP01130
+Ref, PGLa-AM1 (frog, amphibians, animals; UCLL1c; XXA; BBL; PGLa-AM2: inactive, MIC >200 uM) 	GMASKAGSVLGKVAKVALKAAL
+AP01461
+Ref, Alyteserin-2a (XXA; UCLL1c; toad, amphibians, animals) 	ILGKLLSTAAGLLSNL
+AP01964
+Ref, Hymenochirin-1B (Hym-1B; frog, amphibians, animals; XXA; UCLL1c) 	IKLSPETKDNLKKVLKGAIKGAIAVAKMV
+AP02111
+Ref, Esculentin-2CHa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GFSSIFRGVAKFASKGLGKDLAKLGVDLVACKISKQC
+AP02318
+Ref, Pseudhymenochirin-1Pb (Ps-1Pb; frog, amphibians, animals; UCLL1) 	IKIPSFFRNILKKVGKEAVSLIAGALKQS
+AP02319
+Ref, Pseudhymenochirin-2Pa (Ps-2Pa; frog, amphibians, animals; UCLL1) 	GIFPIFAKLLGKVIKVASSLISKGRTE
+AP03202
+Ref, Brevinin-2GUb (frog, amphibians, animals; XXU; 1S=S, UCSS1a; more AMPs?) 	GVIIDTLKGAAKTVAAELLRKAHCKLTNSC
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

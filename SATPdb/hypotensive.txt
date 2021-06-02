@@ -1,0 +1,5 @@
+satpdb10111	LKLKSIVSWAKKVL	2	toxic, antimicrobial,	hemolytic	hypotensive, edema inducer, antioxidant,	apd2, hemolytik
+satpdb10675	LkLKSIVSWAKKVL	1	toxic,	hemolytic	hypotensive,	hemolytik
+satpdb16799	LKLKSIVSWAkkVL	1	toxic,	hemolytic	hypotensive,	hemolytik
+satpdb26831	lklksivswakkvl	1	toxic,	hemolytic	hypotensive,	hemolytik
+satpdb27033	LKLkSIVSWAKKVL	1	toxic,	hemolytic	hypotensive,	hemolytik

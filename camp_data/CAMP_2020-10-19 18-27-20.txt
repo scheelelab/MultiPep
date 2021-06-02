@@ -1,0 +1,17 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ79	118432	P10891	1ICA	Phormicin precursor 	Protophormia terraenovae 	Animalia (Insects)	ACAAHCLLRGNRGGYCNGKG	20	2369900	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ586	68053347	P83986		Cicerarin	Cicer arietinum	Viridiplantae	VKSTGRADDDLAVKTKYLPP	20	12895650	Antifungal		Experimentally Validated
+CAMPSQ587	68053357	P83987		Cicerin	Cicer arietinum	Viridiplantae	ARCENFADSYRQPPISSSQT	20	12084511	Antifungal		Experimentally Validated
+CAMPSQ589	68565867	P84569		Phylloseptin-4 	Phyllomedusa oreades 	Animalia (Amphibians)	FLSLIPHAINAVSTLVHHSG	20	15752569	Antiparasitic		Experimentally Validated
+CAMPSQ608	730091	Q07932		Pilosulin-1 	Myrmecia pilosula	Animalia (Insects)	GLGSVFGRLARILGRVIPKV	20	15639237	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ610	730587	P39084		Ranalexin	Rana catesbeiana	Animalia (Amphibians)	FLGGLIKIVPAMICAVTKKC	20	8144672	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ862	14030271	Q90WJ0		Winter flounder 1a	Pseudopleuronectes americanus	Animalia (Pisces)	WLRRIGKGVKIIGGAALDHL	20	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1119	68064399	P83958		Thaumatin-like protein , Actc2	Actinidia chinensis	Viridiplantae	ATFNFINNCPFTVWAAAVPG	20	12165295 , 12417892	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ1133	93204534	P84794		Antifungal protein J 	Solanum tuberosum	Viridiplantae	LPSDATLVLDQTGKELDARL	20	16076139	Antifungal		Experimentally Validated
+CAMPSQ1157	254674358	C7C1L0		Kasseptin 1Mc	Kassina maculata (spotted running frog)	Animalia (Amphibians)	FVGAIAAALPHVISAIKNAL	20	19427345	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1158	254674356	C7C1K9		Kasseptin 1Mb	Kassina maculata (spotted running frog)	Animalia (Amphibians)	FFGAIAAALPHVISAIKNAL	20	19427345	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1159	254674354	C7C1K8		Kasseptin 1Ma	Kassina maculata (spotted running frog)	Animalia (Amphibians)	FLGAIAAALPHVINAVTNAL	20	19427345	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2151	148839571	P85152		Lysozyme	Lysobacter sp. (strain XL1)	Bacteria	IAIQGGXGYLXQPGDGYKYA	20		Antibacterial		Experimentally Validated
+CAMPSQ2906				  Ranalexin-1G 	Rana grylio	Animalia (Amphibians)	FLGGLMKIIPAAFCAVTKKC	20	10828493	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3462				  Maximin H39 	Bombina maxima	Animalia (Amphibians)	ILGPVLGLVGNALGGLIKKL	20	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3957		P83143		Antifungal protein 2 large subunit 	Malva parviflora 	Viridiplantae	PEDPQRRYQEXQREXRXQQE	20	11118343	Antifungal		Experimentally Validated

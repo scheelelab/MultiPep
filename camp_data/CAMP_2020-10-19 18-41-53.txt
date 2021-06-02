@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ57	116088	P01509		Cecropin-B	Antheraea pernyi	Animalia (Insects)	KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKAL	35	6754375	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ58	116090	P01508		Cecropin-B	Hyalophora cecropia	Animalia (Insects)	KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL	35	7140755	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ75	118414, 228858, 253414	P11477		Defensin-1 precursor 	Mus musculus 	Animalia (Mammals)	LRDLVCYCRSRGCKGRERMNGTCRKGHLLYTLCCR	35	1500431	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ157	155676530			Enterocin A 	Synthetic construct		YYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGG	35	17601819	Antibacterial		Experimentally Validated
+CAMPSQ191	1706339	P28309		Defensin-related cryptdin 2 precursor	Mus musculus	Animalia (Mammals)	LRDLVCYCRTRGCKRRERMNGTCRKGHLMYTLCCR	35	1500431, 1500163	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ192	1706340, 253416	P28310		Alpha-defensin 3	Mus musculus	Animalia (Mammals)	LRDLVCYCRKRGCKRRERMNGTCRKGHLMYTLCCR	35	1500431	Antibacterial		Experimentally Validated
+CAMPSQ251	227386, 225797	Q27239		Cecropin A1, Lepidopteran C. 	Bombyx mori	Animalia (Insects)	RWKLFKKIEKVGRNVRDGLIKAGPAIAVIGQAKSL	35	2184991	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ252	1705754, 546998	P04142		Cecropin B1	Bombyx mori	Animalia (Insects)	RWKIFKKIEKMGRNIRDGIVKAGPAIEVLGSAKAI	35	2184991	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ321	2829412	P50714		Defensin-related cryptdin 16 precursor	Mus musculus	Animalia (Mammals)	LRDLVCYCRSRGCKGRERMNGTCRKGHLMYTLCCR	35	8188287	Antibacterial		Experimentally Validated
+CAMPSQ367	34921480	P83619	2K38	Cupiennin-1	Cupiennius salei 	Animalia (Arachnids)	GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME	35	11792701	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ368	34921482	P83620		Cupiennin-1b	Cupiennius salei 	Animalia (Arachnids)	GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQME	35	11792701	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ369	34921483	P83621		Cupiennin-1c	Cupiennius salei 	Animalia (Arachnids)	GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQTE	35	11792701	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ370	34921485	P83622		Cupiennin-1d 	Cupiennius salei 	Animalia (Arachnids)	GFGSLFKFLAKKVAKTVAKQAAKQGAKYVANKHME	35	11792701	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ371	34921485	P83622		Cupiennin-1d*	Cupiennius salei 	Animalia (Arachnids)	GFGSLFKFLAKKVAKTVAKQAAKQGAKYVANKHMQ	35		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ471	46395677	P82290		Cecropin-A precursor	Anopheles gambiae	Animalia (Insects)	GRLKKLGKKIEGAGKRVFKAAEKALPVVAGVKALG	35	10672074	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ646	87080648			Pediocin PA-1	Synthetic construct		YYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATG	35	16461660	Antibacterial		Experimentally Validated
+CAMPSQ1697	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2a 	Macadamia integrifolia 	Viridiplantae	QCMQLETSGQMRRCVSQCDKRFEEDIDWSKYDNQE	35	10571855	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ1702	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2d	Macadamia integrifolia 	Viridiplantae	KRDPQQREYEDCRRHCEQQEPRLQYQCQRRCQEQQ	35	10571855	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2693	356483035	G5ELM2		Palustrin-2ISb precursor protein  	Odorrana ishikawae 	Animalia (Amphibians)	LWNSIKIAGKKLFVNVLDKIRCKVAGGCKTSPDVE	35	21911019	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2753	5902769	P80391		  THP-1 	Meleagris gallopavo 	Animalia (Aves)	GKREKCLRRNGFCAFLKCPTLSVISGTCSRFQVCC	35	7964174	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2803				  Dendrocin 	Dendrocalamus latiflorus Munro	Viridiplantae	TTLTLHNLCPYPVWWLVTPNNGGFPIIDNTPVVLG	35	12893287	Antifungal		Experimentally Validated
+CAMPSQ3160				  T07C4.4 	Caenorhabditis elegans	Animalia (Chromadorea)	MTRILPCLFLVLLAAAPLLANPANPLNLKKHHGVF	35	9920402	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3164				  Mucroporin 	Lychas mucronatus	Animalia (Arachnids)	GRRKRQMEARFEPQNRNYRKRELDLEKLFANMPDY	35	18779362	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3826				  Cc-GRP 	Coffea canephora	Viridiplantae	GNEGGGHGGHGGYGGYHHHGGGGGGYGGYHGGGGS	35	23500079	Antifungal		Experimentally Validated
+CAMPSQ8152		C0HJQ3		Histone H2A [Cleaved into: Acipensin 2 (Ac2)]	Acipenser gueldenstaedtii 	Animalia (Pisces)	SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLR	35	25558400	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

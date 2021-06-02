@@ -1,0 +1,4 @@
+satpdb11242	MGIIAGIIKVIKSLIEQFTGK	2	toxic, antimicrobial,	hemolytic	immunosuppressive,	hemolytik
+satpdb13445	MAIVGTIIKIIKAIIDIFAK	2	toxic, antimicrobial,	hemolytic	immunosuppressive,	hemolytik
+satpdb17611	GIIKVIKSLIEQFTGK	2	toxic, antimicrobial,	hemolytic	immunosuppressive,	hemolytik
+satpdb21273	VGTIIKIIKAIIDIFAK	2	toxic, antimicrobial,	hemolytic	immunosuppressive,	hemolytik

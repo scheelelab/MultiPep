@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ189	1703289	P27275, Q9S8Z7	1MMC,1ZNT,1ZUV,1ZWU	AC-AMP2	Amaranthus caudatus	Viridiplantae	VGECVRGRCPSGMCCSQFGYCGKGPKYCGR	30	1567877	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ203	17433719	P56871	1BH4	Circulin-A 	Chassalia parviflora 	Viridiplantae	GIPCGESCVWIPCISAALGCSCKNKVCYRN	30	10430870	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ210	18202397	P82414		Ponericin-G1	Pachycondyla goeldii 	Animalia (Insects)	GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ	30	11279030	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ211	18202398	P82415		Ponericin-G2	Pachycondyla goeldii 	Animalia (Insects)	GWKDWLKKGKEWLKAKGPGIVKAALQAATQ	30	11279030	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ212	18202399	P82416		Ponericin-G3	Pachycondyla goeldii 	Animalia (Insects)	GWKDWLNKGKEWLKKKGPGIMKAALKAATQ	30	11279030	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ214	18202401	P82418		Ponericin-G5	Pachycondyla goeldii 	Animalia (Insects)	GLKDWVKIAGGWLKKKGPGILKAAMAAATQ	30	11279030	Antibacterial		Experimentally Validated
+CAMPSQ376	38502875	P60030		Neutrophil defensin 1 	Macaca mulatta	Animalia (Mammals)	ACYCRIPACLAGERRYGTCFYLGRVWAFCC	30	10531277	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ377	38502876	P60031, Q7M3C3		Neutrophil defensin 3 	Macaca mulatta	Animalia (Mammals)	ACYCRIPACLAGERRYGTCFYRRRVWAFCC	30	10531277	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ378	38502877	P60032		Neutrophil defensin 8  	 Macaca mulatta	Animalia (Mammals)	ACYCRIPACLAGERRYGTCFYLRRVWAFCC	30	10531277	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ421	41016987	P83641		Dermadistinctin-Q1 	Phyllomedusa distincta	Animalia (Amphibians)	ALWKNMLKGIGKLAGQAALGAVKTLVGAES	30	10477123	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ466	461937, 740959	P80279		Dermaseptin-3 	Phyllomedusa sauvagii	Animalia (Amphibians)	ALWKNMLKGIGKLAGKAALGAVKKLVGAES	30	9395500	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ632	7993923	P82317		Neutrophil defensin 2 	Macaca mulatta	Animalia (Mammals)	ACYCRIPACLAGERRYGTCFYMGRVWAFCC	30	10531277	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ692	4758146	P59665	2KHT,2PM1,3GNY,3H6C,3HJ2,3HJD,3LO1,3LO2,3LO4,3LO6,3LO9,3LOE,3LVX,4DU0	Human defensin 1	Homo sapiens	Animalia (Mammals)	ACYCRIPACIAGERRYGTCIYQGRLWAFCC	30	17635867	Antibacterial		Experimentally Validated
+CAMPSQ743	75284710	Q5I2B2		Antimicrobial peptide Ar-AMP	Amaranthus retroflexus	Viridiplantae	AGECVQGRCPSGMCCSQFGYCGRGPKYCGR	30	16126239	Antifungal		Experimentally Validated
+CAMPSQ875	134493	P02885		Sillucin	Rhizomucor pusillus	Fungi	ACLPNSCVSKGCCCGBSGYWCRQCGIKYTC	30	761621	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ928	67460130	P0C007		Dicynthaurin	Halocynthia aurantium 	Animalia	ILQKAVLDCLKAAGSSLSKAAITAIYNKIT	30	11479030	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2478	290543571	Q64365		Neutrophil cationic peptide 1 type B preproprotein  	Cavia porcellus	Animalia (Mammals)	RCICTTRTCRFPYRRLGTCIFQNRVYTFCC	30	8243060	Antibacterial,Antiviral,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3001	158562877	P85231		  Vhl-2 	Viola hederacea	Viridiplantae	GLPVCGETCFTGTCYTNGCTCDPWPVCTRN	30	15824119	Antiviral		Experimentally Validated
+CAMPSQ3002				  Circulin C 	Chassalia parvifolia	Viridiplantae	GIPCGESCVFIPCITSVAGCSCKSKVCYRN	30	10691702	Antiviral		Experimentally Validated
+CAMPSQ3496				  Cliotide T1 	Clitoria ternatea	Viridiplantae	GIPCGESCVFIPCITGAIGCSCKSKVCYRN	30	21596752	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3497	340002882, 347602404	G1CWH3, P86902		Cliotide T4, Cyclotide cter-P	Clitoria ternatea	Viridiplantae	GIPCGESCVFIPCITAAIGCSCKSKVCYRN	30	21596752	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3712				  EcLTP 	Echinochloa crusgalli L	Viridiplantae	AISCGQVSSAIGPCLSYARGQGSAPSAGCC	30	22940285	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3960		P84061		Antifungal protein 	Diospyros texana 	Viridiplantae	ATFDIQNKXTYTVWAAAWAPSYPGGXKQLD	30	8048935	Antifungal		Experimentally Validated
+CAMPSQ4330				  Cycloviolacin Y5	Viola philippica	Viridiplantae	GIPCAESCVWIPCTVTAIVGCSCSDKVCYN	30	18081258	Antiviral		Experimentally Validated
+CAMPSQ8137		O15240		Antimicrobial peptide VGF [554-583]	Homo sapiens 	Animalia (Mammals)	TLQPPSALRRRHYHHALPPSRHYPGREAQA	30	23250050	Antibacterial	Gram+ve	Experimentally Validated

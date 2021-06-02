@@ -1,0 +1,68 @@
+Found 31 entries according to your query
+AP00176
+3GNY, human neutrophil peptide-1 (HNP-1, HNP1, alpha Defensin, UCSS1a; lectin; primates, mammals, animals; XXX; ZZHh, BBS; BBL; BBW; 3S=S) 	ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00177
+1ZMI, human neutrophil peptide-2 (HNP-2, HNP2, alpha Defensin, lectin; UCSS1a; primates, mammals, animals; ZZHh, BBS; 3S=S; BBMm) 	CYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00178
+1DFN, human neutrophil peptide-3 (HNP-3, HNP3, alpha Defensin, UCSS1a; primates, mammals, animals; lectin; ZZHh, BBS; 3S=S) 	DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00310
+2K6O, LL-37 [LL37; FALL-39; cathelicidin; UCLL1; human; chimpanzee; primates, mammals, animals; XXX; XXY; XXZ; BBBh2o, BBBm; BBMm, BBPP, BBN, BBL, BBrsg, JJsn; Derivatives: many) 	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+AP00445
+2LYF, RTD-1 (RTD 1; rhesus theta defensin-1; monkey, primates, mammals, animals; 3S=S, Cys-rich; XXC, UCBB1b; BBS, ZZHa; BBBH2o; revisited) 	GFCRCLCRRGVCRCICTR
+AP00505
+P15516, human Histatin 5 (hst5; primates, mammals, animals; His-rich; ZZHs; BBII; derivatives: Dh-5; Dhvar5; Dhvar4; demegen P-113; P113; Clinical) 	DSHAKRHHGYKRKFHEKHHSHRGY
+AP00516
+Ref, Lycotoxin I (lycotoxin-1; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; ZZI; VIHNN; UCLL1c) 	IWLTALKFLGKHAAKHLAKQQLSKL
+AP00517
+Ref, Lycotoxin II (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	KIKWFKTMKSIAKFIAKEQMKKHLGGE
+AP00729
+4TTM, Kalata B1 (KB1; XXC; cyclotides; UCBB1b; 3S=S; plants; ZZHp; ZZi; BBMm; BBBm; Derivatives: kalata B1 oia or nfk; XXO) 	GLPVCGETCVGGTCNTPGCTCSWPVCTRN
+AP00895
+Ref, OH-CATH (O. hannah cathelicidin, elapid cathelicidin, snake, reptiles, animals; Derivatives: OH-CATH30; OH-CM6) 	KRFKKFFKKLKNSVKKRAKKFFKKPRVIGVSIPF
+AP01231
+Ref, Microcin H47 (MccH47, class 2b microcins, bacteriocins, the siderophore-microcin family, Gram-negative bacteria, prokaryotes, BBr; BBII; XXB) 	GGAPATSANAAGAAAIVGALAGIPGGPLGVVVGAVSAGLTTGIGSTVGSGSASSSAGGGS
+AP01239
+Ref, Cathelicidin-BF (BF-30; cathelicidin-WA; snake cathelicidin, reptiles, animals; Derivatives: BF-15; Cbf-K16) 	KFFRKLKKSVKKRAKEFFKKPRVIGVSIPF
+AP01291
+Ref, Odorranain-B1 (OdB1; ORB; Ranacyclin B1; UCLL1a; XXU; 1S=S, frog, amphibians, animals; Derivatives: ORBK) 	AALKGCWTKSIPPKPCFGKR
+AP01470
+Ref, WAMP-1b (hevein-like peptide, UCSS1a; plants;chitin-binding, BBS; 5S=S) 	AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGCR
+AP01553
+5NCE, PsDef1 (P. sylvestris defensin 1, UCSS1a; 4S=S, plants) 	RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP
+AP01580
+2REL, Elafin (Elastase-specific inhibitor, UCSS1a; 3S=S, humans; primates, mammals, animals; Precursor: serine antiprotease trappin-2) 	AQEPVKGPVSTKPGSCPIILIRCAMLNPPNRCLKDTDCPGIKKCCEGSCGMACFVPQ
+AP01678
+Ref, Cc-LTP1 (Coffea canephora lipid transfer protein 1, plants; BWQ) 	ITCQQVTSELGPCVPYLTGQGIP
+AP02095
+2Z7F, SLPI (secretory leukocyte protease inhibitor, antileukoprotease, ALP, UCSS1a; human, primates, mammals, animals; 8S=S; BBMm; BBN) 	SGKSFKAGVCPPKKSAQCLRYKKPECQSDWQCPGKKRCCPDTCGIKCLDPVDTPNPTRRKPGKCPVTYGQCLMLNPPNFCEMDGQCKRDLKCCMGMCGKSCVSPVKA
+AP02258
+Ref, Snakin-Z (plants) 	CARLNCVPKGTSGNTETCPCYASLHSCRKYG
+AP02342
+Ref, Potamin-1 (PT-1; plants) 	DICTNCCAGTKGCNTTSANGAFICEGQSDPKKPKACPLNCDPHIAYA
+AP02386
+Ref, P2-Hp-1935 (Hp-1935; frogs, amphibians, animals; XXA; UCLL1c) 	KLSPSLGPVSKGKLLAGQR
+AP02388
+3OTJ, BPTI (Bovine Pancreatic Trypsin Inhibitor; UCSS1a; cattle, ruminant, mammals, animals; 3S=S) 	RPDFCLEPPYTGPCKARMIRYFYNAKAGLCQPFVYGGCRAKRNNFKSSEDCMRTCGGA
+AP02523
+Ref, PSI-1.2 (S3 fraction, Proteinase inhibitor, plants; 4S=S; UCSS1a) 	KACPRNCDTDIAYMVCPSSGERIIRKVCTNCCAAQKGCKLFRSNGSIKCTGT
+AP02647
+Ref, SWDPm2 (P. monodon Single WAP domain (SWD) protein 2; Crustaceans, arthropods, invertebrates, animals) 	PTRHSKPRPQPLPRPGTCPDTSGIITTCEVTERNCFSDSQCGPGQKCCPLGCGRECLAVGPPYGKGRW
+AP02648
+Ref, Fc-SWD (A single whey acidic protein domain-containing peptide, Crustaceans, arthropods, invertebrates, animals) 	VPTRHARPRPQPRPRPGTCPDTSDIVSICVVTERNCFSDGECGAGQKCCPIGCGRECLAVGSPYGK
+AP02658
+Ref, Psysol 2 (cyclotides, plants; 3S=S, XXC; UCBB1b) 	GLPICGESCVGGTCNTPGCTCTWPVCTRN
+AP02688
+5AGU, Griselimycin (GM, cyclic bacteriocin; lactone; Gram-positive bacteria, prokaryotes; XXM; UCSB1b; Derivatives: MGM, CGM) 	VPSLPLVPLG
+AP02716
+Ref, Kunitzin-RE (frog, amphibians, animals, UCSS1a; BBL) 	AAKIILNPKFRCKAAFC
+AP02717
+Ref, Kunitzin-OS (frog, amphibians, animals, UCSS1a) 	AVNIPFKVHLRCKAAFC
+AP03021
+Ref, Bldesin (defensin; fungii; 3S=S; UCSS1a) 	GWGCNIFGGNDYRCHRHCKSISGYKGGYCKLGGICKCY
+AP03038
+Ref, SPINK9-v1 (serine peptidase inhibitor, Kazal type 9, variant 1, humans; primates, mammals, animals; UCSS1a) 	KQTKQMVDCSHYKKLPPGQQRFCHHMYDPICGSDGKTYKNDCFFCSKVKKTDGTLKFVHFGKC
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

@@ -1,0 +1,29 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ81	119391210	A0ZT59		Temporin-1Ob1	 Rana ornativentris 	Animalia (Amphibians)	FLPLIGKILGTILGK	15	17147973	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ104	41688534	P83706		Halocidin precursorA 	Halocynthia aurantium 	Animalia	ALLHHGLNCAKGVLA	15	12067731	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ498	51316202	P84073		Ribosome-inactivating protein luffacylin 	Luffa aegyptiaca	Viridiplantae	PRGSPRTEYEAARR	14	12126727	Antifungal		Experimentally Validated
+CAMPSQ774				Dybowskin-4	Rana dybowskii	Animalia (Amphibians)	VWPLGLVICKALKIC	15	17698251	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ825	635377411	P83716		Halocin-C8	Halobacterium sp. AS7092	Archaea	DIDITGCSACKYAAG	15	17174009	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ846	2507565	P80511	1E8A,1GQM,1ODB,2WC8,2WCB,2WCE,2WCF	Calcitermin	Homo sapiens 	Animalia (Mammals)	VAIALKAAHYHTHKE	15	11522286	Antibacterial,Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ1110	26391011	P83137		Antifungal protein 3	Malva parviflora	Viridiplantae	PEDPQRRYQEEQRRE	15	11302747	Antifungal		Experimentally Validated
+CAMPSQ1120	68064398	P83957		Thaumatin-like protein	Castanopsis chinensis	Viridiplantae	AKITFTNNHPRTIWP	15	12565869	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ2129	150382736	P85155		Endopeptidase L4	Lysobacter sp. (strain XL1)	Bacteria	AVVNGVNYVGETTAA	15		Antibacterial		Experimentally Validated
+CAMPSQ2630	332715320	B5AGT4		Snakin-2	Solanum tuberosum	Viridiplantae	SYKKIDCGGACAARC	15		Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2810				Temporin-1CEb 	Rana chensinensis	Animalia (Amphibians)	ILPILSLIGGLLGK	14	19341344	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3126				  MB-21 	Synthetic construct		FASLLGKALKALAKQ	15	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.
+
+
+	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3154				  Odorranain-T1 	Odorrana grahami	Animalia (Amphibians)	TSRCYIGYRRKVVCS	15	17272268	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3165				  BTL 	Bacillus  subtilis B-TL2	Bacteria	KQQLATEAESAGPIL	15	18241956	Antifungal		Experimentally Validated
+CAMPSQ3874		P86131		Signiferin-2.1	Crinia signifera 	Animalia (Amphibians)	IIGHLIKTALGMLGL	15	18601958,16470724	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3876		P84911, P84910		Cystatin-1, Cystatin-2 	Capra hircus 	Animalia (Mammals)	DTHISEKIIDCNDIG	15	16257555	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3883		P0C931		Eumenitin 	Eumenes rubronotatus 	Animalia (Insects)	LNLKGIFKKVASLLT	15	16762455	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3954		P83141		Antifungal protein 1 large subunit 	Malva parviflora 	Viridiplantae	VAGPFRIPPLRREFQ	15	11118343	Antifungal		Experimentally Validated
+CAMPSQ3963		P85004		Antifungal lectin AMML 	Astragalus mongholicus 	Viridiplantae	ESGINLQGDATLANN	15	16140255	Antifungal		Experimentally Validated
+CAMPSQ4334				  Temporin-1DRb	Rana draytonii	Animalia (Amphibians)	NFLGTLVNLAKKIL	14	16307827	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ7531		P83630		Chitin-binding protein HM30 (Fragment)	Hydrangea macrophylla 	Viridiplantae	NSMERVEELRKKLQD	15	11812226	Antifungal		Experimentally Validated
+CAMPSQ8170		P0DMF7		Peptide Ctri9594	Chaerilus tricostatus 	Animalia (Arachnids)	GVVDTLKNLLMGLL	14	23415044	Antiviral		Experimentally Validated
+CAMPSQ8186				Mastoparan-S	Sphodromantis viridis	Animalia (Insects)	LRLKSIVSYAKKVL	14	25869360	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8217				RN7-IN8	Synthetic construct		FLGGLIKWPWWPWRR	15	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8240				Mastoparan analogue 5	Synthetic construct		inLKALAALAKKIIL	15	26114809	Antibacterial	Gram-ve	Experimentally Validated

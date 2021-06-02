@@ -1,0 +1,2426 @@
+Found 1210 entries according to your query
+AP00001
+P31107, Dermaseptin-B2 (XXA, DRS-B2, Dermaseptin B2, DRS B2, DS bII, ADENOREGULIN; UCLL1c; frog, amphibians, animals) 	GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV
+AP00003
+Ref, Hs-AFP1 (HsAFP1, H. sanguinea antifungal protein 1; defensins; 4S=S; UCSS1a; BBS; BBMm_lipid?; plants) 	DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC
+AP00004
+Ref, Ct-AMP1 (CtAMP1, C. ternatea-antimicrobial peptide 1; defensins; 4S=S, UCSS1a; plants) 	NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFDC
+AP00012
+P82386, Aurein 1.1 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIIKKIAESI
+AP00013
+1VM5, Aurein 1.2 (XXA, UCLL1c; frog, amphibians, animals; BBMm; ZZH) 	GLFDIIKKIAESF
+AP00014
+P82388, Aurein 2.1 (XXA, UCLL1c; frog, amphibians, animals) 	GLLDIVKKVVGAFGSL
+AP00015
+P82389, Aurein 2.2 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIVKKVVGALGSL
+AP00016
+P82390, Aurein 2.3 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIVKKVVGAIGSL
+AP00017
+P82391, Aurein 2.4 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIVKKVVGTLAGL
+AP00018
+6GS9, Aurein 2.5 (XXA, UCLL1c; frog, amphibians, animals, BBMm) 	GLFDIVKKVVGAFGSL
+AP00019
+P82393, Aurein 2.6 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIAKKVIGVIGSL
+AP00020
+P82394, Aurein 3.1 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIVKKIAGHIAGSI
+AP00021
+P82395, Aurein 3.2 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIVKKIAGHIASSI
+AP00022
+P82396, Aurein 3.3 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIVKKIAGHIVSSI
+AP00026
+1LFC, Lactoferricin B (LfcinB, UCSS1a; 1S=S, cattle, ruminant, animals, ZZHa; BBL; Derivatives: lactoferrin peptide 2; LTX-302; LfcinB6; MPLfcinB6; JJsn) 	FKCRRWQWRMKKLGAPSITCVRRAF
+AP00027
+Ref, Combi-1 (Arg-rich; Trp-rich; XXE, XXA, synthetic; Derivative: cyclized hexamer, BBL. SeqAR) 	RRWWRF
+AP00031
+1i2u, Heliomicin (HEL-WT, defensins; insects, arthropods, invertebrates, animals; BBMm_GlcCerMOA; 3S=S; UCSS1a; Derivatives: Hel-LL) 	DKLIGSCVWGAVNYTSDCNGECKRRGYKGGHCGSFANVNCWCET
+AP00041
+P46164, Bovine Beta-defensin 6 (bBD-6, 3S=S, UCSS1a; cattle, ruminant, mammals; animals) 	QGVRNHVTCRIYGGFCVPIRCPGRTRQIGTCFGRPVKCCRRW
+AP00050
+P29002, Bombinin-like peptide 1 (XXA, BLP-1, UCLL1c; toad, amphibians, animals) 	GIGASILSAGKSALKGLAKGLAEHFAN
+AP00052
+P29004, Bombinin-like peptide 3 (XXA, BLP-3, XXA, UCLL1c; toad, amphibians, animals) 	GIGAAILSAGKSALKGLAKGLAEHF
+AP00054
+Q9DET7, Bombinin-like peptide 7 (BLP-7, UCLL1; toad, amphibians, animals) 	GIGGALLSAGKSALKGLAKGLAEHFAN
+AP00056
+2AP8, Bombinin H4 (UCLL1c; toad, amphibians, XXA, XXD, animals; inactive bombinin H6) 	ILGPVLGLVGSALGGLLKKI
+AP00058
+P83080, Maximin 1 (UCLL1c; XXA; toad, amphibians, animals; ZZS) 	GIGTKILGGVKTALKGALKELASTYAN
+AP00059
+P83081, Maximin 2 (UCLL1c; XXA; toad, amphibians, animals) 	GIGTKILGGVKTALKGALKELASTYVN
+AP00060
+6HZ2, Maximin 3 (UCLL1; toad, amphibians, animals; ZZHa; ZZS) 	GIGGKILSGLKTALKGAAKELASTYLH
+AP00061
+2MHW, Maximin 4 (UCLL1c; XXA; Maximin-4; toad, amphibians, animals; ZZS) 	GIGGVLLSAGKAALKGLAKVLAEKYAN
+AP00062
+P83084, Maximin 5 (UCLL1; toad, amphibians, animals) 	SIGAKILGGVKTFFKGALKELASTYLQ
+AP00063
+P83085, Maximin 6 (maximin-H6, maximin Hv, maximin-Hv, UCLL1; the Chinese red belly toad, amphibians, animals) 	ILGPVLSLVGSALGGLIKKI
+AP00067
+P07493, Bombolitin II (BII, Bombolitin 2, insects, arthropods, invertebrates, animals; XXA) 	SKITDILAKLGKVLAHV
+AP00073
+P32412, Brevinin-1E (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPLLAGLAANFLPKIFCKITRKC
+AP00080
+P32414, Esculentin-1 (frog, amphibians, animals; ZZI; XXU; 1S=S, UCSS1a) 	GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
+AP00089
+P80399, Brevinin-1EMa (Gaegurin-5, Gaegurin 5, GGN5, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLGALFKVASKVLPSVFCAITKKC
+AP00090
+P80400, Brevinin-1EMb (Gaegurin-6, Gaegurin 6, GGN6, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPLLAGLAANFLPTIICKISYKC
+AP00094
+2MAA, Temporin A (temporin-1Ta; temporin-Ta; TA; Leu-rich; XXA; UCLL1c; frog, amphibians, animals; ZZP) 	FLPLIGRVLSGIL
+AP00095
+6GIL, Temporin B (temporin-1Tb; temporin-Tb; TB; Leu-rich; XXA, UCLL1c; frog, amphibians, animals; ZZP) 	LLPIVGNLLKSLL
+AP00101
+6GS5, Temporin L (temporin-1Tl; temporin-Tl; TL; TemL, XXA, UCLL1c; frog, amphibians, animals; BBL; JJsn; BBMm) 	FVQWFSKFLGRIL
+AP00102
+8TFV, Thanatin ("thanato" means death; insects, arthropods, invertebrates, animals; UCSS1a; 1S=S; BBL; Derivatives: S-thanatin) 	GSKKPVPIIYCNRRTGKCQRM
+AP00103
+Ref, NmDef02 (defensins; 3S=S, UCSS1a; plants) 	RECKAQGRHGTCFRDANCVQVCEKQAGWSHGDCRAQFKCKCIFEC
+AP00104
+P82880, Temporin-1Ca (Temporin 1Ca, XXA; UCLL1c; Leu-rich; frog, amphibians, animals) 	FLPFLAKILTGVL
+AP00112
+P82848, Temporin-1P (Temporin 1P; temporin-1M, temporin 1M; temporin-1CSa; XXA; UCLL1c; frog, amphibians, animals) 	FLPIVGKLLSGLL
+AP00114
+P82741, RANATUERIN 1 (Ranatuerin-1, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SMLSVLKNLGKVGLGFVACKINKQC
+AP00118
+P82828, RANATUERIN-2La (Ranatuerin 2La, also called anatuerin-2PRa; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC
+AP00119
+P82829, RANATUERIN-2Lb (Ranatuerin 2Lb, Also Ranatuerin-2PRd; frog, amphibians, animals; XXU; 1S=S, UCSS1a; note: Ranatuerin-2PRe, MIC >50 uM) 	GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC
+AP00120
+P82840, RANATUERIN 2B (Ranatuerin-2B, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLDTIKGVAKTVAASMLDKLKCKISGC
+AP00121
+P82847, RANATUERIN 2P (Ranatuerin-2P, frog, amphibians, animals; ZZHa_t; XXU; 1S=S, UCSS1a) 	GLMDTVKNVAKNLAGHMLDKLKCKITGC
+AP00122
+P82875, Ranatuerin-1C (Ranatuerin 1C, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SMLSVLKNLGKVGLGLVACKINKQC
+AP00123
+P82879, Ranatuerin-2Cb (Ranatuerin 2Cb, 1S=S, XXU, UCSS1a; frog, amphibians, animals) 	GLFLDTLKGLAGKLLQGLKCIKAGCKP
+AP00124
+P82878, Ranatuerin-2Ca (Ranatuerin 2Ca, 1S=S; XXU, UCSS1a; frog, amphibians, animals) 	GLFLDTLKGAAKDVAGKLLEGLKCKIAGCKP
+AP00127
+P83413, Cecropin A (insects, arthropods, invertebrates, animals; XXA) 	RWKVFKKIEKVGRNIRDGVIKAAPAIEVLGQAKAL
+AP00128
+P01509, Cecropin B (insects, arthropods, invertebrates, animals) 	KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKAL
+AP00135
+Q06590, Cecropin 2 (Md-Cec; Mdc; M. domestica cecropin; insects, arthropods, invertebrates, animals; BBL; BBMm; BBN) 	GWLKKIGKKIERVGQHTRDATIQTIGVAQQAANVAATLK
+AP00141
+Ref, PAF26 (XXE, XXA, Trp-rich; Lys-rich; synthetic) 	RKKWFW
+AP00144
+2MAG, Magainin 2 (Magainin II, PGS; Hebrew "shield"; UCLL1; frog, amphibians, animals. BBMm; BBL; Derivatives: MSI-78, pexiganan acetate, or cytolex, loxilex; clinical trials; MSI-594; MSI-99. 	GIGKFLHSAKKFGKAFVGEIMNS
+AP00146
+2MLT, Melittin (XXA; insects, arthropods, invertebrates, animals; ZZHa, StrAR, BBL; ZZP; BBMm) 	GIGAVLKVLTTGLPALISWIKRKRQQ
+AP00148
+1AFP, Antifungal protein (AFP, the mould, fungii; UCSS1a; 4S=S; BBMm) 	ATYNGKCYKKDNICKYKAQSGKTAICKCYVKKCPRDGAKCEFDSYKGKCYC
+AP00150
+1G89, Indolicidin (IR13; XXA, Trp-rich, cathelicidin, cattle, ruminant, mammals; animals; BBN; BBPP/BBII; Derivatives: CP-11, MBI-549, Omiganan (old MBI 226; MBI-226), clincal trials 	ILPWKWPWWPWRR
+AP00151
+Ref, BTD-1 (Baboon theta-defensin-1; primates, mammals, animals; 3S=S, XXC; UCBB1b; Cys-rich; BBMM) 	RCVCTRGFCRCVCRRGVC
+AP00152
+1D6X, Tritrpticin (tritrypticin, SN13, Trp-rich; porcine cathelicidin; mammals, animals; SeqAR; Derivatives) 	VRRFPWWWPFLRR
+AP00153
+1CZ6, Androctonin (UCSS1a; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; 2S=S) 	RSVCRQIKICRRRGGCYYKCTNRPY
+AP00154
+1CIX, Tachystatin A2 (UCSS1a; 3S=S, Horseshoe Crab, arachnids, Chelicerata, arthropods, invertebrates, animals; BBS) 	YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRY
+AP00155
+1FRY, SMAP-29 (SMAP29, sheep myeloid AMP-29; SMAP-28, OaMAP28, ovine cathelicidin, sheep, ruminant, mammals, animals; BBomp; BBL; derivatives: Ovispirin, OV-1, OV-2, OV-3, novispirin, novici 	RGLRRLGRKIAHGVKKYGPTVLRIIRIAG
+AP00156
+2LYE, BTD-2 (Baboon theta-defensin-2; primates, mammals, animals; 3S=S, XXC; UCBB1b; Cys-rich; BBBH2O; BBMM) 	RCVCRRGVCRCVCRRGVC
+AP00157
+P80277, Dermaseptin-S1 (DRS-S1; Dermaseptin I; DS I; Dermaseptin S1, DRS S1, UCLL1; frog, amphibians, animals; ZZS; ZZHa_t; ZZP) 	ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ
+AP00158
+P80278, Dermaseptin-S2 (DRS-S2; Dermaseptin S2, DRS S2, Dermaseptin II; DS II; UCLL1; frog, amphibians, animals; ZZP) 	ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ
+AP00159
+P80279, Dermaseptin-S3 (DRS-S3; Dermaseptin S3, DRS S3, DS3, Dermaseptin III; DS III; UCLL1; XXA; frog, amphibians, animals; ZZP) 	ALWKNMLKGIGKLAGKAALGAVKKLVGAES
+AP00160
+2DD6, Dermaseptin-S4 (DRS-S4; Dermaseptin S4, DRS S4, DS4, Dermaseptin IV; DS IV; UCLL1; frog, amphibians, animals; ZZHa; ZZP; ZZS; BBL) 	ALWMTLLKKVLKAAAKAALNAVLVGANA
+AP00161
+P80281, Dermaseptin-S5 (DRS-S5; Dermaseptin S5, DRS S5; UCLL1; frog, amphibians, animals; ZZP) 	GLWSKIKTAGKSVAKAAAKAAVKAVTNAV
+AP00166
+1Z64, Pleurocidin (NRC-4, NRC-04; WF2; XXA; fish, animals, UCLL1) 	GWGSFFKKAAHVGKHVGKAALTHYL
+AP00171
+Q24395, Metchnikowin (Mtk-1, Pro-rich; insects, arthropods, invertebrates, animals) 	HRHQGPIFDTRPSPFNPNQPRPGPIY
+AP00173
+P49112, GNCP-2 (Guinea pig neutrophil cationic peptide 2, alpha, defensins, UCSS1a; rodents, mammals, animals) 	RCICTTRTCRFPYRRLGTCLFQNRVYTFCC
+AP00174
+Q64365, GNCP-1 (Guinea pig neutrophil cationic peptide 1, alpha, defensins, UCSS1a; rodents, mammals, animals) 	RRCICTTRTCRFPYRRLGTCIFQNRVYTFCC
+AP00175
+P34084, Macaque histatin (His-rich, M-Histatin 1, primate, monkey, mammals, animals) 	DSHEERHHGRHGHHKYGRKFHEKHHSHRGYRSNYLYDN
+AP00176
+3GNY, human neutrophil peptide-1 (HNP-1, HNP1, alpha Defensin, UCSS1a; lectin; primates, mammals, animals; XXX; ZZHh, BBS; BBL; BBW; 3S=S) 	ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00177
+1ZMI, human neutrophil peptide-2 (HNP-2, HNP2, alpha Defensin, lectin; UCSS1a; primates, mammals, animals; ZZHh, BBS; 3S=S; BBMm) 	CYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00178
+1DFN, human neutrophil peptide-3 (HNP-3, HNP3, alpha Defensin, UCSS1a; primates, mammals, animals; lectin; ZZHh, BBS; 3S=S) 	DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00179
+1ZMM, human neutrophil peptide-4 (HNP-4, HNP4, alpha Defensin; UCSS1a; primates, mammals, animals; ZZH; 3S=S) 	VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV
+AP00180
+1ZMP, human defensin 5 (HD-5, HD5, DEFA5; intestinal, alpha Defensin; UCSS1a; primates, mammals, animals; BBBH2O; 3S=S; BBL; Derivatives: HD5(1-9)) 	ATCYCRTGRCATRESLSGVCEISGRLYRLCCR
+AP00181
+1ZMQ, human defensin 6 (HD-6, HD6, intestinal, alpha defensin; UCSS1a; primates, mammals, animals; BBBH2O; 3S=S) 	AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL
+AP00184
+P28794, MBP-1 (Maize Basic Peptide 1; hairpin-like peptides; plants; 2S=S, UCSS1a) 	RSGRGECRRQCLRRHEGQPWETQECMRRCRRRG
+AP00187
+P01376, Rabbit neutrophil peptide 1 (NP-1, rabbit alpha-defensin, UCSS1a; mammals; animals; 3S=S) 	VVCACRRALCLPRERRAGFCRIRGRIHPLCCRR
+AP00188
+P01377, Rabbit neutrophil defensin 2 (NP-2, NP2; defensin; UCSS1a; rabbit, mammals; animals) 	VVCACRRALCLPLERRAGFCRIRGRIHPLCCRR
+AP00190
+1M02, PW2 (synthetic; ZZP) 	HPLKQYWWRPSI
+AP00191
+1KFP, Gomesin (Gm, UCSS1a; Spiders, XXA, ZZP, XXQ, arachnids, Chelicerata, arthropods, invertebrates, animals; 2S=S; UCSS1a) 	QCRRLCYKQRCVTYCRGR
+AP00192
+1M4E, Hepcidin (Hepcidin 20; UCSS1a; human, primates, mammals, animals; 4S=S) 	ICIFCCGCCHRSKCGMCCKT
+AP00193
+2KEF, human LEAP-1 (Human Liver Expressed Antimicrobial Peptide-1; hepcidin 25; hepc25, UCSS1a; 4S=S, primates, mammals, animals; BBN; BBII; revisited) 	DTHFPICIFCCGCCHRSKCGMCCKT
+AP00194
+1MMC, Ac-AMP2 (A. caudatus antimicrobial peptide 2, UCSS1a; 3S=S, chitin-binding, plants; BBS) 	VGECVRGRCPSGMCCSQFGYCGKGPKYCGR
+AP00195
+1PG1, Protegrin 1 (Protegrin-1, PG-1, IB-200; UCSS1a; cathelicidin, pigs, mammals; animals; XXA, ZZHa, BBBm; Derivatives: Iseganan, protegrin IB 367 (IB-367); Clinical; BBL; JJsn; 2S=S) 	RGGRLCYCRRRFCVCVGR
+AP00202
+P25404, Mj-AMP2 (MjAMP2, knottin-type peptide; UCSS1a; 3S=S; plants) 	CIGNGGRCNENVGPPYCCSGFCLRQPNQGYGVCRNR
+AP00203
+P25403, Mj-AMP1 (MjAMP1,knottin-type peptide; Jalapa defensin; UCSS1a; 3S=S; plants) 	QCIGNGGRCNENVGPPYCCSGFCLRQPGQGYGYCKNR
+AP00209
+P39080, Peptide PGQ (UCLL1; frog, amphibians, animals) 	GVLSNVIGYLKKLGTGALNAVLKQ
+AP00210
+Q99134, PGLa (peptide glycine-leucine-amide, XXA, UCLL1c; frog, amphibians, animals; JJsn; VIHNN) 	GMASKAGAIAGKIAKVALKAL
+AP00211
+1RKK, Polyphemusin I (XXA, UCSS1a; Horseshoe Crab, arachnids, Chelicerata, arthropods, ZZHa, invertebrates, animals; BBL; 2S=S) 	RRWCFRVCYRGFCYRKCR
+AP00212
+P14216, Polyphemusin II (UCSS1a; 2S=S; Horseshoe Crab, arachnids, Chelicerata, arthropods, invertebrates, animals, XXA, ZZHa. Derivatives: T22, TW70, T131, T134, T140) 	RRWCFRVCYKGFCYRKCR
+AP00215
+6PI2, Tachyplesin II (XXA, UCSS1a; 2S=S; Horseshoe Crab, arachnids, Chelicerata, arthropods, invertebrates, animals) 	RWCFRVCYRGICYRKCR
+AP00217
+P07469, Rabbit neutrophil defensin 3a (NP-3a, alpha defensin, UCSS1a; mammals, animals; 3S=S) 	GICACRRRFCPNSERFSGYCRVNGARYVRCCSRR
+AP00218
+2MUH, Protegrin 2 (Arg-rich, Protegrin-2, PG-2, cathelicidin, UCSS1a; 2S=S; pigs, mammals; animals; XXA) 	RGGRLCYCRRRFCICV
+AP00219
+2MZ6, Protegrin 3 (Protegrin-3, PG-3, cathelicidin,UCSS1a; 2S=S; dimer BBBm; pigs, mammals; animals; XXA) 	RGGGLCYCRRRFCVCVGR
+AP00221
+2NC7, Protegrin 5 (Protegrin-5, PG-5, cathelicidin, UCSS1a; 2S=S; pigs, mammals; animals; XXA) 	RGGRLCYCRPRFCVCVGR
+AP00222
+Q62716, RatNP-1 (rat defensin, alpha, UCSS1a; 3S=S; rats, rodents, mammals, animals) 	VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR
+AP00223
+Q62715, RatNP-2 (rat defensin, alpha, UCSS1a; 3S=S; rats, rodents, mammals, animals) 	VTCYCRSTRCGFRERLSGACGYRGRIYRLCCR
+AP00224
+Q62713, RatNP-3 (rat defensin, alpha, UCSS1a; 3S=S; rats, rodents, mammals, animals) 	CSCRTSSCRFGERLSGACRLNGRIYRLCC
+AP00225
+Q62714, RatNP-4 (rat defensin, alpha, UCSS1a; 3S=S; rats, rodents, mammals, animals) 	ACYCRIGACVSGERLTGACGLNGRIYRLCCR
+AP00234
+P06833, Seminalplasmin (SPLN, calcium transporter inhibitor, caltrin, cattle, ruminant, mammals; animals, BBPP/BBII, BBglycanMOA) 	SDEKASPDKHHRFSLSRYAKLANRLANPKLLETFLSKWIGDRGNRSV
+AP00235
+P25068, Bovine tracheal antimicrobial peptide (TAP, beta defensin; UCSS1a; cattle, ruminant, mammals, animals; 3S=S) 	NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCRKK
+AP00247
+P81251, Caerin 1.8 (XXA, UCLL1c; frog, amphibians, animals; ZZP) 	GLFKVLGSVAKHLLPHVVPVIAEK
+AP00248
+P81252, Caerin 1.9 (XXA, UCLL1c; frog, amphibians, animals; ZZHa) 	GLFGVLGSIAKHVLPHVVPVIAEK
+AP00260
+P82066, Maculatin 1.1 (Mac1; XXA, UCLL1c; frog, amphibians, animals; ZZHa) 	GLFVGVLAKVAAHVVPAIAEHF
+AP00264
+P80389, Chicken Heterophil Peptide 1 (CHP1, CHP-1, avian beta-defensin, UCSS1a; birds, animals; 3S=S) 	GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIR
+AP00265
+P80390, Chicken Heterophil Peptide 2 (CHP2, CHP-2, avian beta-defensin, UCSS1a; birds, animals; 3S=S) 	GRKSDCFRKNGFCAFLKCPYLTLISGLCSFHLC
+AP00268
+Ref, sBD-1 (sheep beta defensin 1; ruminant, mammals, animals) 	NRLSCHRNKGVCVPSRCPRHMRQIGTCRGPPVKCCRKK
+AP00270
+P81591, Pn-AMP1 (PnAMP1, Hevein-like; UCSS1a; 4S=S; chitin-binding; plants; BBS) 	QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCRS
+AP00272
+P56386, mBD-1 (Murine beta-defensin 1, UCSS1a; mouse, rodents, mammals, animals; 3S=S) 	DQYKCLQHGGFCLRSSCPSNTKLQGTCKPDKPNCCKS
+AP00274
+1BH4, Circulin A (CirA, XXC: cyclotides; 3S=S; UCBB1b; plants; ZZHp) 	GIPCGESCVWIPCISAALGCSCKNKVCYRN
+AP00275
+2ERI, Circulin B (CirB, XXC; cyclotides; UCBB1b; plants; ZZHp; 3S=S) 	GVIPCGESCVFIPCISTLLGCSCKNKVCYRN
+AP00281
+P51473, mCRAMP (mouse cathelin-related antimicrobial peptide; cathelicidin, rodents, mammals, animals; derivatives: CRAMP 18) 	GLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPEQ
+AP00282
+P56872, Cyclopsychotride A (CPT; XXC; cyclotides; UCBB1b; 3S=S; plants) 	SIPCGESCVFIPCTVTALLGCSCKSKVCYKN
+AP00283
+1KJ6, Human beta defensin 3 (hBD-3, hBD3, or DEFB103, human defensin, 3S=S, UCSS1a; primates, mammals, animals; ZZHh; BBBh2o; BBW; JJsn) 	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+AP00284
+P83376, Dolabellanin B2 (mollusca/molluscs/mollusks, marine invertebrates, animals) 	SHQDCYEALHKCMASHSKPFSCSMKFHMCLQQQ
+AP00286
+1AYJ, Rs-AFP1 (RsAFP1, Raphanus sativus-antigungal protein 1, defensin; UCSS1a; 4S=S, plants) 	QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+AP00287
+P30226, Rs-AFP2 (RsAFP2, Raphanus sativus-antigungal protein 2, plant defensin, UCSS1a; 4S=S; BBMm_GlcCerMOA; plants) 	QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSCNYVFPAHKCICYFPC
+AP00288
+P81572, So-D1 (S. oleracea defensin 1, UCSS1a; spinach, plants; BWQ) 	TCESPSHKFKGPCATNRNCES
+AP00292
+P81573, So-D7 (S. oleracea defensin 7; UCSS1a; spinach, plants) 	GIFSSRKCKTPSKTFKGYCTRDSNCDTSCRYEGYPAGD
+AP00293
+P80282, Dermaseptin-B1 (DRS-B1, DrsB1, Dermaseptin B1, DRS B1, XXA, UCLL1c; frog, amphibians, animals; derivative, MsrA2 (N-Met-dermaseptin B1)) 	AMWKDVLKKIGTVALHAGKAALGAVADTISQ
+AP00303
+P82651, Tigerinin 1 (UCSS1; XXU; 1S=S, frog, amphibians, animals; BBMm) 	FCTMIPIPRCY
+AP00304
+P82652, Tigerinin 2 (UCSS1; XXU; 1S=S, frog, amphibians, animals; BBMm) 	RVCFAIPLPICH
+AP00305
+P82653, Tigerinin 3 (UCSS1; XXU; 1S=S, frog, amphibians, animals; BBMm) 	RVCYAIPLPICY
+AP00306
+Ref, Tigerinin 4 (UCSS1; XXU; 1S=S, frog, amphibians, animals; BBMm) 	RVCYAIPLPIC
+AP00307
+P55897, Buforin I (UCLL1; Asian toad, amphibians; pigs; human; primates, mammals; animals; histone-derived; BBN) 	AGRGKQGGKVRAKAKTRSSRAGLQFPVGRVHRLLRKGNY
+AP00308
+P55897, Buforin II (buforin 2; UCLL1; synthetic; VIHNN; BBN; BBL; Derivatives: buforin IIb; histonin) 	TRSSRAGLQFPVGRVHRLLRK
+AP00310
+2K6O, LL-37 [LL37; FALL-39; cathelicidin; UCLL1; human; chimpanzee; primates, mammals, animals; XXX; XXY; XXZ; BBBh2o, BBBm; BBMm, BBPP, BBN, BBL, BBrsg, JJsn; Derivatives: many) 	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+AP00336
+P83327, Histone H2A (fish, animals) 	AERVGAGAPVYL
+AP00337
+P81904, Histone H2B-3(HLP-3) (BWQ, fish, animals) 	PDPAKTAPKKKSKKAVT
+AP00338
+P81903, Histone H2B-1(HLP-1) (BWQ, fish, animals; More AMPs: HLP-2, 30 kDa, also antifungal, sequence unknown) 	PDPAKTAPKKGSKKAVTKA
+AP00342
+O81338, Mc-AMP1 (M. crystallinum Antimicrobial peptide 1, knottin-type peptide, plants; 2S=S; UCSS1a) 	AKCIKNGKGCREDQGPPFCCSGFCYRQVGWARGYCKNR
+AP00345
+P82104, Caerin 1.10 (UCLL1c; frog, amphibians, animals; XXA; Caerin 1.1.1, inactive; caerin 1.1.2 inactive) 	GLLSVLGSVAKHVLPHVVPVIAEKL
+AP00351
+P81835, Citropin 1.1 (UCLL1c; XXA, frog, amphibians, animals) 	GLFDVIKKVASVIGGL
+AP00352
+P81840, Citropin 1.2 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIIKKVASVVGGL
+AP00353
+P81846, Citropin 1.3 (XXA, UCLL1c; frog, amphibians, animals) 	GLFDIIKKVASVIGGL
+AP00355
+P83171, Ginkbilobin (Bai Guo; plants; BWQ) 	ANTAFVSSAHNTQKIPAGAPFNRNLRAMLADLRQNAAFAG
+AP00366
+2KET, BMAP-27 (BMAP27, bovine myeloid antimicrobial peptide 27; bovine cathelicidin, cattle, ruminant, mammals, animals; ZZHs; ZZP; UCLL1; Derivatives: BMAP-18 and BMAP-15) 	GRFKRFRKKFKKLFKKLSPVIPLLHLG
+AP00367
+P54229, BMAP-28 (BMAP28, bovine myeloid antimicrobial peptide 28; bovine cathelicidin-5, cattle, ruminant, mammals, animals; BBMm;ZZP; UCLL1; Derivatives: mBMAP-28 	GGLRSLGRKILRAWKKYGPIIVPIIRIG
+AP00369
+P49930, PMAP-23 (PMAP23, cathelicidin, pigs, mammals; animals; BBN) 	RIIDLLWRVRRPQKPKFVTVWVR
+AP00374
+P83313, Opistoporin 1 (OP1; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNLVAEKIGATPS
+AP00376
+P82414, Ponericin G1 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ
+AP00377
+P82415, Ponericin G2 (antss, insects, arthropods, invertebrates, animals) 	GWKDWLKKGKEWLKAKGPGIVKAALQAATQ
+AP00378
+P82416, Ponericin G3 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GWKDWLNKGKEWLKKKGPGIMKAALKAATQ
+AP00379
+P82417, Ponericin G4 (antss, insects, arthropods, invertebrates, animals; ZZI) 	DFKDWMKTAGEWLKKKGPGILKAAMAAAT
+AP00382
+P82420, Ponericin G7 (antss, insects, arthropods, invertebrates, animals) 	GLVDVLGKVGGLIKKLLPG
+AP00385
+P83312, Parabutoporin (PP; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; Lys-rich; UCLL1a) 	FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ
+AP00386
+P82423, Ponericin W1 (antss, insects, arthropods, invertebrates, animals; ZZI) 	WLGSALKIGAKLLPSVVGLFKKKKQ
+AP00387
+P82424, Ponericin W2 (antss, insects, arthropods, invertebrates, animals) 	WLGSALKIGAKLLPSVVGLFQKKKK
+AP00388
+P82425, Ponericin W3 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GIWGTLAKIGIKAVPRVISMLKKKKQ
+AP00389
+P82426, Ponericin W4 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GIWGTALKWGVKLLPKLVGMAQTKKQ
+AP00390
+P82427, Ponericin W5 (antss, insects, arthropods, invertebrates, animals; ZZI) 	FWGALIKGAAKLIPSVVGLFKKKQ
+AP00392
+P81056, Penaeidin-1 (PEN1, class 1, Pro-rich domain + Cys-rich domain; modular design; shrimp, Crustaceans, arthropods, invertebrates, animals) 	YRGGYTGPIPRPPPIGRPPLRLVVCACYRLSVSDARNCCIKFGSCCHLVK
+AP00393
+P81057, Penaeidin-2a (PEN2a, class 1, Pro-rich domain + Cys-rich domain; modular design; shrimp, Crustaceans, arthropods, invertebrates, animals) 	YRGGYTGPIPRPPPIGRPPFRPVCNACYRLSVSDARNCCIKFGSCCHLVK
+AP00394
+P81058, Penaeidin-3a (PEN3a, class 1, Pro-rich domain + Cys-rich domain; modular design; 3S=S, UCSS1a; shrimp, Crustaceans, arthropods, invertebrates, animals) 	QVYKGGYTRPIPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYS
+AP00395
+Q95NT0, Penaeidin-4a (PEN4a, class 1, Pro-rich domain + Cys-rich domain; modular design; shrimp, Crustaceans, arthropods, invertebrates, animals) 	HSSGYTRPLPKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHR
+AP00399
+1ZRV, Spinigerin (insects, arthropods, invertebrates, animals; ZZH) 	HVDKKVADKVLLLKQLRIMRLLTRL
+AP00400
+P80952, Skin peptide tyrosine-tyrosine (Skin peptide YY; skin-PYY, SPYY, Neuropeptide; UCLL1; frog, amphibians, animals; XXA) 	YPPKPESPGEDASPEEMNKYLTALRHYINLVTRQRY
+AP00401
+Q28880, Lingual antimicrobial peptide (LAP, beta defensin, UCSS1a; cattle, ruminant, mammals; animals; 3S=S) 	GFTQGVRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK
+AP00402
+2GL1, VrD2 (Vigna radiata defensin 2, 4S=S, UCSS1a; plant defensin, mung bean; plants) 	KTCENLANTYRGPCFTTGSCDDHCKNKEHLRSGRCRDDFRCWCTRNC
+AP00403
+1MM0, Termicin (XXA; defensin; UCSS1a; insects, arthropods, invertebrates, animals; 3S=S) 	ACNFQSCWATCQAQHSIYFRRAFCDRSQCKCVFVRG
+AP00404
+Q25055, Holotricin 3 (Gly-rich; His-rich; insects, arthropods, invertebrates, animals) 	YGPGDGHGGGHGGGHGGGHGNGQGGGHGHGPGGGFGGGHGGGHGGGGRGGGGSGGGGSPGHGAGGGYPGGHGGGHHGGYQTHGY
+AP00407
+P82823, RANATUERIN-2ONa (1S=S, XXU, UCSS1; frog, amphibians, animals; inactive: RANATUERIN 8) 	GLMDTVKNAAKNLAGQMLDKLKCKITGSC
+AP00420
+1XV3, Penaeidin-4d (penaeidin 4, PEN4,class 1; Pro-rich domain + Cys-rich domain; modular design; shrimp, Crustaceans, arthropods, invertebrates, animals) 	HSSGYTRPLRKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHL
+AP00421
+Q963C3, Penaeidin-4C (PEN4c, class 1, Pro-rich domain + Cys-rich domain; modular design; shrimp, Crustaceans, arthropods, invertebrates, animals) 	YSSGYTRPLPKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHR
+AP00422
+Q962B1, Penaeidin-3m (PEN3m, class 1, Pro-rich domain + Cys-rich domain; modular design; shrimp, Crustaceans, arthropods, invertebrates, animals) 	QGCKGPYTRPILRPYVRPVVSYNACTLSCRGITTTQARSCCTRLGRCCHVAKGYS
+AP00423
+Q962B0, Penaeidin-3n (PEN3n, class 1, Pro-rich domain + Cys-rich domain; modular design; shrimp, Crustaceans, arthropods, invertebrates, animals) 	QGYKGPYTRPILRPYVRPVVSYNACTLSCRGITTTQARSCSTRLGRCCHVAKGYS
+AP00424
+Ref, XT-1 (UCLL1; frog, amphibians, animals; XT-5, inactive) 	GFLGPLLKLAAKGVAKVIPHLIPSRQQ
+AP00427
+Ref, CPF-ST3 (XT-7; XXA, UCLL1c; frog, amphibians, animals, SeqAR) 	GLLGPLLKIAAKVGSNLL
+AP00428
+1C01, MiAMP1 (M. integrifolia antimicrobial peptide 1, UCSS1a; plants; 3S=S) 	SAFTVWSGPGCNNRAERYSKCGCSAIHQKGGYDFSYTGQTAALYNQAGCSGVAHTRFGSSARACNPFGWKSIFIQC
+AP00429
+1NKL, Porcine NK-Lysin (saposin-like protein, SAPLIP, pigs, mammals; animals; BBMm, BBL, ZZP; 3S=S; UCSS1a; Derivatives: NK-2; NK-18) 	GLICESCRKIIQKLEDMVGPQPNEDTVTQAASRVCDKMKILRGVCKKIMRTFLRRISKDILTGKKPQAICVDIKICKE
+AP00433
+2YMK, Dermcidin (DCD-1; human, primates, mammals, animals; Variants and derivatives: DCD-1L; SSL-23; SSL-25; SSL-29. JJ5) 	SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSV
+AP00436
+1BK8, Ah-AMP1 (A. hippocastanum antimicrobial peptide 1, defensin; UCSS1a; 3S=S; plants) 	LCNERPSQTWSGNCGNTAHCDKQCQDWEKASHGACHKRENHWKCFCYFNC
+AP00437
+2CRD, Charybdotoxin (UCSS1a; 3S=S, yellow scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; BBPP) 	EFTNVSCTTSKECWSVCQRLHNTSRGKCMNKKCRCYS
+AP00439
+P81468, defensin HANP-4 (alpha, UCSS1a; 3S=S; hamster, animals) 	VTCFCKRPVCDSGETQIGYCRLGNTFYRLCCRQ
+AP00440
+P81465, defensin HANP-1 (alpha, UCSS1a; 3S=S; hamster, animals) 	VTCFCRRRGCASRERHIGYCRFGNTIYRLCCRR
+AP00442
+P81467, defensin HANP-3 (alpha, UCSS1a; 3S=S; hamster, animals) 	VTCFCRRRGCASRERLIGYCRFGNTIYGLCCRR
+AP00443
+P82317, defensin RMAD-2 (monkey, primates, mammals, animals; 3S=S) 	ACYCRIPACLAGERRYGTCFYMGRVWAFCC
+AP00445
+2LYF, RTD-1 (RTD 1; rhesus theta defensin-1; monkey, primates, mammals, animals; 3S=S, Cys-rich; XXC, UCBB1b; BBS, ZZHa; BBBH2o; revisited) 	GFCRCLCRRGVCRCICTR
+AP00446
+P83186, Alpha-basrubrin (Fragment, plants) 	GADFQECMKEHSQKQHQHQG
+AP00448
+P04205, Mastoparan M (MP-M; Mastoparan-VT1, XXA; insects, arthropods, invertebrates, animals; VIHNN) 	INLKAIAALAKKLL
+AP00449
+P01190, Alpha-MSH (AlphaMSH, alpha-melanocyte-stimulating hormone, XXE, XXA; neuropeptide, human, primates, mammals, animals; ZZHh) 	SYSMEHFRWGKPV
+AP00451
+1E4S, hBD-1 (Human beta-defensin 1; hBD1; 3S=S; UCSS1a; primates, mammals, animals; ZZH, JJsn; XXR) 	DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+AP00453
+P82904, Brevinin-1SA (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPAIVGAAGQFLPKIFCAISKKC
+AP00454
+P82905, Brevinin-1SB (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPAIVGAAGKFLPKIFCAISKKC
+AP00455
+P82906, Brevinin-1SC (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FFPIVAGVAGQVLKKIYCTISKKC
+AP00460
+P82842, Brevinin-1PB (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIAGIAAKVFPKIFCAISKKC
+AP00461
+P82825, Brevinin-1LA (Also Brevinin-1PRd; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPMLAGLAASMVPKLVCLITKKC
+AP00464
+P82834, Brevinin-1Bb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPAIAGMAAKFLPKIFCAISKKC
+AP00466
+P82836, Brevinin-1Bd (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPAIAGVAAKFLPKIFCAISKKC
+AP00469
+P82841, Brevinin-1Pa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIAGVAAKVFPKIFCAISKKC
+AP00470
+P82843, Brevinin-1Pc (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIASVAAKVFSKIFCAISKKC
+AP00471
+P82844, Brevinin-1Pd (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIASVAANVFSKIFCAISKKC
+AP00473
+2jos, Piscidin 1 (piscidin-1; Pis-1; fish, animals; Variants: Piscidin-1N, piscidin-1H; ZZH; BBII, UCLL1) 	FFHHIFRGIVHVGKTIHRLVTG
+AP00474
+2MCX, Piscidin 3 (Pis-3; fish, animals; BBII, UCLL1) 	FIHHIFRGIVHAGRSIGRFLTG
+AP00479
+1DKC, Antifungal protein 1(PAFP-S, knottin-type peptide; defensins; UCSS1a; plants; 3S=S) 	AGCIKNGGRCNASAGPPYCCSSYCFQIAGQSYGVCKNR
+AP00483
+1JKZ, PsD1 (Pisum sativvm defensin 1; UCSS1a; plants; 4S=S) 	KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC
+AP00484
+1ZRX, Stomoxyn (XXA; insects, arthropods, invertebrates, animals) 	RGFRKHFNKLVKKVKHTISETAHVAKDTAVIAGSGAAVVAAT
+AP00490
+Ref, Ranacyclin B3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	AALKGCWTKSIPPKPCSGKR
+AP00491
+Ref, Ranacyclin B5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	AALRGCWTKSIPPKPCSGKR
+AP00492
+P81474, Misgurin (fish, animals; XXH; UCLL1; BBMm) 	RQRVEELSKFSKKGAAARRRK
+AP00495
+P80359, Pseudo-hevein (4S=S, UCSS1a; Minor hevein, hevein-like peptides; plants) 	EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNCKGGG
+AP00504
+Ref, human MUC7 20-Mer (primates, mammals, animals) 	LAHQKPFIRKSYKCLHKRCR
+AP00505
+P15516, human Histatin 5 (hst5; primates, mammals, animals; His-rich; ZZHs; BBII; derivatives: Dh-5; Dhvar5; Dhvar4; demegen P-113; P113; Clinical) 	DSHAKRHHGYKRKFHEKHHSHRGY
+AP00508
+Ref, Nigrocin-1 (frog, amphibians, animals; XXU, 1S=S, UCSS1a) 	GLLDSIKGMAISAGKGALQNLLKVASCKLDKTC
+AP00509
+Ref, Human Calcitermin ( primates, mammals, animals; BBII) 	VAIALKAAHYHTHKE
+AP00511
+Ref, Shepherin I (Gly-rich; His-rich; plants) 	GYGGHGGHGGHGGHGGHGGHGHGGGGHG
+AP00512
+Ref, Shepherin II (Gly-rich; His-rich; plants) 	GYHGGHGGHGGGYNGGGGHGGHGGGYNGGGHHGGGGHG
+AP00513
+P39084, Ranalexin (frog, amphibians, animals; ZZP; XXU; 1S=S, UCSS1a) 	FLGGLIKIVPAMICAVTKKC
+AP00514
+P82876, Ranalexin-1Ca (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLGGLMKAFPALICAVTKKC
+AP00515
+P82877, Ranalexin-1Cb (frog, amphibians, animals; XXU; 1S=S, UCSS1a; DXWZ) 	FLGGLMKAFPAIICAVTKKC
+AP00516
+Ref, Lycotoxin I (lycotoxin-1; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; ZZI; VIHNN; UCLL1c) 	IWLTALKFLGKHAAKHLAKQQLSKL
+AP00518
+Ref, Ib-AMP3 (Ib antimicrobial peptide 3, UCSS1a; 2S=S, plants, XXQ) 	QYRHRCCAWGPGRKYCKRWC
+AP00519
+Ref, Ib-AMP4 (Ib antimicrobial peptide 4, UCSS1a; 2S=S, plants, XXQ, SeqAR) 	QWGRRCCGWGPGRRYCRRWC
+AP00520
+P15516, human Histatin 3 (His-rich, primates, mammals, animals; BBII) 	DSHAKRHHGYKRKFHEKHHSHRGYRSNYLYDN
+AP00523
+P15516, human Histatin 8 (His-rich; primates, mammals, animals;) 	KFHEKHHSHRGY
+AP00524
+1FD3, Human beta defensin 2 (hBD-2; hBD2; UCSS1a; human, primates, mammals, animals; ZZHh; 3S=S; JJsn) 	GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP
+AP00525
+Ref, Maximin H2 (UCLL1c; toad, amphibians, animals; XXA) 	ILGPVLSMVGSALGGLIKKI
+AP00526
+Ref, Maximin H3 (UCLL1c; toad, amphibians, animals; XXA) 	ILGPVLGLVGNALGGLIKKI
+AP00527
+Ref, Maximin H4 (UCLL1c; toad, amphibians, animals; XXA) 	ILGPVISKIGGVLGGLLKNL
+AP00532
+Ref, Lunatusin (plants, ZZHp, BWQ) 	KTCENLADTFRGPCFATSNC
+AP00533
+5U9Y, Ocellatin-F1 (Fallaxin, XXA; UCLL1c; frog, amphibians, animals; Derivatives: FA12) 	GVVDILKGAAKDIAGHLASKVMNKL
+AP00534
+Ref, Tu-AMP 2 (TuAMP2, thionin-like antimicrobial peptides, UCSS1a; 2S=S, plants, tulip) 	KSCCRNTTARNCYNVCRIPG
+AP00535
+Ref, Pilosulin 1 (Myr b I) (antss, insects, arthropods, invertebrates, animals) 	GLGSVFGRLARILGRVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ
+AP00538
+Ref, Halocidin (1S=S heterodimer Hal18 + Hal15; UCSS2a; tunicate, marine invertebrates, animals; Derivatives: HG1; Haloganan; Khal) 	WLNALLHHGLNCAKGVLA
+AP00541
+Ref, Polybia-MPI (Polybia-MP-I; insects, arthropods, invertebrates, animals, XXA; VIHNN; in vivo test) 	IDWKKLLDAAKQIL
+AP00549
+1ZFU, Plectasin (fungi, fungal defensin; UCSS1a; 3S=S, fungii; BBW; Derivatives: NZ2114) 	GFGCNGPWDEDDMQCHNHCKSIKGYKGGYCAKGGFVCKCY
+AP00550
+Ref, Tu-AMP 1 (TuAMP1, thionin-like antimicrobial peptides, plants, tulip; 4S=S; UCSS1a) 	KSCCRNTVARNCYNVCRIPGTPRPVCAATCDCKLITGTKCPPGYEK
+AP00553
+P84868, Sesquin (defensins, plants, ZZHp; BWQ) 	KTCENLADTY
+AP00555
+Ref, Parasin I (fish, animals; histone-H2A-derived; SeqAR; truncation Derivative; BBMms; UCLL1) 	KGRGKQGGKVRAKAKTRSS
+AP00556
+Ref, Kassinatuerin-1 (XXA, UCLL1c; frog, amphibians, animals; Inactive: Kassinatuerin-2 ) 	GFMKYIGPLIPHAVKAISDLI
+AP00565
+Ref, Dybowskin-2 (Brevinin-1CEa; Brevinin-1DYe; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLIGMTQGLICLITRKC
+AP00566
+Ref, Dybowskin-3; Brevinin-2DYc; Brevinin-2RNa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC
+AP00567
+Ref, Dybowskin-4 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	VWPLGLVICKALKIC
+AP00568
+Ref, Dybowskin-5 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLFSVVTGVLKAVGKNVAKNVGGSLLEQLKCKKISGGC
+AP00569
+Ref, Dybowskin-6 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPLLLAGLPLKLCFLFKKC
+AP00570
+Ref, Pleurain-A1 (Pleurain A1, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SIITMTKEAKLPQLWKQIACRLYNTC
+AP00571
+Ref, Pleurain-A2 (Pleurain A2, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SIITMTKEAKLPQSWKQIACRLYNTC
+AP00579
+Ref, Nigrocin-2GRa (Grahamin 2; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSGILGAGKHIVCGLSGLC
+AP00580
+Ref, Nigrocin-2GRb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLFGKILGVGKKVLCGLSGMC
+AP00581
+Ref, Nigrocin-2GRc (Grahamin 1; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSGILGAGKNIVCGLSGLC
+AP00587
+Ref, Brevinin-2TSa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIMSLFKGVLKTAGKHVAGSLVDQLKCKITGGC
+AP00588
+Ref, Brevinin-1TSa (XXA; UCLL1c; frog, amphibians, animals) 	FLGSIVGALASALPSLISKIRN
+AP00597
+Ref, Temporin-1CSd (Temporin-1DRb; UCLL1c; frog, amphibians, animals; XXA) 	NFLGTLVNLAKKIL
+AP00599
+Ref, Brevinin-2-related peptide (XXA, UCLL1c; frog, amphibians, animals; ZZH) 	GIWDTIKSMGKVFAGKILQNL
+AP00600
+Ref, Odorranain-HP (UCLL1; frog, amphibians, animals) 	GLLRASSVWGRKYYVDLAGCAKA
+AP00601
+Ref, Brevinin-1DYa (Amurin-2c; frog, amphibians, animals; XXU; 1S=S, UCSS1a; Amurin-2a) 	FLSLALAALPKFLCLVFKKC
+AP00602
+Ref, Brevinin-1DYb (Amurin-2; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLSLALAALPKLFCLIFKKC
+AP00625
+Ref, human KR-20 (KR20 from parent cathelicidin; UCLL1; primates, mammals, animals) 	KRIVQRIKDFLRNLVPRTES
+AP00626
+Ref, human KS-30 (KS30 from parent cathelicidin; UCLL1; primates, mammals, animals) 	KSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+AP00627
+Ref, human RK-31 (RK31 from parent cathelicidin; UCLL1; primates, mammals, animals) 	RKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+AP00628
+2LMF, LL-23 (LL23, derived from its parent cathelicidin; UCLL1; humans; primates, mammals, animals) 	LLGDFFRKSKEKIGKEFKRIVQR
+AP00646
+Ref, Brevinin-1PLa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FFPNVASVPGQVLLKKIFCAISKKC
+AP00647
+Ref, Brevinin-1PLb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPLIAGLAANFLPKIFCAITKKC
+AP00648
+Ref, Brevinin-1PLc (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPVIAGVAAKFLPKIFCAITKKC
+AP00651
+Ref, Esculentin-2PLa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLFSILKGVGKIALKGLAKNMGKMGLDLVSCKISKEC
+AP00654
+Ref, Ranatuerin-2PLc (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLDTIKNTAKNLAVGLLDKIKCKMTGC
+AP00660
+Ref, Pandinin 2 (Pin2; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FWGALAKGALKLIPSLFSSFSKKD
+AP00661
+Ref, Esculentin-2L (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILSLFTGGIKALGKTLFKMAGKAGAEHLACKATNQC
+AP00662
+Ref, Esculentin-2B (ESC2B-RANBE, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLFSILRGAAKFASKGLGKDLTKLGVDLVACKISKQC
+AP00672
+1myn, Drosomycin (defensins; UCSS1a; insects, arthropods, invertebrates, animals; 4S=S; ZZP) 	DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC
+AP00678
+Ref, K9CATH (Caninacidin, canine cathelicidin, dogs, mammals, animals; BBL) 	RLKELITTGGQKIGEKIRRIGQRIKDFFKNLQPREEKS
+AP00686
+Ref, eCATH-1 (eCATH1; equine cathelicidin 1, mammals, animals; horsy) 	KRFGRLAKSFLRMRILLPRRKILLAS
+AP00687
+Ref, eCATH-2 (eCATH2; equine cathelicidin 2, mammals, animals; horsy) 	KRRHWFPLSFQEFLEQLRRFRDQLPFP
+AP00688
+Ref, eCATH-3 (eCATH3; equine cathelicidin 3, mammals, animals; horsy) 	KRFHSVGSLIQRHQQMIRDKSEATRHGIRIITRPKLLLAS
+AP00694
+Ref, AR-23 (MRP, melittin-related peptide, XXA, UCLL1c; frog, amphibians, animals) 	AIGSILGALAKGLPTLISWIKNR
+AP00715
+Ref, VaD1 (defensins; plants; 4S=S; UCSS1a) 	RTCMKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC
+AP00716
+1TI5, VrD1 (V. radiata defensin 1; 3S=S; UCSS1a; plants; ZZI) 	RTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC
+AP00722
+Ref, Cryptonin (insects, cicada, arthropods, invertebrates, animals) 	GLLNGLALRLGKRALKKIIKRLCR
+AP00723
+Ref, Decoralin (Dec-NH2; insects, arthropods, invertebrates, animals, UCLL1a) 	SLLSLIRKLIT
+AP00724
+Ref, RTD-2 (RTD 2, rhesus theta-defensin 2, minidefensin; monkey, primates, mammals, animals; 3S=S, Cys-rich; XXC, UCBB1b; BBS, ZZHa) 	GVCRCLCRRGVCRCLCRR
+AP00725
+Ref, RTD-3 (rhesus theta defensin 3, minidefensin; monkey, primates, mammals, animals; 3S=S, Cys-rich; XXC, UCBB1b; BBS, ZZHa) 	GFCRCICTRGFCRCICTR
+AP00726
+Ref, Acidocin LCHV (bacteriocin, bacteria, prokaryotes; UCLL1a) 	NVGVLNPPPLV
+AP00727
+2jsb, Arenicin-1 (Ar-1, UCSS1a; 1S=S, marine polychaeta, annelid, invertebrates, animals; BBL; BBBh2o; BBMm) 	RWCVYAYVRVRGVLVRYRRCW
+AP00728
+2jni, Arenicin-2 (Ar-2, UCSS1a; 1S=S, marine polychaeta, annelid, invertebrates, animals; BBBh2o; BBMm) 	RWCVYAYVRIRGVLVRYRRCW
+AP00731
+1ut3, Penguin AvBD103b (penguin avian beta-defensin 103b; Spheniscin-2, Sphe-2; UCSS1a; birds, animals; 3S=S) 	SFGLCRLRRGFCARGRCRFPSIPIGRCSRFVQCCRRVW
+AP00732
+Ref, Penguin AvBD103a (penguin avian beta-defensin 103a; Spheniscin-1, Sphe-1; UCSS1a; birds, animals; 3S=S) 	SFGLCRLRRGSCAHGRCRFPSIPIGRCSRFVQCCRRVW
+AP00737
+Ref, Plasticin-B1 (PTC-B1; PBN2KF, DRP-PBN2, UCLL1; frog, amphibians, animals) 	GLVTSLIKGAGKLLGGLFGSVTGGQS
+AP00738
+2DEZ, Human peptide YY (PYY, neuropeptide; primates, mammals, animals) 	YPIKPEAPREDASPEELNRYYASLRHYLNLVTRQRY
+AP00739
+Ref, Caeridin-a1 (frog, amphibians, animals; XXA) 	GLFDIVGKLLGGLGL
+AP00746
+Ref, Alo-1 (Alo1; knottin-type peptide; 3S=S, UCSS1a; insects, arthropods, invertebrates, animals) 	CIKNGNGCQPDGSQGNCCSRYCHKEPGWVAGYCR
+AP00747
+Ref, Alo-2 (Alo2; knottin-type peptide; 3S=S, UCSS1a; insects, arthropods, invertebrates, animals) 	CIANRNGCQPDGSQGNCCSGYCHKEPGWVAGYCR
+AP00748
+Ref, Gm pro-rich pept1 (insects, arthropods, invertebrates, animals) 	DIQIPGIKKPTHRDIIIPNWNPNVRTQPWQRFGGNKS
+AP00749
+Ref, Gm anionic pept 1 (insects, arthropods, invertebrates, animals) 	EADEPLWLYKGDNIERAPTTADHPILPSIIDDVKLDPNRRYA
+AP00751
+Ref, Galleria defensin (insects, arthropods, invertebrates, animals; 3S=S; UCSS1a) 	DTLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFLNVNCWCE
+AP00752
+Ref, Gm defensin-like peptide (insects, arthropods, invertebrates, animals; 3S=S; UCSS1a) 	DKLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFWNVNCWCEE
+AP00754
+Ref, Gm anionic pept2 (insects, arthropods, invertebrates, animals) 	ETESTPDYLKNIQQQLEEYTKNFNTQVQNAFDSDKIKSEVNNFIESLGKILNTEKKEAPK
+AP00755
+Ref, Gm cecropin D-like pept (insects, arthropods, invertebrates, animals) 	ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD
+AP00756
+Ref, Dermaseptin-B6 (DRS-B6, Dermaseptin B6, DRS B6, XXA, UCLL1c; frog, amphibians, animals) 	ALWKDILKNAGKAALNEINQLVNQ
+AP00777
+Ref, NRC-01 (NRC-1; XXA, Gly-rich; fish, animals; UCLL1c) 	GKGRWLERIGKAGGIIIGGALDHL
+AP00779
+Ref, NRC-03 (NRC-3; XXA, fish, animals; UCLL1c) 	GRRKRKWLRRIGKGVKIIGGAALDHL
+AP00782
+Ref, NRC-06 (NRC-6; XXA, fish, animals; UCLL1c) 	GWGSIFKHGRHAAKHIGHAAVNHYL
+AP00783
+Ref, NRC-07 (NRC-7; XXA, fish, animals; UCLL1c) 	RWGKWFKKATHVGKHVGKAALTAYL
+AP00785
+Ref, NRC-11 (XXA, fish, animals; UCLL1c) 	GWKSVFRKAKKVGKTVGGLALDHYL
+AP00786
+Ref, NRC-12 (XXA, fish, animals; UCLL1c) 	GWKKWFNRAKKVGKTVGGLAVDHYL
+AP00787
+Ref, NRC-13 (XXA, fish, animals; UCLL1c) 	GWRLLLKKAEVKTVGKLALKHYL
+AP00789
+Ref, NRC-15 (XXA, fish, animals; UCLL1c) 	GFWGKLFKLGLHGIGLLHLHL
+AP00790
+Ref, NRC-16 (XXA, fish, animals; UCLL1c) 	GWKKWLRKGAKHLGQAAIK
+AP00791
+Ref, NRC-17 (XXA, fish, animals; UCLL1c) 	GWKKWLRKGAKHLGQAAIKGLAS
+AP00792
+Ref, NRC-19 (XXA, fish, animals; UCLL1c) 	FLGLLFHGVHHVGKWIHGLIHGHH
+AP00793
+Ref, Bombinin H2 (XXA, UCLL1c; toad, amphibians, animals) 	LIGPVLGLVGSALGGLLKKI
+AP00796
+Ref, Damicornin (XXA; 3S=S; UCSS1a; Cnidaria, marine animals) 	ACADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCR
+AP00798
+Ref, human Histatin 1 (XXP) (Hst1; His-rich; primates, mammals, animals) 	DSHEKRHHGYRRKFHEKHHSHREFPFYGDYGSNYLYDN
+AP00799
+Ref, human Histatin 2 (His-rich; primates, mammals, animals) 	RKFHEKHHSHREFPFYGDYGSNYLYDN
+AP00800
+Ref, human Histatin 4 (His-rich; primates, mammals, animals) 	RKFHEKHHSHRGYRSNYLYDN
+AP00801
+Ref, human Histatin 6 (His-rich; primates, mammals, animals) 	DSHAKRHHGYKRKFHEKHHSHRGYR
+AP00802
+Ref, human Histatin 7 (His-rich; primates, mammals, animals) 	RKFHEKHHSHRGY
+AP00803
+Ref, Human histatin 9 (His-rich; primates, mammals, animals. Other derivatives detected are Histatin 10, Histatin 11, and Histatin 12) 	RKFHEKHHSHRGYR
+AP00804
+Ref, BTD-3 (theta-defensin-3, 3S=S, Cys-rich; XXC; UCBB1b; olive baboon, primates, mammals, animals; BBMM) 	RCVCTRGFCRCVCTRGFC
+AP00806
+2KNJ, Microplusin (tick, Nuttalliellidae,arachnids, Chelicerata, arthropods, invertebrates, animals; BBII) 	HHQELCTKGDDALVTELECIRLRISPETNAAFDNAVQQLNCLNRACAYRKMCATNNLEQAMSVYFTNEQIKEIHDAATACDPEAHHEHDH
+AP00808
+Ref, hepcidin (also AS-hepc6; 4S=S, UCSS1a; fish, animals) 	CRFCCRCCPRMRGCGLCCRF
+AP00811
+2L1Q, LEAP-2 (human liver Expressed Antimicrobial Peptide-2, 2S=S; UCSS1a; Human; primates, mammals, animals) 	MTPFWRGVSLRPIGASCRDDSECITRLCRKRRCSLSVAQE
+AP00813
+1Q3J, Alo-3 (Alo3; knottin-type peptide; 3S=S, UCSS1a; insects, arthropods, invertebrates, animals) 	CIKNGNGCQPNGSQNGCCSGYCHKQPGWVAGYCRRK
+AP00818
+Ref, Temporin-1Ob (XXA; UCLL1c; frog, amphibians, animals) 	FLPLIGKILGTIL
+AP00819
+Ref, Temporin-1Oc (XXA; UCLL1c; frog, amphibians, animals) 	FLPLLASLFSRLF
+AP00821
+Ref, Brevinin-2Oa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLFNVFKGLKTAGKHVAGSLLNQLKCKVSGGC
+AP00822
+Ref, Brevinin-2Ob (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFNVFKGALKTAGKHVAGSLLNQLKCKVSGEC
+AP00823
+Ref, Temporin-1Ga (XXA, UCLL1c; frog, amphibians, animals) 	SILPTIVSFLSKVF
+AP00827
+Ref, Ranatuerin-1Ga (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SMISVLKNLGKVGLGFVACKVNKQC
+AP00829
+Ref, Ranalexin-1G (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLGGLMKIIPAAFCAVTKKC
+AP00831
+Ref, Odorranain-NR (UCLL1a; XXU; 1S=S, frog, amphibians, animals) 	GLLSGILGAGKHIVCGLTGCAKA
+AP00832
+Ref, Maximin H1 (XXA, UCLL1c; toad, amphibians, animals) 	ILGPVISTIGGVLGGLLKNL
+AP00833
+Ref, Human drosomycin-like defensin (DLD; UCSS1a; primates, mammals, animals; 3S=S) 	CLAGRLDKQCTCRRSQPSRRSGHEVGRPSPHCGPSRQCGCHMD
+AP00834
+Ref, G. mellonella moricin-like peptide A (Gm-mlpA, insects, arthropods, invertebrates, animals) 	KVNANAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH
+AP00835
+Ref, G. mellonella moricin-like peptide B (Gm-mlpB, insects, arthropods, invertebrates, animals) 	GKIPVKAIKKGGQIIGKALRGINIASTAHDIISQFKPKKKKNH
+AP00836
+Ref, G. mellonella moricin-like peptide C1 (Gm-mlpC1, insects, arthropods, invertebrates, animals) 	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRH
+AP00837
+Ref, G. mellonella moricin-like peptide C2 (Gm-mlpC2, insects, arthropods, invertebrates, animals) 	KVPIGAIKKGGKIIKKGLGVLGAAGTAHEVYNHVRNRQ
+AP00838
+Ref, G. mellonella moricin-like peptide C3 (Gm-mlpC3, insects, arthropods, invertebrates, animals) 	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRQ
+AP00839
+Ref, G. mellonella moricin-like peptide C4/C5 (Gm-mlpC4/C5, insects, arthropods, invertebrates, animals) 	KVPVGAIKKGGKAIKTGLGVVGAAGTAHEVYSHIRNRH
+AP00840
+Ref, G. mellonella moricin-like peptide D (Gm-mlpD, insects, arthropods, invertebrates, animals) 	KGIGSALKKGGKIIKGGLGALGAIGTGQQVYEHVQNRQ
+AP00855
+Ref, BTD-4 (theta-defensin-4, 3S=S, Cys-rich; XXC; UCBB1b; baboon, primates, mammals, animals; BBMM) 	RCVCTRGFCRCICLLGIC
+AP00856
+Ref, BTD-7 (theta-defensin-7, 3S=S, Cys-rich; XXC; UCBB1b; baboon, primates, mammals, animals; BBMM) 	RCVCTRGFCRCFCRRGVC
+AP00857
+Ref, Catestatin (human CHGA(352-372), SL21, human Cst; a neuropeptide; primates, mammals, animals) 	SSMKLSFRARAYGFRGPGPQL
+AP00861
+Ref, Brevinin-ALb (Brevinin ALb, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPLAVSLAANFLPKLFCKITKKC
+AP00863
+Ref, Temporin-ALa (Temporin ALa, XXA; UCLL1c; frog, amphibians, animals) 	FLPIVGKLLSGLSGLL
+AP00866
+Ref, Temporin 1Bya (XXA, Temporin-1Bya, UCLL1c; frog, amphibians, animals) 	FLPIIAKVLSGLL
+AP00871
+Ref, Temporin 1OLa (XXA, Temporin-1OLa, UCLL1c; frog, amphibians, animals. More AMPs?) 	FLPFLKSILGKIL
+AP00878
+6G4I, Brevinin-1BYa (Brevinin 1BYa, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPILASLAAKFGPKLFCLVTKKC
+AP00879
+Ref, Cathelicidin-AM (giant panda, mammals, animals) 	GRLRNLIEKAGQNIRGKIQGIGRRIKDILKNLQPRPQV
+AP00881
+Ref, Brevinin-2HS2 (Brevinin 2HS2, UCLL1; frog, amphibians, animals) 	SLLGTVKDLLIGAGKSAAQSVLKGLSGKLSKDC
+AP00884
+Ref, Ixosin-B (insects, arthropods, invertebrates, animals) 	QLKVDLWGTRSGIQPEQHSSGKSDVRRWRSRY
+AP00885
+Ref, Brevinin-1BYb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPILASLAAKLGPKLFCLVTKKC
+AP00886
+Ref, Brevinin-1BYc (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPILASLAATLGPKLLCLITKKC
+AP00887
+Ref, Ranatuerin-2BYa (Brevinin-2BYa; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC
+AP00888
+Ref, Brevinin-2BYb (Ranatuerin-2BYb; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIMDSVKGLAKNLAGKLLDSLKCKITGC
+AP00889
+Ref, SP-B (Pro-rich; pigs, mammals; animals) 	APPGARPPPGPPPPGPPPPGP
+AP00890
+Ref, Delta-Myrtoxin-Mp1a (heterodimer; old Pilosulin 2; Myr b II; antss, insects, arthropods, invertebrates, animals; BBMm; 2S=S; UCSS2a; revisited) 	IDWKKVDWKKVSKKTCKVMLKACKFLG
+AP00893
+Ref, Pilosulin 5 (Myr b III)(antss, insects, arthropods, invertebrates, animals) 	DVKGMKKAIKGILDCVIEKGYDKLAAKLKKVIQQLWE
+AP00898
+Ref, Temporin-SHa (temporin SHa; Temporin-1Sa, Temp-1Sa; XXA; UCLL1c; frog, amphibians, animals) 	FLSGIVGMLGKLF
+AP00899
+Ref, Temporin-SHb (Temporin-1Sb, Temp-1Sb, XXA; UCLL1c; frog, amphibians, animals) 	FLPIVTNLLSGLL
+AP00900
+Ref, Temporin-SHc (Temporin-1Sc, Temp-1Sc, XXA; UCLL1c; frog, amphibians, animals) 	FLSHIAGFLSNLF
+AP00912
+Ref, Ar-AMP (ArAMP, A. retroflexus antimicrobial peptide, hevein-like family; UCSS1a; 3S=S; plants) 	AGECVQGRCPSGMCCSQFGYCGRGPKYCGR
+AP00913
+Ref, Ib-AMP1 (IbAMP1, Ib antimicrobial peptide 1; UCSS1a; 2S=S; plants, XXQ) 	QWGRRCCGWGPGRRYCVRWC
+AP00914
+Ref, Ib-AMP2 (IBAMP2, Ib antimicrobial peptide 2; UCSS1a; 2S=S; plants, XXQ) 	QYGRRCCNWGPGRRYCKRWC
+AP00915
+Ref, Ee-CBP (E. europaeus chitin-binding protein; a hevein-like peptide; 5s=s; UCSS1a; plants; BBS) 	QQCGRQAGNRRCANNLCCSQYGYCGRTNEYCCTSQGCQSQCRRCG
+AP00916
+Ref, Pa-AMP1 (PaAMP1, defensins, C6 type; 3s=s; UCSS1a; plants) 	AGCIKNGGRCNASAGPPYCCSSYCFQIAGQSYGVCKNR
+AP00917
+Ref, Pa-AMP2 (PaAMP2, defensins, C6 type; 3s=s; UCSS1a; plants) 	ACIKNGGRCVASGGPPYCCSNYCLQIAGQSYGVCKKH
+AP00918
+Ref, Dm-AMP1 (DmAMP1, Dahlia defensin, C8 type; 4s=s; UCSS1a; BBMm_M(IP)2C; plants) 	ELCEKASKTWSGNCGNTGHCDNQCKSWEGAAHGACHVRNGKHMCFCYFNC
+AP00919
+Ref, pSAS10 (defensins; 4s=s; UCSS1a; plants) 	KTCENLVDTYRGPCFTTGSCDDHCKNKEHLLSGRCRDDVRCWCTRNC
+AP00920
+Ref, pI230 (defensins; 4s=s; UCSS1a; plants) 	NTCENLAGSYKGVCFGGCDRHCRTQEGAISGRCRDDFRCWCTKNC
+AP00921
+Ref, SIalpha2 (SIa2, defensins; 4s=s; UCSS1a; plants) 	RVCMKGSAGFKGLCMRDQNCAQVCLQEGWGGGNCDGVMRQCKCIRQC
+AP00922
+Ref, FST (defensins; UCSS1a; plants; 4s=s) 	RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKLLRRCLCTKPC
+AP00938
+Ref, Plasticin-B1a (PTC-B1a; DRP-PBN2a, Dermaseptin-related peptide-PBN2a; UCLL1c; frog, amphibians, animals; XXA) 	GLVTSLIKGAGKLLGGLFGSVTG
+AP00964
+Ref, Dermaseptin-L1 (Dermaseptin L1, DRS-L1; UCLL1; frog, amphibians, animals) 	GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS
+AP00973
+Ref, Phylloseptin-L1 (PLS-L1; Medusin-AC; UCLL1c; frog, amphibians, animals; XXA) 	LLGMIPLAISAISALSKL
+AP00978
+Ref, Ms-Def1 (MsDef1, M. sativa defensin 1, alfAFP, alf-AFP; alfalfa antifungal peptide, defensins; UCSS1a; plants; BBMm_GlcCerMOA; 4S=S) 	RTCENLADKYRGPCFSGCDTHCTTKENAVSGRCRDDFRCWCTKRC
+AP00979
+1mr4, NaD1 (N. alata defensin 1, Na-D1; defensins; 4s=s; UCSS1a; ZZI; plants; BBBH2o) 	RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC
+AP00981
+1N4N, PhD1 (P. hybrida defensin 1, defensins; 5s=s; UCSS1a; plants) 	ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC
+AP00982
+AF507976, PhD2 (P. hybrida defensin 2, defensins; 5s=s; UCSS1a; plants) 	GTCKAECPTWEGICINKAPCVKCCKAQPEKFTDGHCSKILRRCLCTKPC
+AP00983
+Ref, CcD1 (defensins; 4s=s; UCSS1a; plants) 	QNNICKTTSKHFKGLCFADSKCRKVCIQEDKFEDGHCSKLQRKCLCTKNC
+AP00984
+4UJ0, TPP3 (defensins; 4S=S; UCSS1a; plants; BBMm) 	QICKAPSQTFPGLCFMDSSCRKYCIKEKFTGGHCSKLQRKCLCTKPC
+AP00985
+O24105, NeThio2 (gamma-thionin; defensins; 4S=S; UCSS1a; plants) 	KDCKTESNTFPGICITKPPCRKACIKEKFTDGHCSKILRRCLCTKPC
+AP00986
+O24104, NeThio1 (defensins; 4S=S; UCSS1a; plants) 	KSTCKAESNTFPGLCITKPPCRKACLSEKFTDGKCSKILRRCICYKPC
+AP00987
+ABI74601, Arasin 1 (Pro-rich, Arg-rich, Crustaceans, arthropods, invertebrates, animals; SAR: N-terminus1-23: arasin 1(1-25); BBS) 	SRWPSPGRPRPFPGRPKPIFRPRPCNCYAPPCPCDRW
+AP00991
+5E5Y, Snakin-1 (StSN1, snakin; 6S=S; UCSS1a; plants; BBS) 	GSNFCDSKCKLRCSKAGLADRCLKYCGICCEECKCVPSGTYGNKHECPCYRDKKNSKGKSKCP
+AP00992
+Ref, potato Snakin-2 (StSN2, 6S=S, UCSS1a; plants) 	YSYKKIDCGGACAARCRLSSRPRLCNRACGTCCARCNCVPPGTSGNTETCPCYASLTTHGNKRKCP
+AP00993
+Ref, So-D2 (S. oleracea defensin D2, defensins; 4S=S, UCSS1a; plants) 	GIFSSRKCKTPSKTFKGICTRDSNCDTSCRYEGYPAGDCKGIRRRCMCSKPC
+AP00994
+Ref, So-D6 (S. oleracea defensin D6, defensins; UCSS1a; plants; BWQ) 	GIFSNMYARTPAGYFRGPAGYAAN
+AP01005
+2DCV, Tachystatin B1 (UCSS1a; 3S=S, chitin-binding; Horseshoe Crab, arachnids, Cheliceratas, arthropods, Chelicerata, arthropods, invertebrates, animals; BBS) 	YVSCLFRGARCRVYSGRSCCFGYYCRRDFPGSIFGTCSRRNF
+AP01006
+2DCW, Tachystatin B2 (UCSS1a; 3S=S, chitin-binding, Horseshoe Crab, arachnids, Cheliceratas, arthropods, Chelicerata, arthropods, invertebrates, animals; BBS) 	YITCLFRGARCRVYSGRSCCFGYYCRRDFPGSIFGTCSRRNF
+AP01007
+2JMY, CM15 (a hybrid peptide of Cecropin1-8 + Melittin3-9; Synthetic; Other derivatives: CAMEL, CP-29) 	KWKLFKKIGAVLKVL
+AP01008
+1CIX, Tachystatin A (UCSS1a; 3S=S, chitin-binding; Horseshoe Crab, arachnids, Cheliceratas, arthropods, invertebrates, animals; BBS) 	YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRY
+AP01009
+Ref, Tachystatin C (UCSS1a; 3S=S, chitin-binding; Horseshoe Crab, arachnids, Cheliceratas, arthropods, invertebrates, animals; BBS) 	DYDWSLRGPPKCATYGQKCRTWSPRNCCWNLRCKAFRCRPR
+AP01010
+2PCO, Latarcin 1 (Ltc1, Ltc 1, BBMm; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	SMWSGMWRRKLKKLRNALKKKLKGE
+AP01011
+2G9P, Latarcin 2a (Ltc2a, BBMm; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	GLFGKLIKKFGRKAISYAVKKARGKH
+AP01012
+Ref, Latarcin 3a (Ltc3a, La47, XXA, BBMm; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; VIHNN; UCLL1c) 	SWKSMAKKLKEYMEKLKQRA
+AP01013
+Ref, Latarcin 3b (Ltc3b, XXA, BBMm; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1c) 	SWASMAKKLKEYMEKLKQRA
+AP01014
+Ref, Latarcin 4a (Ltc4a, XXA, BBMm; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1c) 	GLKDKFKSMGEKLKQYIQTWKAKF
+AP01015
+Ref, Latarcin 4b (Ltc4b, XXA, BBMm; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1c) 	SLKDKVKSMGEKLKQYIQTWKAKF
+AP01036
+Ref, Cycloviolacin O2 (CyO2; cyclotides; plants; XXC; 3S=S, UCBB1b; ZZP) 	GIPCGESCVWIPCISSAIGCSCKSKVCYRN
+AP01037
+Ref, Cycloviolacin O3 (CyO3; cyclotides; plants; XXC; 3S=S, UCBB1b; ZZP) 	GIPCGESCVWIPCLTSAIGCSCKSKVCYRN
+AP01049
+1PT4, Kalata B2 (KB2; cyclotides; plants; XXC; 3S=S, UCBB1b; ZZI; ZZP; Derivatives: oxidized kalata B2 nfk or kyn; XXO) 	GLPVCGETCFGGTCNTPGCSCTWPICTRD
+AP01052
+Ref, Pn-AMP2 (PnAMP2, hevein-like, UCSS1a; 4S=S, chitin-binding, plants; BBS) 	QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCR
+AP01064
+Ref, Cycloviolacin O13 (CyO13; cyclotides; plants; XXC, 3S=S, UCBB1b; ZZHp, ZZP) 	GIPCGESCVWIPCISAAIGCSCKSKVCYRN
+AP01071
+Ref, Cycloviolacin O19 (cyclotides; plants; XXC; 3S=S, UCBB1b; DXWZ) 	GTLPCGESCVWIPCISSVVGCSCKSKVCYKD
+AP01136
+1YP8, Tricyclon A (cyclotides; plants; XXC, 3S=S, UCBB1b; ZZHp) 	GGTIFDCGESCFLGTCYTKGCSCGEWKLCYGTN
+AP01150
+1IYC, Scarabaecin (UCSS1a; 1S=S, insects, arthropods, invertebrates, animals) 	ELPKLPDDKVLIRSRSNCPKGKVWNGFDCKSPFAFS
+AP01153
+1DQC, Tachycitin (UCSS1a; 3S=S, Horseshoe Crab, arachnids, Cheliceratas, arthropods, invertebrates, animals; BBS) 	YLAFRCGRYSPCLDDGPNVNLYSCCSFYNCHKCLARLENCPKGLHYNAYLKVCDWPSKAGCT
+AP01158
+2RLG, RP-1 (Lys-rich; synthetic) 	ALYKKFKKKLLKSLKRLG
+AP01160
+1BRZ, Brazzein (defensins; UCSS1a; 4S=S, plants) 	QDKCKKVYENYPVSKCQLANQCNYDCKLDKHARSGECFYDEKRNLQCICDYCEY
+AP01161
+1L9L, Human granulysin (GNLY, huGran, NKG5; formerly 519; a saposin-like protein, SAPLIP; 3S=S; UCSS1a; primates, mammals, animals; ZZP; VIHNN; BBMm; BBL; JJsn; Derivatives: G13) 	GRDYRTCLTIVQKLKKMVDKPTQRSVSNAATRVCRTGRSRWRDVCRNFMRRYQSRVTQGLVAGETAQQICEDLR
+AP01162
+1P9Z, EAFP2 (Eucommia antifungal peptide 2, XXQ, chitin-binding; BBS, 5S=S; UCSS1a; plants) 	QTCASRCPRPCNAGLCCSIYGYCGSGAAYCGAGNCRCQCRG
+AP01163
+1OZZ, ARD1 (UCSS1a; 3S=S, insects, arthropods, invertebrates, animals) 	DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCW
+AP01164
+Ref, EAFP1 (Eucommia antifungal peptide 1, UCSS1a; 5S=S, XXQ, BBS, plants) 	QTCASRCPRPCNAGLCCSIYGYCGSGNAYCGAGNCRCQCRG
+AP01165
+1G6E, AFP1 (BBS, UCSS1a; 1S=S, bacteriocin; Gram-positive bacteria, prokaryotes; JJsn) 	MINRTDCNENSYLEIHNNEGRDTLCFANAGTMPVAIYGVNWVESGNNVVTLQFQRNLSDPRLETITLQKWGSWNPGHIHEILSIRIY
+AP01166
+2E2F, Diapause-specific peptide (DSP, UCSS1a; 3S=S, insects, arthropods, invertebrates, animals) 	AVRIGPCDQVCPRIVPERHECCRAHGRSGYAYCSGGGMYCN
+AP01210
+Ref, Jelleine-I (RJ I; insects, arthropods, invertebrates, animals; XXA; JJsn) 	PFKLSLHL
+AP01211
+Ref, Jelleine-II (RJ II; insects, arthropods, invertebrates, animals; XXA) 	TPFKLSLHL
+AP01220
+Ref, Ascaphin-5 (UCLL1; frog, amphibians, vertebrates, animals) 	GIKDWIKGAAKKLIKTVASNIANQ
+AP01223
+Ref, Ascaphin-8 (XXA, UCLL1c; frog, amphibians, animals; BBMm; SeqAR; ZZH) 	GFKDLLKGAAKALVKTVLF
+AP01233
+Ref, PR-bombesin (Pro-rich bombesin, UCLL1c; Chinese red belly toad, amphibians, animals, XXA, XXQ) 	QKKPPRPPQWAVGHFM
+AP01234
+Ref, Lumbricin I (Lumbricin-1; earthworms, Annelida, invertebrates, animals) 	FSKYERQKDKRPYSERKNQYTGPQFLYPPERIPPQKVIKWNEEGLPIYEIPGEGGHAEPAAA
+AP01235
+Ref, Perinerin (clamworms, Annelida, invertebrates, animals) 	FNKLKQGSSKRTCAKCFRKIMPSVHELDERRRGANRWAAGFRKCVSSICRY
+AP01239
+Ref, Cathelicidin-BF (BF-30; cathelicidin-WA; snake cathelicidin, reptiles, animals; Derivatives: BF-15; Cbf-K16) 	KFFRKLKKSVKKRAKEFFKKPRVIGVSIPF
+AP01240
+Ref, CM-3 (synthetic, XXA, XXE) 	ALKAALLAILKIVRVIKK
+AP01241
+Ref, MB-21 (Synthetic, XXA, XXE) 	FASLLGKALKALAKQ
+AP01243
+Ref, Cy-AMP1 (CyAMP1, chitin-binding; plants; 4S=S; UCSS1a; BBS) 	KGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG
+AP01244
+Ref, Cy-AMP2 (CyAMP2, plants; 4S=S; UCSS1a;) 	KGGPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG
+AP01245
+Ref, Cy-AMP3 (CyAMP3, plants; 4S=S; UCSS1a) 	AVTCNTVVSSLAPCVPFFAGSAAQPTAACCNGVRSLNSAARTTPDRRTACNCIKSSASSIGLNYNKAAKLPSRCTVNVTVPISPSVNCAT
+AP01246
+Ref, Mouse beta-defensin-14 (mBD-14, Defb14, UCSS1a; mouse, rodents, mammals, animals; 3S=S) 	FLPKTLRKFFCRIRGGRCAVLNCLGKEEQIGRCSNSGRKCCRKKK
+AP01247
+Ref, VESP-VB1 (insects, arthropods, invertebrates, animals) 	FMPIIGRLMSGSL
+AP01248
+Ref, MP-VB1 (Vespa mastoparan, insects, arthropods, invertebrates, animals) 	INMKASAAVAKKLL
+AP01249
+Ref, Hylaseptin P1 (HSP1, UCLL1; frog, amphibians, animals) 	GILDAIKAIAKAAG
+AP01250
+Ref, Ranacyclin T (XXA, UCSS1; XXU; 1S=S, frog, amphibians, animals, BBMm) 	GALRGCWTKSYPPKPCK
+AP01251
+Ref, Ranacyclin E (XXA, UCSS1c; XXU; 1S=S, frog, amphibians, animals, BBMm) 	SAPRGCWTKSYPPKPCK
+AP01252
+Ref, pLR (peptide leucine arginine, UCLL1a; XXU; 1S=S, frog, amphibians, animals, BBMm) 	LVRGCWTKSYPPKPCFVR
+AP01255
+Ref, Brevinin-2PRc (Brevinin 2PRc, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLMSVTKGVLKTAGKHIFKNVGGSLLDQAKCKISGQC
+AP01256
+Ref, Brevinin-2PRd (Brevinin 2PRd, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKITGQC
+AP01258
+Ref, Ranatuerin-2PRa (Ranatuerin 2PRa, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLMDVFKGAAKNLLASALDKIRCKVTKC
+AP01259
+Ref, CM4 (ABP-CM4, UCLL1; insects, arthropods, invertebrates, animals; BBMm; BBN) 	RWKIFKKIEKVGQNIRDGIVKAGPAVAVVGQAATI
+AP01264
+Ref, RV-23 (UCLL1; frog, amphibians, animals) 	RIGVLLARLPKLFSLFKLMGKKV
+AP01265
+Ref, Temporin-1DRa (XXA; UCLL1c; frog, amphibians, animals) 	HFLGTLVNLAKKIL
+AP01267
+2K1I, ROAD-1 (Rhesus macaque Oral alpha-defensin-1, UCSS1a; monkey, primates, mammals, animals; 3S=S) 	RRTCHCRSRCLRRESNSGSCNINGRIFSLCCR
+AP01277
+1ED0, Viscotoxin A3 (VtA3, thionins; UCSS1a; plants, BBMmMOA; 3S=S) 	KSCCPNTTGRNIYNACRLTGAPRPTCAKLSGCKIISGSTCPSDYPK
+AP01286
+Ref, P9 (Pro-rich, Arg-rich; deer cathelicidin, ruminant, mammals; animals, BWQ) 	RFIPPILRPPVRPPFRPPFRPPFRPPPIIRFFGG
+AP01287
+Ref, P15 (deer beta-defensin, UCSS1a; 2S=S, ruminant, mammals; animals, BWQ) 	IRNSLTCRFNFGICLPKRCPGRMRQIGTCF
+AP01291
+Ref, Odorranain-B1 (OdB1; ORB; Ranacyclin B1; UCLL1a; XXU; 1S=S, frog, amphibians, animals; Derivatives: ORBK) 	AALKGCWTKSIPPKPCFGKR
+AP01292
+Ref, Odorranain-C1 (OdC1, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GVLGAVKDLLIGAGKSAAQSVLKTLSCKLSNDC
+AP01293
+Ref, Odorranain-D1 (OdD1, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GFLDTFKNLALNAAKSAGVSVLNSLSCKLFKTC
+AP01294
+Ref, Odorranain-E1 (OdE1, UCLL1; frog, amphibians, animals) 	GLGGAKKNFIIAANKTAPQSVKKTFSCKLYNG
+AP01295
+Ref, Odorranain-F1 (OdF1, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GFMDTAKNVAKNVAVTLIDNLKCKITKAC
+AP01296
+Ref, Odorranain-G1 (OdG1, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FMPILSCSRFKRC
+AP01297
+Ref, Odorranain-H1 (OdH1, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFGKILGVGKKVLCGLSGWC
+AP01298
+Ref, Odorranain-J1 (OdJ1, UCLL1a; XXU; 1S=S, frog, amphibians, animals) 	GLFTLIKCAYQLIAPTVACN
+AP01299
+Ref, Odorranain-K1 (OdK1, UCLL1; frog, amphibians, animals) 	GLFTLIKGAAKLIGKTVPKKQARLGMNLWLVKLPTNVKT
+AP01300
+Ref, Odorranain-M1 (OdM1, UCLL1; frog, amphibians, animals) 	ATAVDFGPHGLLPIRPIRIRPLCGKDKS
+AP01301
+Ref, Odorranain-N1 (OdN1, UCLL1; frog, amphibians, animals) 	DEKGPKWKR
+AP01302
+Ref, Odorranain-R1 (OdR1, UCLL1; frog, amphibians, animals) 	GFSPNLPGKGLRIS
+AP01303
+Ref, Odorranain-P1a (OdP1a; Brevinin-1HS1; Brevinin-1-OA2; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	VIPFVASVAAEMMQHVYCAASKKC
+AP01304
+Ref, Odorranain-P2a (OdP2a, frog, amphibians, animals; UCSS1a) 	GLLSGILGAGKHIVCGLSGPCQSLNRKSSDVEYHLAKC
+AP01305
+Ref, Odorranain-S1 (OdS1, UCLL1; frog, amphibians, animals) 	FLPPSPWKETFRTS
+AP01306
+Ref, Odorranain-T1 (OdT1, UCLL1; XXU; 1S=S, frog, amphibians, animals) 	TSRCYIGYRRKVVCS
+AP01307
+Ref, Odorranain-U1 (OdU1, UCLL1a; XXU; 1S=S, frog, amphibians, animals) 	GCSRWIIGIHGQICRD
+AP01308
+Ref, Odorranain-V1 (OdV1, UCLL1; frog, amphibians, animals) 	GLLSGTSVRGSI
+AP01309
+Ref, Odorranain-W1 (OdW1, UCLL1; frog, amphibians, animals) 	GLFGKSSVVGRKYYVDLAGCAKA
+AP01310
+Ref, Nigrocin-OG4 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSGILGAGKHIICGLSGLC
+AP01311
+Ref, Nigrocin-OG5 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSGILGAGKQKVCGLSGLC
+AP01312
+Ref, Nigrocin-OG13 (UCLL1; frog, amphibians, animals) 	GLLSGILGAGKHIVCGLSGLK
+AP01313
+Ref, Nigrocin-OG20 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSGILGAGKHIVCGLSGLC
+AP01314
+Ref, Nigrocin-OG21 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSGVLGVGKKVDCGLSGLC
+AP01321
+P85114, Ostrich AvBD1 (Ostrich avian beta defensin 1, Ostricacin-2, OSP-2, UCSS1a; birds, animals; BBL; 3S=S) 	APGNKAECEREKGYCGFLKCSFPFVVSGKCSRFFFCCKNIW
+AP01328
+Ref, Epinecidin-1 (Epi-1; fish, animals; XXA; BBMm) 	GFIFHIIKGLFHAGKMIHGLV
+AP01329
+Ref, BTL (bacteriocin; Gram-positive bacteria, prokaryotes, BWQ) 	KQQLATEAESAGPIL
+AP01330
+Ref, Vv-AMP1 (Vitis vinifera antimicrobial peptide 1, 4S=S, defensin; UCSS1a; plants) 	RTCESQSHRFKGTCVRQSNCAAVCQTEGFHGGNCRGFRRRCFCTKHC
+AP01331
+2N0O, Hylin a1 (hylin-a1; UCLL1c; frog, amphibians, animals, XXA) 	IFGAILPLALGALKNLIK
+AP01339
+Ref, BHP (Hb 33-61; Bovine hemoglobin peptide, ruminant, mammals, animals; UCLL1) 	FLSFPTTKTYFPHFDLSHGSAQVKGHGAK
+AP01342
+2N0V, Cn-AMP1 (CnAMP1, XXA; C. nucifera antimicrobial peptide 1, plants) 	SVAGRAQGM
+AP01345
+Ref, Brevinin-1LTa (frog, amphibians, animals, BBMm; XXU; 1S=S, UCSS1a) 	FFGTALKIAANVLPTAICKILKKC
+AP01349
+Ref, Brevinin-1LTb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FFGTALKIAANILPTAICKILKKC
+AP01356
+Ref, Cp-thionin II (UCSS1a; 4S=S, plants, BBMm; Derivative: KT43C) 	KTCMTKKEGWGRCLIDTTCAHSCRKYGYMGGKCQGITRRCYCLLNC
+AP01361
+Ref, AaeDefC (Aedes defensin C, defensins; UCSS1a; 3S=S, insects, arthropods, invertebrate, animals) 	ATCDLLSGFGVGDSACAAHCIARRNRGGYCNAKKVCVCRN
+AP01363
+2NY8, AgaDef (Anopheles gambiae defensin, defensins; UCSS1a; 3S=S, insects, arthropods, invertebrate, animals) 	ATCDLASGFGVGSSLCAAHCIARRYRGGYCNSKAVCVCRN
+AP01364
+Ref, PduDef (Phlebotomus duboscqi defensin, PdDEF; fly, idefensins; UCSS1a; 3S=S, insects, arthropods, invertebrate, animals; ZZP) 	ATCDLLSAFGVGHAACAAHCIGHGYRGGYCNSKAVCTCRR
+AP01371
+Ref, Gallerimycin (defensins; UCSS1a; 3S=S, insects, arthropods, invertebrate, animals) 	GVTITVKPPFPGCVFYECIANCRSRGYKNGGYCTINGCQCLR
+AP01372
+Ref, CXCL14 (BRAK, Bolekine; cytokine; CXC family; kinocidins; human; primates, mammals, animals; Fragments: CXCL14(1-13), CXCL14(59-75) or CXCL14-C17) 	SKCKCSRKGPKIRYSDVKKLEMKPKYPHCEEKMVIITTKSVSRYRGQEHCLHPKLQSTKRFIKWYNAWNEKRRVYEE
+AP01373
+1NAP, Thrombocidin-1 (human TC-1, C-terminal 2-residue truncation variant of the CXC cytokine neutrophil-activating peptide-2, NAP-2; CXCL7; CXC family; kinocidins; UCSS1a; 2S=S, primates, mammals, animal 	AELRCMCIKTTSGIHPKNIQSLEVIGKGTHCNQVEVIATLKDGRKICLDPDAPRIKKIVQKKLAGDES
+AP01374
+Ref, Human TC-2 (thrombocidin-2, C-terminal 2-residue truncation variant of the CXC cytokine connective tissue-activating peptide-III, CTAP-III; CXC family; 2S=S, UCSS1a; kinocidins; primates, mammals, a 	NLAKGKEESLDSDLYAELRCMCIKTTSGIHPKNIQSLEVIGKGTHCNQVEVIATLKDGRKICLDPDAPRIKKIVQKKLAGDES
+AP01378
+2MXQ, DEFA1 (defensin alpha 1, horse defensin, UCSS1a; mammals, animals; horsy; 3S=S) 	SCTCRRAWICRWGERHSGKCIDQKGSTYRLCCRR
+AP01380
+Ref, TBD-1 (Turtle beta-defensin 1, UCSS1a; reptiles, animals; 3S=S) 	YDLSKNCRLRGGICYIGKCPRRFFRSGSCSRGNVCCLRFG
+AP01390
+Ref, Lividin-1 (Brevinin-1-OR2; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	ILPFVAGVAAEMMQHVYCAASKKC
+AP01391
+Ref, Lividin-2 (Brevinin-2-OR8; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SFLDTLKNLAISAAKGAGQSVLSTLSCKLSKTC
+AP01392
+Ref, Lividin-3 (Brevinin-2-OR1; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SVLGTVKDLLIGAGKSAAQSVLTALSCKLSNSC
+AP01393
+Ref, Lividin-4 (Esculentin-2-OR1; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GVFTLIKGATQLIGKTLGKELGKTGLELMACKITNQC
+AP01410
+Ref, Ranatuerin-2Ma (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSSFKGVAKGVAKDLAGKLLEKLKCKITGC
+AP01411
+Ref, Ranatuerin-2Mb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIMDSVKGVAKNLAAKLLEKLKCKITGC
+AP01412
+Ref, Brevinin-1BLa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPAIVGAAAKFLPKIFCAISKKC
+AP01413
+Ref, Brevinin-1BLb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIAGVAAKVLPKIFCAISKKC
+AP01414
+Ref, Brevinin-1BLc (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIAGIAAKFLPKIFCTISKKC
+AP01415
+Ref, Brevinin-1Ya (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPVIAGVAANFLPKLFCAISKKC
+AP01416
+Ref, Brevinin-1Yb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIAGAAAKVVQKIFCAISKKC
+AP01417
+Ref, Brevinin-1Yc (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIAGAAAKVVEKIFCAISKKC
+AP01436
+Ref, Brevinin-1AUa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPILAGLAAKLVPKVFCSITKKC
+AP01437
+Ref, Brevinin-1AUb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPILAGLAANILPKVFCSITKKC
+AP01438
+Ref, Brevinin-1SPa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FFPIIAGMAAKLIPSLFCKITKKC
+AP01439
+Ref, Brevinin-1SPb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIAGMAAKVICAITKKC
+AP01440
+Ref, Brevinin-1SPd (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FFPIIAGMAAKVICAITKKC
+AP01444
+Ref, Temporin-1SPa (XXA; UCLL1c; frog, amphibians, animals) 	FLSAITSILGKFF
+AP01445
+Ref, Brevinin-1LT1 (frog, amphibians, animals; BBMm; XXU; 1S=S, UCSS1a) 	FMGSALRIAAKVLPAALCQIFKKC
+AP01456
+Ref, Bactrocerin-1 (insects, arthropods, invertebrates, animals) 	VGKTWIKVIRGIGKSKIKWQ
+AP01468
+Ref, Longicin (UCSS1a; 3S=S, defensin; ticks, Nuttalliellidae, arachnids, Chelicerata, arthropods, invertebrates, animals; ZZP; Derivatives: Longicin P4) 	GFGCPLNQGACHNHCRSIGRRGGYCAGIIKQTCTCYRK
+AP01469
+2LB7, WAMP-1a (hevein-like peptide, UCSS1a; plants;chitin-binding, BBS; 5S=S; UCSS1a) 	AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC
+AP01470
+Ref, WAMP-1b (hevein-like peptide, UCSS1a; plants;chitin-binding, BBS; 5S=S) 	AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGCR
+AP01471
+Ref, Substance P (SP, XXA; Neurokinin-1; NK1; neuropeptide; human; primates, mammals, animals) 	RPKPQQFFGLM
+AP01472
+Ref, Neurotensin (neuropeptide, human, primates, mammals, animals; XXQ) 	QLYENKPRRPYIL
+AP01473
+Ref, Bradykinin (neuropeptide, human; primates, mammals, animals) 	RPPGFSPFR
+AP01474
+1RON, Neuropeptide Y (NPY, XXA; partial dimer; human; primates, primates, mammals, animals) 	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY
+AP01475
+Ref, DEFB120 (defensin beta 120, synonyms; DEFB-19, DEFB-20, DEFB-119, UCSS1a; 3S=S, human; primates, mammals, animals; BBL) 	ECWMDGHCRLLCKDGEDSIIRCRNRKRCC
+AP01476
+Ref, Calcitonin gene-related peptide (CGRP, XXA; neuropeptide; human; primates, mammals, animals) 	ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF
+AP01477
+Ref, Vasoactive intestinal polypeptide (VIP, neuropeptide; human; primates, mammals, animals; XXA) 	HSDAVFTDNYTRLRKQMAVKKYLNSILN
+AP01478
+Ref, CGA-N46 (A fragment of human chromogranin A, neuropeptide; UCLL1. Derivatives: CGA-N16, CGA-N15, CGA-N12, and CGA-N8) 	PMPVSQECFETLRGHERILSILRHQNLLKELQDLALQGAKERAHQQ
+AP01480
+Ref, Urechistachykinin I (UI, neuropeptide, marine worms, Echiura, invertebrates, animals; XXA) 	LRQSQFVGSR
+AP01481
+Ref, Urechistachykinin II (UII, neuropeptide, marine worms, Echiura, invertebrates, animals; XXA) 	AAGMGFFGAR
+AP01491
+Ref, NLP-31 (neuropeptide-like protein 31, Gly-rich, invertebrate, nematode, animals) 	QWGYGGYGRGYGGYGGYGRGYGGYGGYGRGYGGYGRGMYGGYGRPYGGYGWGK
+AP01494
+Ref, GHH20 (from a his-rich glycoprotein, human; primates, mammals, animals) 	GHHPHGHHPHGHHPHGHHHPH
+AP01496
+Ref, Temporin-CPa (frog, amphibians, animals, UCLL1c; XXA) 	IPPFIKKVLTTVF
+AP01497
+Ref, Temporin-CPb (UCLL1c; the gopher frog, amphibians, animals; XXA) 	FLPIVGRLISGIL
+AP01508
+Ref, Ha-DEF1 (H. annuus defensin 1, plants; BBMm; 4S=S; UCSS1a) 	ELCEKASQTWSGTCGKTKHCDDQCKSWEGAAHGACHVRDGKHMCFCYFNC
+AP01509
+Ref, Scolopin 1 (myriapods, arthropods, invertebrates, animals) 	FLPKMSTKLRVPYRRGTKDYH
+AP01510
+Ref, Scolopin 2 (myriapods, arthropods, invertebrates, animals) 	GILKKFMLHRGTKVYKMRTLSKRSH
+AP01520
+Ref, Ls-Stylicin1 (pacific blue shrimp, crustaceans, arthropods, invertebrate, animals; BBL; BBBh2o; ZZagg) 	SSFSPPRGPPGWGPPCVQQPCPKCPYDDYKCPTCDKFPECEECPHISIGCECGYFSCECPKPVCEPCESPIAELIKKGGYKG
+AP01521
+Ref, ChBac3.4 (XXA; Arg-rich, Pro-rich cathelicidin; goat, ruminant, mammals; animals) 	RFRLPFRRPPIRIHPPPFYPPFRRFL
+AP01522
+Ref, Ap (A. purpuratus (AMP), scallop, marine bivalve mollusca/molluscs/mollusks, marine invertebrates, animals; BWQ; Derivative: Ap-S) 	TYMPVEEGEYIVNISYADQPKKNSPFTAKKQPGPKVDLSGVKAYGPG
+AP01523
+2D56, ASABF-alpha (Ascaris suum antibact/erial factor alpha, As-ABF-alpha; UCSS1a; large roundworms, nematode, invertebrates, animals; 4s=s) 	AVDFSSCARMDVPGLSKVAQGLCISSCKFQNCGTGHCEKRGGRPTCVCDRCGRGGGEWPSVPMPKGRSSRGRRHS
+AP01524
+Ref, ABF-2 (antibac/terial factor-2, UCSS1a; roundworms, nematode, invertebrates, animals) 	DIDFSTCARMDVPILKKAAQGLCITSCSMQNCGTGSCKKRSGRPTCVCYRCANGGGDIPLGAL
+AP01525
+Ref, Cecropin P2 (CP2, roundworms, nematode, invertebrates, animals) 	SWLSKTYKKLENSAKKRISEGIAIAIQGGPR
+AP01526
+Ref, Cecropin P3 (CP3, roundworms, nematode, invertebrates, animals) 	SWLSKTAKKLENSAKKRISEGIAIAIKGGSR
+AP01527
+Ref, Cecropin P4 (CP4, roundworms, nematode, invertebrates, animals) 	SWLSKTYKKLENSAKKRISEGVAIAILGGLR
+AP01528
+Ref, SIalpha1 (defensins; plants; 4S=S; UCSS1a) 	RVCMKGSQHHSFPCISDRLCSNECVKEEGGWTAGYCHLRYCRCQKAC
+AP01533
+Ref, EA-CATH1 (E. asinus cathelicidin 1, donkey, mammals, animals) 	KRRGSVTTRYQFLMIHLLRPKKLFA
+AP01534
+Ref, Temporin-SHf (Phe-rich; frog, amphibians, animals; XXA; UCLL1c) 	FFFLSRIF
+AP01537
+Ref, Nigrocin-2SCb (Nigrocin-1-OW1; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILSGVLGMGKKIVCGLSGLC
+AP01544
+Ref, Meucin-13 (toxins; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c) 	IFGAIAGLLKNIF
+AP01545
+Ref, Meucin-18 (toxins; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals, UCLL1a) 	FFGHLFKLATKIIPSLFQ
+AP01547
+Ref, B2RP-ERa (a brevinin-2-related peptide-ERa, frog, amphibians, animals; UCLL1c; XXA. More AMPs?) 	GVIKSVLKGVAKTVALGML
+AP01551
+Ref, Drosomycin-2 (UCSS1a; 4S=S, insects, arthropods, invertebrates, animals; ZZP) 	DCLSGKYKGPCAVWDNEMCRRICKEEGHISGHCSPSLKCWCEGC
+AP01553
+5NCE, PsDef1 (P. sylvestris defensin 1, UCSS1a; 4S=S, plants) 	RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP
+AP01554
+Ref, Longicornsin (defensin-like; UCSS1a; 3S=S, hard ticks, Nuttalliellidae, arachnids, Chelicerata, arthropods, invertebrates, animals) 	DFGCGQGMIFMCQRRCMRLYPGSTGFCRGFRCMCDTHIPLRPPFMVG
+AP01559
+Ref, AcAMP (A. clavatus antimicrobial peptide, UCSS1a; 4S=S, fungii) 	ATYDGKCYKKDNICKYKAQSGKTAICKCYVKVCPRDGAKCEFDSYKGKCYC
+AP01560
+2KCN, PAF (Penicillium antifungal protein, UCSS1a; 3S=S, fungii) 	AKYTGKCTKSKNECKYKNDAGKDTFIKCPKFDNKKCTKDNNKCTVDTYNNAVDCD
+AP01561
+Ref, AnAFP (Anafp, A. niger antifungal protein, UCSS1a; 3S=S, fungii) 	SKYGGECSVEHNTCTYLKGGKDHIVSCPSAANLRCKTERHHCEYDEHHKTVDCQTPV
+AP01562
+2NC2, PgAFP (PAFB; other forms: sfPAFB. chrysogenum antifungal protein, UCSS1a; fungii) 	LSKFGGECSLKHNTCTYLKGGKNHVVNCGSAANKKCKSDRHHCEYDEHHKRVDCQTPV
+AP01563
+Ref, Drosophila cecropin B (CecB, insects, arthropods, invertebrates, animals; XXA) 	GWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATAR
+AP01567
+Ref, Mfa-hst5 (M. fascicularis histatin 5, primates, mammals, animals; His-rich; UCLL1) 	DSHEERRQGRHGHHEYGRKFHEKHHSHRGY
+AP01568
+Ref, Hcl-hst5 (N. leucogenys histatin 5, primates, mammals, animals; His-rich; UCLL1) 	DSHEKRHHEHRRKFHEKHHSHRGY
+AP01578
+Ref, Myxinidin (hagfish, fish, animals; XXA; UCLL1; Derivatives: Myxinidin1; Myxinidin2; Myxinidin3; WMR) 	GIHDILKYGKPS
+AP01580
+2REL, Elafin (Elastase-specific inhibitor, UCSS1a; 3S=S, humans; primates, mammals, animals; Precursor: serine antiprotease trappin-2) 	AQEPVKGPVSTKPGSCPIILIRCAMLNPPNRCLKDTDCPGIKKCCEGSCGMACFVPQ
+AP01581
+Ref, Phylloseptin-1 (Phylloseptin-S1, PLS-S1; Phylloseptin-PSN1, PSN-1, UCLL1c; frog, amphibians, animals; XXA) 	FLSLIPHIVSGVASIAKHF
+AP01582
+Ref, Psacotheasin (knottin-type peptide, UCSS1a; 3S=S, insects, arthropods, invertebrates, animals; BBMm) 	CIAKGNGCQPSGVQGNCCSGHCHKEPGWVAGYCK
+AP01583
+Ref, Parkerin (UCLL1; frog, amphibians, animals) 	GWANTLKNVAGGLCKITGAA
+AP01584
+Ref, Ac-AMP1 (A. caudatus antimicrobial peptide 1, UCSS1a; 3S=S, chitin-binding, plants; BBS) 	VGECVRGRCPSGMCCSQFGYCGKGPKYCG
+AP01585
+Ref, Pp-AMP1 (P. pubescens AMP1; 2S=S, UCSS1a; plant defensin, plants) 	KSCCRSTQARNIYNAPRFAGGSRPLCALGSGCKIVDDKKTPPND
+AP01586
+Ref, Pp-AMP2 (P. pubescens AMP2; 3S=S, UCSS1a; plant defensin, plants) 	KSCCRSTTARNIYNGCRVPGTARPVCAKKSGCKIQEAKKCEPPYD
+AP01587
+Ref, Fa-AMP1 (Fagopyrum antimicrobial peptide 1; 4S=S, hevein-type, UCSS1a; plant defensin, plants) 	AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCK
+AP01588
+Ref, Fa-AMP2 (Fagopyrum antimicrobial peptide 2; 4S=S, hevein-type, UCSS1a; plant defensin, plants) 	AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCR
+AP01591
+Ref, cBD-1 (canine beta-defensin 1, UCSS1a; dogs, mammals, animals; cBD-2 and cBD-3 to be evaluated; 3S=S) 	KCWNLRGSCREKCIKNEKLYIFCTSGKLCCLKPKFQPNMLQR
+AP01596
+Ref, Cinnamycin (Ro 09-0198; class 1 Lantibiotic, type 2, type B, bacteriocin; Gram-positive bacteria, prokaryotes; UCSS1b; XXT) 	CRQSCSFGPFTFVCDGNTK
+AP01614
+Ref, Ci-MAM-A24 (Ciona-molecule against microbes A 24-residues; sea squirt, marine invertebrates, animals; XXA) 	WRSLGRTLLRLSHALKPLARRSGW
+AP01622
+Ref, CPF-B1 (caerulein precursor fragment-B1; UCLL1; frog, amphibians, animals) 	GLGSLLGKAFKIGLKTVGKMMGGAPREQ
+AP01640
+Ref, Polybia-MP-II (Polybia-MPII; insects, arthropods, invertebrates, animals; XXA) 	INWLKLGKMVIDAL
+AP01643
+Ref, Pc-CATH1 (cathelicidins; birds, animals; Other AMPs?: Pc-CATH2 and Pc-CATH3) 	RIKRFWPVVIRTVVAGYNLYRAIKKK
+AP01644
+Ref, Brevinin-2-RN1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GAFGNFLKGVAKKAGLKILSIAQCKLSGTC
+AP01645
+Ref, Brevinin-2-RN2 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GAFGNFLKGVAKKAGLKILSIAQCKLFGTC
+AP01648
+Ref, Pelteobagrin (fish, animals; BBMm) 	GKLNLFLSRLEILKLFVGAL
+AP01649
+Ref, Piscidin 2 (Pis-2; also named moronecidin, moro-NH2; fish, animals; ZZP, UCLL1) 	FFHHIFRGIVHVGKTIHKLVTG
+AP01650
+1Z99, Crotamine (Crot; 3S=S; defensin-like toxin; UCSS1a; South American rattlesnake, reptiles, animals; ZZP; Derivatives: CyLoP-1) 	YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG
+AP01658
+Ref, Shuchin 1 (UCLL1a; XXU; 1S=S; frog, amphibians, animals) 	NALSMPRNKCNRALMCFG
+AP01659
+Ref, Shuchin 2 (UCLL1a; XXU; 1S=S, frog, amphibians, animals) 	NALSSPRNKCDRASSCFG
+AP01661
+Ref, RMAD-1 (rhesus macaque myeloid alpha-defensin-1, UCSS1a; Old World monkey,primates, mammals, animals; 3S=S) 	ACYCRIPACLAGERRYGTCFYLGRVWAFCC
+AP01662
+Ref, RMAD-3 (rhesus macaque myeloid alpha-defensin-3, UCSS1a; Old World monkey, primates, mammals, animals; 3S=S) 	ACYCRIPACLAGERRYGTCFYRRRVWAFCC
+AP01663
+Ref, RMAD-4 (rhesus macaque myeloid alpha-defensin-4, UCSS1a; Old World monkey, primates, mammals, animals; 3S=S) 	RRTCRCRFGRCFRRESYSGSCNINGRIFSLCCR
+AP01664
+Ref, RMAD-5 (rhesus macaque myeloid alpha-defensin-5, UCSS1a; Old World monkey, primates, mammals, animals; 3S=S) 	RTCRCRFGRCFRRESYSGSCNINGRIFSLCCR
+AP01665
+Ref, RMAD-6 (rhesus macaque myeloid alpha-defensin-6, UCSS1a; Old World monkey, primates, mammals, animals; 3S=S) 	RRTCRCRFGRCFRRESYSGSCNINGRISSLCCR
+AP01666
+Ref, RMAD-7 (rhesus macaque myeloid alpha-defensin-7, UCSS1a; Old World monkey, primates, mammals, animals; 3S=S; other AMPs?: RMAD-8) 	RTCRCRFGRCFRRESYSGSCNINGRISSLCCR
+AP01667
+Ref, PhD1 (PhD-1, P. hamadryas alpha-defensin; UCSS1a; monkey, primates, mammals, animals; 3S=S) 	RRICRCRIGRCLGLEVYFGVCFLHGRLARRCCR
+AP01668
+Ref, PhD2 (PhD-2, P. hamadryas alpha-defensin; UCSS1a; monkey, primates, mammals, animals; 3S=S) 	RICRCRIGRCLGLEVYFGVCFLHGRLARRCCR
+AP01669
+Ref, PhD3 (PhD-3, P. hamadryas alpha-defensin; UCSS1a; monkey, primates, mammals, animals; 3S=S) 	RTCRCRLGRCSRRESYSGSCNINGRIYSLCCR
+AP01670
+Ref, PhD4 (PhD-4, P. hamadryas alpha-defensin; UCSS1a; monkey, primates, mammals, animals; 3S=S) 	ACYCRIPACFAGERRYGTCFYLGRVWAFCC
+AP01671
+Ref, PhTD1 (PhTD-1, P. hamadryas theta-defensin-1; monkey, primates, mammals, animals; 3S=S, Cys-rich; UCBB1b; XXC) 	RCVCRRGVCRCVCTRGFC
+AP01672
+Ref, PhTD3 (PhTD-3, P. hamadryas theta-defensin-1; monkey, primates, mammals, animals; 3S=S, Cys-rich; UCBB1b; XXC) 	RCVCTRGFCRCVCTRGFC
+AP01673
+Ref, RTD-4 (rhesus macaque theta-defensin-4; monkey, primates, mammals, animals; 3S=S, Cys-rich; UCBB1b; XXC) 	GICRCICTRGFCRCICVL
+AP01674
+Ref, RTD-5 (rhesus macaque theta-defensin-5; monkey, primates, mammals, animals; 3S=S, Cys-rich; UCBB1b; XXC; Other AMPs? RTD-6) 	GICRCLCRRGVCRCICVL
+AP01675
+Ref, Beta-amyloid peptide (1-40) (Abeta40, human; primates, mammals, animals; JJsn) 	DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+AP01676
+Ref, Beta-amyloid peptide (1-42) (Abeta42, human; primates, mammals, animals; lectin; BBS) 	DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA
+AP01677
+Ref, PvD1 (P. vulgaris defensin 1, UCSS1a; plants; BBMm; BWQ?) 	KTCENLADTYKGPCFTTGSCD
+AP01678
+Ref, Cc-LTP1 (Coffea canephora lipid transfer protein 1, plants; BWQ) 	ITCQQVTSELGPCVPYLTGQGIP
+AP01679
+Ref, OdVP1 (O. drewseni venom peptide 1, insects, arthropods, invertebrates, animals) 	GRILSFIKGLAEHL
+AP01680
+Ref, OdVP2 (O. drewseni venom peptide 2, insects, arthropods, invertebrates, animals) 	ILGIITSLLKSLGKK
+AP01681
+Ref, OdVP3 (O. drewseni venom peptide 3, insects, arthropods, invertebrates, animals) 	KDLHTVVSAILQAL
+AP01683
+Ref, SD2 (defensins; UCSS1a; plants; 4S=S) 	NEMGGPLVVEARTCESQSHKFKGTCLSDTNCANVCHSERFSGGKCRGFRRRCFCTTHC
+AP01684
+O24332.1, Rs-AFP3 (RsAFP3; R. sativus-antifungal protein 3, defensins, UCSS1a; plants; 4S=S) 	KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC
+AP01685
+Ref, Rs-AFP4 (RsAFP4; R. sativus-antifungal protein 4, defensins, UCSS1a; 4S=S, plants) 	QKLCERSSGTWSGVCGNNNACKNQCINLEGARHGSCNYIFPYHRCICYFPC
+AP01686
+6NOM, PsD2 (P. sativum defensin 2; defensins; UCSS1a; plants; 4S=S) 	KTCENLSGTFKGPCIPDGNCNKHCRNNEHLLSGRCRDDFRCWCTNRC
+AP01687
+ADA70735, Br-AFP1 (defensins; plants; UCSS1a; 4S=S) 	KLCERSSGTWSGVCGNNNACKNQCINLEGARHGSCNYVFPYHRCICYFPC
+AP01688
+BAH82667.1, Br-AFP2 (defensins; plants; UCSS1a; 4S=S) 	KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC
+AP01689
+P30231, Sa-AFP1 (S alba antifungal peptide 1; defensins; UCSS1a; plants; 4S=S) 	KLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+AP01690
+P26780, Sa-AFP2 (S alba antifungal peptide 2; defensins; UCSS1a; plants; 4S=S) 	KLCQRPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+AP01691
+Q39313, Bn-AFP1 (B. napus antifungal peptide 1; defensins; UCSS1a; plants; 4S=S) 	KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC
+AP01692
+Ref, At-AFP1 (A thaliana antifungal peptide 1; defensins; UCSS1a; plants; 4S=S) 	KLCERPSGTWSGVCGNSNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+AP01693
+Ref, Ns-D1 (N. sativa defensin 1, defensins, UCSS1a; 4S=S, plants) 	KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKPPAHRCICYYEC
+AP01694
+Ref, Ns-D2 (N. sativa defensin 1, defensins, UCSS1a; 4S=S, plants) 	KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKLPAHRCICYYEC
+AP01696
+Ref, AS-hepc2 (A. schlegelii hepcidin 2; UCSS1a; 4S=S, fish, animals) 	SPAGCRFCCGCCPNMRGCGVCCRF
+AP01704
+Ref, Esculentin-1ISb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	RIFSKIGGKAIKNLILKGIKNIGKEVGMDVIRTGIDVAGCKIKGEC
+AP01705
+Ref, Esculentin-2ISa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFSLIKGAAKLITKTVAKEAGKTGLELMACKVTNQC
+AP01706
+Ref, Palustrin-2ISa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GFMDTAKNVAKNVAVTLLDKLKCKITGGC
+AP01707
+Ref, Brevinin-2ISa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SLLDTFKNLAVNAAKSAGVSVLNALSCKISRTC
+AP01710
+Ref, Nigrocin-2ISa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFSTVFKAGKGIVCGLTGLC
+AP01711
+Ref, Nigrocin-2ISb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILGTVFKAGKGIVCGLTGLC
+AP01713
+Ref, CodCath (Cod cathelicidin, Gly-rich; Ser-rich; fish, animals) 	SRSGRGSGKGGRGGSRGSSGSRGSKGPSGSRGSSGSRGSKGSRGGRSGRGSTIAGNGNRNNGGTRTA
+AP01717
+Ref, Esculentin-2PRb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFSALAAGVKLLGNTLFKMAGKAGAEHLACKATNQC
+AP01721
+Ref, Brevinin-1PRa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPVLTGLTPSIVPKLVCLLTKKC
+AP01722
+Ref, Brevinin-1PRb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPVLAGLTPSIVPKLVCLLTKKC
+AP01731
+Ref, Maximin 28 (toad, amphibians, animals, UCLL1c; XXA) 	GIGTKFLGGVKTALKGALKELASTYVN
+AP01740
+Ref, Maximin 68 (toad, amphibians, animals, UCLL1c; XXA) 	GIGGALLSAGKAALKGLAKVLV
+AP01743
+Ref, Maximin 78 (toad, amphibians, animals, UCLL1c; XXA) 	GIGGALLSVGKLALKGLANVLADKFAN
+AP01744
+Ref, Maximin H7 (toad, amphibians, animals, UCLL1c; XXA) 	ILGPVIKTIGGVIGGLLKNL
+AP01749
+Ref, cc-CATH2 (C. coturnix cathelicidin; birds, animals) 	LVQRGRFGRFLKKVRRFIPKVIIAAQIGSRFG
+AP01750
+Ref, cc-CATH3 (C. coturnix cathelicidin; birds, animals) 	RVRRFWPLVPVAINTVAAGINLYKAIRRK
+AP01751
+2LA2, Papiliocin (insects, arthropods, invertebrates, animals; XXA; BBMm; BBL) 	RWKIFKKIEKVGRNVRDGIIKAGPAVAVVGQAATVVK
+AP01752
+Ref, Defensin-NV (UCSS1a; 3S=S, insects, arthropods, invertebrates, animals) 	VTCELLMFGGVVGDSACAANCLSMGKAGGSCNGGLCDCRKTTFKELWDKRFG
+AP01760
+2L2R, EcAMP1 (E. crus-galli AMP 1; hairpin-like peptides; 2S=S; plants) 	GSGRGSCRSQCMRRHEDEPWRVQECVSQCRRRRGGGD
+AP01769
+Ref, Piceain 1 (plants; UCSS1a; 1S=S) 	KSLRPRCWIKIKFRCKSLKF
+AP01770
+Ref, Piceain 2 (plants; 1S=S) 	RPRCWIKIKFRCKSLKF
+AP01772
+Ref, Sm-AMP-D1 (defensins; plants; 4S=S; UCSS1a) 	KICERASGTWKGICIHSNDCNNQCVKWENAGSGSCHYQFPNYMCFCYFDC
+AP01773
+Ref, Sm-AMP-D2 (defensins; plants; 4S=S; UCSS1a) 	KICERASGTWKGICIHSNDCNNQCVKWENAGSGSCHYQFPNYMCFCYFNC
+AP01778
+Ref, Jindongenin-1a (UCLL1c; XXU; 1S=S, frog, amphibians, animals) 	DSMGAVKLAKLLIDKMKCEVTKAC
+AP01781
+Ref, Palustrin-2ISc (Odorranain-F-OR1; UCLL1; XXU; 1S=S, frog, amphibians, animals; Inactive: Palustrin-2ISd) 	GFMDTAKNVAKNVAATLLDKLKCKITGGC
+AP01782
+Ref, Nigrocin-2ISc (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILSTVFKAGKGIVCGLSGLC
+AP01783
+Ref, Brevinin-1ISa (frog, amphibians, animals; XXU; 1S=S, UCSS1a, Inactive: Odorranain-MISa, Ishikawain-1 to 8) 	FLPGVLRLVTKVGPAVVCAITRNC
+AP01786
+Ref, Lycocitin 1 (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; UCLL1c) 	GKLQAFLAKMKEIAAQTL
+AP01787
+Ref, Lycocitin 2 (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; Lycocitin 3, activity not tested; UCLL1c) 	GRLQAFLAKMKEIAAQTL
+AP01790
+Ref, Myticin B (Myt B; mollusca/molluscs/mollusks, marine invertebrates, animals; 4S=S) 	HPHVCTSYYCSKFCGTAGCTRYGCRNLHRGKLCFCLHCSR
+AP01791
+Ref, Ctriporin (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c) 	FLWGLIPGAISAVTSLIKK
+AP01803
+Ref, Tn-AFP (Trapa natans antifungal peptide, plants) 	LMCTHPLDCSN
+AP01815
+Ref, HIMS-Defensin (UCSS1a; 3S=S, ticks, Nuttalliellidae, arachnids, Chelicerata, arthropods, invertebrates, animals) 	DFGCARGMIFVCMRRCARMYPGSTGYCQGFRCMCDTMIPIRRPPFIMG
+AP01816
+Ref, Ac-AFP1 (H. coronopifolia antifungal peptide 1; UCSS1a; plants; 4S=S) 	RYCERSSGTWSGVCGNSGKCSNQCQRLEGAAHGSCNYVFPAHKCICYYPC
+AP01817
+Ref, Ac-AFP2 (H. coronopifolia antifungal peptide 1; UCSS1a; plants; 4S=S) 	QKLCERPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC
+AP01818
+Ref, Ac-AFP3 (H. coronopifolia antifungal peptide 1; UCSS1a; 4S=S, plants) 	RYCERSSGTWSGVCGNTDKCSSQCQRLEGAAHGSCNYVFPAHKCICYYPC
+AP01819
+Ref, Ac-AFP4 (H. coronopifolia antifungal peptide 1; UCSS1a; 4S=S, plants) 	QKLCERPSGTWSGVCGNNGACRNQCIRLERARHGSCNYVFPAHKCICYFPC
+AP01820
+Ref, Brevinin-1-OA1 ( frog, amphibians, animals; XXU; 1S=S, UCSS1a. More AMPs?) 	VIVFVASVAAEMMQHVYCAASKKC
+AP01821
+Ref, Brevinin-1-OA2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	VIPFVASVAAEMMQHVYCAASKKC
+AP01822
+Ref, Brevinin-1-OA12 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLPAVIRVAANVLPTAFCAISKKC
+AP01823
+Ref, Brevinin-1-OR1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	LPFVAGVAAEMMQHVYCAASKKC
+AP01824
+5YKK, Andersonin-Y1 (UCLL1; frog, amphibians, animals) 	FLPKLFAKITKKNMAHIR
+AP01825
+Ref, Brevinin-1-OR3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	IDPFVAGVAAEMMQHVYCAASKKC
+AP01826
+Ref, Brevinin-1-OR4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	INPFVAGVAAEMMQHVYCAASKKC
+AP01827
+Ref, Brevinin-1-OR5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	ILPFVAGVAAEMMKHVYCAASKKC
+AP01828
+Ref, Brevinin-1-OR6 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	IIPFVAGVAAEMMEHVYCAASKKC
+AP01829
+Ref, Brevinin-1-OR7 (UCSS1a; frog, amphibians, animals) 	QLPFVAGVACEMCQCVYCAASKKC
+AP01830
+Ref, Brevinin-1-OR8 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	ILPFVAGVAAEMMEHVYCAASKKC
+AP01831
+Ref, Brevinin-1-OR9 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	ILPFVAGVAAMEMEHVYCAASKKC
+AP01832
+Ref, Brevinin-1-OR10 (XXU; 1S=S, UCSS1a frog, amphibians, animals) 	FLPAVLLVATHVLPTVFCAITRKC
+AP01833
+Ref, Brevinin-1-OR11 (XXU; 1S=S, UCSS1a frog, amphibians, animals) 	LAFVAGVAAEMMQHVYCAASKKC
+AP01834
+Ref, Brevinin-2-OA1 (XXU; 1S=S, UCSS1a frog, amphibians, animals) 	GILDTFKNMALNAAKSAGVSVLNALSCKLSKTC
+AP01835
+Ref, Brevinin-2-OA2 (Brevinin-2E-OG1; XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDTFKNMALNAAKSAGVSVLNALSCKLSKTC
+AP01836
+Ref, Brevinin-2-OA3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDTFKNMAINAAHGAGVSVLNALSCKLKKTC
+AP01837
+Ref, Brevinin-2-OA4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDTFKNLAINAAESAGVSVLNSLSCKLSKTC
+AP01838
+Ref, Brevinin-2-OA5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDGILNANFNAAKSAGTSVLNALSCKLSKTC
+AP01839
+Ref, Brevinin-2-OA6 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GVLATVKNLLIGTGDGAAQSVLKTLSCKLSNDC
+AP01840
+Ref, Brevinin-2-OA7 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GVLGTVKDLLIGAGKSAAQSTLKTLSCKISNDC
+AP01841
+Ref, Brevinin-2-OA8 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GVLATVKNLLNGTGDGAAQSVLKTLSCKLSNDC
+AP01842
+Ref, Andersonin-D1 (UCLL1; frog, amphibians, animals) 	FIFPKKNIINSLFGR
+AP01843
+Ref, Brevinin-2-OR2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDTIKNMALNAAKSAGVSVLNSLSCKLSKTC
+AP01844
+Ref, Brevinin-2-OR3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLIDTIKNMALNAAKSAGVSVLNTLSCKLSKTC
+AP01845
+Ref, Brevinin-2-OR4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SVLGTVKDLLIGAGKSAAQSVLTANSCKLSNSC
+AP01846
+Ref, Brevinin-2-OR5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SFLDTLKNLAISAAKGAGQSVLSTLSCKLSETC
+AP01847
+Ref, Brevinin-2-OR6 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDTIKNMALNAAKSAGVSVLNSLSCKDSKTC
+AP01848
+Ref, Brevinin-2-OR7 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDTIKNMALNAAKSAGVSVLNTLSCKLSKTC
+AP01849
+Ref, Andersonin-C1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	TSRCIFYRRKKCS
+AP01850
+Ref, Brevinin-2-OR9 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SFLSTFKELAINAAKNAGQSILHTLSCKLDKTC
+AP01851
+Ref, Brevinin-2-OR10 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SFLSTFKELAINAAKNAGQSLLHTLSCKLDKTC
+AP01852
+Ref, Brevinin-2-OW1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SVMGTVKDLLIGAGKSAAQSVLKSLSCKISNDC
+AP01853
+Ref, Brevinin-2-OW2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SVMGTVKDLLIGAGKSAAQSVLKSLSCKLSNDC
+AP01854
+Ref, Brevinin-2-OW3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SVMGTVKDLLIGAGKSAAQSVLKALSCKLSKDC
+AP01855
+Ref, Esculentin-1-OA1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLFSKFVGKGIKNFLIKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC
+AP01856
+Ref, Esculentin-1-OA2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLFSKFSGKGIKNFLIKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC
+AP01857
+Ref, Esculentin-1-OA3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLFSKFAGKGIKDLIFKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC
+AP01858
+Ref, Esculentin-1-OA4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLFTKFAGKGIKDLIFKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC
+AP01859
+Ref, Esculentin-1-OA5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLFSKFAGKGIKNFLIKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC
+AP01860
+Ref, Andersonin-W1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	ATNIPFKVHFRCKAAFC
+AP01861
+Ref, Esculentin-1-OR1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GIFSKISGKAIKNLFIKGAKNVGKEVGMDVVRTGIDVVGCKIKGEC
+AP01862
+Ref, Andersonin-W2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	AVNIPFKVHFRCKAAFC
+AP01863
+Ref, Esculentin-1-OR3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GIFSKISGKAIKNLFIKGAKNVGKRVGMDVVRTGMDVVGCKIKGEC
+AP01864
+Ref, Esculentin-1-OR4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GIFSKISGKAIKNLFIKGAENVGKHVGIDVVRTGIDVVGCKIKGEC
+AP01865
+Ref, Esculentin-1-OR5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GIFSKISGKAIKNLFIKGAKNVGKEVGIDVVRTGMDVVGCKIKGEC
+AP01866
+Ref, Esculentin-2-OA1 (Esculentin-2JDb; XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GIFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC
+AP01867
+Ref, Esculentin-2-OA2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLFTLIKGAAKLIGKTTAKEAGKTGKLEMACKITNQC
+AP01868
+Ref, Odoranain-F-OW1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GFMNTAKNVAKNVAVTLLDNLKCKITGGC
+AP01869
+Ref, Odorranain-J-OA2 (UCLL1; frog, amphibians, animals) 	GLFTLIKGAYKNDAPTVACN
+AP01870
+Ref, Esculentin-2-OR2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GVFTLIKGATQLIGKTLGKEVGKTGLELMACKITKQC
+AP01871
+Ref, Esculentin-2-OR3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GVFTLLKGATQLIGKTLGKELGKTGLELMACKITNQC
+AP01872
+Ref, Esculentin-2-OR4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GVFTLIKGATQLIGKTLGKELGKTGLELMACKITEQC
+AP01873
+Ref, Esculentin-2-OR5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GVFTLIKGATQLIGKTLGKELGKTGLEIMACKITKQC
+AP01874
+Ref, Andersonin-X1 (UCLL1; frog, amphibians, animals) 	GLFSKFAGKGIVNFLIEGVE
+AP01875
+Ref, Nigrocin-1-OA1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSGVLGVGKKIVCGLSGLC
+AP01876
+Ref, Nigrocin-1-OA2 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFGKILGVGKKTLCELSGMC
+AP01877
+Ref, Nigrocin-1-OA3 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFLKVLGVGKKVLCGVSGLC
+AP01878
+Ref, Nigrocin-1-OR1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLISGILGVGKKLVCGLSGLC
+AP01879
+Ref, Nigrocin-1-OR2 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLISGILGVGKMLVCGLSGLC
+AP01880
+Ref, Nigrocin-1-OR3 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLISGLLGVGKMLVCGLSGLC
+AP01881
+Ref, Odorranain-J-OA1 (UCLL1; frog, amphibians, animals) 	GLFTLIKGAYKLDAPTVACN
+AP01882
+Ref, Nigrocin-1-OW2 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILGNIVGMGKKIVCGLSGLC
+AP01883
+Ref, Nigrocin-1-OW3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GILGNIVGMGKKVVCGLSGLC
+AP01884
+Ref, Nigrocin-1-OW4 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILSGVLGMGKKIVCGLRGLC
+AP01885
+Ref, Nigrocin-1-OW5 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILGNIVGMGKQVVCGLSGLC
+AP01886
+Ref, Odorranain-A-OA1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	VVKCSYRLGSPDSQCN
+AP01887
+Ref, Odorranain-F-OA1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GFMDTAKNVAKNMAGNLLDNLKCKITKAC
+AP01888
+Ref, Odorranain-F-OA2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GFMDTAKNVAKNMAVTLLDNLKCKITKAC
+AP01889
+Ref, Odorranain-F-OA3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GFMDTAKNVAKNEAGNLLDNLKCKITKAC
+AP01890
+Ref, Odorranain-F-OA4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GFMATAKNVAKNMDVTLLDNLKCKITKAC
+AP01891
+Ref, Hejiangin-A1 (UCLL1; frog, amphibians, animals) 	RFIYMKGFGKPRFGKR
+AP01892
+Ref, Hejiangin-F1 (UCLL1; frog, amphibians, animals) 	IPWKLPATFRPVERPFSKPFCRKD
+AP01893
+Ref, Schmackerin-C1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	AAPRGGKGFFCKLFKDC
+AP01908
+Ref, Ranacyclin-B-RL1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	AALRGCWTKSIPPKPCPGKR
+AP01911
+Ref, Ranacyclin-B-RN6 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SALVGCWTKSYPPNPCFGRG
+AP01922
+Ref, Halictine 1 (HAL-1; XXA; insects, arthropods, invertebrates, animals) 	GMWSKILGHLIR
+AP01923
+Ref, Halictine 2 (HAL-2; XXA; insects, arthropods, invertebrates, animals) 	GKWMSLLKHILK
+AP01926
+Ref, Peptide VR-23 (frog, amphibians, animals; XXA; UCLL1c) 	VIGSILGALASGLPTLISWIKNR
+AP01940
+Ref, Nigroain-C2 (frog, amphibians, animals; UCLL1) 	FKTWKRPPFQTSCWGIIKE
+AP01942
+Ref, Nigroain-E1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	DCTRWIIGINGRICRD
+AP01943
+Ref, Nigroain-K1 (frog, amphibians, animals; UCLL1) 	SLWETIKNAGKGFIQNLDKIR
+AP01944
+Ref, Nigroain-K2 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SLWETIKNAGKGFILNILDKIRCKVAGGCKT
+AP01945
+Ref, Gaegurin-RN1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FIGPVLKIAAGILPTAICKIFKKC
+AP01946
+Ref, Gaegurin-RN4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FVGPVLKIAAGILPTAICKIYKKC
+AP01947
+Ref, Gaegurin-RN5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLGPIIKIATGILPTAICKFLKKC
+AP01948
+Ref, Rugosin-RN1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SIRDKIKTIAIDLAKSAGTGVLKTLICKLDKSC
+AP01949
+Ref, Rugosin-RN3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SIRDKIKTIAIDLAKSAGMGILKTLICKLDKSC
+AP01950
+Ref, Rugosin-RN5 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	SIRDKIKTIAIDLAKSAGTGVLKTLICKLNKSC
+AP01951
+Ref, Temporin-RN1 (XXA; frog, amphibians, animals; ; UCLL1c) 	FLPLVLGALSGILPKIL
+AP01952
+Ref, Temporin-RN3 (XXA; ; UCLL1c; frog, amphibians, animals) 	FFPLLFGALSSHLPKLF
+AP01953
+Ref, Hainanenin 1 (frog, amphibians, animals;XXU; 1S=S, UCSS1a) 	FALGAVTKLLPSLLCMITRKC
+AP01954
+Ref, Hainanenin 5 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FALGAVTKRLPSLFCLITRKC
+AP01956
+Ref, Macropin 1 (Mac1, MAC-1, insects, arthropods, invertebrates, animals, XXA) 	GFGMALKLLKKVL
+AP01957
+Ref, Macropin 2 (Mac2, insects, arthropods, invertebrates, animals, XXA) 	GTGLPMSERRKIMLMMR
+AP01958
+2MBD, Lasiocepsin (insects, arthropods, invertebrates, animals; 2S=S) 	GLPRKILCAIAKKKGKCKGPLKLVCKC
+AP01959
+Ref, Temporin-HN1 (XXA; ; UCLL1c; frog, amphibians, animals) 	AILTTLANWARKFL
+AP01960
+Ref, Temporin-HN2 (XXA; ; UCLL1c; frog, amphibians, animals) 	NILNTIINLAKKIL
+AP01961
+Ref, Brevinin-1HN1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLPLIASLAANFVPKIFCKITKKC
+AP01962
+Ref, Brevinin-1V (UCLL1; frog, amphibians, animals) 	FLPLIASVAANLVPKIFCKITKKC
+AP01963
+4OZK, Laterosporulin (LS, class 2 bacteriocin; Gram-positive bacteria, prokaryotes; 3S=S; UCSS1a) 	ACQCPDAISGWTHTDYQCHGLENKMYRHVYAICMNGTQVYCRTEWGSSC
+AP01964
+Ref, Hymenochirin-1B (Hym-1B; frog, amphibians, animals; XXA; UCLL1c) 	IKLSPETKDNLKKVLKGAIKGAIAVAKMV
+AP01965
+Ref, Hymenochirin-2B (frog, amphibians, animals; UCLL1) 	LKIPGFVKDTLKKVAKGIFSAVAGAMTPS
+AP01966
+Ref, Hymenochirin-3B (frog, amphibians, animals; UCLL1) 	IKIPAVVKDTLKKVAKGVLSAVAGALTQ
+AP01967
+Ref, Hymenochirin-4B (frog, amphibians, animals; UCLL1) 	IKIPAFVKDTLKKVAKGVISAVAGALTQ
+AP01969
+Ref, GP-19 (bacteriocin; Gram-negative bacteria, prokaryotes) 	GPVGLLSSPGSLPPVGGAP
+AP01970
+Ref, EP-20 (bacteriocin; Gram-negative bacteria, prokaryotes) 	EGPVGLADPDGPASAPLGAP
+AP01973
+Ref, Oh-defensin (O. hainana defensin; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; 3S=S, UCSS1a) 	MLCKLSMFGAVLGVPACAIDCLPMGKTGGSCEGGVCGCRKLTFKILWDKKFG
+AP01976
+2LN4, Coprisin (defensin-like peptide; UCSS1a; 3S=S, insects, arthropods, invertebrates, animals; Derivatives: CopA3) 	VTCDVLSFEAKGIAVNHSACALHCIALRKKGGSCQNGVCVCRN
+AP01979
+Ref, ToAMP1 (UCSS1a; 3S=S, plants) 	VAKCTEESGGKYFVFCCYKPTRICYMNEQKCESTCIGK
+AP01980
+Ref, IsCT2 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c) 	IFGAIWNGIKSLF
+AP01981
+Ref, ToAMP2 (UCSS1a; 3S=S, plants) 	GGKCTVDWGGQGGGRRLPSPLFCCYKPTRICYLNQETCETETCP
+AP01982
+Ref, ToAMP3 (UCSS1a; 4S=S, plants) 	ANKCIIDCMKVKTTCGDECKGAGFKTGGCALPPDIMKCCHNC
+AP02017
+Ref, hGAPDH(2-32) (a fragment of glyceraldehyde-3-phosphate dehydrogenase, humans; primates, mammals, animals) 	GKVKVGVNGFGRIGRLVTRAAFNSGKVDIVA
+AP02018
+2KSK, Sd5 (sugarcane defensin 5; defensins; UCSS1a; 4S=S,plants) 	HTPTPTPICKSRSHEYKGRCIQDMDCNAACVKESESYTGGFCNGRPPFKQCFCTKPCKRERAAATLRWPGL
+AP02020
+Ref, Brevinin-1-AJ1 (frog, amphibians, animals. XXU; More AMPs? ; 1S=S, UCSS1a) 	FLSTLLKVAFKVVPTLFCPITKKC
+AP02021
+Ref, Temporin-AJ8 (frog, amphibians, animals; XXA; UCLL1c) 	FFPIVGKRLYGLL
+AP02022
+Ref, Jingdongin-1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPLFLPKIICVITKKC
+AP02023
+Ref, Sd1 (sugarcane defensin 1; defensins; UCSS1a; 4S=S, plants. More AMPs? Sd2, Sd4, Sd6) 	RYCLSQSHRFKGLCMSSSNCANVCQTENFPGGECKADGATRKCFCKKIC
+AP02024
+Ref, Sd3 (sugarcane defensin 3; defensins; UCSS1a; 4S=S, plants) 	RHRHCFSQSHKFVGACLRESNCENVCKTEGFPSGECKWHGIVSKCHCKRIC
+AP02031
+Ref, Px-cec1 (P. xylostella cecropin 1, insects, arthropods, invertebrates, animals) 	KPFKKLEKVGRNIRDGIIKAGPAVAVIGQATSIARPTGK
+AP02033
+Ref, LTP110 (lipid transfer protein, plants; 4S=S; UCSS1a) 	VSCGDVTSSIAPCLSYVMGRESSPSSSCCSGVRTLNGKASSSADRRTACSCLKNMASSFRNLNMGNAASIPSKCGVSVAFPISTSVDCSKIN
+AP02034
+Ref, Coconut antifungal peptide (plants; BWQ) 	EQCREEEDDR
+AP02035
+Ref, MiAMP2b (Macadamia integrifolia antimicrobial protein 2b, plants; UCSS1a; Inactive: MiAMP2a) 	DPQTECQQCQRRCRQQESGPRQQQYCQRRCKEICEEEEEYN
+AP02036
+Ref, MiAMP2c (plants; UCSS1a) 	RQRDPQQQYEQCQKHCQRRETEPRHMQTCQQRCERRYEKEKRKQQKRYEEQQREDEEKYEERMKEEDN
+AP02037
+Ref, MiAMP2d (plants; UCSS1a) 	KRDPQQREYEDCRRRCEQQEPRQQHQCQLRCREQQRQHGRGGDMMNPQRGGSGRYEEGEEEQS
+AP02041
+1BHP, Beta-purothionin (beta-PTH; UCSS1a; plants; 4S=S) 	KSCCKSTLGRNCYNLCRARGAQKLCANVCRCKLTSGLSCPKDFPK
+AP02044
+Ref, Brevinin-1JDa (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLPAVIRVAANVLPTVFCAISKKC
+AP02046
+Ref, Nigrocin-2JDa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFGKILGAGKKVLCGLSGLC
+AP02047
+Ref, Odorranain-H2 (Nigrocin-2JDb, frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFGKILGVGKKVLCGLSGMC
+AP02048
+Ref, Beta-defensin 1TB (Tupaiidae, mammals, animals; UCSS1a) 	DHYLCVKNEGICLYSSCPSYTKIEGTCYGGKAKCCK
+AP02049
+Ref, wb-Moronecidin (white bass Moronecidin, fish, animals; XXA, UCLL1c) 	FFHHIFRGIVHVGKTIHKLVTGT
+AP02050
+Ref, sb-Moronecidin (striped bass Moronecidin, fish, animals; XXA, UCLL1c) 	FFHHIFRGIVHVGKTIHRLVTGT
+AP02052
+Ref, Sclerosin (lipopeptide; bacteriocin, Gram-negative bacteria, prokaryotes; XXL; XXW5) 	TPALAVVTTVLPAAAVTTAKSV
+AP02054
+Ref, Temporin-CG1 (frog, amphibians, animals; XXA; UCLL1c) 	FLPFVGNLLKGLL
+AP02057
+Ref, Esculentin-2CG1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SLFSIFKTAAKFVGKNLLKQAGKAGLETLACKAKNEC
+AP02058
+Ref, Palustrin-2CG1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLWNTIKEAGKKFAINVLDKIRCGIAGGCKT
+AP02059
+Ref, Brevinin-1CG1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLSTALKVAANVVPTLFCKITKKC
+AP02060
+Ref, Brevinin-1CG2 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIVAGLAANFLPKIVCKITKKC
+AP02061
+Ref, Brevinin-1CG3 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLSTLLNVASNVVPTLICKITKKC
+AP02062
+Ref, Brevinin-1CG4 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLSTLLNVASKVVPTLFCKITKKC
+AP02063
+Ref, Brevinin-1CG5 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPMLAGLAANFLPKIVCKITKKC
+AP02064
+Ref, Brevinin-2CG1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILDKLKEFGISAARGVAQSLLNTTASCKLAKTC
+AP02065
+Ref, Datucin (glycopeptide; plants; XXG; XXK) 	TFPKCAPTRPPGPKPCDINNFKSKFWHIWRA
+AP02066
+Ref, Pm-AMP1 (P. monticola AMP1, UCSS1a; 3S=S, pines, plants) 	SYFSAWAGPGCNNHNARYSKCGCSNIGHNVHGGYEFVYQGQTAAAYNTDNCKGVAQTRFSSSVNQACSNFGWKSVFIQC
+AP02067
+1B1I, Human RNase 5 (angiogenin, ANG, Ribonuclease family; UCSS1a; 3S=S, primates, mammals, animals; XXQ) 	QDNSRYTHFLTQHYDAKPQGRDDRYCESIMRRRGPTSPCKDINTFIHGNKRSIKAICENKNGNPHRENLRISKSSFQVTTCKLHGGSPWPPCQYRATAGFRNVVVACENGLPVHLDQSIFRRPRP
+AP02068
+2BWL, Mouse Ang1 (murine angiogenin 1, Ribonuclease superfamily, UCSS1a; 3S=S, rodents, mammals, animals) 	YCERMMKRRSLTSPCKDVNTFIHGNKSNIKAICGANGSPYRENLRMSKSPFQVTTCKHTGGSPRPPCQYRASAGFRHVVIACENGLPVHFDESFFSL
+AP02073
+2HKY, RNase 7 (Ribonuclease 7; Ribonuclease family, UCSS1a; 4S=S, human; primates, mammals, animals; BBomp) 	KPKGMTSSQWFKIQHMQPSPQACNSAMKNINKHTKRCKDLNTFLHEPFSSVAATCQTPKIACKNGDKNCHQSHGAVSLTMCKLTSGKYPNCRYKEKRQNKSYVVACKPPQKKDSQQFHLVPVHLDRVL
+AP02075
+1M8A, CCL20 (macrophage inflammatory protein-3alpha, MIP-3alpha; Liver and activation-regulated cytokine, LARC; CC family; UCSS1a; 2S=S, humans; primates, mammals, animals) 	SNFDCCLGYTDRILHPKFIVGFTRQLANEGCDINAIIFHTKKKLSVCANPKQTWVKYIVRLLSKKVKNM
+AP02080
+1O80, CXCL10 (IFN-inducible protein 10, IP-10, cytokine, CXC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	VPLSRTVRCTCISISNQPVNPRSLEKLEIIPASQFCPRVEIIATMKKKGEKRCLNPESKAIKNLLKAVSKERSKRSP
+AP02095
+2Z7F, SLPI (secretory leukocyte protease inhibitor, antileukoprotease, ALP, UCSS1a; human, primates, mammals, animals; 8S=S; BBMm; BBN) 	SGKSFKAGVCPPKKSAQCLRYKKPECQSDWQCPGKKRCCPDTCGIKCLDPVDTPNPTRRKPGKCPVTYGQCLMLNPPNFCEMDGQCKRDLKCCMGMCGKSCVSPVKA
+AP02097
+Ref, RNase 8 (Ribonuclease family, human, primates, mammals, animals; UCSS1a; 4S=S,) 	KPKDMTSSQWFKTQHVQPSPQACNSAMSIINKYTERCKDLNTFLHEPFSSVAITCQTPNIACKNSCKNCHQSHGPMSLTMGELTSGKYPNCRYKEKHLNTPYIVACDPPQQGDPGYPLVPVHLDKVV
+AP02098
+Ref, HsAp1 (HsAp; H. spinifer antimicrobial peptide 1; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a; more AMPs? HsAp2; HsAp3; HsAp4) 	SGTSEKERESGRLLGVVKRLIVCFRSPFP
+AP02106
+Ref, Temporin-LK1 (frog, amphibians, animals; XXA; UCLL1c) 	FFPLLFGALSSMMPKLF
+AP02107
+Ref, Gaegurin-LK1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FIGPVLKMATSILPTAICKGFKKC
+AP02108
+Ref, Gaegurin-LK2 (frog, amphibians, animals; XXU; more AMPs? Gaegurin-LK3; Gaegurin-LK4; 1S=S, UCSS1a) 	FLGPIIKMATGILPTAICKGLKKC
+AP02109
+Ref, Rugosin-LK1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SIRDKIKTMAIDLAKSAGTGVLKTLICKLDKSC
+AP02110
+Ref, Rugosin-LK2 (frog, amphibians, animals; UCSS1a; XXU; 1S=S, more AMPs:Rugosin-LK3; Rugosin-LK4) 	SIRDKGKTIAIDLAKSAGTGVLKTLMCKLDKSC
+AP02111
+Ref, Esculentin-2CHa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GFSSIFRGVAKFASKGLGKDLAKLGVDLVACKISKQC
+AP02112
+Ref, Ranatuerin-2CHa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLMDTVKNAAKNLAGQLLDRLKCKITGC
+AP02113
+Ref, Ranatuerin-2CHb (frog, amphibians, animals; XXU; more AMPs?: Ranatuerin-2CHc; 1S=S, UCSS1a) 	GLMDTIKGVAKNVAASLLEKLKCKVTGC
+AP02114
+Ref, Brevinin-1CHa (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIIAGVAAKVLPKLFCAITKKC
+AP02115
+Ref, Brevinin-1CHb (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPVIAGLAAKVLPKLFCAITKKC
+AP02116
+Ref, Brevinin-1CHc (frog, amphibians, animals; XXU; 1S=S, UCSS1; inactive: Palustrin-2CHa) 	FFPTIAGLTKLFCAITKKC
+AP02120
+Ref, Nabaecin-3 (Pro-rich; Gly-rich; insects, arthropods, invertebrates, animals) 	YVPKIPKPQPNKPNFPSFPGHGPFNPHASRFPRSPKDNGKIVFDAKKEGGKTQWNVETQQKVWGNKHGSIHVSAGAGKQPGGKPQGQVGIGGSFSWGK
+AP02123
+Ref, Ceratoxin (Pro-rich domain; Cys-rich domain; modular design; UCSS1a; possible 4S=S, frog, amphibians, animals) 	NVTPATKPTPSKPGYCRVMDELILCPDPPLSKDLCKNDSDCPGAQKCCYRTCIMQCLPPIFRE
+AP02126
+Ref, UyCT3 (OcyC1; NDBP-5.7; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c) 	ILSAIWSGIKSLF
+AP02128
+Ref, Haxy_Col1 (Coleoptericins; insects, arthropods, invertebrates, animals. More AMPs?) 	SLQPGAPNFPIPGQEKQEGWKFDPSLTRGEDGNTLGSINIHHTGPNHEVGANWDKVIRGPGKAKPTYSIHGSWRW
+AP02129
+Ref, Haxy_Col6 (Coleoptericins; insects, arthropods, invertebrates, animals) 	SLQPGAPKLPYAWSRKQEGWKFDPSLTRGEDGNTLGSINIHHTGRNHEVGANWNKVIRGPGKAKPTYSIHGSWRW
+AP02135
+Ref, TP4 (Tilapia piscidin 4; Oreoch-2; MSP-4; fish, animals; BBL) 	FIHHIIGGLFSAGKAIHRLIRRRRR
+AP02138
+Ref, Oreoch-1 (oreochromicins, piscidin-like; fish, animals; BBL) 	FIHHIIGGLFSVGKHIHGLIHGH
+AP02140
+Ref, Oreoch-3 (oreochromicins, piscidin-like; fish, animals: BBL) 	IWDAIFHGAKHFLHRLVNPGGKDAVKDVQQKQ
+AP02141
+Ref, Temporin-La (frog, amphibians, animals; XXA; UCLL1c) 	LLRHVVKILEKYL
+AP02143
+Ref, Pln149 (Plantaricin149, Plantaricin-149; bacteriocin; Gram-positive bacteria, prokaryotes. BBMm; Derivatives: Pln149a) 	YSLQMGATAIKQVKKLFKKKGG
+AP02146
+2JOB, ALFpm3 (ALF-Pm3; P. monodon anti-lipopolysaccharide factor 3; UCSS1a; Crustaceans, arthropods, invertebrates, animals; 1S=S; BBS; Domain: ALFPm3-LBD) 	QGWEAVAAAVASKIVGLWRNEKTELLGHECKFTVKPYLKRFQVYYKGRMWCPGWTAIRGEASTRSQSGVAGKTAKDFVRKAFQKGLISQQEANQWLSS
+AP02150
+Ref, PtALF1 (Portunus trituberculatus anti-lipopolysaccharide factor isoform 1; Crustaceans, arthropods, invertebrates, animals; BBS) 	YEALVTSILGKLTGLWHNDSVDFMGHICYFRRRPKIRRFKLYHEGKFWCPGWAPFEGRCKYCVVF
+AP02152
+Ref, PtALF3 (Portunus trituberculatus anti-lipopolysaccharide factor isoform 3; Crustaceans, arthropods, invertebrates, animals; BBS) 	YEALVTSILGKLTGLWHNDSVDFMGHICYFRRRPKIRRFKLYHEGKFWCPGWAPFEGRSRTKSRSGSSREATKDFVRKALQNGLVTQQDASLWLN
+AP02153
+Ref, PtALF4 (Portunus trituberculatus anti-lipopolysaccharide factor isoform 4; Crustaceans, arthropods, invertebrates, animals; BBS) 	GGWLDIVKAIVVPAARETIKTQEITLLDHYCTLSRSPYIKSLELHYRAEVTCPGWTIIRGRGSNHRNPTNSGKDALKDFMTQAVAAGLVTKEEAAPWLN
+AP02160
+Ref, Mytimacin-AF (mollusca/molluscs/mollusks, marine invertebrates, animals) 	TDTNVIGECFDEWSRCHRQTRWWTKILFQSCENRCKCKVQLMGNCIKVPFKCFLWKQKRFMCECYGPISGTKPWYCGWEL
+AP02161
+Ref, Juruin (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; 3S=S, UCSS1a) 	FTCAISCDIKVNGKPCKGSGEKKCSGGWSCKFNVCVKV
+AP02162
+Ref, Bicarinalin (antss, insects, arthropods, invertebrates, animals; XXA; BBMm) 	KIKIPWGKVKDFLVGGMKAV
+AP02168
+Ref, Myticusin-1 (UCSS1a; mollusca/molluscs/mollusks, marine invertebrates, animals; 5S=S) 	TDHQMAQSACIGVSQDNAYASAIPRDCHGGKTCEGICADATATMDRYSDTGGPLSIARCVNAFHFYKRRGEENVSYKPFVVSWKYGVAGCFYTHCGPNFCCCIS
+AP02174
+Ref, Senegalin (XXA; frog, amphibians, animals; UCLL1c) 	FLPFLIPALTSLISSL
+AP02175
+Ref, CATH_BRALE (cathelicidin; Gly-rich, ancient fish, animals) 	RRSKARGGSRGSKMGRKDSKGGSRGRPGSGSRPGGGSSIAGASRGDRGGTRNA
+AP02177
+Ref, Medusin-PD (XXA; frog, amphibians, animals; UCLL1c) 	LLGMIPLAISAISSLSKL
+AP02179
+Ref, Panurgine 1 (PNG-1; XXA; insects, arthropods, invertebrates, animals; UCLL1) 	LNWGAILKHIIK
+AP02180
+Ref, Panurgine K (PNG-K; UCSS1a; 2S=S, insects, arthropods, invertebrates, animals) 	LDVKKIICVACKIKPNPACKKICPK
+AP02181
+Ref, Panurgine R (PNG-R; UCSS1a; 2S=S, insects, arthropods, invertebrates, animals) 	LDVKKIICVACKIRPNPACKKICPK
+AP02182
+Ref, DEFB114 (human beta defensin 114, UCSS1a; 4S=S, primates, mammals, animals; BBL) 	DRCTKRYGRCKRDCLESEKQIDICSLPRKICCTEKLYEEDDMF
+AP02183
+Ref, Cc-GRP (gly-rich; plants; BWQ) 	GNEGGGHGGHGGYGGYHHHGGGGGGYGGYHGGGGS
+AP02186
+6CWS, CCL28 (MEC; SCYA28; CCK1; cytokine, kinocidins; human, primates, mammals, animals) 	MQQRGLAIVALAVCAALHASEAILPIASSCCTEVSHHISRRLLERVNMCRIQRADGDCDLAAVILHVKRRRICVSPHNHTVKQWMKVQAAKKNGKGNVCHRKKHHGKRNSNRAHQGKHETYGHKTPY
+AP02187
+2KUM, CCL27 (cutaneous T-cell-attracting cytokine, CTACK; CC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	PPSTACCTQLYRKPLSDKLLRKVIQVELQEADGDCHLQAFVLHLAQRSICIHPQNP
+AP02188
+Ref, mCCL28 (MEC; cytokine, kinocidins; mouse, rodents, mammals, animals) 	FQTSEAILPMASSCCTEVSHHVSGRLLERVSSCSIQRADGDCDLAAVILHVKRRRICISPHNRTLKQWMRASEVKKNGRENVCSGKKQPSRKDRKGHTTRKHRTRGTHRHEASR
+AP02189
+Ref, Fusaricidin A (lactone; XXD; XXL; XXJ; UCSB1b; lipopeptides; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes) 	TVVTNA
+AP02190
+Ref, Fusaricidin B (lactone; XXD; XXL; XXJ; UCSB1b; lipopeptides; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes) 	TVVTQA
+AP02191
+Ref, Fusaricidin C (lactone; XXD; XXL; XXJ; UCSB1b; lipopeptides;nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes) 	TVYTNA
+AP02192
+Ref, Fusaricidin D (lactone; XXD; XXL; XXJ; UCSB1b; lipopeptides; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes) 	TVYTQA
+AP02195
+Ref, Chemerin (retinoic acid receptor responder protein 2, RARRES2; RAR-responsive protein TIG2; Tazarotene-induced gene 2 protein; kinocidins; human, primates, mammals, animals) 	ELTEAQRRGLQVALEEFHKHPPVQWAFQETSVESAVDTPFPAGIFVRLEFKLQQTSCRKRDWKKPECKVRPNGRKRKCLACIKLGSEDKVLGRLVHCPIETQVLREAEEHQETQCLRVQRAGEDPHSFYFPGQFAFS
+AP02197
+1AMT, Alamethicin (ALM; lactam; peptaibol; fungii; XXJ; UCSB1a) 	PAAAAQAVAGLAPVAAEQ
+AP02198
+Ref, Shuchin 3 (XXA; XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	KAYSMPRCKGGFRAVMCWL
+AP02199
+Ref, Shuchin 4 (XXA; XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	KAYSTPRCKGLFRALMCWL
+AP02200
+Ref, Shuchin 5 (XXA; XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	KAYSMPRCKYLFRAVLCWL
+AP02201
+Ref, PE1 (lactone; lipopeptides; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria; prokaryotes; XXD; XXJ; XXL; UCSB1b; also PE2) 	KIKFLKVLT
+AP02202
+2LR7, Cathelicidin-PY (1S=S, UCSS1a; frog, amphibians, animals; BBL) 	RKCNFLCKLKEKLRTVITSHIDKVLRPQG
+AP02206
+Ref, Acanthoscurrin 1 (Gly-rich; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a, XXA) 	DVYKGGGGGRYGGGRYGGGGGYGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGRGGGYGGGGGYGGGYGGGYGGGKYK
+AP02207
+Ref, Acanthoscurrin 2 (Gly-rich; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a; XXA) 	DVYKGGGGGRYGGGRYGGGGGYGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGRGGYGGGGYGGGYGGGYGGGKYK
+AP02212
+Ref, sarcotoxin Pd (insects, arthropods, invertebrates; animals) 	GWLKKIGKKIERVGQHTRGLGIAQIAANVAATAR
+AP02213
+Ref, Pantinin-1 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	GILGKLWEGFKSIV
+AP02214
+Ref, Pantinin-2 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	IFGAIWKGISSLL
+AP02215
+Ref, Pantinin-3 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FLSTIWNGIKSLL
+AP02222
+Ref, Temporin-1KM (frog, amphibians, animals; XXA; UCLL1c) 	FIPLVSGLFSRLL
+AP02226
+Ref, SPP-12 (saposin-like protein; roundworms, nematode, invertebrate, animals) 	FCHLCEDLIKDGKEAGDVALDVWLDEEIGSRCKDFGVLASECFKELKVAEHDIWEAIDQEIPEDKTCKEAKLC
+AP02228
+Ref, Lycosin-I (XXA; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; BBMm; UCLL1c) 	RKGWFKAMKSIAKFIAKEKLKEHL
+AP02230
+Ref, HMGN2 (high mobility group nucleosomal binding domain 2, HMG-17, HCP-1, human, primates, mammals, animals) 	PKRKAEGDAKGDKAKVKDEPQRRSARLSAKPAPPKPEPKPKKAPAKKGEKVPKGKKGKADAGKEGNNPAENGDAKTDQAQKAEGAGDAK
+AP02235
+Ref, TsAP-2 (NDBP-4.23, T. serrulatus antimicrobial peptide 2; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FLGMIPGLIGGLISAFK
+AP02236
+Ref, ToAMP4 (UCSS1a; plants; 3S=S) 	GYGDGCYSEDDLSVCCKKKFKVIGKCFKSVRECQNSGCKYH
+AP02241
+Ref, Scolopendrasin II (myriapods, arthropods, invertebrates, animals; XXA; BBL) 	KYALMKKIAELIPNLKSRQVK
+AP02242
+Ref, Subtilomycin (lantibiotic, bacteriocin, Gram-positive bacteria; prokaryotes; XXT5; XXW3; UCSS1b; XXO) 	TWATIGKTIVQSVKKCRTFTCGCSLGSCSNCN
+AP02243
+Ref, Gramicidin S (Gramicidin Soviet, GS; nonribosomally synthesized peptide antibiotic; bacteria; prokaryotes; XXC; XXD2; UCBB1a; BBMm; JJsn) 	VKLFPVKLFP
+AP02245
+Ref, NFAP (UCSS1a; 3S=S, Neosartorya fischeri antifungal protein, fungii) 	LEYKGECFTKDNTCKYKIDGKTYLAKCPSAANTKCEKDGNKCTYDSYNRKVKCDFRH
+AP02257
+3FE0, Lysozyme (lectin-binding enzyme, human, primates, mammals, animals; BBS; JJsn; UCSS1a) 	KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV
+AP02258
+Ref, Snakin-Z (plants) 	CARLNCVPKGTSGNTETCPCYASLHSCRKYG
+AP02260
+Ref, Pleurain-a1-thel (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	RILTMTKRVKMPQLYKQIVCRLFKTC
+AP02261
+Ref, Brevifactin (lipopeptides; bacteria; XXL) 	PLGG
+AP02262
+Ref, Pleurain-B1 (frog, amphibians, animals; UCLL1) 	FLGGLLASLLGKI
+AP02263
+Ref, Pleurain-C1 (frog, amphibians, animals; UCLL1) 	YPELQQDLIARLL
+AP02264
+Ref, Pleurain-D1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLSGILKLAFKIPSVLCAVLKNC
+AP02265
+Ref, Pleurain-E1 (UCLL1; frog, amphibians, animals) 	AKAWGIPPHVIPQIVPVRIRPLCGNV
+AP02266
+Ref, Pleurain-G1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GFWDSVKEGLKNAAVTILNKIKCKISECPPA
+AP02267
+Ref, Pleurain-J1 (frog, amphibians, animals; UCLL1) 	FIPGLRRLFATVVPTVVCAINKLPPG
+AP02268
+Ref, Pleurain-M1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GLLDSVKEGLKKVAGQLLDTLKCKISGCTPA
+AP02269
+Ref, Pleurain-R1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	CVHWMTNTARTACIAP
+AP02270
+Ref, Pleurain-N1 (frog, amphibians, animals; UCLL1) 	GFFDRIKALTKNVTLELLNTITCKLPVTPP
+AP02271
+Ref, Pleurain-D4 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FRSGILKLASKIPSVLCAVLKNC
+AP02274
+Ref, Temporin-SN3 (frog, amphibians, animals; XXA; UCLL1c) 	FISGLIGGLMKAL
+AP02275
+Ref, Temporin-SN4 (frog, amphibians, animals; XXA; UCLL1c) 	FITGLISGLMKAL
+AP02278
+Ref, Brevinin-1SN1 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLPAVLKVAAHILPTAICAISRRC
+AP02279
+Ref, Brevinin-1SN2 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FMGTALKIAANVLPAAFCKIFKKC
+AP02282
+Ref, Brevinin-2SN3 (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	GAFGNLLKGVAKKAGLKILSIAQCKLSGTC
+AP02283
+Ref, CPF-St4 (frog, amphibians, animals; UCLL1) 	SLFGTFAKMALKGASKLIPHLLPSRQQ
+AP02284
+Ref, CPF-St5 (frog, amphibians, animals; UCLL1) 	GVFGLLAKAALKGASKLIPHLLPSRQQ
+AP02285
+Ref, CPF-St6 (frog, amphibians, animals; XXA; UCLL1c) 	KLGFENFLVKALKTVMHVPTSPLL
+AP02286
+Ref, CPF-St7 (frog, amphibians, animals; XXA; UCLL1c) 	NLLGSLLKTGLKVGSNLL
+AP02288
+Ref, XPF-St4 (frog, amphibians, animals; UCLL1) 	GWASSIGSILGKFAKGGAQAFLQPK
+AP02289
+Ref, XPF-St5 (frog, amphibians, animals; UCLL1) 	GWLPTFGKILRKAMQLGPKLIQPI
+AP02290
+Ref, XPF-St1 (frog, amphibians, animals; UCLL1) 	GVWSTVLGGLKKFAKGGLEAIVNPK
+AP02291
+Ref, XPF-St6 (frog, amphibians, animals; UCLL1) 	GVWSTILGGLKKFAKGGLDAIVNPK
+AP02292
+Ref, XPF-St7 (frog, amphibians, animals; UCLL1) 	GLLSNVAGLLKQFAKGGVNAVLNPK
+AP02293
+Ref, XPF-St8 (frog, amphibians, animals; UCLL1) 	GFMSKVANFAKKFAKGGVNAIMNQK
+AP02295
+Ref, PGLa-St2 (frog, amphibians, animals; UCLL1) 	GMATKAGTAFGKAAKAIIGAAL
+AP02296
+Ref, Temporin-1RNa (frog, amphibians, animals; XXA; UCLL1c) 	ILPIRSLIKKLL
+AP02297
+Ref, Temporin-1RNb (frog, amphibians, animals; XXA; UCLL1c) 	FLPLKKLRFGLL
+AP02301
+Ref, Esculentin-1LTa (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	RISKKKGKGSWIKNGLIKGIKGLGKEISLDVIRTGIDIAGCKIKGEC
+AP02305
+2MP9, Cm-p1 (mollusca/molluscs/mollusks, marine invertebrates, animals; Derivatives: Cm-p5) 	SRSELIVHQR
+AP02306
+Ref, Lf-CATH1 (L. fragilis cathelicidin 1; 1S=S, UCSS1a; frog, amphibians, animals) 	PPCRGIFCRRVGSSSAIARPGKTLSTFITV
+AP02307
+Ref, Lf-CATH2 (L. fragilis cathelicidin 2; 1S=S, UCSS1a; frog, amphibians, animals) 	GKCNVLCQLKQKLRSIGSGSHIGSVVLPRG
+AP02309
+Ref, Hymenochirin-1Pa (frog, amphibians, animals; XXA; UCLL1c) 	LKLSPKTKDTLKKVLKGAIKGAIAIASMA
+AP02318
+Ref, Pseudhymenochirin-1Pb (Ps-1Pb; frog, amphibians, animals; UCLL1) 	IKIPSFFRNILKKVGKEAVSLIAGALKQS
+AP02319
+Ref, Pseudhymenochirin-2Pa (Ps-2Pa; frog, amphibians, animals; UCLL1) 	GIFPIFAKLLGKVIKVASSLISKGRTE
+AP02322
+Ref, MMGP1 (marine species; BBS) 	MLWSASMRIFASAFSTRGLGTRMLMYCSLPSRCWRK
+AP02331
+Ref, B. pascuorum defensin (UCSS1a; insects, arthropods, invertebrates, animals; XXA; 3S=S) 	VTCDLLSIKGVAEHSACAANCLSMGKAGGRCENGICLCRKTTFKELWDKRF
+AP02333
+Ref, Champacyclin (bacteria; prokaryotes. XXC; XXD; UCBB1a) 	KIIFLIAI
+AP02336
+Ref, Fengycin B2 (lipopeptides; lactone; bacteriocins; bacteria; prokaryotes; XXJ; XXL; UCSB1b) 	EKYTEVPEYV
+AP02339
+Ref, Galleria mellonella Lysozyme (insects, arthropods, invertebrates, animals; UCSS1a) 	KTFTRCELVQALRRQGFDEAKLRDWVCLVENESRGRTDIVGKPNKNGSRDYGLFQINDKYWCSNTSKAGKDCNITCSQLLTDDITVASKCAKKVYKRHNFMAWYGWRNHCQNKPLPDISKC
+AP02341
+Ref, Peptide-G2 (PG-2, plants; BWQ) 	LVKDNPLDISPKQVQALCTDLVIRCMCCC
+AP02342
+Ref, Potamin-1 (PT-1; plants) 	DICTNCCAGTKGCNTTSANGAFICEGQSDPKKPKACPLNCDPHIAYA
+AP02353
+Ref, vasostatin-1 (vasostatin-I, chromogranin A-(1-76), CGA1-76, neuropeptides; cattle, animals; 1S=S; UCSS1a; Derivatives: Chromofungin) 	LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSKECFETLRGDERILSILRHQNLLKELQDLALQGAKERTHQQ
+AP02354
+Ref, mBD-3 (murine beta defensin-3, UCSS1a; animals; 3S=S) 	KINNPVSCLRKGGRCWNRCIGNTRQIGSCGVPFLKCCKRK
+AP02356
+Ref, AamAP1 (A. amoreuxi Antimicrobial Peptide 1, scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c; Derivatives: AamAP-S1) 	FLFSLIPHAIGGLISAFK
+AP02357
+Ref, AamAP2 (A. amoreuxi Antimicrobial Peptide 2, scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c) 	FLFSLIPSAISGLISAF
+AP02358
+Ref, BmKbpp (B. martensii Karsch= BmK bradykinin-potentiating peptide=bpp; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FRFGSFLKKVWKSKLAKKLRSKGKQLLKDYANKVLNGPEEEAAAPAE
+AP02362
+Ref, Mastoparan-VT2 (insects, arthropods, invertebrates, animals) 	NLKAIAALAKKLL
+AP02363
+Ref, Mastoparan-VT3 (insects, arthropods, invertebrates, animals) 	INLKAITALAKKLL
+AP02364
+Ref, Mastoparan-VT4 (insects, arthropods, invertebrates, animals) 	INLKAIAPLAKKLL
+AP02365
+Ref, Mastoparan-VT5 (insects, arthropods, invertebrates, animals) 	VIVKAIATLSKKLL
+AP02366
+Ref, Mastoparan-VT6 (insects, arthropods, invertebrates, animals) 	INLKAIAALVKKLL
+AP02367
+Ref, Mastoparan-VT7 (insects, arthropods, invertebrates, animals) 	INLKAIAALARNY
+AP02368
+Ref, VCT-VT1 (insects, arthropods, invertebrates, animals) 	FLPIIGKLLSGLL
+AP02369
+Ref, VCT-VT2 (insects, arthropods, invertebrates, animals) 	FLPIIGKLLSG
+AP02371
+Ref, Armadillidin (Armadillidin H; Gly-rich; Terrestrial Isopod, Crustaceans, arthropods, invertebrates, animals, XXA) 	GHLGRPYIGGGGGFNRGGGFHRGGGFHRGGGFHSGGGFHRGGGFHSGGSFGYR
+AP02374
+Ref, Frenatin 2.1S (frogs, amphibians, animals; XXA; UCLL1c) 	GLVGTLLGHIGKAILG
+AP02375
+Ref, Frenatin 2.2S (frogs, amphibians, animals; XXA; UCLL1c; others: Frenatin 2.3S 	GLVGTLLGHIGKAILS
+AP02377
+2M6A, Tk-AMP-X2 (alpha-hairpinin structural family; plants) 	ADDRCERMCQRYHDRREKKQCMKGCRYG
+AP02378
+Ref, Gageostatin A (nonribosomally synthesized peptide antibiotic; lipopeptides; marine bacteria, prokaryotes; XXD; XXL) 	ELLVDLL
+AP02379
+Ref, Gageostatin B (nonribosomally synthesized peptide antibiotic; lipopeptides; marine bacteria, prokaryotes; XXD; XXL) 	ELLVDLL
+AP02380
+Ref, Gageostatin C (nonribosomally synthesized peptide antibiotic; lipopeptides; marine bacteria, prokaryotes; XXD; XXL) 	ELLVDLL
+AP02381
+Ref, Gageotetrin A (nonribosomally synthesized peptide antibiotic;lipopeptides; marine bacteria, prokaryote; XXL) 	EL
+AP02382
+Ref, Gageotetrin B (nonribosomally synthesized peptide antibiotic; lipopeptides; marine bacteria, prokaryote; XXL) 	ELLL
+AP02383
+Ref, Gageotetrin C (nonribosomally synthesized peptide antibiotic; lipopeptides; marine bacteria, prokaryote; XXL) 	ELLL
+AP02388
+3OTJ, BPTI (Bovine Pancreatic Trypsin Inhibitor; UCSS1a; cattle, ruminant, mammals, animals; 3S=S) 	RPDFCLEPPYTGPCKARMIRYFYNAKAGLCQPFVYGGCRAKRNNFKSSEDCMRTCGGA
+AP02395
+Ref, Bac-GM100 (bacteriocins, Gram-positive bacteria, prokaryotes) 	DWTFANWSCLVCDDCSVNLTV
+AP02405
+Ref, Plantaricin CS (plants) 	GGYKNFYGSALRKGFYEGEAGRAIRR
+AP02406
+Ref, Mytichitin-A (mytichitin-1, UCSS1a; mollusca/molluscs/mollusks, marine invertebrates, animals; 3S=S) 	TVKCGMNGKMPCKHGAFYTDTCDKNVFYRCVWGRPVKKACGRGLVWNPRGFCDYA
+AP02407
+Ref, Hispidalin (medicinal plants) 	SDYLNNNPLFPRYDIGNVELSTAYRSFANQKAPGRLNQNWALTADYTYR
+AP02411
+Ref, Balteatide (frogs, amphibians, animals; XXA; UCLL1c) 	LRPAILVRIK
+AP02412
+Ref, Brevinin-2R (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	KLKNFAKGVAQSLLNKASCKLSGQC
+AP02420
+Ref, Hylaranin-L1 (frogs, amphibians, animals; XXA; UCLL1c) 	GVLSAFKNALPGIMKIIV
+AP02421
+Ref, Hylaranin-L2 (frogs, amphibians, animals; XXA; UCLL1c) 	GVLSVIKNALPGIMRF
+AP02422
+2LJ7, Lc-def (L. culinaris defensin, dimer, UCSS1a; 4S=S, plants; BBMm) 	KTCENLSDSFKGPCIPDGNCNKHCKEKEHLLSGRCRDDFRCWCTRNC
+AP02424
+2MWT, Crotalicidin (Ctn, Vipericidins, cathelicidins; Rattlesnake, reptiles, animals; derivatives: Ctn[15-34]; more AMPs? Lachesicidin; Lutzicidin ) 	KRFKKFFKKVKKSVKKRLKKIFKKPMVIGVTIPF
+AP02428
+2LR3, MtDef4 (M. Truncatula defensin 4, UCSS1a; 4S=S, plants) 	RTCESQSHKFKGPCASDHNCASVCQTERFSGGRCRGFRRRCFCTTHC
+AP02431
+Ref, RLID 12.1 (Gram-positive bacteria, prokaryotes; BWQ) 	TPPQS
+AP02434
+Ref, Mytichitin-CB (UCSS1a; 3S=S, mollusca/molluscs/mollusks, marine invertebrates, animals) 	TVKCGMNGKMPCKHGAFYTDTCDKNVFYRCVWGRPVKKHCGRGLVWNPRGFCDYA
+AP02436
+Ref, MsSN-1 (MsSN1; Alfalfa snakin-1, plants; UCSS1a; 6S=S) 	GTDSGRFCSSICGQRCSKAGMKDRCMKFCGICCGKCKCVPSGTYGNKHECPCYRDMKNSKGKPKCP
+AP02437
+Ref, Trichoplaxin (unclassified simpliest animals) 	FFGRLKSVWSAVKHGWKAAKSR
+AP02438
+Ref, SRTAP-40 (sheep, ruminant, mammals; animals) 	AYVLDEPKPIKDLEKSLQHNLVYCRRLVLEYFLKSIFEYH
+AP02442
+Ref, PcALF1 (P. clarkii anti-lipopolysaccharide factor 1; Crustaceans, arthropods, invertebrates, animals;1S=S; BBL; BBS) 	QVLEGLAAAVTGKLAGLWRNGEVELLGHYCSYSVTPTIRRWQLYFRGRMWCPGWTSIRGEAMTRSNSGVQGDTTRDFVTKALNAGLISQQEAQAWLDG
+AP02443
+Ref, EsALF-2 (E. sinensis anti-lipopolysaccharide factor 2; Crustaceans, arthropods, invertebrates, animals;1S=S; BBL) 	NIFDDIFGKVTETLVDFGTTDIAGNPCNYRLSPRLIKFELYFVGLVWCPGWTTIQGESLTRSRTRVVNKAVEDFAKKAVAAGIMTQEDADPLLNA
+AP02447
+Ref, Scolopendin 2 (myriapods, arthropods, invertebrates, animals) 	AGLQFPVGRIGRLLRK
+AP02453
+Ref, Scolopendin 1 (myriapods, arthropods, invertebrates, animals; XXA) 	MDSFQKIEKIGEGTYGVVYKAKDKVSGRLVALKKIRLENESEGVPSTA
+AP02454
+Ref, Scapularisin-6 (defensin; ticks, arachnids, Chelicerata, arthropods, invertebrates, animals; 3S=S, UCSS1a) 	GFGCPFDQGACHRHCQSIGRRGGYCAGFIKQTCTCYHN
+AP02455
+Ref, Scapularisin-3 (defensin; ticks, arachnids, Chelicerata, arthropods, invertebrates, animals; 3S=S, UCSS1a) 	AFGCPFDQGTCHSHCRSIRRRGRRCASFAKRTCTCYQK
+AP02456
+Ref, Cathelicidin-RC1 (frogs, amphibians, animals; 1S=S, UCSS1a) 	KKCKFFCKVKKKIKSIGFQIPIVSIPFK
+AP02458
+Ref, Temporin-TP1 (frogs, amphibians, animals; XXA; UCLL1c. More AMPs?) 	FLPVLGKVIKLVGGLL
+AP02461
+Ref, Brevinin-1TP1 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPGLIKAAVGVGSTILCKITKKC
+AP02462
+Ref, Brevinin-1TP2 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPGLIKAAVGIGSTIFCKISKKC
+AP02463
+Ref, Brevinin-1TP3 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPGLIKVAVGVGSTILCKITKKC
+AP02464
+Ref, Brevinin-1TP4 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPGLIKAAVGIGSTIFCKISRKC
+AP02467
+Ref, Temporin-LF1 (frogs, amphibians, animals; XXA; UCLL1c) 	FLPFVGKLLSGLL
+AP02468
+Ref, Brevinin-1LF1 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPMLAGLAANFLPKIICKITKKC
+AP02469
+Ref, Brevinin-1LF2 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPIVASLAANFLPKIICKITKKC
+AP02471
+Ref, Jingdongin-1-GN1 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPLFLPKIICEITKKC
+AP02474
+Ref, Palustrin-2GN3 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	GILDTLKQLGKAAAQSLLSKAACKLAKTC
+AP02475
+Ref, Esculentin-2LF1 (frogs, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFSLIKTAAKFVGKNLLKQAGKAGLEHLACKANNQC
+AP02477
+Ref, EcAMP3 (E. crus-galli AMP 3; hairpin-like peptides; 2S=S; plants; UCSS1a) 	GADRCRERCERRHRGDWQGKQRCLMECRRREQEED
+AP02481
+Ref, Magainin-M1 (frogs, amphibians, animals; UCLL1a) 	GIGKFLHSAGKFGKAFIGEIMKS
+AP02482
+Ref, CPF-M1 (frogs, amphibians, animals; UCLL1a) 	GLGSLLGKAFKFGLKTVGKMMAGAPREQ
+AP02483
+Ref, Magainin-MW1 (frogs, amphibians, animals; UCLL1a) 	GIGKFLHSAGKFGKAFLGEVMKS
+AP02484
+Ref, PGLa-MW1 (frogs, amphibians, animals; XXA; UCLL1c) 	GMASKAGSVLGKITKIALGAL
+AP02485
+Ref, CPF-MW1 (frogs, amphibians, animals; UCLL1a) 	GLGSLLGKAFKFGLKTVGKMMGGAPREQ
+AP02487
+Ref, Hylain 1 (frogs, amphibians, animals; XXA; UCLL1c) 	GILDAIKAFANALG
+AP02488
+Ref, Hylain 2 (frogs, amphibians, animals; XXA; UCLL1c) 	GILDPIKAFAKAAG
+AP02489
+Ref, CPF-SP1 (frogs, amphibians, animals; UCLL1a 	GFLGPLLKLGLKGVAKVLPHLIPSRQQ
+AP02494
+Ref, AaeAP1 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c) 	FLFSLIPSVIAGLVSAIRN
+AP02495
+Ref, AaeAP2 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c) 	FLFSLIPSAIAGLVSAIRN
+AP02496
+Ref, ARACIN1 (plants) 	GSCGASIAEFNSSQILAKRAPPCRRPRLQNSEDVTHTTLP
+AP02497
+Ref, ARACIN2 (plants) 	GSCGAPISKYDFQVLAKRPPPCRRPRLENTEDVTHTTRP
+AP02519
+Ref, sfTSLP (short form Thymic stromal lymphopoietin, isoform 2, cytokine, human, primates, mammals, animals; Other fragments: MKK34) 	MFAMKTKAALAIWCPGYSETQINATQAMKKRRKRKVTTNKCLEQVSQLQGLWRRFNRPLLKQQ
+AP02520
+Ref, Enterocin O16 (EntV; bacteriocins; Gram-positive bacteria, prokaryotes) 	LGSCVANKIKDEFFAMISISAIVKAAQKKAWKELAVTVLRFAKANGLKTNAIIVAGQLALWAVQCGLS
+AP02522
+2M8B, AhPDF1.1 (defensin, plants; XXQ; 4S=S; UCSS1a) 	QRLCEKPSGTWSGVCGNNGACRNQCIRLEKARHGSCNYVFPAHKCICYFPC
+AP02523
+Ref, PSI-1.2 (S3 fraction, Proteinase inhibitor, plants; 4S=S; UCSS1a) 	KACPRNCDTDIAYMVCPSSGERIIRKVCTNCCAAQKGCKLFRSNGSIKCTGT
+AP02531
+Ref, Stigmurin (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FFSLIPSLVGGLISAFK
+AP02533
+Ref, cgTbeta (C. gigas beta-thymosin; mollusca/molluscs/mollusks, marine invertebrates, animals; XXE) 	SDKPDVKEVESFDKSKLKKVETQEKNPLPTKETIEQEKKG
+AP02542
+Ref, Mastoparan-S (insects, arthropods, invertebrates, animals; UCLL1a) 	LRLKSIVSYAKKVL
+AP02552
+Ref, Opiscorpine 1 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; modular design; 3S=S, UCSS1a; Derivatives: Jan-f3; Janf1; more AMPs? Opiscorpine 2; Opiscorpine 3; Opiscorpine 4) 	KWFNEKSIQNKIDEKIGKNFLGGMAKAVVHKLAKNEFMCVANVDMTKSCDTHCQKASGEKGYCHGTKCKCGVPLSY
+AP02555
+Ref, LyeTx I (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; UCLL1c) 	IWLTALKFLGKNLGKHLAKQQLAKL
+AP02556
+Ref, Rondonin (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	IIIQYEGHKH
+AP02559
+Ref, Tk-AMP-X1 (plants; 2S=S, UCSS1a) 	TDDRCERMCQHYHDRREKKQCMKGCRYGESD
+AP02569
+Ref, Hc-CATH (cathelicidin, cathelicidin, sea snake, reptiles, animals; UCLL1a; BBL; Derivatives ) 	KFFKRLLKSVRRAVKKFRKKPRLIGLSTLL
+AP02583
+Ref, Temporin-1S (peptide C; frog, amphibians, animals, UCLL1a) 	LLFGKIISRLLGN
+AP02585
+Ref, SmAMP3 (Gly-rich; chitin-binding, plants; 3S=S, UCSS1a) 	VGPGGECGGRFGGCAGGQCCSRFGFCGSGPKYCAH
+AP02589
+Ref, DefMT3 (defensin MT3; UCSS1a; 3S=S, hard ticks, arachnids, Chelicerata, arthropods, invertebrates, animals; Variant: DefMT4) 	GYYCPFRQDKCHRHCRSFGRKAGYCGNFLKRTCICVKK
+AP02590
+Ref, DefMT5 (defensin MT5; UCSS1a; 3S=S, hard ticks, arachnids, Chelicerata, arthropods, invertebrates, animals) 	GFFCPYNGYCDRCRKKLRRRGGYCGGRWKLTCICIMN
+AP02591
+Ref, DefMT6 (defensin MT6; UCSS1a; 3S=S, hard ticks, arachnids, Chelicerata, arthropods, invertebrates, animals; inactive peptides: DefMT2, DefMT7) 	GFGCPLNQGACHNHCRSIKRRGGYCSGIIKQTCTCYRK
+AP02601
+Ref, BnPRP1 (Pro-rich peptide; plants; UCLL1a) 	PPIQNPSMAPPTQNPYGQPMTPPTQNPYGQPMAPP
+AP02603
+Ref, VpAmp1.0 (XXA; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1c; Derivative: VpAmp1.1) 	LPFFLLSLIPSAISAIKKI
+AP02604
+Ref, VpAmp2.0 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a; Derivative: VpAmp2.1) 	FWGFLGKLAMKAVPSLIGGNKSSSK
+AP02605
+Ref, Defensin-TK (frog, amphibians, animals; 3S=S; UCSS1a) 	SPAIWGCDSFLGYCRLACFAHEASVGQKECAEGMLCCIPNV
+AP02606
+Ref, Limnochariin-1 (frog, amphibians, animals; Phe-rich; XXU; 1S=S, UCSS1a) 	FFCFKGTPCG
+AP02607
+Ref, Nigrocin-AA1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLLSGILGAGKRIVCGLSGLC
+AP02608
+Ref, Nigrocin-RE1 (nigrocin-HL; frog, amphibians, animals; XXU; 1S=S, UCSS1a; Derivatives: Nigrocin-HLD) 	GLLSGILGAGKKIVCGLSGLC
+AP02609
+Ref, Brevinin-1RL1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FFPLIAGLAARFLPKIFCSITKRC
+AP02610
+Ref, Brevinin-1RE1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPGLECVSGLKIVPTVFCAITRIC
+AP02611
+Ref, Brevinin-1RE2 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	VIPFVASVAAEMMQHVYCAASKRC
+AP02612
+Ref, Brevinin-2RE1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	SFLSTFKKLAIDAAKNAGQSVLHTLTCKLDNQC
+AP02613
+Ref, Brevinin-1AA1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FFPSIAGLAAKFLPKIFCSITKRC
+AP02614
+Ref, Brevinin-1AA2 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FLPAVLRVAAKVGPAVFCAITQKC
+AP02615
+Ref, Esculentin-1RL1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFSKFAGKGLKNLFMKGAKTIGKEVGMDVLRTGIDIAGCKIKGEC
+AP02616
+Ref, Esculentin-1RE1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFSKFVGKGLKNLFMKGAKTIGREVGMDVLRTGIDIAGCKIKGEC
+AP02617
+Ref, Esculentin-1AA1 (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GIFSKFAGRGLKNLFMKGAKKIGKEVGMDVLRTGIDIAGCKIRGEC
+AP02620
+Ref, Hyastatin (Gly-rich; Crustaceans, arthropods, invertebrates, animals; XXA; UCLL1c) 	ESFLKSKTGYQGVQTLPGFIGGSQPHLGGGIGGGRPFISQPNLGGGIGGGIGGGKPFIPQPNLGGGIGSTRPFPRPQYGDYGSRNSCNRQCPSTYGGRGICCRRWGSCCPTNYK
+AP02626
+Ref, Cl-CATH2 (C. livia cathelicidin 2; Arg-rich; avian, birds, animals; UCLL1a; BBMm) 	LIQRGRFGRFLGRIRRFRPRINFDIRARGSIRLG
+AP02628
+Ref, Jaburetox-2Ec (jbtx; a fragment of canatoxin, a urease isoform; plants; pepcanatox; UCLL1a) 	MGPVNEANCKAAMEIVCRREFGHKEEEDASEGVTTGDPDCPFTKAIPREEYANKYGPTIGDKIRLGDTDLIAEIEKDFALYGDESVFGGGKVI
+AP02631
+Ref, Of-Pis1 (piscidins; fish, animals) 	FLGMLLHGVGHAIHGLIHGKQNVE
+AP02632
+Ref, Px-cec2 (P. xylostella cecropin 2, insects, arthropods, invertebrates, animals) 	NPFKKLERVGQHIRDGIIKAGPAVEVIGQANSIARPAGK
+AP02633
+Ref, Px-cec3 (P. xylostella cecropin 3, insects, arthropods, invertebrates, animals) 	KGFKKIEKLGRHIRDGVVKAGPAVGVVGQASSIMG
+AP02645
+2N1C, PvHCt (His-rich; shrimp, Crustaceans, arthropods, invertebrates, animals; BBMm; UCLL1a) 	FEDLPNFGHIQVKVFNHGEHIHH
+AP02648
+Ref, Fc-SWD (A single whey acidic protein domain-containing peptide, Crustaceans, arthropods, invertebrates, animals) 	VPTRHARPRPQPRPRPGTCPDTSDIVSICVVTERNCFSDGECGAGQKCCPIGCGRECLAVGSPYGK
+AP02652
+Ref, Es-termicin (insects, arthropods, invertebrates, animals; 3S=S, UCSS1a) 	ACDFQQCWVTCQRQYSINFISARCNGDSCVCTFRT
+AP02675
+Ref, HYL (insects, arthropods, invertebrates, animals; XXA, UCLL1c; 26 variants) 	GIMSSLMKKLAAHIAK
+AP02676
+Ref, Osm-pepA (a fragment of osmotin, synthetic) 	RRLDRGGVWNLNVNPGTTGARVWARTK
+AP02680
+Ref, SJGAP (Skipjack tuna GAPDH-related AMP, fish, marine animals, UCLL1a) 	VKVGINGFGRIGRLVTRAAFHGKKVEIVAIND
+AP02681
+Ref, Peptide F3 (milk; XXP) 	YL
+AP02682
+Ref, EeCentrocin 1 (common sea urchin, Echinoidea, marine animals, XXA, XXH, two-chains, UCSS2a) 	GWWRRTVDKVRNAGRKVAGFASKACGALGH
+AP02683
+Ref, EeCentrocin 2 (common sea urchin, Echinoidea, marine animals, XXA, XXQ, XXH, two-chains, UCSS2a) 	WGHKLRSSWNKVKHAVKKGAGYASGACRVLGH
+AP02689
+Ref, Megin 1 (toad, amphibians, animals, XXU, 1S=S, UCSS1a; XXA) 	FLKGCWTKWYSLKPKCPF
+AP02690
+Ref, Megin 2 (toad, amphibians, animals, UCSS1a; 1S=S, XXU) 	FFVLKFLLKWAGKVGLEHLACKFKNWC
+AP02694
+Ref, Defb22 (Rat beta-defensin 22; 2D6 glycoprotein; E-3 epididymal fluid protein; beta-defensin 126; mammals, animals; UCSS1a) 	WYVRKCANKLGTCRKTCRKGEYQTDPATGKCSIGKLCCILDLKLAGQCGGADGNQAAAGTQAAGGTRAAGGTQGTGGTGATGAAATTAAP
+AP02699
+Ref, ISGCock_Contig16_2060 (insects, arthropods, invertebrates, animals, UCLL1) 	ASITHVKNRGKYIYMHLKFRKTNVLI
+AP02700
+Ref, ISGCock_Contig16_4974 (insects, arthropods, invertebrates, animals, UCLL1) 	KKVWFIFHVCPKLKQRIL
+AP02701
+Ref, ISGCock_Contig10_4736–2 (insects, arthropods, invertebrates, animals, UCLL1) 	GTKRGKLCRISRLAL
+AP02702
+Ref, ISGCock_Contig13_3006 (insects, arthropods, invertebrates, animals, UCLL1) 	LRHKVYGYCVLGP
+AP02703
+Ref, Periplanetasin-5 (ISGCock_Contig05_0593; insects, arthropods, invertebrates, animals, XXA; UCLL1c) 	MKTFLRLYRSLINKVLH
+AP02704
+Ref, ISGCock_Contig12_4176 (insects, arthropods, invertebrates, animals, UCLL1) 	VGRKHSILNCIPYLKKKKIMRL
+AP02705
+Ref, ISGCock_Contig15_1337–1 (insects, arthropods, invertebrates, animals, UCLL1) 	RMKLNAKKLSFC
+AP02706
+Ref, ISGCock_Contig15_1337–2 (insects, arthropods, invertebrates, animals, UCLL1) 	HNSSKQWSHWLWHNGIRI
+AP02707
+Ref, Tomato Snakin-2 (plants; 6S=S; UCSS1a) 	DSYKKIDCGGACAARCRLSSRPRLCHRACGTCCARCNCVPPGTSGNTETCPCYASLTTHGNKRKCP
+AP02713
+Ref, CZS-1 (cruzioseptin-1; frog, amphibians, animals, UCLL1c; XXA; 12 more AMPs?) 	GFLDIVKGVGKVALGAVSKLF
+AP02714
+Ref, CZS-2 (cruzioseptin-2; frog, amphibians, animals, UCLL1c; XXA) 	GFLDVIKHVGKAALGVVTHLINQ
+AP02715
+Ref, CZS-3 (cruzioseptin-3; frog, amphibians, animals, UCLL1c; XXA) 	GFLDVVKHIGKAALGAVTHLINQ
+AP02718
+Ref, Diapausin-1 (UCSS1a; 3S=S, insects, arthropods, invertebrates, animals) 	INNWVRVPPCDQVCSRSNPEKDECCRAHGHAFHAHCNGGMNCYRR
+AP02723
+Ref, SpHyastatin (Crustaceans, arthropods, invertebrates, animals) 	MRVLLLLVSLAAVGNAYNAKVPIQTLPERLDNFPGRGPSFTRPAVVGVQTLPGRVPPQTFPGVIGVGTKPLISPPRPGFTGSTRPFQRPGQYSFTRSNCWARCPGYPNGDSLCCRQYGACCSTSYPVPYKG
+AP02729
+Ref, Smp24 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	IWSFLIKAATKLLPSLFGGGKKDS
+AP02730
+Ref, Smp43 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	GVWDWIKKTAGKIWNSEPVKALKSQALNAAKNFVAEKIGATPS
+AP02731
+Ref, Panusin (beta defensins; crustaceans, arthropods, invertebrates, animals; XXA; UCSS1a) 	SYVGDCGSNGGSCVSSYCPYGNRLNYFCPLGRTCCRRSY
+AP02736
+Q9ZUL7, AtPDF2.3 (flowering plants; UCSS1a, 4S=S) 	RTCESKSHRFKGPCVSTHNCANVCHNEGFGGGKCRGFRRRCYCTRHC
+AP02738
+Ref, Cremycin-5 (nematode; invertebrates, animals; UCSS1a, 3S=S; more AMPs?) 	VKSGHYKGPCYHDENCNGVCRDEGYKSGHCSRWGGACWCDT
+AP02742
+Ref, Armadillidin Q (Gly-rich; Terrestrial Isopod, Crustaceans, arthropods, invertebrates, animals, XXA; BBMm) 	GHLGRPYIGGGGGFNRGGGFHRGGGFHRGGGFQSGGGFHRGGGFHSGGSFGYR
+AP02744
+Ref, Saha-CATH3 (cathelicidins; mammals, animals; UCLL1) 	KRMGIFHLFWAGLRKLGNLIKNKIQQGIENFLG
+AP02745
+Ref, Saha-CATH5 (cathelicidins; mammals, animals; UCLL1) 	KRIGLIRLIGKILRGLRRLG
+AP02746
+Ref, Saha-CATH6 (cathelicidins; mammals, animals, UCLL1) 	KRIRFFERIRDRLRDLGNRIKNRIRDFFS
+AP02758
+Ref, ToAP1 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; UCLL1c) 	FIGMIPGLIGGLISAFK
+AP02759
+Ref, ToAP2 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FFGTLFKLGSKLIPGVMKLFSKKKER
+AP02760
+Ref, ToAP3 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; UCLL1c) 	FIGMIPGLIGGLISAIK
+AP02761
+Ref, Con10 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FWSFLVKAASKILPSLIGGGDDNKSSS
+AP02762
+Ref, NDBP-5.8 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	GILGKIWEGVKSLI
+AP02763
+Ref, Phylloseptin-PBa (frog, amphibians, animals; UCLL1a) 	FFSMIPKIAGGIASLVKNLG
+AP02764
+Ref, Longipin (arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	SGYLPGKEYVYKYKGKVF
+AP02769
+Ref, Cc-LTP2 (Coffea canephora lipid transfer protein 2, plants; BWQ) 	ITCQQVTAELEPCVPYLTQGIP
+AP02770
+Ref, Mastoparan V1 (MP-V1, insects, arthropods, invertebrates, animals; XXA, UCLL1c) 	INWKKIKSIIKAAMN
+AP02771
+Ref, Dm-AMP2 (Dahlia defensin, plants; BWQ) 	EVCEKASKTWSGNCGNTGHC
+AP02772
+Ref, Thionin-like peptide 1 (plants; 4.5S=S; UCSS1a) 	KEICCKVPTTPFLCTNDPQCKTLCSKVNYEDGHCFDILSKCVCMNRCVQDAKTLAAELIEEEFLKQ
+AP02773
+Ref, CaThi (thionin-like peptide 2; plants; UCSS1a) 	KEICCKELTKPVKCSSDPLCQKLCMEKEKYEDGHCFTILSKCLCMKRCNAKTLATELLA
+AP02785
+Ref, moroNC-NH2 (moronecidin-like peptide; fish, animals; XXA) 	FFWHHIGHALDAAKRVHGMLSG
+AP02786
+Ref, moroPC-NH2 (moronecidin-like peptide; fish, animals; XXA) 	FFGHLFRGIINVGKHIHGLLSG
+AP02787
+Ref, NCR247 (nodule-specific Cys-containing peptide; plants; BBMm; UCSS1a) 	RNGCIVDPRCPYQQCRRPLYCRRR
+AP02788
+Ref, NCR335 (nodule-specific Cys-containing peptides; plants; BBMm,UCSS1a) 	RLNTTFRPLNFKMLRFWGQNRNIMKHRGQKVHFSLILSDCKTNKDCPKLRRANVRCRKSYCVPI
+AP02802
+Ref, BacSP222 (bacteriocin; Gram-positive bacteria, prokaryote; XXI; UCLL1) 	MAGLLRFLLSKGRALYNWAKSHVGKVWEWLKSGATYEQIKEWIENALGWR
+AP02811
+Ref, Acipensin 1 (Ac1, bony fish, animals, XXE; UCLL1) 	SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVY
+AP02812
+Ref, Acipensin 2 (Ac2, bony fish, animals, XXE; UCLL1) 	SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLR
+AP02836
+Ref, Brevinin-1HB1 (frog, amphibians, animals; 1S=S, XXU, UCSS1a) 	FLPAIIGMAAKVLPAFLCKITKKC
+AP02843
+Ref, brevinin-2MS1 (frog, amphibians, animals; 1S=S, XXU, UCSS1a) 	SFLDKFKDVAIGVAKGAGTGVLKALLCKLDNSC
+AP02847
+Ref, ecPis-2 (piscidins, fish, animalss; UCLL1a) 	FFFHIIKGLFHAGRMIHGLV
+AP02848
+Ref, ecPis-3 (piscidins, fish, animalss; UCLL1a) 	IFGLLLHGAIHVGKLIHGLVRRH
+AP02849
+Ref, ecPis-4 (piscidins, fish, animalss; UCLL1a) 	FFRHIKSFWKGAKAIFRGARQG
+AP02851
+2KKW, Human alpha-synuclein (animals; UCLL1a) 	MDVFMKGLSKAKEGVVAAAEKTKQGVAEAAGKTKEGVLYVGSKTKEGVVHGVATVAEKTKEQVTNVGGAVVTGVTAVAQKTVEGAGSIAAATGFVKKDQLGKNEEGAPQEGILEDMPVDPDNEAYEMPSEEGYQDYEPEA
+AP02852
+6LCQ, OsDEF7 (OsAFP1; dimer; plants, 4S=S, UCSS1a; BBII) 	RHCLSQSHRFKGMCVSSNNCANVCRTESFPDGECKSHGLERKCFCKKVC
+AP02853
+Ref, OsDEF8 (dimer; plants, 4S=S, UCSS1a) 	RTCESQSHRFKGPCARKANCASVCNTEGFPDGYCHGVRRRCMCTKPCP
+AP02856
+6NM2, TetraF2W-RK (WW291; Trp-rich; synthetic; BBmM; UCLL1a; XXA; Derivative: horine) 	WWWLRKIW
+AP02860
+Ref, Hb 98–114 (hemoglobin residues 98-114; bovine hemocidin generated by blood sucker; cattle; mammals, animals; UCLL1a) 	FKLLSHSLLVTLASHLP
+AP02866
+Ref, Tricholongin BI (LBI; peptaibol; XXE, XXK; fungii) 	AGFAAQAAASLAPVAAQQL
+AP02867
+Ref, Phylloseptin-Co (PS-Co; XXA; frog, amphibians, animals, UCLL1c) 	FLSMIPKIAGGIASLVKNL
+AP02870
+Ref, Tricholongin BII (LBII; peptaibol; XXE, XXK; fungii) 	AGFAAQAAASLAPVAVQQL
+AP02872
+2N6M, Esculentin-1A(1-21) ((Esc(1-21); synthetic; BBMm; XXA; UCLL1c; BBL) 	GIFSKLAGKKIKNLLISGLKG
+AP02873
+Ref, Humimycin A (lipopeptide; nonribosomally synthesized peptide antibiotic; XXL; XXD2; microbiome, bacteria, prokaryotes; UCLL1c) 	YSYFTVV
+AP02874
+Ref, Humimycin B (lipopeptide; nonribosomally synthesized peptide antibiotic; XXL; XXD2; microbiome, bacteria, prokaryotes; UCLL1c) 	YSYYTIV
+AP02876
+Ref, Dhvar4 (synthetic) 	KRLFKKLLFSLRKY
+AP02882
+Ref, Osmin (XXA; insects, arthropods, invertebrates, animals) 	GFLSALKKYLPIVLKHV
+AP02883
+Ref, Codesane (COD; XXA; insects, arthropods, invertebrates, animals; BBMm) 	GMASLLAKVLPHVVKLIK
+AP02892
+Ref , Temporin-ITa (XXA; frog, amphibians, animals; UCLL1c) 	VFLGAIAQALTSLLGKL
+AP02893
+Ref, Brevinin-1ITa (frog, amphibians, animals; 1S=S; XXU; UCSS1a) 	IVPFLLGMVPKLVCLITKKC
+AP02894
+Ref, AMP17 (insects, arthropods, invertebrates, animals) 	GVVLNVNPGKSLEEPAVKHLKVSPVNANEVPVLKELKSVQKTKSGDTLYGFVCTVGQIKTDSLGCVGSDSVAWPSEQNVELTVSCDKSNVGRIITYVEVHFVVSTQNVGCNVSAGSIGTSSIEVKVYAAGTNYLEYSSLFYIQ
+AP02898
+Ref, As-CATH4 (A. sinensis cathelicidin 4; Chinese alligator, reptiles, animals; BBL; UCLL1a. Note: no activity found for As-CATH1, As-CATH2, and As-CATH3 in vitro) 	RRGLFKKLRRKIKKGFKKIFKRLPPVGVGVSIPLAGRR
+AP02899
+Ref, As-CATH5 (A. sinensis cathelicidin 5; Chinese alligator, reptiles, animals; BBL; UCLL1a) 	TRRKFWKKVLNGALKIAPFLLG
+AP02901
+Ref, Cathelicidin-PP (cathelicidin from P. puerensis; frog, amphibians, animals, 1S=S, UCSS1a; BBL; BBMm) 	ASENGKCNLLCLVKKKLRAVGNVIKTVVGKIA
+AP02912
+Ref, HlDFS1 (defensin; UCSS1a; 3S=S, hard ticks, arachnids, Chelicerata, arthropods, invertebrates, animals) 	GFGCPFNARRCHRHCRSIRRRAGYCAGRLRLTCTCVR
+AP02919
+Ref, Phylloseptin-PC (PSN-PC; frog, amphibians, animals; UCSS1a) 	FLSLIPKIATGIAALAKHL
+AP02920
+Ref, Bombinin-BO1 (toad, amphibians, animals; XXA, UCSS1a) 	GIGSAILSAGKSIIKGLAKGLAEHF
+AP02921
+Ref, Bombinin H-BO1 (toad, amphibians, animals;XXA, UCSS1a) 	IIGPVLGLVGKALGGLL
+AP02923
+Ref, Andricin B (salamanders, amphibians, animals; UCSS1a) 	GLTRLFSVIK
+AP02924
+Ref, Dermaseptin-PH (Dermaseptin PH; frog, amphibians, animals; XXA; ; UCLL1c) 	ALWKEVLKNAGKAALNEINNLV
+AP02928
+Ref, Polymyxin B (aerosporin; lactam, XXD; XXL; XXJ; UCSB1a; lipopeptides; nonribosomally synthesized peptide antibiotic; bacteria; BBL; BBMm, prokaryotes; Variants: Polymyxin B, a mixture) 	KTKKKFLKKT
+AP02958
+Ref, Brevinin-2Ta (B-2Ta; frog, amphibians, animals; UCSS1a; 1S=S; XXU) 	GILDTLKNLAKTAGKGILKSLVNTASCKLSGQC
+AP02964
+Ref, CATHPb1 (cathelicidins; snake, reptiles, animals; UCLL1) 	KRFKKFFRKIKKGFRKIFKKTKIFIGGTIPI
+AP02965
+Ref, CATHPb2 (cathelicidins; snake, reptiles, animals; UCLL1) 	KRNGFRKFMRRLKKFFAGGGSSIAHIKLH
+AP02966
+Ref, CATHPb4 (cathelicidins; snake, reptiles, animals;Arg-rich 31%; UCLL1) 	TRSRWRRFIRGAGRFARRYGWRIALGLVG
+AP02967
+Ref, Temporin-GHa (frog, amphibians, animals; XXA, UCLL1c) 	FLQHIIGALGHLF
+AP02968
+Ref, Temporin-GHb (frog, amphibians, animals; XXA, UCLL1c) 	FIHHIIGALGHLF
+AP02969
+Ref, Temporin-GHc (frog, amphibians, animals; XXA, UCLL1c; BBMm) 	FLQHIIGALTHIF
+AP02970
+Ref, Temporin-GHd (frog, amphibians, animals; XXA, UCLL1c; BBMm) 	FLQHIIGALSHFF
+AP02973
+Ref, Marmelittin (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FLFSLIPSAISGLISAFKGRRKRDLN
+AP02974
+Ref, MeuFSPL-2 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; UCLL1a; MeuFSPL-1) 	FLFSLIPSAISGLINAFK
+AP02976
+Ref, Distinctin-Like-Peptide-PH (DLP-PH; frog, amphibians, animals; UCLL1a ) 	NLVSALIEGRKYLKNVLKKLNRLKEKNKAKNSKENN
+AP02977
+Ref, Temporin-PE (edible frog, amphibians, animals; Leu-rich; XXA; UCLL1c ) 	FLPIVAKLLSGLL
+AP02985
+Ref, Cateslytin (Ctl, A fragment of human chromogranin A, UCLL1) 	RSMRLSFRARGYGFR
+AP02989
+Ref, Phylloseptin-1.1TR (frog, amphibians, animals; UCLL1c; XXA; more AMPs?) 	FLSLIPKIAGGIASLVKNL
+AP02990
+Ref, Phylloseptin-1.2TR (frog, amphibians, animals; XXA; UCLL1c) 	FLSLIPKIAGGIASLVKDL
+AP02991
+Ref, Phylloseptin-2.1TR (frog, amphibians, animals; XXA; UCLL1c) 	FLSLIPHIATGIAALAKHL
+AP02992
+Ref, Phylloseptin-Du (Phylloseptin-du; PS-du; Phylloseptin-3.1TR; frog, amphibians, animals; XXA, UCLL1c) 	FFSMIPKIATGIASLVKNL
+AP02993
+Ref, Phylloseptin-3.2TR (frog, amphibians, animals; XXA, UCLL1c) 	FFSMIPKIATGIASLVKDL
+AP02994
+Ref, Phylloseptin-3.3TR (frog, amphibians, animals; UCLL1a) 	FFSMIPKIATGIASLVKNL
+AP02998
+Ref, Oxysterlin 1 (UCSS1a; insects, arthropods, invertebrates, animals) 	GSKRWRKFEKRVKKIFEETKEALPVVQGVVAVATAVGRR
+AP03001
+Ref, Moronecidin-like (seahorse, fish, marine animals; UCLL1a) 	FFRNLWKGAKAAFRAGHAAWRA
+AP03002
+Ref, Defensin DEFB126 (beta defensin, human, UCSS1) 	NWYVKKCLNDVGICKKKCKPEEMHVKNGWAMCGKQRDCCVPADRRANYPVFCVQTKTTRISTVTATTATTTLMMTTASMSSMAPTPVSPTG
+AP03003
+Ref, NFAP2 (N. fischeri Antifungal Protein 2; fungi, fungii; UCSS1a) 	IATSPYYACNCPNNCKHKKGSGCKYHSGPSDKSKVISGKCEWQGGQLNCIAT
+AP03008
+Ref, Dermaseptin-PS3 (DPS3, XXA, UCLL1c; frog, amphibians, animals) 	ALWKDILKNAGKAALNEINQIVQ
+AP03010
+Ref, Triintsin (defensin, fungii; 3S=S; UCSS1a) 	GFGCPLNERECHSHCQSIGRKFGYCGGTLRLTCICGKE
+AP03011
+Ref, FgAFP (F. graminearum antifungal protein; fungii; 3S=S; UCSS1a) 	LEYWGKCTKAENRCKYKNDKGKDVLQNCPKFDNKKCTKDGNSCKWDSASKALTCY
+AP03015
+Ref, DRS-CA-1 (dermaseptin; frog, amphibians, animals; XXA; UCLL1c) 	ALWKDLLKNVGKAAGKAVLNKVTDMVNQ
+AP03016
+Ref, DRS-DU-1 (dermaseptin; frog, amphibians, animals; XXA; UCLL1c) 	ALWKSLLKNVGKAAGKAALNAVTDMVNQ
+AP03019
+Ref, Ps-AFP1 (P. sativum antifungal peptide 1; plants; 2S=S; UCSS1a) 	RQLKSSRRGALVCVRLKLCSAILSRGLSCGMFSCNARR
+AP03039
+Ref, Dermaseptin-PS1 (frog, amphibians, animals; XXA; UCLL1c) 	ALWKTMLKKLGTVALHAGKAALGAVADTISQ
+AP03041
+Ref, MP-C (mastoporan-C, insects, arthropods, invertebrates, animals. XXA; UCLL1c) 	LNLKALLAVAKKIL
+AP03048
+Ref, Nigrocin-HLM (synthetic, XXA, UCLL1c) 	GLLSGILGAGKKIVF
+AP03049
+Ref, VLL-28 (archaeocins, archaea, prokaryote; UCLL1) 	VLLVTLTRLHQRGVIYRKWRHFSGRKYR
+AP03053
+Ref, Bthepc (B. trutta hepcidin-1, brown trout, fish, animals; 4S=S; UCSS1a) 	QSHLSLCRWCCNCCHNKGCGFCCKF
+AP03055
+Ref, Beta-astratide bM1 (defensin; 4S=S; UCSS1a; Chinese medicinal plants) 	CEKPSKFFSGPCIGSSGKTQCAYLCRRGEGLQDGNCKGLKCVCAC
+AP03056
+Ref, MCh-AMP1 (M. chamomilla AMP 1; medicinal plants; UCLL1a) 	LSVKAFTGIQLRGVCGIEVKARG
+AP03059
+Ref, Japonicin-2LF (frog, amphibians, animals; XXU; 1S=S, UCSS1a; BBMm) 	FIVPSIFLLKKAFCIALKKC
+AP03062
+Ref, Brevinin-1ULf (XXA; UCLL1c; frog, amphibians, animals) 	FLGSIIGALAKGLPSLIALIKK
+AP03072
+Ref, ZmD32 (Z. mays defensin, plants; 4S=S; UCSS1a) 	RTCQSQSHRFRGPCLRRSNCANVCRTEGFPGGRCRGFRRRCFCTTHC
+AP03073
+Ref, Brevinin-1Ma (1S=S, XXU; UCSS1a; frog, amphibians, animals) 	FLPILAGLAANLVPKLICSITKKC
+AP03077
+Ref, SA-CATH (S. annularis cathelicidin; snake, reptiles, animals; Lys-rich; UCLL1a) 	KFFKKLKKSVKKHVKKFFKKPKVIGVSIPF
+AP03078
+Ref, Cm-CATH1 (C. mydas cathelicidin 1; green sea turtle, reptiles, marine animals; UCLL1a) 	RRSIFRKLRRKIKKGLKKGIQHLLAGGRQGLPQGGRPGMI
+AP03079
+Ref, Cm-CATH2 (C. mydas cathelicidin 2; green sea turtle, reptiles, marine animals; UCLL1a) 	RRSRFGRFFKKVRKQLGRVLRHSRITVGGRMRF
+AP03080
+Ref, Cm-CATH3 (C. mydas cathelicidin 3; green sea turtle, reptiles, marine animals; UCLL1a) 	TRGRWKRFWRGAGRFFRRHKEKIIRAAVDIVLS
+AP03081
+Ref, Cm-CATH4 (C. mydas cathelicidin 4; green sea turtle, reptiles, marine animals) 	MAFPFSTQRINPEIEEGNASLADLPVTHAGSLPGIKAQVRTALGIALLLVA
+AP03082
+Ref, Skh-AMP1 (plants, UCLL1) 	GRTSKQELCTWERGSVRQADKTIAG
+AP03087
+Ref, LFB (L. fujianensis Brevinvin; frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	GLFSVVKGVLKGVGKNVSGSLLDQLKCKISGGC
+AP03104
+6MBM, Hs02 (synthetic, XXA, UCLL1c) 	KWAVRIIRKFIKGFIS
+AP03106
+Ref, Splys-i (i-type lysozyme, Crustaceans, arthropods, invertebrates, animals; BBS) 	MSLLQRSMVLVAAVFCLSAIYVSAEAEVDANCLGCMCEAATRCNASTACHNSGGGYFCGPFHISWAYWADAGKPVLLHDDPNRLGAFEDCAKDLYCSATVVRQYMKKFAKDCDGDGVVTCKDYVRLHKLGRQGCTVPLPQDRFTTQFEECAKRLNVY
+AP03107
+Ref, SpCrus2 (S. paramamosain crustin 2; type 2, modular design; Crustaceans, arthropods, invertebrates, animals; 6S=S; UCSS1a; BBL) 	DDTRGGFHGGGFGRPGRPGRPGSGILDTIVDGLTGSIHGGQGGIHGGIHGGGHGGHGGVVHGRQCGVNVPTHITTGCKLFTRNLYGQYVCDRNQKPAFRCPPLRAECPLATRFGPPIQCTLDTDCPGISDKCCCDACLDHPVCKPSA
+AP03108
+Ref, SpCrus3 (S. paramamosain crustin 3; type 1, modular design; Crustaceans, arthropods, invertebrates, animals; 6S=S; UCSS1a) 	ALSVASPSPSCNTHCPDPYLNLPGHYVCCDQHPGKCPPVPHCPAYPRKCFYDPECGLNEKCCNTPCGGKRCISIPYSGK
+AP03109
+Ref, SpCrus4 (S. paramamosain crustin 4; type 1, modular design; Crustaceans, arthropods, invertebrates, animals; 6S=S; UCSS1a) 	PSRSCNTHCPDPYLNLPGHYVCCDQHPGKCFRRDKCPPHELNKGLRQTIKYCHYDPECALHEKCCYDVCIEAKVCKLPE
+AP03110
+Ref, SpCrus5 (S. paramamosain crustin 5; type 2, modular design; Crustaceans, arthropods, invertebrates, animals; 6S=S; UCSS1a) 	QFGGSDCIHWCRTPENQVYCCKDTHDPIPASPVAVVNPGRCPPIRGQCPNVRVFRPPTTCSSDSDCSYNNKCCFDRCLEEHVCKPTTGGFGGHGGHGGHGGHGGFGGVFGR
+AP03115
+Ref, holosin 2 (defensin, Australian paralysis ticks, Nuttalliellidae, arachnids, Chelicerata, arthropods, invertebrates, animals; 3S=S, UCSS1a) 	GFGCPLNQRACHRHCRSIGRRGGFCAGLIKQTCTCYRK
+AP03116
+Ref, holosin 3 (defensin, Australian paralysis ticks, Nuttalliellidae, arachnids, Chelicerata, arthropods, invertebrates, animals; 3S=S, UCSS1a) 	GFGCPNEWRCNAHCKRNRFRGGYCDSWFRRRCHCYG
+AP03119
+Ref, Sm-LEAP-2 (fish, animals; 2S=S, UCSS1a) 	SLLWRWNSMKPVGASCRDHLECGTKYCRRSICTF
+AP03120
+Ref, Sm-Piscidin (fish, animals, UCLL1) 	KGARQAWKDYKYNRNMQKMNQGYGQQGG
+AP03121
+Ref, Sm-Moronecidin (fish, animals, UCLL1) 	FFRHIVGAISRIFGQKQRDMAD
+AP03129
+Ref, Pinipesin (myriapods, arthropods, invertebrates, animals; UCLL1) 	VAEARQGSFSY
+AP03133
+Ref, Dermaseptin-PT9 (DPT9, UCLL1a; frog, amphibians, animals) 	GLWSKIKDAAKTAGKAALGFVNEMV
+AP03137
+Ref, Px-Mor (P. xylostella Moricin, insects, arthropods, invertebrates, animals, UCLL1a) 	APKVNVNALKKGGRVIKKGLGVIGAAGTAHEVYNHVRNRNQG
+AP03139
+Ref, Allomyrinasin (insects, arthropods, invertebrates, animals; XXA; UCLL1c; BBL) 	AAVTRRILCWFA
+AP03151
+Ref, NLF20 (synthetic, BBL; other derivatives: KYE28, KYE21) 	NLFRKLTHRLFRRNFGYTLR
+AP03157
+Ref, ALF-E (Anti-lipopolysaccharide factor, litvan residues 32-53, a synthetic fragment ) 	GCYVNRSPYLKKFEVHYRADVKCG
+AP03158
+Ref, ALF-G (Anti-lipopolysaccharide factor G, litvan residues 34-55, a synthetic fragment) 	GCSYSTRPYFLRWRLKFKSKVWCG
+AP03159
+Ref, Peptide 5 (derived from Cu/Zn superoxide dismutase, endometrial fluid peptides, human, primates, mammals, animals) 	ATKAVCVLKGDGPVQGIINF
+AP03161
+Ref, Ixosin (hard ticks, Nuttalliellidae, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1) 	GLHKVMREVLGYERNSYKKFFLR
+AP03166
+Ref, Brevinin-2GHk (BR2GK; frog, amphibians, animals; UCSS1; Derivatives: BR2GK(1-25)a) 	GFSSLFKAGAKYLLKQVGKAGAQQLACKAANNC
+AP03170
+Ref, BR2GK(1-25)a (synthetic, XXA) 	GFSSLFKAGAKYLLKQVGKAGAQQL
+AP03177
+Ref, Bac-GM17 (bacteriocins, Gram-positive bacteria, prokaryotes; BWQ) 	DWTCSKWSCLVCDDCSVELT
+AP03178
+Ref, Brevinin-1GHa (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLGAVLKVAGKLVPAAICKISKKC
+AP03179
+Ref, Brevinin-1GHd (XXU; 1S=S, UCSS1a; frog, amphibians, animals) 	FLGALFKVASKLVPAAICSISKKC
+AP03185
+Ref, Dermaseptin-AC4 (DRP-AC4, frog, amphibians, animals, XXA, UCLL1c) 	SLWGKLKEMAAAAGKAALNAVNGLVNQ
+AP03188
+Ref, Bi-bombolitin (B. ignitus bombolitin; insects, arthropods, invertebrates, animals; UCLL1) 	LNLKKILGKIGVMLSHLN
+AP03193
+Ref, BTD-5 (BTD 5, Baboon theta-defensin-5; primates, mammals, animals; 3S=S, XXC; UCBB1b; Cys-rich; more AMPs? BTD-6) 	RCICLLGICRCVCRRGVC
+AP03194
+Ref, BTD-8 (BTD 8, Baboon theta-defensin-8; primates, mammals, animals; 3S=S, XXC; UCBB1b; Cys-rich) 	RCFCRRGVCRCVCRRGVC
+AP03195
+Ref, BTD-9 (BTD 9, Baboon theta-defensin-9; primates, mammals, animals; 3S=S, XXC; UCBB1b; Cys-rich) 	RCICLLGICRCFCRRGVC
+AP03196
+Ref, BTD-10 (BTD 10, Baboon theta-defensin-10; primates, mammals, animals; 3S=S, XXC; UCBB1b; Cys-rich) 	RCFCRRGVCRCFCRRGVC
+AP03199
+1DZA, RNase 1 (RNase1; Ribonuclease 1; Ribonuclease family, human; primates, mammals, animals; XXG; UCSS1a; 4S=S) 	KESRAKKFQRQHMDSDSSPSSSSTYCNQMMRRRNMTQGRCKPVNTFVHEPLVDVQNVCFQEKVTCKNGQGNCYKSNSSMHITDCRLTNGSRYPNCAYRTSPKERHIIVACEGSPYVPVHFDASVEDST
+AP03200
+Ref, Trematocine (Piscidin, Antarctic fish, animals; UCLL1; BBMm) 	FFGHLLRGIVSVGKHIHGLITG
+AP03202
+Ref, Brevinin-2GUb (frog, amphibians, animals; XXU; 1S=S, UCSS1a; more AMPs?) 	GVIIDTLKGAAKTVAAELLRKAHCKLTNSC
+AP03203
+Ref, NCR055 (nodule-specific Cys-containing peptide; plants; UCSS1) 	VNDCIRIHCKDDFDCIENRLQVGCRLQREKPRCVNLVCRCLRR
+AP03204
+Ref, NCR192 (nodule-specific Cys-containing peptide; plants; UCSS1) 	MKNGCKHTGHCPRKMCGAKTTKCRNNKCQCVQL
+AP03205
+Ref, NCR137 (nodule-specific Cys-containing peptide; plants; UCSS1) 	MTLRPCLTDKDCPRMPPHNIKCRKGHCVPIGKPFK
+AP03206
+Ref, NCR147 (nodule-specific Cys-containing peptide; plants; UCSS1) 	IYFPVSRPCITDKDCPNMKHYKAKCRKGFCISSRVR
+AP03207
+Ref, NCR280 (nodule-specific Cys-containing peptide; plants; UCSS1) 	MRVLCGRDGRCPKFMCRTFL
+AP03208
+Ref, NCR183 (nodule-specific Cys-containing peptide; plants; UCSS1) 	ITISNSSFGRIVYWNCKTDKDCKQHRGFNFRCRSGNCIPIRR
+AP03209
+6U6G, NCR044 (nodule-specific Cys-containing peptide; plants; UCSS1) 	AFIQLSKPCISDKECSIVKNYRARCRKGYCVRRRIR
+AP03210
+Ref, NCR030 (nodule-specific Cys-containing peptide; plants; UCSS1) 	AFLPTSRNCITNKDCRQVRNYIARCRKGQCLQSPVR
+AP03211
+Ref, Dermaseptin-SP2 (frog, amphibians, animals; UCLL1) 	ASWKVFLKNIGKAAGKAVLNSVTDMVNQ
+AP03216
+Ref, Phylloseptin-PBa1 (frog, amphibians, animals; UCLL1c; XXA) 	FLSLIPHIASGIASLVKNF
+AP03217
+Ref, Phylloseptin-PBa2 (frog, amphibians, animals; UCLL1c; XXA; inactive: Phylloseptin-PBa2 MIC 200 uM or greater) 	FLSLLPHIASGIASLVSKF
+AP03219
+Ref, Kassiniatuerin-3 (frog, amphibians, animals; UCLL1; XXA) 	FIQHLIPLIPHAIQGIKDIF
+AP03220
+Ref, Phylloseptin-S2 (PLS-S2; frog, amphibians, animals; UCLL1; XXA) 	FLSLIPHIVSGVASLAKHF
+AP03222
+Ref, Phylloseptin-S4 (PLS-S4; frog, amphibians, animals; UCLL1; XXA) 	FLSMIPHIVSGVAALAKHL
+AP03223
+Ref, Dermaseptin-PD-1 (DRS-PD-1; frog, amphibians, animals; UCLL1a) 	GMWSKIKETAMAAAKEAAKAAGKTISDMIKQ
+AP03224
+Ref, Dermaseptin-PD-2 (DRS-PD-2; frog, amphibians, animals; UCLL1a) 	GMWSKIKNAGKAAAKAAAKAAGKAALDAVSEAI
+AP03225
+Ref, Ranatuerin-2Pb (frog, amphibians, animals; 1S=S, UCSS1) 	SFLTTVKKLVTNLAALAGTVIDTIKCKVTGGCRT
+AP03227
+Ref, Magainin-AM1 (UCLL1a; frog, amphibians, animals; BBL) 	GIKEFAHSLGKFGKAFFGGILNQ
+AP03231
+Ref, Brevinin-2SSb (frog, amphibians, animals; UCLL1a; BBL; More AMPs?) 	SLFSLIKAGAKFLGKNMLKQGPQYPACKVSKDSENVNWKS
+AP03232
+Ref, Ranatuerin-2SSa (frog, amphibians, animals; XXU; UCSS1; BBL) 	GLISTIWNTASNVAGTLTDSVKCKFKKC
+AP03233
+Ref, Granuliberin-SSa (frog, amphibians, animals; XXA; UCLL1c; BBL) 	FIFLPIFRRPVS
+AP03235
+Ref, Cecropin A (cecropin A1; CecA1; cecropin A2; insects, arthropods, invertebrates, animals; UCLL1; Variant: BmCecA (B. mori cecropin A) 	RWKLFKKIEKVGRNVRDGLIKAGPAIAVIGQAKSL
+AP03239
+Ref, Phylloseptin-PTa (XXA; UCLL1c; frog, amphibians, animals) 	FLSLIPKIAGGIAALAKHL
+AP03240
+Ref, Brevinin-1H (frog, amphibians, animals; XXU; 1S=S, UCSS1a) 	FALGAVTKVLPKLFCLITRKC
+AP03241
+Ref, Dq-3162 (antss, insects, arthropods, invertebrates, animals) 	GLKDWWNKHKDKIVKVVKEMGKAGINAA
+AP03245
+Ref, Temporin-SHe (frog, amphibians, animals; XXA; UCLL1c; BBMm) 	FLPALAGIAGLLGKIF
+AP03250
+Ref, Octominin (synthetic; BBMm) 	GWLIRGAIHAGKAIHGLIHRRRH
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

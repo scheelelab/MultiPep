@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ217	18202404	P82421		Ponericin-L1	Pachycondyla goeldii 	Animalia (Insects)	LLKELWTKMKGAGKAVLGKIKGLL	24	11279030	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ218	18202405	P82422		Ponericin-L2	Pachycondyla goeldii 	Animalia (Insects)	LLKELWTKIKGAGKAVLGKIKGLL	24	11279030	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ223	18202410	P82427		Ponericin-W5	Pachycondyla goeldii 	Animalia (Insects)	FWGALIKGAAKLIPSVVGLFKKKQ	24	11279030	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ242	21542188	P83188		Pseudin-1	Pseudis paradoxa	Animalia (Amphibians)	GLNTLKKVFQGLHEAIKLINNHVQ	24	11689009	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ495	51241751	Q68Y23		Pilosulin 3	Myrmecia banksi 	Animalia (Insects)	IIGLVSKGTCVLVKTVCKKVLKQG	24	15246874	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ718	50401863	P62549		Caerin-1.7	Litoria chloris	Animalia (Amphibians)	GLFKVLGSVAKHLLPHVAPVIAEK	24	9516047	Antibacterial		Experimentally Validated
+CAMPSQ719	50401861	P62547		Caerin-1.6	Litoria chloris	Animalia (Amphibians)	GLFSVLGAVAKHVLPHVVPVIAEK	24	9516047	Antibacterial		Experimentally Validated
+CAMPSQ735	206557920	P85028		Cryptonin	Cryptotympana dubia	Animalia (Insects)	GLLNGLALRLGKRALKKIIKRLCR	24	18000874	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ993				Brevinin -1 Gra	Rana grahami	Animalia (Amphibians)	FLPLLAGLAANFLPKIFCKITKKC	24	16621155	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ997				Brevinin-1CSa	Rana cascadae	Animalia (Amphibians)	FLPILAGLAAKIVPKLFCLATKKC	24	17451843	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3531				  Brevinin-1-OA1 	Odorrana andersonii	Animalia (Amphibians)	VIVFVASVAAEMMQHVYCAASKKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3533				  Brevinin-1-OR3 	Odorrana rotodora	Animalia (Amphibians)	IDPFVAGVAAEMMQHVYCAASKKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3534				  Brevinin-1-OR4 	Odorrana rotodora	Animalia (Amphibians)	INPFVAGVAAEMMQHVYCAASKKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3535				  Brevinin-1-OR5 	Odorrana rotodora	Animalia (Amphibians)	ILPFVAGVAAEMMKHVYCAASKKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3536				  Brevinin-1-OR6 	Odorrana rotodora	Animalia (Amphibians)	IIPFVAGVAAEMMEHVYCAASKKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3537				  Brevinin-1-OR7 	Odorrana rotodora	Animalia (Amphibians)	QLPFVAGVACEMCQCVYCAASKKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3538				  Brevinin-1-OR8 	Odorrana rotodora	Animalia (Amphibians)	ILPFVAGVAAEMMEHVYCAASKKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3539				  Brevinin-1-OR9 	Odorrana rotodora	Animalia (Amphibians)	ILPFVAGVAAMEMEHVYCAASKKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3540				  Brevinin-1-OR10 	Odorrana rotodora	Animalia (Amphibians)	FLPAVLLVATHVLPTVFCAITRKC	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4328	115311725	Q1ELU5		  Latarcin 4a	Lachesana tarabaevi	Animalia (Arachnids)	GLKDKFKSMGEKLKQYIQTWKAKF	24	16735513	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4333		P0CJ29		Ascaphin-5	Ascaphus truei	Animalia (Amphibians)	GIKDWIKGAAKKLIKTVASHIANQ	24	15207717	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4336				  Brevinin-1SPa	Rana septentrionalis	Animalia (Amphibians)	FFPIIAGMAAKLIPSLFCKITKKC	24	15556063	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4337				  Brevinin-1SPb	Rana septentrionalis	Animalia (Amphibians)	FLPIIAGMAAKVIPSLFCAITKKC	24	15556063	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8139		O15240		Antimicrobial peptide VGF [554-577]	Homo sapiens 	Animalia (Mammals)	TLQPPSALRRRHYHHALPPSRHYP	24	23250050	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ8148		C0HJQ3		Histone H2A [Cleaved into: Acipensin 6 (Ac6)]	Acipenser gueldenstaedtii 	Animalia (Pisces)	ILELAGNAARDNKKTRIIPRHLQL	24	25558400	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

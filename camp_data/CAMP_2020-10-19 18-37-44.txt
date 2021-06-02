@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ113	129279023	A4GUC4		Salivary glands defensin	Haemaphysalis longicornis 	Animalia (Arachnids)	NCIQQCVSKGAQGGYCTNEKCTCY	24	17521774	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ359	32396194	Q7SZG6		Pleurocidin-like peptide Hb26	Hippoglossus hippoglossus	Animalia (Pisces)	FLGLLFHGVHHVGKWIHGLIHGHH	24	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ361	32469600	P82904		Brevinin-1Sa	Rana sphenocephala	Animalia (Amphibians)	FLPAIVGAAGQFLPKIFCAISKKC	24	10604597	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ362	32469601	P82905		Brevinin-1Sb	Rana sphenocephala	Animalia (Amphibians)	FLPAIVGAAGKFLPKIFCAISKKC	24	10604597	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ363	32469602	P82906		Brevinin-1Sc	Rana sphenocephala	Animalia (Amphibians)	FFPIVAGVAGQVLKKIYCTISKKC	24	10604597	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ383	3913369	P81251		Caerin-1.8	Litoria chloris	Animalia (Amphibians)	GLFKVLGSVAKHLLPHVVPVIAEK	24	9516047	Antibacterial		Experimentally Validated
+CAMPSQ402	41016803	P82825		Brevinin-1La	Rana luteiventris	Animalia (Amphibians)	FLPMLAGLAASMVPKLVCLITKKC	24	10651828	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ403	41016804	P82826		Brevinin-1Lb	Rana luteiventris	Animalia (Amphibians)	FLPMLAGLAASMVPKFVCLITKKC	24	10651828	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ404	41016805	P82833		Brevinin-1Ba	Rana berlandieri	Animalia (Amphibians)	FLPFIAGMAAKFLPKIFCAISKKC	24	10651828	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ596	728976	P40835		Brevinin-1Ea	Rana esculenta (edible frog )	Animalia (Amphibians)	FLPAIFRMAAKVVPTIICSITKKC	24	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ597	728977	P40836		Brevinin-1Eb	Rana esculenta (edible frog )	Animalia (Amphibians)	VIPFVASVAAEMMPHVYCAASRKC	24	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ598	728978	P32412 , P84839		Brevinin-1E	Rana esculenta (edible frog )	Animalia (Amphibians)	FLPLLAGLAANFLPKIFCKITRKC	24	8508915	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ660				Brevinin-1Ec	Rana esculenta (edible frog )	Animalia (Amphibians)	FLPLLAGLAANFFPKIFCKITRKC	24	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ861	14030273	Q90VX5		Winter flounder 1	Pseudopleuronectes americanus	Animalia (Pisces)	GKGRWLERIGKAGGIIIGGALDHL	24	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ864	14030279	Q90VW7		Winter flounder 3	Pseudopleuronectes americanus	Animalia (Pisces)	FLGALIKGAIHGGRFIHGMIQNHH	24	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ899		P15516		Histatin-5	Homo sapiens 	Animalia (Mammals)	DSHAKRHHGYKRKFHEKHHSHRGY	24	3286634	Antifungal		Experimentally Validated
+CAMPSQ903	26393014	P81567		Defensin D6 	Spinacia oleracea	Viridiplantae	GIFSNMYXRTPAGYFRGPXGYXXN	24	9762899	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1130	124015194	P0C2D6		L-amino-acid oxidase	Trimeresurus mucrosquamatus	Animalia (Reptiles)	ADNKNPLEECFRETNYEEFLEIAR	24	12621545	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2452	306530876	P0CH49		Antimicrobial peptide scolopin-2 	Scolopendra mutilans  	Animalia (Centipedes)	ILKKFMLHRGTKVYKMRTLSKRSH	24	19716842	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3178	198286502	B8QSS4		Brevinin-1LTa 	Hylarana latouchii	Animalia (Amphibians)	FFGTALKIAANVLPTAICKILKKC	24	19022312	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3446				  Brevinin-1PRa 	Rana pretiosa	Animalia (Amphibians)	FLPVLTGLTPSIVPKLVCLLTKKC	24	21295070	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3447				  Brevinin-1PRb 	Rana pretiosa	Animalia (Amphibians)	FLPVLAGLTPSIVPKLVCLLTKKC	24	21295070	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3448				  Brevinin-1PRc 	Rana pretiosa	Animalia (Amphibians)	FFPMLAGVAARVVPKVICLITKKC	24	21295070	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3662	544602099	E7EKC4		Brevinin-1HN1 	Odorrana hainanensis	Animalia (Amphibians)	FLPLIASLAANFVPKIFCKITKKC	24	22450466	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3723				  Brevinin-1CG5 	Amolops chunganensis	Animalia (Amphibians)	FLPMLAGLAANFLPKIVCKITKKC	24	22951323	Antibacterial	Gram+ve	Experimentally Validated

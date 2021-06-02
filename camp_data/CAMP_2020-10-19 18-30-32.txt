@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ95	122063384	P0C2A9		Caerin-3.5	Litoria gracilenta	Animalia (Amphibians)	GLWEKVKEKANELVSGIVEGVK	22	16554081	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ306	26393026	P81572		Antimicrobial peptide D1 	Spinacia oleracea 	Viridiplantae	XTCESPSHKFKGPCATNRNCES	22	9762899	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ372	37999867	Q8UUG0	2JOS,2OJM	Moronecidin 	Morone chrysops x Morone saxatilis	Animalia (Pisces)	FFHHIFRGIVHVGKTIHRLVTG	22	11713517	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ373	37999868	Q8UUG2		Moronecidin	Morone chrysops x Morone saxatilis	Animalia (Pisces)	FFHHIFRGIVHVGKTIHKLVTG	22	11739390	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ550	59798981	P84384		Antimicrobial peptide 4 	Xenopus tropicalis	Animalia (Amphibians)	GVFLDALKKFAKGGMNAVLNPK	22	11738090	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ551	59798982	P84385		Antimicrobial peptide 5 	Xenopus tropicalis	Animalia (Amphibians)	GMATKAGTALGKVAKAVIGAAL	22	11738090	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ567	62512149	P83866		Ocellatin-2	Leptodactylus ocellatus	Animalia (Amphibians)	GVLDIFKDAAKQILAHAAEKQI	22	15648972	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ720	50401864	P62562		Caerin-3.1	Litoria splendida 	Animalia (Amphibians)	GLWQKIKDKASELVSGIVEGVK	22	10601876	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ970	3047246	O68586		Mutacin 1140	Streptococcus mutans 	Bacteria	FKSWSLCTPGCARTGSFNSYCC	22	9596742	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1143				Pexiganan	Synthetic construct		GIGKFLKKAKKFGKAFVKILKK	22	10103181	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1160	90902109	Q1PG44		Hedistin	Hediste diversicolor	Animalia (Annelids (Polychaeta))	LGAWLAGKVAGTVATYAWNRYV	22		Antibacterial		Experimentally Validated
+CAMPSQ2984		P83378		  Serracin-P 23 kDa subunit 	Serratia plymuthica	Bacteria	ALPKKLKYLNLFNDGFNYMGVV	22	12406768	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3373		P21838		  Gallidermin 	Staphylococcus gallinarum (F16/P57) Tu3928, Staphylococcus cohnii T	Bacteria	IASKFLCTPGCAKTGSFNSYCC	22	3181159	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3387				  Cypemycin 	Streptomyces sp. OH-4156	Bacteria	ATPATPTVAQFVIQGSTICLVC	22	7802859	Antibacterial, Antitumor	Gram+ve	Experimentally Validated
+CAMPSQ3465				  Maximin 68 	Bombina maxima	Animalia (Amphibians)	GIGGALLSAGKAALKGLAKVLV	22	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3513				  PAM2 	Ornithorhynchus anatinus	Animalia (Mammals)	RPWAGNGSVHRYTVLSPRLKTQ	22	21912615	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3684				  XPF-SE1 	Silurana epitropicalis	Animalia (Amphibians)	GLFLDTLKKFAKAGMEAVINPK	22	22800690	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3713				  Sclerosin 	Pseudomonas sp. strain DF41	Bacteria	TPALAVVTTVLPAAAVTTAKSV	22	22838838	Antifungal, Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3760				  Warnericin RK 	Staphylococcus warneri RK	Bacteria	MQFITDLIKKAVDFFKGLFGNK	22	18339450	Antibacterial		Experimentally Validated
+CAMPSQ3787				  Pis1 	Gadus morhua	Animalia (Pisces)	FIHHIIGWISHGVRAIHRAIHG	22	22178249	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3793				  Plantaricin-149	Lactobacillus plantarum NRIC 149	Bacteria	YSLQMGATAIKQVKKLFKKKGG	22	17266050	Antibacterial		Experimentally Validated
+CAMPSQ3894		P86267		Leptoglycin	Leptodactylus pentadactylus 	Animalia (Amphibians)	GLLGGLLGPLLGGGGGGGGGLL	22	19298834	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3980		P86528		Chitin-binding protein 3 	Moringa oleifera 	Viridiplantae	CPAIQRCCQQLRNIQPPCRCCQ	22	23193603	Antifungal		Experimentally Validated
+CAMPSQ4492		P86505		Caerin-3.1	Litoria rothii	Animalia (Amphibians)	GLWQKIKDKASELVSGIVEGVK	22	16124032, 19539637	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8141		U4N938		Sm-AMP-X1	Stellaria media 	Viridiplantae	CKHQCMSTRGDQARKICESVCM	22	24081691	Antifungal		Experimentally Validated

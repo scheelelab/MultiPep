@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ647	88909166	P84759		Jellein-3 	Apis mellifera	Animalia (Insects)	EPFKISIHL	9	15203237	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ651	90109840	P84760		Alveolarin	Polyporus alveolaris 	Fungi	GVCDMADLA	9	15165727	Antifungal		Experimentally Validated
+CAMPSQ666	20138866	O18330		Jellein-2	Apis mellifera	Animalia (Insects)	TPFKISIHL	9	15203237	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ749	110560642	A6MBP9		Odorranain-N1	Odorrana grahami	Animalia (Amphibians)	DEKGPKWKR	9	17272268	Antifungal		Experimentally Validated
+CAMPSQ936	46395637	O96049		Defensin precursor	Oryctes rhinoceros	Animalia (Insects)	AHCLAIGRK	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ937				Modified defensin	Synthetic construct		ALRLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ938				Modified defensin	Synthetic construct		ALLLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ939				Modified defensin	Synthetic construct		AWLLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ940				Modified defensin	Synthetic construct		ALYLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ941				Modified defensin	Synthetic construct		ALWLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1939	88909608	P84711		Curvalicin-28c	Lactobacillus curvatus	Bacteria	NIPQLTPTP	9	16680519	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2470	391738007	B3EWI7		Antifungal peptide	Cenchritis muricatus  	Animalia (Molluscs (Gastropoda))	RSELIVHQR	9	22210491	Antifungal		Experimentally Validated
+CAMPSQ2471	380876850	B3EWE7		Anticancerous peptide 1	Cycas revoluta  	Viridiplantae	WKLFDDGV	8	21882228	Antibacterial, Anticancer	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2572	75570446	Q91826		PYLa/PGLa B	Xenopus laevis	Animalia (Amphibians)	IAKVALKAL	9	6688991	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2640	295004058	D4YWD1		Temporin-SHf precursor, partial	Pelophylax saharicus	Animalia (Amphibians)	FFLSRIFGK	9	20308076	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2985		P83375		  Serracin-P 43 kDa subunit 	Serratia plymuthica	Bacteria	DYHHGVRVL	9	12406768	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3111				  Jelleine-II 	Apis mellifera	Animalia (Insects)	TPFKLSLHL	9	15203237	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3112				  Jelleine-III 	Apis mellifera	Animalia (Insects)	EPFKLSLHL	9	15203237	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3516				  Cr-ACP1 	Cycas revoluta	Viridiplantae	AWKLFDDGV	9	21882228	Anticancer, Antibacterial		Experimentally Validated
+CAMPSQ3773				  Temporin-SHf	Pelophylax saharica	Animalia (Amphibians)	FFFLSRIF	8	20308076	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3832				  NRWC 	Bacillus subtilis ATCC 6633	Bacteria	NRWCFAGDD	9	23519163	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3841				  HaA4	Harmonia axyridis	Animalia (Insects)	IGGYCSWLRL	10	23124352	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8165				Peptide Ctry2459 (H3)	Synthetic construct		FLHFLHHLF	9	23415044	Antiviral		Experimentally Validated
+CAMPSQ8166				Peptide Ctry2459 (H2)	Synthetic construct		FLGFLHHLF	9	23415044	Antiviral		Experimentally Validated
+CAMPSQ8167		P0DMF3		Peptide Ctry2459 (WT)	Chaerilus tryznai 	Animalia (Arachnids)	FLGFLKNLF	9	23415044	Antiviral		Experimentally Validated

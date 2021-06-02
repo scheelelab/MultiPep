@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ201	1730115	P54684		Lebocin-1/2 precursor	Bombyx mori	Animalia (Insects)	DLRFLYPRGKLPVPTPPPFNPKPIYIDMGNRY	32	7654207	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ264	2493347	P80954		Rugosin-A	Rana rugosa 	Animalia (Amphibians)	GLLNTFKDWAISIAKGAGKGVLTTLSCKLDKSC	33	7612013	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ265	2493348	P80955		Rugosin-B	Rana rugosa 	Animalia (Amphibians)	SLFSLIKAGAKFLGKNLLKQGAQYAACKVSKEC	33	7612013	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ426	41017606	P82780		Ranatuerin-3	Rana catesbeiana	Animalia (Amphibians)	GFLDIINKLGKTFAGHMLDKIKCTIGTCPPSP	32	9784389	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ433	41017613	P82828		Ranatuerin-2La	Rana luteiventris	Animalia (Amphibians)	GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC	32	10651828	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ434	41017614	P82829		Ranatuerin-2Lb	Rana luteiventris	Animalia (Amphibians)	GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC	32	10651828	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ487	483220	Q62716		Defensin NP-1 - rat	Rattus norvegicus	Animalia (Mammals)	VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR	32	2543629	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ489	50401306	O18495		Styelin-D	Styela clava 	Animalia	GWLRKAAKSVGKFYYKHKYYIKAAWQIGKHAL	32	10978343	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ503	51701744	P84114		Ranatuerin-2BYa	Rana boylii 	Animalia (Amphibians)	GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC	32	14531844	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ706				OdE1	Odorrana grahami	Animalia (Amphibians)	GLGGAKKNFIIAANKTAPQSVKKTFSCKLYNG	32	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ730	109156995	Q01523	1ZMP,3I5W,4E82,4E83,4E86	Human Defensin-5	Homo sapiens	Animalia (Mammals)	ATCYCRTGRCATRESLSGVCEISGRLYRLCCR	32	18191790 , 17088326	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ748	210060761	B5AKV3	2K1I	Oral Mucosal Alpha-Defensin 	Macaca mulatta	Animalia (Mammals)	RRTCHCRSRCLRRESNSGSCNINGRIFSLCCR	32	18930922	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ755	109156999	Q01524	1ZMQ,3QTE	Human Alpha-Defensin-6	Homo sapiens	Animalia (Mammals)	AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL	32	17088326	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ768				Cycloviolacin Y1	Viola yedoensis	Viridiplantae	GGTIFDCGETCFLGTCYTPGCSCGNYGFCYGTN	33	18081258	Antiviral		Experimentally Validated
+CAMPSQ773	160380517	P0C5X3		Dybowskin-3 , Brevinin-2DYc	Rana dybowskii	Animalia (Amphibians)	GLFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC	33	17698251 , 17688900	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ969	183448055		2K10	Rantuerin-2csa	Synthetic construct		GILSSFKGVAKGVAKDLAGKLLETLKCKITGC	32	18387372	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ987	90109769	P84757		Defensin-1	Papio hamadryas	Animalia (Mammals)	RICRCRIGRCLGLEVYFGVCFLHGRLARRCCR	32	16978151	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ996		V9GZ92		Ranatuerin-2CSa	Rana cascadae	Animalia (Amphibians)	GILSSFKGVAKGVAKDLAGKLLETLKCKITGC	32	17451843, 18387372	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2968				  Dermaseptin-L1 	Hylomantis lemur	Animalia (Amphibians)	GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS	32	17561225	Antibacterial, Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ3223				  Ranatuerin-2Ma 	Rana muscosa	Animalia (Amphibians)	GLLSSFKGVAKGVAKDLAGKLLEKLKCKITGC	32	16330099	Antifungal		Experimentally Validated
+CAMPSQ3232				  Ranatuerin-2AUa 	Rana aurora aurora	Animalia (Amphibians)	GILSSFKGVAKGVAKNLAGKLLDELKCKITGC	32	15325526	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3300				  Lichenicidin 	Bacillus licheniformis ATCC 14580 or VK 21	Bacteria	TITLSTCAILSKPLGNNGYLCTVTKECMPSCN	32	19561184	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3602				  Brevinin-2RTa 	Amolops ricketti	Animalia (Amphibians)	GLMSTLKDFGKTAAKEIAQSLLSTASCKLAKTC	33	22100518	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3790				  Oreoch-3 	Oreochromis niloticus	Animalia (Pisces)	IWDAIFHGAKHFLHRLVNPGGKDAVKDVQQKQ	32	Reference: Acostaa J, Monterob V, Carpioa Y, Velázqueza J, Garayc HE, Reyesc O, Cabralesc A, Masforrolc Y, Moralesa A, Estrada MP (2013) Cloning and functional characterization of three novel antimicrobial peptides from tilapia (Oreochromis niloticus). A	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ4501		Q6GU94		Defensin-1	Centruroides limpidus limpidus	Animalia (Arachnids)	ACQFWSCNSSCISRGYRQGYCWGIQYKYCQCQ	32	15197474	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

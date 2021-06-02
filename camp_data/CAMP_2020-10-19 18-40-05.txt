@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ202	17433718	P56254	1JJZ,1K48,1KAL,1N1U,1NB1,1ORX,2F2I,2F2J,2JUE,2KHB	Kalata-B1 precursor	Oldenlandia affinis 	Viridiplantae	VCGETCVGGTCNTPGCTCSWPVCTRNGLP	29	10430870	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ213	18202400	P82417		Ponericin-G4	Pachycondyla goeldii 	Animalia (Insects)	DFKDWMKTAGEWLKKKGPGILKAAMAAAT	29	11279030	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ468	461939, 740961	P80281		Dermaseptin-5 	Phyllomedusa sauvagii	Animalia (Amphibians)	GLWSKIKTAGKSVAKAAAKAAVKAVTNAV	29	8306981	Antifungal		Experimentally Validated
+CAMPSQ767	76364214	P84644		Circulin-F	Chassalia parviflora 	Viridiplantae	AIPCGESCVWIPCISAAIGCSCKNKVCYR	29	10691702	Antiviral		Experimentally Validated
+CAMPSQ769				Cycloviolacin Y4	Viola yedoensis	Viridiplantae	GVPCGESCVFIPCITGVIGCSCSSNVCYLN	30	18081258	Antiviral		Experimentally Validated
+CAMPSQ770				Cycloviolacin Y5	Viola yedoensis	Viridiplantae	GIPCAESCVWIPCTVTALVGCSCSDKVCYN	30	18081258	Antiviral		Experimentally Validated
+CAMPSQ957	75313070	Q9S8Z6, P27275	1MMC, 1ZNT, 1ZUV, 1ZWU	AC-AMP1	Amaranthus caudatus	Viridiplantae	VGECVRGRCPSGMCCSQFGYCGKGPKYCG	29	1567877	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ968	146387256	Q2IAL6	2HFR	Fowlicidin 3	Gallus gallus	Animalia (Aves)	RVKRFWPLVPVAINTVAAGINLYKAIRRK	29	17229147	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ986	41016983	P83637		Dermaseptin-01 	Phyllomedusa oreades 	Animalia (Amphibians)	GLWSTIKQKGKEAAIAAAKAAGQAALGAL	29	12379643	Antibacterial,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1026	39654340	Q47765	1O82 , 1O83 ,1O84	Bacteriocin As-48	Enterococcus faecalis	Bacteria	AKEFGIPAAVAGTVLNVVEAGGWVTTIVSI	30	14623193	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2590	391359323	B3EWI9		L-amino-acid oxidase	Bothropoides matogrossensis  	Animalia (Reptiles)	KFEPPLPPKKAHKKFWEDDGIYYPPNHNFP	30	22438972	Antibacterial, Antiparasitic		Experimentally Validated
+CAMPSQ2592	74837090	Q5H7N5		Cecropin-P3	Ascaris suum	Animalia	WLSKTAKKLENSAKKRISEGIAIAIKGGSR	30	15850460	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2593	74837091	Q5H7N6		Cecropin-P2	Ascaris suum	Animalia	WLSKTYKKLENSAKKRISEGIAIAIQGGPR	30	15850460	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2594	74837089	Q5H7N4		Cecropin-P4	Ascaris suum	Animalia	WLSKTYKKLENSAKKRISEGVAIAILGGLR	30	15850460	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2792				Ericin A  	Bacillus subtilis A1/3	Bacteria	VLSKSLCTPGCITGPLQTCYLCFPTFAKC	29	11872722	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2847				  HFIAP-3 	Myxine glutinosa	Animalia (Pisces)	GWFKKAWRKVKNAGRRVLKGVGIHYGVGLI	30	15019197	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3098				  Plantaricin EF	Lactobacillus plantarum C1	Bacteria	FNRGGYNFGKSVRHVVDAIGSVAGILKSIR	30	9603847	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3337				  Mfa-hst5 	Macaca fascicularis	Animalia (Mammals)	DSHEERRQGRHGHHEYGRKFHEKHHSHRGY	30	20423320	Antifungal		Experimentally Validated
+CAMPSQ3340		C2TQ80	2L9X	  Thuricin CD 	Bacillus thuringiensis DPC 6431	Bacteria	GNAACVIGCIGSCVISEGIGSLVGTAFTLG	30	20435915	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3343				  Centrocin 1 	Strongylocentrotus droebachiensis	Animalia (Echinoidea)	GWFKKTFHKVSHAVKSGIHAGQRGCSALGF	30	20438753	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3344				  Centrocin 2 	Strongylocentrotus droebachiensis	Animalia (Echinoidea)	SWFSRTVHNVGNAVRKGIHAGQGVCSGLGL	30	20438753	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3575				  Odorranain-F-OW1 	Odorrana wuchuanensis	Animalia (Amphibians)	GFMNTAKNVAKNVAVTLLDNLKCKITGGC	29	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3856		P86395		Bacteriocin SRCAM 37	Paenibacillus polymyxa 	Bacteria	FVYGNGVTSILVQAQFLVNGQRRFFYTPDK	30	15690798	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ4606	157879957			Chain A, E6-Binding Zinc Finger (E6apc1)	Synthetic construct		XKFACPECPKRFMRSDHLTLHILLHENKK	29	15182185	Antiviral		Experimentally Validated
+CAMPSQ8190				HBc147-175	Synthetic construct		TVVRRRGRSPRRRTPSPRRRRSQSPRRRR	29	23785287	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

@@ -1,0 +1,130 @@
+Found 62 entries according to your query
+AP00094
+2MAA, Temporin A (temporin-1Ta; temporin-Ta; TA; Leu-rich; XXA; UCLL1c; frog, amphibians, animals; ZZP) 	FLPLIGRVLSGIL
+AP00095
+6GIL, Temporin B (temporin-1Tb; temporin-Tb; TB; Leu-rich; XXA, UCLL1c; frog, amphibians, animals; ZZP) 	LLPIVGNLLKSLL
+AP00166
+1Z64, Pleurocidin (NRC-4, NRC-04; WF2; XXA; fish, animals, UCLL1) 	GWGSFFKKAAHVGKHVGKAALTHYL
+AP00176
+3GNY, human neutrophil peptide-1 (HNP-1, HNP1, alpha Defensin, UCSS1a; lectin; primates, mammals, animals; XXX; ZZHh, BBS; BBL; BBW; 3S=S) 	ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00177
+1ZMI, human neutrophil peptide-2 (HNP-2, HNP2, alpha Defensin, lectin; UCSS1a; primates, mammals, animals; ZZHh, BBS; 3S=S; BBMm) 	CYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00178
+1DFN, human neutrophil peptide-3 (HNP-3, HNP3, alpha Defensin, UCSS1a; primates, mammals, animals; lectin; ZZHh, BBS; 3S=S) 	DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00283
+1KJ6, Human beta defensin 3 (hBD-3, hBD3, or DEFB103, human defensin, 3S=S, UCSS1a; primates, mammals, animals; ZZHh; BBBh2o; BBW; JJsn) 	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+AP00310
+2K6O, LL-37 [LL37; FALL-39; cathelicidin; UCLL1; human; chimpanzee; primates, mammals, animals; XXX; XXY; XXZ; BBBh2o, BBBm; BBMm, BBPP, BBN, BBL, BBrsg, JJsn; Derivatives: many) 	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+AP00521
+Ref, Protonectin (insects, arthropods, invertebrates, animals; XXA) 	ILGTILGLLKGL
+AP00524
+1FD3, Human beta defensin 2 (hBD-2; hBD2; UCSS1a; human, primates, mammals, animals; ZZHh; 3S=S; JJsn) 	GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP
+AP00541
+Ref, Polybia-MPI (Polybia-MP-I; insects, arthropods, invertebrates, animals, XXA; VIHNN; in vivo test) 	IDWKKLLDAAKQIL
+AP00542
+Ref, Polybia-CP (Pol-CP-NH2; insects, arthropods, invertebrates, animals, XXA; BBMm) 	ILGTILGLLKSL
+AP00675
+Ref, Human beta defensin 4 (hBD-4, hBD4; UCSS1a; primates, mammals, animals; 3S=S) 	EFELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRKWDESLLNRTKP
+AP00764
+Ref, Dermaseptin-S9 (DRS-S9, Dermaseptin S9, DRS S9, UCLL1; frog, amphibians, animals; ZZH) 	GLRSKIWLWVLLMIWQESNKFKKM
+AP00857
+Ref, Catestatin (human CHGA(352-372), SL21, human Cst; a neuropeptide; primates, mammals, animals) 	SSMKLSFRARAYGFRGPGPQL
+AP01161
+1L9L, Human granulysin (GNLY, huGran, NKG5; formerly 519; a saposin-like protein, SAPLIP; 3S=S; UCSS1a; primates, mammals, animals; ZZP; VIHNN; BBMm; BBL; JJsn; Derivatives: G13) 	GRDYRTCLTIVQKLKKMVDKPTQRSVSNAATRVCRTGRSRWRDVCRNFMRRYQSRVTQGLVAGETAQQICEDLR
+AP01246
+Ref, Mouse beta-defensin-14 (mBD-14, Defb14, UCSS1a; mouse, rodents, mammals, animals; 3S=S) 	FLPKTLRKFFCRIRGGRCAVLNCLGKEEQIGRCSNSGRKCCRKKK
+AP01372
+Ref, CXCL14 (BRAK, Bolekine; cytokine; CXC family; kinocidins; human; primates, mammals, animals; Fragments: CXCL14(1-13), CXCL14(59-75) or CXCL14-C17) 	SKCKCSRKGPKIRYSDVKKLEMKPKYPHCEEKMVIITTKSVSRYRGQEHCLHPKLQSTKRFIKWYNAWNEKRRVYEE
+AP01546
+Ref, Dermaseptin DA4 (DRS-DA4, UCLL1; frog, amphibians, animals) 	GMWSKIKNAGKAAKAAAKAAGKAALGAVSEAM
+AP01640
+Ref, Polybia-MP-II (Polybia-MPII; insects, arthropods, invertebrates, animals; XXA) 	INWLKLGKMVIDAL
+AP01641
+Ref, Polybia-MP-III (Polybia-MPIII; insects, arthropods, invertebrates, animals; XXA) 	IDWLKLGKMVMDVL
+AP01788
+Ref, Myticin C (Myt C; mollusca/molluscs/mollusks, marine invertebrates, animals; 4S=S; Variants: reduced form XXR) 	QEAQSVACTSYYCSKFCGSAGCSLYGCYLLHPGKICYCLHCSR
+AP01795
+Ref, MBD-4 (MBD4, mouse beta defensin 4, or Defb4, UCSS1a; rodents, mammals, animals; 3S=S) 	QIINNPITCMTNGAICWGPCPTAFRQIGNCGHFKVRCCKIR
+AP01796
+Ref, saBD (UCSS1a; 4S=S, seabream beta defensin, fish, marine animals) 	ASFPWSCPSLSGVCRKVCLPTELFFGPLGCGKGFLCGVSHFL
+AP02072
+2WND, Psoriasin (S100A7; metal-binding protein, BBII; humans; primates, mammals, animals) 	MSNTQAERSIIGMIDMFHKYTRRDDKIDKPSLLTMMKENFPNFLSACDKKGTNYLADVFEKKDKNEDKKIDFSEFLSLLGDIATDYHKQSHGAAPCSGGSQ
+AP02075
+1M8A, CCL20 (macrophage inflammatory protein-3alpha, MIP-3alpha; Liver and activation-regulated cytokine, LARC; CC family; UCSS1a; 2S=S, humans; primates, mammals, animals) 	SNFDCCLGYTDRILHPKFIVGFTRQLANEGCDINAIIFHTKKKLSVCANPKQTWVKYIVRLLSKKVKNM
+AP02076
+1MSH, CXCL1 (growth-related oncogene Groalpha, MGSA-alpha; GRO-alpha; cytokine, CXC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	ASVATELRCQCLQTLQGIHPKNIQSVNVKSPGPHCAQTEVIATLKNGRKACLNPASPIVKKIIEKMLNSDKSN
+AP02077
+1QNK, CXCL2 (Grobeta, MGSAbeta; cytokine, CXC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	APLATELRCQCLQTLQGIHLKNIQSVKVKSPGPHCAQTEVIATLKNGQKACLNPASPMVKKIIEKMLKNGKSN
+AP02078
+Ref, CXCL3 (Grogamma, MGSAgamma; cytokine, CXC family; kinocidins; human, primates, mammals, animals) 	ASVVTELRCQCLQTLQGIHLKNIQSVNVRSPGPHCAQTEVIATLKNGKKACLNPASPMVQKIIEKILNKGSTN
+AP02079
+Ref, CXCL9 (monkine induced by IFN-gamma, MIG, cytokine, CXC family; kinocidins; human, primates, mammals, animals) 	TPVVRKGRCSCISTNQGTIHLQSLKDLKQFAPSPSCEKIEIIATLKNGVQTCLNPDSADVKELIKKWEKQVSQKKKQKNGKKHQKKKVLKVRKSQRSRQKKTT
+AP02080
+1O80, CXCL10 (IFN-inducible protein 10, IP-10, cytokine, CXC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	VPLSRTVRCTCISISNQPVNPRSLEKLEIIPASQFCPRVEIIATMKKKGEKRCLNPESKAIKNLLKAVSKERSKRSP
+AP02081
+1RJT, CXCL11 (IFN-inducible T cell-alpha chemoattractant, I-TAC, ITAC, cytokine, CXC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	FPMFKRGRCLCIGPGVKAVKVADIEKASIMYPSNNCDKIEVIITLKENKGQRCLNPKSKQARLIIKKVERKNF
+AP02082
+2KOL, CXCL12 (stromal cell-derived factor 1 isoform alpha, SDF1alpha/beta, SDF-1, cytokine, CXC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK
+AP02083
+Ref, CXCL13 (BCA-1, BLC; cytokine, CXC family; kinocidins; human, primates, mammals, animals) 	VLEVYYTSLRCRCVQESSVFIPRRFIDRIQILPRGNGCPRKEIIVWKKNKSIVCVDPQAEWIQRMMEVLRKRSSSTLPVPVFKRKIP
+AP02084
+2JP1, XCL1 (lymphotactin, cytokine, C family; kinocidins; UCSS1a; 1S=S, human, primates, mammals, animals) 	VGSEVSDKRTCVSLTTQRLPVSRIKTYTITEGSLRAVIFITKRGLKVCADPQATWVRDVVRSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG
+AP02085
+1EL0, CCL1 (I-309, cytokine, CC family; kinocidins; UCSS1a; 3S=S, human, primates, mammals, animals) 	KSMQVPFSRCCFSFAEQEIPLRAILCYRNTSSICSNEGLIFKLKRGKEACALDTVGWVQRHRKMLRHCPSKRK
+AP02086
+1ESR, CCL8 (MCP-2, cytokine, CC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	PDSVSIPITCCFNVINRKIPIQRLESYTRITNIQCPKEAVIFKTKRGKEVCADPKERWVRDSMKHLDQIFQNLKP
+AP02087
+2EOT, CCL11 (eotaxin, cytokine, CC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	GPASVPTTCCFNLANRKIPLQRLESYRRITSGKCPQKAVIFKTKLAKDICADPKKKWVQDSMKYLDQKSPTPKP
+AP02088
+2RA4, CCL13 (MCP-4, cytokine, CC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	QPDALNVPSTCCFTFSSKKISLQRLKSYVITTSRCPQKAVIFRTKLGKEICADPKEKWVQNYMKHLGRKAHTLKT
+AP02089
+1NR4, CCL17 (TARC, cytokine, CC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	ARGTNVGRECCLEYFKGAIPLRKLKTWYQTSEDCSRDAIVFVTVQGRAICSDPNNKRVKNAVKYLQSLERS
+AP02090
+Ref, CCL18 (PARC, cytokine, CC family; kinocidins; human, primates, mammals, animals) 	AQVGTNKELCCLVYTSWQIPQKFIVDYSETSPQCPKPGVILLTKRGRQICADPNKKWVQKYISDLKLNA
+AP02091
+Ref, CCL19 (MIP-3beta, cytokine, CC family; kinocidins; human, primates, mammals, animals) 	GTNDAEDCCLSVTQKPIPGYIVRNFHYLLIKDGCRVPAVVFTTLRGRQLCAPPDQPWVERIIQRLQRTSAKMKRRSS
+AP02092
+Ref, CCL25 (TECK, cytokine, CC family; kinocidins; human, primates, mammals, animals) 	QGVFEDCCLAYHYPIGWAVLRRAWTYRIQEVSGSCNLPAAIFYLPKRHRKVCGNPKSREVQRAMKLLDARNKVFAKLHHNTQTFQAGPHAVKKLSSGNSKLSSSKFSNPISSSKRNVSLLISANSGL
+AP02093
+2L4N, CCL21 (SLC, cytokine, CC family; kinocidins; UCSS1a; 3S=S, human, primates, mammals, animals) 	SDGGAQDCCLKYSQRKIPAKVVRSYRKQEPSLGCSIPAILFLPRKRSQAELCADPKELWVQQLMQHLDKTPSPQKPAQGCRKDRGASKTGKKGKGSKGCKRTERSQTPKGP
+AP02094
+Ref, CCL22 (MDC, cytokine, CC family; kinocidins; human, primates, mammals, animals) 	GPYGANMEDSVCCRDYVRYRLPLRVVKHFYWTSDSCPRPGVVLLTFRDKEICADPRVPWVKMILNKLSQ
+AP02185
+Ref, CXCL6 (C-X-C motif cytokine 6; granulocyte chemotactic protein 2, GCP-2, SCYB6; CXC family; kinocidins; human, primates, mammals, animals) 	GPVSAVLTELRCTCLRVTLRVNPKTIGKLQVFPAGPQCSKVEVVASLKNGKQVCLDPEAPFLKKVIQKILDSGNKKN
+AP02186
+6CWS, CCL28 (MEC; SCYA28; CCK1; cytokine, kinocidins; human, primates, mammals, animals) 	MQQRGLAIVALAVCAALHASEAILPIASSCCTEVSHHISRRLLERVNMCRIQRADGDCDLAAVILHVKRRRICVSPHNHTVKQWMKVQAAKKNGKGNVCHRKKHHGKRNSNRAHQGKHETYGHKTPY
+AP02187
+2KUM, CCL27 (cutaneous T-cell-attracting cytokine, CTACK; CC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	PPSTACCTQLYRKPLSDKLLRKVIQVELQEADGDCHLQAFVLHLAQRSICIHPQNP
+AP02188
+Ref, mCCL28 (MEC; cytokine, kinocidins; mouse, rodents, mammals, animals) 	FQTSEAILPMASSCCTEVSHHVSGRLLERVSSCSIQRADGDCDLAAVILHVKRRRICISPHNRTLKQWMRASEVKKNGRENVCSGKKQPSRKDRKGHTTRKHRTRGTHRHEASR
+AP02195
+Ref, Chemerin (retinoic acid receptor responder protein 2, RARRES2; RAR-responsive protein TIG2; Tazarotene-induced gene 2 protein; kinocidins; human, primates, mammals, animals) 	ELTEAQRRGLQVALEEFHKHPPVQWAFQETSVESAVDTPFPAGIFVRLEFKLQQTSCRKRDWKKPECKVRPNGRKRKCLACIKLGSEDKVLGRLVHCPIETQVLREAEEHQETQCLRVQRAGEDPHSFYFPGQFAFS
+AP02337
+2BZZ, RNase 2 (eosinophil-derived neurotoxin, EDN; EPX; Ribonuclease family; UCSS1a; 4S=S, humans; primates, mammals, animals) 	KPPQFTWAQWFETQHINMTSQQCTNAMQVINNYQRRCKNQNTFLLTTFANVVNVCGNPNMTCPSNKTRKNCHHSGSQVPLIHCNLTTPSPQNISNCRYAQTPANMFYIVACDNRDQRRDPPQYPVVPVHLDRII
+AP02338
+Ref, mEar2 (mouse eosinophil-associated ribonuclease 2, mRNase 2, Ribonuclease family; mice; rodents, mammals, animals; UCSS1a; 4S=S) 	LGQTPSQWFAIQHINNNANLQCNVEMQRINRFRRTCKGLNTFLHTSFANAVGVCGNPSGLCSDNISRNCHNSSSRVRITVCNITSRRRTPYTQCRYQPRRSLEYYTVACNPRTPQDSPMYPVVPVHLDGTF
+AP02451
+1EIH, Eotaxin-2 (CCL24, CCL-24, cytokine, CC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals; variants) 	VVIPSPCCMFFVSKRIPENRVVSYQLSSRSTCLKAGVIFTTKKGQQSCGDPKQEWVQRYMKNLDAKQKKASPRARAVA
+AP02452
+1G2T, Eotaxin-3 (CCL26, CCL-26, cytokine, CC family; kinocidins; UCSS1a; 2S=S, human, primates, mammals, animals) 	TRGSDISKTCCFQYSHKPLPWTWVRSYEFTSNSCSQRAVIFTTKRGKKVCTHPRKKWVQKYISLLKTPKQL
+AP02634
+Ref, CsCCK1 (cytokine, CC family; kinocidins; UCSS1a; 3S=S, fish, animals) 	QPQMVIDCCLSVKNKTITKHIITDYHQQSAGQGCSIEATKKLCVPADEPWVHMVMSHVDKMKKPCHGKRRNKRCVKVKKMILVTRRN
+AP02635
+Ref, CsCCL17 (cytokine, CC family; kinocidins; UCSS1a; 2S=S, fish, animals) 	QGGIASCCRRHSKTQINREHLTHYYEQHRPPCPIKAVVFYVIGGARICADPNKVWTKTSKAFLDGVHYQRQHTSSKVSF
+AP02636
+Ref, CsCCL21 (cytokine, CC family; kinocidins; UCSS1a; 2S=S, fish, animals) 	QEFYGNCCLGHVKPMKIKGKRIESYRMQETDGDCHISAVVFLIKKKPSHVKQKTICANPQEAWVQELMAAVDSRNPKN
+AP02820
+2LWL, hBD-6 (human beta-defensin 6, hBD6; UCSS1a; primates, mammals, animals;; 3S=S) 	FFDEKCNKLKGTCKNNCGKNEELIALCQKSLKCCRTIQPSGSIID
+AP02872
+2N6M, Esculentin-1A(1-21) ((Esc(1-21); synthetic; BBMm; XXA; UCLL1c; BBL) 	GIFSKLAGKKIKNLLISGLKG
+AP03009
+Ref, Lucilin (insects, arthropods, invertebrates, animals) 	GWLKKLGKKIERVGQHTRDATIQTIGVAQQAVNVAATLKG
+AP03043
+Ref, TroCCL4 (cytokine, CC family; kinocidins; fish, animals; UCSS1a) 	MAAPRLTLSVFVLMLAFITLSEGLRGTGPKKCCFRFFESPVQKERVLSYIKTSQRCPQPAVLLKTVAGRQLCAKPSASWVKDLISYLDAKPGEVSN
+AP03192
+Ref, Rpdef1alpha (Defensin, mollusca/molluscs/mollusks, marine invertebrates, animals; 4S=S; UCSS1a; BBMm; BBL) 	GFGCPNDYSCSNHCRDSIGCRGGYCKYHVICTCYGCKKRRSIQE
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

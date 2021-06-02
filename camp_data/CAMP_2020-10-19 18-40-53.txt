@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ103	123143	P15516		Histatin-3	Homo sapiens 	Animalia (Mammals)	DSHAKRHHGYKRKFHEKHHSHRGYRSNYLYDN	32	3286634	Antifungal		Experimentally Validated
+CAMPSQ138	13959326	Q9PT75		Dermatoxin	Phyllomedusa bicolor 	Animalia (Amphibians)	SLGSFLKGVGTTLASVGKVVSDQFGKLLQAGQ	32	10880984	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ269	2493579	Q17313		Ceratotoxin-C	Ceratitis capitata	Animalia (Insects)	SLGGVISGAKKVAKVAIPIGKAVLPVVAKLVG	32	9569644	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ272	2494046	Q62715		Neutrophil antibiotic peptide NP-2 precursor 	Rattus norvegicus	Animalia (Mammals)	VTCYCRSTRCGFRERLSGACGYRGRIYRLCCR	32	2254017	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ285	25089847	P83420		Cecropin	Oiketicus kirbyi 	Animalia (Insects)	WKPFKKIEKAVRRVRDGVAKAGPAVAVVGQAT	32		Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ289	25090646	O15946		Lebocin-4 precursor 	Bombyx mori	Animalia (Insects)	DLRFWNPREKLPLPTLPPFNPKPIYIDMGNRY	32	9325165	Antibacterial		Experimentally Validated
+CAMPSQ556	6016491	P55796		Lebocin-3 precursor 	Bombyx mori	Animalia (Insects)	DLRFLYPRGKLPVPTLPPFNPKPIYIDMGNRY	32	7654207	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ595	728866	P80230		Enhancer of rudimentary homolog	Sus scrofa	Animalia (Mammals)	RADTQTYQPYNKDWIKEKIYVLLRRQAQQAGK	32	8375398	Antibacterial		Experimentally Validated
+CAMPSQ758	76364163	P84637		Cycloviolin-A	Leonia cymosa	Viridiplantae	GVIPCGESCVFIPCISAAIGCSCKNKVCYRN	31	10813905	Antiviral		Experimentally Validated
+CAMPSQ763	66361400	P84522	1ZA8	Vhl-1	Viola hederacea	Viridiplantae	CGESCAMISFCFTEVIGCSCKNKVCYLNSIS	31	15824119	Antiviral	 	Experimentally Validated
+CAMPSQ779				Ericin S	Bacillus subtilis A1/3	Bacteria	WKSESVCTPGCVTGVLQTCFLQTITCNCHISK	32	11872722	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ873	14423882	P81655	1EWS	Corticostatin-related peptide RK-1	Oryctolagus cuniculus	Animalia (Mammals)	MPCSCKKYCDPWEVIDGSCGLFNSKYICCREK	32	8631871	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1054	123894504, 145579366	Q2IAL7	2GDL	Fowlicidin-2 , Myeloid antimicrobial peptide 27	Gallus gallus	Animalia (Aves)	LVQRGRFGRFLRKIRRFRPKVTITIQGSARFG	32	16326712, 17229147	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1112	90109770	P84758		Defensin-3	Papio hamadryas	Animalia (Mammals)	RTCRCRLGRCSRRESYSGSCNINGRIYSLCCR	32	16978151	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1148	261263168	A7UDM9		Ixosin-B	Ixodes sinensis  	Animalia (Arachnids)	QLKVDLWGTRSGIQPEQHSSGKSDVRRWRSRY	32	18295522	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2815				  human RK-31 	Homo sapiens	Animalia (Mammals)	RKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	31	14978112	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3325				  Arminin-1a 	Hydra magnipapillata	Animalia (Hydrozoans)	KPWRFRRAIRRVRWRKVAPYIPFVVKTVGKK	31	19770277	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3410				  Callinectin 	Callinectes sapidus	Animalia (Crustaceans (Malacostraca))	WNSNRRFRVGRPPVVGRPGCVCFRAPCPCSNY	32	21115038, 10373609	Antibacterial		Experimentally Validated
+CAMPSQ3411	6273112			  RMAD-5 	Macaca mulatta	Animalia (Mammals)	RTCRCRFGRCFRRESYSGSCNINGRIFSLCCR	32	10531277	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3412	6273114			  RMAD-7 	Macaca mulatta	Animalia (Mammals)	RTCRCRFGRCFRRESYSGSCNINGRISSLCCR	32	10531277	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3438	340561919	G0Z2H4		Entianin 	Bacillus subtilis DSM 15029T	Bacteria	WKSESVCTPGCVTGLLQTCFLQTITCNCKISK	32	21239550	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3445				  Ranatuerin-2PRb 	Rana pretiosa	Animalia (Amphibians)	GILDTFKGVAKGVAKDLAVHMLENLKCKMTGC	32	21295070	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3472	269819993	D1MJ08		Cc-CATH2 	Coturnix coturnix	Animalia (Aves)	LVQRGRFGRFLKKVRRFIPKVIIAAQIGSRFG	32	21375690	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3690				  YFGAP 	Thunnus albacares	Animalia (Pisces)	VKVGINGFGRIGRLVTRAAFHGKKVEVVAIND	32	22771964	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3880		P84928		Dermaseptin-8 	Phyllomedusa tarsius 	Animalia (Amphibians)	SLRGFLKGVGTALAGVGKVVADQFDKLLQAGQ	32		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

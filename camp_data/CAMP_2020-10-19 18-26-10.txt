@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ144	146324981	P0C2U6		Lycocitin-1	Lycosa singoriensis	Animalia (Arachnids)	GKLQAFLAKMKEIAAQTL	18	14991689	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ145	146324982	P0C2U7		Lycocitin-2	Lycosa singoriensis	Animalia (Arachnids)	GRLQAFLAKMKEIAAQTL	18	14991689	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ172	157874740	P01507, P11006	1F0E	Chain A, Cecropin A	Synthetic construct		KWKLFKKIPKFLHSAKKF	18	11009597	Antibacterial		Experimentally Validated
+CAMPSQ215	18202402	P82419		Ponericin-G6	Pachycondyla goeldii 	Animalia (Insects)	GLVDVLGKVGGLIKKLLP	18	11279030	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ239	20664097	P82358	1KFP	Gomesin	Acanthoscurria gomesiana	Animalia (Arachnids)	ZCRRLCYKQRCVTYCRGR	18	10942757	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ508	52783432	P82270		Rhesus theta defensin-1/3, subunit A precursor 	Macaca mulatta	Animalia (Mammals)	GFCRCICTRGFCRCICTR	18	11675394	Antibacterial,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ722	20138939	P82068		Maculatin-2.1	Litoria genimaculata	Animalia (Amphibians)	GFVDFLKKVAGTIANVVT	18	9620615	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ725	913449			Antimicrobial peptide , immobilized peptide E18KGG 	Synthetic construct		LKLLKKLLKLLKKLGGGK	18	7726486	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ753				P18	Synthetic construct		KWKLFKKIPKFLHLAKKF	18	12005420	Antibacterial,Antitumor		Experimentally Validated
+CAMPSQ963	159162438		1HU7	T7 Novispirin	Synthetic construct		KNLRRITRKIIHIIKKYG	18	11932493	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ972	88909659	P84763		Bacteriocin thuricin-S	Bacillus thuringiensis serovar entomocidus	Bacteria	DWTAWSALVAAACSVELL	18	17496978	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1017				CA	Synthetic construct		KWKLFKKIGIGAVLKVLT	18	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1165	193885211		2RLH, 2RLG	 Rp-1	Synthetic construct		ALYKKFKKKLLKSLKRLG	18	18712851	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2735				BTD-1 	Papio anubis	Animalia (Mammals)	RCVCTRGFCRCVCRRGVC	18	18852242	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2736			2LYE	BTD-2 	Papio anubis	Animalia (Mammals)	RCVCRRGVCRCVCRRGVC	18	18852242	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2971				  Phylloseptin-L1 	Hylomantis lemur, Agalychnis callidryas	Animalia (Amphibians)	LLGMIPLAISAISALSKL	18	17561225	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3484				  Peptide 2 	Rapana venosa	Animalia (Molluscs (Gastropoda))	SPPNQPSIMTFDYAKTNK	18	21703315	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3532				  Andersonin-Y1 	Odorrana andersonii	Animalia (Amphibians)	FLPKLFAKITKKNMAHIR	18	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3820		L0P402		  Medusin-PH 	Agalychnis callidryas	Animalia (Amphibians)	LLGMIPVAISAISALSKL	18	23415652	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ4010		P81838		Citropin-1.1.3	Litoria citropa 	Animalia (Amphibians)	GLFDVIKKVASVIGLASP	18	10504394	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ7558		C0HJF8		Longipin	Acutisoma longipes 	Animalia (Arachnids)	SGYLPGKEYVYKYKGKVF	18		Antifungal, Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ8182	803374877	A0A0A1I6E7		Antimicrobial peptide AcrAP1	Androctonus crassicauda	Animalia (Arachnids)	FLFSLIPHAISGLISAFK	18	25332684	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8183	803374878	A0A0A1I6N9		Antimicrobial peptide AcrAP2	Androctonus crassicauda	Animalia (Arachnids)	FLFSLIPNAISGLLSAFK	18	25332684	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8184				AcrAP1a	Synthetic construct  		FLFKLIPKAIKGLIKAFK	18	25332684	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8185				AcrAP2a	Synthetic construct  		FLFKLIPKAIKGLLKAFK	18	25332684	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

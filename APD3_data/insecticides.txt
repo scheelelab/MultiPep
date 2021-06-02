@@ -1,0 +1,84 @@
+Found 39 entries according to your query
+AP00080
+P32414, Esculentin-1 (frog, amphibians, animals; ZZI; XXU; 1S=S, UCSS1a) 	GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
+AP00144
+2MAG, Magainin 2 (Magainin II, PGS; Hebrew "shield"; UCLL1; frog, amphibians, animals. BBMm; BBL; Derivatives: MSI-78, pexiganan acetate, or cytolex, loxilex; clinical trials; MSI-594; MSI-99. 	GIGKFLHSAKKFGKAFVGEIMNS
+AP00146
+2MLT, Melittin (XXA; insects, arthropods, invertebrates, animals; ZZHa, StrAR, BBL; ZZP; BBMm) 	GIGAVLKVLTTGLPALISWIKRKRQQ
+AP00376
+P82414, Ponericin G1 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ
+AP00378
+P82416, Ponericin G3 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GWKDWLNKGKEWLKKKGPGIMKAALKAATQ
+AP00379
+P82417, Ponericin G4 (antss, insects, arthropods, invertebrates, animals; ZZI) 	DFKDWMKTAGEWLKKKGPGILKAAMAAAT
+AP00381
+P82419, Ponericin G6 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GLVDVLGKVGGLIKKLLP
+AP00384
+P82422, Ponericin L2 (antss, insects, arthropods, invertebrates, animals; ZZI; ZZH) 	LLKELWTKIKGAGKAVLGKIKGLL
+AP00386
+P82423, Ponericin W1 (antss, insects, arthropods, invertebrates, animals; ZZI) 	WLGSALKIGAKLLPSVVGLFKKKKQ
+AP00388
+P82425, Ponericin W3 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GIWGTLAKIGIKAVPRVISMLKKKKQ
+AP00389
+P82426, Ponericin W4 (antss, insects, arthropods, invertebrates, animals; ZZI) 	GIWGTALKWGVKLLPKLVGMAQTKKQ
+AP00390
+P82427, Ponericin W5 (antss, insects, arthropods, invertebrates, animals; ZZI) 	FWGALIKGAAKLIPSVVGLFKKKQ
+AP00391
+P82428, Ponericin W6 (antss, insects, arthropods, invertebrates, animals; ZZI) 	FIGTALGIASAIPAIVKLFK
+AP00485
+2K38, Cupiennin 1a (Cu 1a; spiders, BBPP/BBII, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c) 	GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME
+AP00486
+Ref, Cupiennin 1b (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQME
+AP00488
+Ref, Cupiennin 1d (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; ZZI; UCLL1a) 	GFGSLFKFLAKKVAKTVAKQAAKQGAKYVANKHME
+AP00516
+Ref, Lycotoxin I (lycotoxin-1; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; ZZI; VIHNN; UCLL1c) 	IWLTALKFLGKHAAKHLAKQQLSKL
+AP00716
+1TI5, VrD1 (V. radiata defensin 1; 3S=S; UCSS1a; plants; ZZI) 	RTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC
+AP00729
+4TTM, Kalata B1 (KB1; XXC; cyclotides; UCBB1b; 3S=S; plants; ZZHp; ZZi; BBMm; BBBm; Derivatives: kalata B1 oia or nfk; XXO) 	GLPVCGETCVGGTCNTPGCTCSWPVCTRN
+AP00979
+1mr4, NaD1 (N. alata defensin 1, Na-D1; defensins; 4s=s; UCSS1a; ZZI; plants; BBBH2o) 	RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC
+AP00989
+Ref, VrCRP (defensins; 4S=S; UCSS1a; plants; ZZI) 	RTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGDCKGMTRTCYCLVNC
+AP01035
+1NBJ, Cycloviolacin O1 (cyclotides; XXC, 3S=S, UCBB1b; plants; ZZI) 	GIPCAESCVYIPCTVTALLGCSCSNRVCYN
+AP01049
+1PT4, Kalata B2 (KB2; cyclotides; plants; XXC; 3S=S, UCBB1b; ZZI; ZZP; Derivatives: oxidized kalata B2 nfk or kyn; XXO) 	GLPVCGETCFGGTCNTPGCSCTWPICTRD
+AP01545
+Ref, Meucin-18 (toxins; scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals, UCLL1a) 	FFGHLFKLATKIIPSLFQ
+AP01915
+Ref, Parigidin-br1 (XXC; 3S=S, UCBB1b; cyclotides; plants; ZZI) 	GGSVPCGESCVFIPCITSLAGCSCKNKVCYYD
+AP01977
+Ref, Bmkb1 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c; MeuFSPL-1) 	FLFSLIPSAISGLISAFK
+AP02163
+Ref, Cyto-insectotoxin 1a (CIT 1a; CIT1a; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; ZZI;; UCLL1a; More AMPs?) 	GFFGNTWKKIKGKADKIMLKKAVKIMVKKEGISKEEAQAKVDAMSKKQIRLYLLKYYGKKALQKASEKL
+AP02401
+Ref, BTM-P1 (synthetic; ZZI; BBMm) 	VAPIAKYLATALAKWALKQGFAKLKS
+AP02557
+Ref, LtTx-1a (latartoxin 1a; spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; 4S=S, UCSS1a) 	ECIPTKHDCTNDRKNCCPGHECKCYNTQIGGSKKEQCGCKKSLLAKAKNFGGKVITIFKA
+AP02558
+Ref, Spiderine OtTx1a (spiders, arachnids, Chelicerata, arthropods, invertebrates, animals; 5S=S, UCSS1a; derivatives: OtTx1a-AMP, OtTx1a-ICK) 	KFKWGKLFSTAKKLYKKGKKLSKNKNFKKALKFGKQLAKNLQAGEEHEPGTPVGNNKCWAIGTTCSDDCDCCPEHHCHCPAGKWLPGLFRCTCQVTESDKVNKCPPAE
+AP02628
+Ref, Jaburetox-2Ec (jbtx; a fragment of canatoxin, a urease isoform; plants; pepcanatox; UCLL1a) 	MGPVNEANCKAAMEIVCRREFGHKEEEDASEGVTTGDPDCPFTKAIPREEYANKYGPTIGDKIRLGDTDLIAEIEKDFALYGDESVFGGGKVI
+AP02972
+Ref, Marcin-22 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FFGHLFKLATKIIPSFFRRKNQ
+AP02973
+Ref, Marmelittin (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1a) 	FLFSLIPSAISGLISAFKGRRKRDLN
+AP02974
+Ref, MeuFSPL-2 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA; UCLL1a; MeuFSPL-1) 	FLFSLIPSAISGLINAFK
+AP02975
+Ref, Meucin-22 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals, UCLL1a) 	FFGHLFKLATKIIPSLFQRKKE
+AP03083
+Ref, aM1 (plants, 3S=S; UCSS1a) 	VDCSGACSPFEVPPCGSRDCRCIPIGLVVGFCIYPTG
+AP03123
+Ref, LaIT3 (scorpion toxins, arachnids, Chelicerata, arthropods, invertebrates, animals; 3S=S, UCSS1a) 	GGILREKYFHKAADALTSNIPIPVVKDVLKSAANQMIRKIGKVQQACAFNKDLAGWCEKSCQEAEGKKGYCHGTKCKCGKPIDY
+AP03124
+Ref, LaIT2 (scorpion toxins, arachnids, Chelicerata, arthropods, invertebrates, animals; 3S=S, UCSS1a; modular design) 	AKKPFVQRVKNAASKAYNKLKGLAMQSQYGCPIISNMCEDHCRRKKMEGQCDLLDCVCS
+AP03125
+Ref, LaIT1 (scorpion toxins, arachnids, Chelicerata, arthropods, invertebrates, animals; 2S=S, UCSS1a) 	DFPLSKEYETCVRPRKCQPPLKCNKAQICVDPKKGW
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

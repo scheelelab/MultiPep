@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ48	115311727	Q1ELU9		Latarcin-5 	Lachesana tarabaevi	Animalia (Arachnids)	GFFGKMKEYFKKFGASFKRRFANLKKRL	28	16735513	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ101	122069646	P85058		Ranatuerin-2SEB	Rana sevosa	Animalia (Amphibians)	AIMDTIKDTAKTVAVGLLNKLKCKITGC	28	16386333	Antibacterial		Experimentally Validated
+CAMPSQ102	122069647	P85053		Ranatuerin-2SEC	Rana sevosa	Animalia (Amphibians)	GIMDTIKDTAKTVAVGLLNKLKCKITGC	28	16386333	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ139	13959342	P81485		Dermaseptin-B3 	Phyllomedusa bicolor	Animalia (Amphibians)	ALWKNMLKGIGKLAGQAALGAVKTLVGA	28	9614066	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ140	13959343	P81486		Dermaseptin-B4 	Phyllomedusa bicolor	Animalia (Amphibians)	ALWKDILKNVGKAAGKAVLNTVTDMVNQ	28	9614066	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ419	41016985	P83639		Dermadistinctin-L 	Phyllomedusa distincta	Animalia (Amphibians)	ALWKTLLKNVGKAAGKAALNAVTDMVNQ	28	10477123	Antibacterial,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1103	66773816	P69845		Grammistin GsA	Grammistes sexlineatus	Animalia (Pisces)	WWRELLKKLAFTAAGHLGSVLAAKQSGW	28	15777955	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2830				  Ranatuerin-2PLd  	Rana palustris	Animalia (Amphibians)	GIMDSVKNVAKNIAGQLLDKLKCKITGC	28	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3137				  Ranatuerin-2PRa 	Rana pirica	Animalia (Amphibians)	GLMDVFKGAAKNLLASALDKIRCKVTKC	28	15003829	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3145				  Ranatuerin-2ARa 	Rana areolata	Animalia (Amphibians)	GLMDTVKNAAKNLAGQLLDTIKCKMTGC	28	12429503	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3146				  Ranatuerin-2ARb 	Rana areolata	Animalia (Amphibians)	GILDTIKNAAKTVAVGLLEKIKCKMTGC	28	12429503	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3184				  Dermaseptin H4 	Phyllomedusa hypochondrialis	Animalia (Amphibians)	GLWSTIKNVGKEAAIAAGKAALGALGEQ	28	17553595	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3185				  Dermaseptin H5 	Phyllomedusa hypochondrialis	Animalia (Amphibians)	GLWSTIKNVGKEAAIAAGKAVLGSLGEQ	28	17553595	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3224				  Ranatuerin-2Mb 	Rana muscosa	Animalia (Amphibians)	GIMDSVKGVAKNLAAKLLEKLKCKITGC	28	16330099	Antifungal		Experimentally Validated
+CAMPSQ3231				  Ranatuerin-2Ya 	Rana blairi	Animalia (Amphibians)	GLMDTIKGVAKTVAASWLDKLKCKITGC	28	19254736	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3381				  Haloduracin 	Bacillus halodurans C-125	Bacteria	CAWYNISCRLGNKGAYCTLTVECMPSCN	28	17085596	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3382				  CPF-B1 	Xenopus borealis	Animalia (Amphibians)	GLGSLLGKAFKIGLKTVGKMMGGAPREQ	28	20656059	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3666				  Hymenochirin-3B 	Hymenochirus boettgeri	Animalia (Amphibians)	IKIPAVVKDTLKKVAKGVLSAVAGALTQ	28	22497805	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3667				  Hymenochirin-4B 	Hymenochirus boettgeri	Animalia (Amphibians)	IKIPAFVKDTLKKVAKGVISAVAGALTQ	28	22497805	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3676				  ChaC7 	Chassalia chartacea	Viridiplantae	IPCGESCVWIPCITAIAGCSCKNKVCYT	28	22467870	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3678				  ChaC11 	Chassalia chartacea	Viridiplantae	IPCGESCVWIPCISGMFGCSCKDKVCYS	28	22467870	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3868		P86161		Ranatuerin-2AVa	Rana arvalis 	Animalia (Amphibians)	GLLDVVKGAAKNLLASALDKLKCKVTGC	28	19308951	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3890		Q9R5C6		Antibacterial protein LC3 	Bacillus subtilis	Bacteria	ASGGTVGXYGAWMRSXSLVSXSTITTFS	28		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ4508		P84922		Dermaseptin-2	Phyllomedusa tarsius	Animalia (Amphibians)	ALWKDILKNVGKAAGKAVLNTVTDMVNQ	28		Antibacterial		Experimentally Validated
+CAMPSQ4509		P84926		Dermaseptin-6	Phyllomedusa tarsius	Animalia (Amphibians)	ALWKNMLKGIGKLAGQAALGAVKTLVGA	28		Antibacterial		Experimentally Validated

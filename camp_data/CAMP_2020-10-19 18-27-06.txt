@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ45	115311723	Q1ELU3		Latarcin-3a 	Lachesana tarabaevi	Animalia (Arachnids)	SWKSMAKKLKEYMEKLKQRA	20	16735513	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ46	115311724	Q1ELU2		Latarcin-3b 	Lachesana tarabaevi	Animalia (Arachnids)	SWASMAKKLKEYMEKLKQRA	20	16735513	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ73	117149	P25230	1LYP	Antimicrobial protein CAP18 precursor 	Oryctolagus cuniculus	Animalia (Mammals)	GLRKRLRKFRNKIKEKLKKI	20	8313956	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ300	26391707	P83186		Alpha-basrubrin	Basella alba 	Viridiplantae	GADFQECMKEHSQKQHQHQG	20	11688973	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ543	5915685	P80392		Antimicrobial peptide THP2 precursor 	Meleagris gallopavo 	Animalia (Aves)	LFCKRGTCHFGRCPSHLIKV	20	7964174	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ568	66773820	P84529		Antibacterial napin	Brassica rapa subsp. chinensis 	Viridiplantae	PAQPFRFPKHPQGPQTRPPI	20	15062997	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ810	547305	Q9S8M3		Pseudothionin-St1, Pth-St1	Solanum tuberosum	Viridiplantae	RNCESLSHRFKGPCTRDSNC	20	11555873	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1064				CGA 41-60	Synthetic construct		TLRGDERILSILRHQNLLKE	20	10753865	Antifungal		Experimentally Validated
+CAMPSQ1068	68052206	Q8JHE1		Maximin-H5	Bombina maxima	Animalia (Amphibians)	ILGPVLGLVSDTLDDVLGIL	20	12127963	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1312	24638003	P83087		Maximin-Hu 	Bombina maxima	Animalia (Amphibians)	ILGPVLSLVGNALGGLLKNE	20	11835991	Antibacterial		Experimentally Validated
+CAMPSQ1316	68052293	Q58T87		Maximin H12	Bombina maxima	Animalia (Amphibians)	LLGPVLGLVSNALGGLLKNI	20	11835991	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1321	68052844	Q58T95, Q58T65 , Q58T64 , Q58T48		Maximin-H11	Bombina maxima	Animalia (Amphibians)	ILGPVLGLVGSALGGLIKKI	20		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ1322	68052842	Q58T93, Q58T40		Maximin-H16	Bombina maxima	Animalia (Amphibians)	ILGPVLSLVGNALGGLIKKI	20		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2120	124015193	P0C2D5		Apoxin I-like protein , L-amino-acid oxidase	Trimeresurus flavoviridis	Animalia (Reptiles)	AHDRNPLEEYFRETDYEEFL	20		Antibacterial		Experimentally Validated
+CAMPSQ3106			1MQZ	  Mersacidin 	Bacillus sp. strain HIL Y-85 54728	Bacteria	CTFTLPGGGGVCTLTSECIC	20	1500347	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3380		P0A6Y8	3QNJ	  Oncopeltus antibacte-rial peptide 4 	Oncopeltus fasciatus	Animalia (Insects)	VDKPPYLPRPPPPRRIYNNR	20	11812116	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3401				  Pelteobagrin 	Tachysurus fulvidraco	Animalia (Pisces)	GKLNLFLSRLEILKLFVGAL	20	21073979	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3617				  Ranacyclin-B-RN6 	Rana nigrovittata	Animalia (Amphibians)	SALVGCWTKSYPPNPCFGRG	20	21927839	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3618				  Ranacyclin-B-LK1 	Limnonectes kuhlii	Animalia (Amphibians)	SALVGCWTKSWPPKPCFGRG	20	21927839	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ4132	410591584	B3A0L3		Antimicrobial peptide EP-20	Xenorhabdus budapestensis	Bacteria	EGPVGLADPDGPASAPLGAP	20	22497806	Antibacterial		Experimentally Validated
+CAMPSQ8248				C18P	Synthetic construct		GLRKRLRKPRNKPKEKLKKI	20	8313956	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8249				C18K	Synthetic construct		GLRKRKRKFRNKKKEKLKKI	20	8313956	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8250				C18AA	Synthetic construct		GLRKALRKFRNKIKEALKKI	20	8313956	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8251				C18A	Synthetic construct		GLRKRLRKARNKIKEKLKKI	20	8313956	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8252				C18Q	Synthetic construct		GLRKRLRKFRNKIKQKLKKI	20	8313956	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

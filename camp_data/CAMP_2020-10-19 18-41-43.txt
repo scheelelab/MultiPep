@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ89	122056007	P84860		Brevinin-2GHa 	Rana guentheri	Animalia (Amphibians)	GFSSLFKAGAKYLLKSVGKAGAQQLACKAANNCA	34	16979798	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ107	125973	P13068		Lantibiotic nisin-A	Lactococcus lactis subsp. lactis 	Bacteria	ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK	34		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ186	1703044	P15450		Abaecin precursor	Apis mellifera	Animalia (Insects)	YVPLPNVPQPGRRPFPTFPGQGPFNPKIKWPQGY	34	2298215	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ286	25089858	P83413		Cecropin-A	Heliothis virescens	Animalia (Insects)	RWKVFKKIEKVGRNIRDGVIKAAPAIEVLGQAKAL	35		Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ458	416897	P80223		Corticostatin-6 	Oryctolagus cuniculus	Animalia (Mammals)	GICACRRRFCLNFEQFSGYCRVNGARYVRCCSRR	34	8397087	Antibacterial,Antifungal,Antiviral		Experimentally Validated
+CAMPSQ465	461936, 740958	P80278		Dermaseptin-2 	Phyllomedusa sauvagii	Animalia (Amphibians)	ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ	34	8306981	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ473	46395785	Q86PR4		Cecropin-B2	Culex pipiens pipiens	Animalia (Insects)	GRSKKLGKKIEKAGKRVFNAAQKGLPVAAGVQAL	34		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ474	46395786	Q86PR5		Cecropin-B1	Culex pipiens pipiens	Animalia (Insects)	GRLKKLGKKIEKAGKRVFNAVQKGLPVAAGVQAL	34		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ561	6225251	P81611		Defensin-B	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	GFGCPNDYPCHRHCKSIPGRYGGYCGGXHRLRCTC	35	8702979	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ601	728981	P40839 , P84842		Brevinin-2Ec	Rana esculenta (edible frog )	Animalia (Amphibians)	GILLDKLKNFAKTAGKGVLQSLLNTASCKLSGQC	34	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ619	73915343	P46157		Antimicrobial peptide CHP2 	Gallus gallus 	Animalia (Aves)	GRKSDCFRKNGFCAFLKCPYLTLISGLCSXFHLC	34	7964174	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ740	41016817	P83651		Antimicrobial peptide Alo-1	Acrocinus longimanus	Animalia (Insects)	CIKNGNGCQPDGSQGNCCSRYCHKEPGWVAGYCR	34	14661954	Antifungal		Experimentally Validated
+CAMPSQ741	41016818	P83652		Antimicrobial peptide Alo-2	Acrocinus longimanus	Animalia (Insects)	CIANRNGCQPDGSQGNCCSGYCHKEPGWVAGYCR	34	14661954	Antifungal		Experimentally Validated
+CAMPSQ811	98960797	Q1JV78		Lactococcin Q beta 	Lactococcus lactis QU 4	Bacteria	KKWGWLAWVEPAGEFLKGFGKGAIKEGNKDKWKNI	35	11555873	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ883	113829	P21663		Andropin	Drosophila melanogaster	Animalia (Insects)	VFIDILDKVENAIHNAAQVGIGFAKPFEKLINPK	34	1899226	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ902	74823386	Q9BKM2		Naegleriapore A pore-forming peptide	Naegleria fowleri	Heterolobosea	DAECEICKFVIQQVEAFIESNHSQAEIQKELNKL	34	11948186	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1002				OH-CATH	Ophiophagus hannah	Animalia (Reptiles)	KRFKKFFKKLKNSVKKRAKKFFKKPRVIGVSIPF	34	18620012	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1006				RK-2	Oryctolagus cuniculus	Animalia (Mammals)	KPYCSCKWRCGIGEEEKGICHKFPIVTYVCCRRP	34	9663443	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2784				  rCRAMP 	Rattus norvegicus	Animalia (Mammals)	GLVRKGGEKFGEKLRKIGQKIKEFFQKLALEIEQ	34	10768969	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2988				  Latarcin 7 	Lachesana tarabaevi	Animalia (Arachnids)	GETFDKLKEKLKTFYQKLVEKAEDLKGDLKAKLS	34	16735513	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3161				  Defr1 	Mus musculus	Animalia (Mammals)	DPVTYIRNGGICQYRCIGLRHKIGTCGSPFKCCK	34	12226710	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3512				  PAM1 	Ornithorhynchus anatinus	Animalia (Mammals)	RTKRRIKLIKNGVKKVKDILKNNNIIILPGSNEK	34	21912615	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3851	27734551	O07623	1PXQ	  Subtilosin A1 	Bacillus subtilis	Bacteria	NKGCATCSIGAACLVDGPIPDFEIAGATGLFGLWG	35	19633086	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3857		P86394		Bacteriocin SRCAM 1580	Paenibacillus polymyxa	Bacteria	VNYGNGVSCSKTKCSVNWGIITHQAFRVTSGVASG	35	15690798	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ4340				Chicken AvBD2	Gallus gallus	Animalia (Aves)	LFCKGGSCHFGGCPSHLIKVGSCFRSCCKWPWNA	34	19738012	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

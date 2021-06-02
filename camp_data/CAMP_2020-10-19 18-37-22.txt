@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18	110348515	A0SN41		Amolopin-1a	Amolops loloensis	Animalia (Amphibians)	FLPMLAGLAANFLPKLFCKITKKC	24	17000029	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ19	110348517	A0SN42		Amolopin-1b	Amolops loloensis	Animalia (Amphibians)	FLPLAVSLAANFLPKLFCKITKKC	24	17000029	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ20	110348519	A0SN43		Amolopin-1c	Amolops loloensis	Animalia (Amphibians)	FLPMLAGLAANLLPKLFCKITKKC	24	17000029	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ21	110348521	A0SN44		Amolopin-1d	Amolops loloensis	Animalia (Amphibians)	FLPMLAGLAANFLPELFCKITKKC	24	17000029	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ206	17529687	Q8UUG2		Moronecidin	Morone chrysops	Animalia (Pisces)	FFHHIFRGIVHVGKTIHKLVTGG	23	11739390	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ207	17940118	Q8UUG0	2JOS,2OJM	Moronecidin	Morone saxatilis	Animalia (Pisces)	FFHHIFRGIVHVGKTIHRLVTGG	23	11739390	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ208	18034013	Q8UUG2		Moronecidin	Morone chrysops	Animalia (Pisces)	FFHHIFRGIVHVGRTIHKLVTGG	23	11739390	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ209	18034015	Q8UUG0	2JOS,2OJM	Moronecidin	Morone saxatilis	Animalia (Pisces)	FFHHIFRGIVHVGRTIHRLVTGG	23	11739390	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ235	20138938	P82067		Maculatin-1.2	Litoria genimaculata 	Animalia (Amphibians)	GLFGVLAKVASHVVPAIAEHFQA	23	9620615	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ244	21542190	P83190		Pseudin-3	Pseudis paradoxa	Animalia (Amphibians)	GINTLKKVIQGLHEVIKLVSNHE	23	11689009	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ245	21542191	P83191		Pseudin-4	Pseudis paradoxa	Animalia (Amphibians)	GINTLKKVIQGLHEVIKLVSNHA	23	11689009	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ716				OdW1	Odorrana grahami	Animalia (Amphibians)	GLFGKSSVHGRKYYVDLAGCAKA	23	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2787				  Adepantin-1 	Synthetic construct		GIGKHVGKALKGLKGLLKGLGES	23	19947578	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2824		A7WNV3		  Brevinin-1PLb  	Rana palustris	Animalia (Amphibians)	FLPLIAGLAANFLPKIFCAITKKC	24	11087945	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2825		A7WNV4		  Brevinin-1PLc  	Rana palustris	Animalia (Amphibians)	FLPVIAGVAAKFLPKIFCAITKKC	24	17698247, 11087945	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3338				  Hcl-hst5 	Nomascus leucogenys	Animalia (Mammals)	DSHEKRHHEHRRKFHEKHHSHRGY	24	20423320	Antifungal		Experimentally Validated
+CAMPSQ3541				  Brevinin-1-OR11 	Odorrana rotodora	Animalia (Amphibians)	LAFVAGVAAEMMQHVYCAASKKC	23	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3598				  Hejiangin-F1 	Odorrana hejiangensis	Animalia (Amphibians)	IPWKLPATFRPVERPFSKPFCRKD	24	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3600				  Brevinin-1RTa 	Amolops ricketti	Animalia (Amphibians)	FLPLLAGVVANFLPQIICKIARKC	24	22100518	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3601				  Brevinin-1RTb 	Amolops ricketti	Animalia (Amphibians)	FLGSLLGLVGKVVPTLFCKISKKC	24	22100518	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3789				  Oreoch-1 	Oreochromis niloticus	Animalia (Pisces)	FIHHIIGGLFSVGKHIHGLIHGH	23	Reference: Acostaa J, Monterob V, Carpioa Y, Velázqueza J, Garayc HE, Reyesc O, Cabralesc A, Masforrolc Y, Moralesa A, Estrada MP (2013) Cloning and functional characterization of three novel antimicrobial peptides from tilapia (Oreochromis niloticus). A	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ4332		P0CJ25		Ascaphin-1	Ascaphus truei	Animalia (Amphibians)	GFRDVLKGAAKAFVKTVAGHIAN	23	15207717	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4607	157879956			Chain A, E6-Bind Trp-Cage (E6apn1)	Synthetic construct		XLQELLGQWLKDGGPSSGRPPPS	23	15182185	Antiviral		Experimentally Validated
+CAMPSQ8192				HBc153-176	Synthetic construct		GRSPRRRTPSPRRRRSQSPRRRRS	24	23785287	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8198				Pin2	Synthetic construct		FWGALAKGALKLIGSLFSSFSKKD	24	25019413	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

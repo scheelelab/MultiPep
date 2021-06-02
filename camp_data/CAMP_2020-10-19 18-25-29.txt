@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13	110279043	P0C1M6		Dominulin-A	Polistes dominulus	Animalia (Insects)	INWKKIAEVGGKILSSL	17	16446098	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ15	110279045	P0C1M7		Dominulin-B	Polistes dominulus	Animalia (Insects)	INWKKIAEIGKQVLSAL	17	16446098	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ382	3913075	P81464		Apidaecin	Bombus pascuorum 	Animalia (Insects)	GNRPVYIPPPRPPHPRL	17	9219367	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ580	68053340	P69020		Aurein-3.1	Litoria raniformis	Animalia (Amphibians)	GLFDIVKKIAGHIAGSI	17	10951191	Antibacterial,Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ581	68053341	P69021		Aurein-3.1	Litoria aurea (green and golden bell frog )	Animalia (Amphibians)	GLFDIVKKIAGHIAGSI	17	10951191	Antibacterial,Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ582	68053342	P69022		Aurein-3.2	Litoria raniformis	Animalia (Amphibians)	GLFDIVKKIAGHIASSI	17	10951191	Antibacterial,Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ583	68053343	P69023		Aurein-3.2	Litoria aurea (green and golden bell frog)	Animalia (Amphibians)	GLFDIVKKIAGHIASSI	17	10951191	Antibacterial,Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ612	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibians)	GLIKIVPAMICAVTKKC	17	8144672	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ638	7994711	P82032		Uperin-3.1	Uperoleia inundata 	Animalia (Amphibians)	GVLDAFRKIATVVKNVV	17		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ836	197239656	B5LUR1, B5LUQ3, B5LUQ7 , B5LUR0 		Fallaxidin 3.2	Litoria fallax	Animalia (Amphibians)	GLLDFAKHVIGIASKLG	17	18803332	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2576	288561897	B5A9T1		Dybowskin-2CDYa	Rana dybowskii 	Animalia (Amphibians)	AVGRHGRRFGLRKHRKH	17	19539775	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3179				Temporin-LTa 	Hylarana latouchii	Animalia (Amphibians)	FFPLVLGALGSILPKIF	17	19022312	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3181				Temporin-LTc 	Hylarana latouchii	Animalia (Amphibians)	SLSRFLSFLKIVYPPAF	17	19022312	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3424				  CPF-C1 	Xenopus clivii 	Animalia (Amphibians)	GFGSLLGKALRLGANVL	17	21199684	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3599				  Schmackerin-C1 	Odorrana schmackeri	Animalia (Amphibians)	AAPRGGKGFFCKLFKDC	17	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3611				  CPF-PG1 	Xenopus pygmaeus	Animalia (Amphibians)	GFGSLLGKALKIGTNLL	17	22123629	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3612				  CPF-L1 	Xenopus lenduensis	Animalia (Amphibians)	GIGSLLAKAAKLGANLL	17	22123629	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3613				  CPF-L2 	Xenopus lenduensis	Animalia (Amphibians)	GIGSALAKAAKLVAGIV	17	22123629	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3620				  Ranacyclin-B-AL1 	Amolops loloensis	Animalia (Amphibians)	AAFRGCWTKNYSPKPCL	17	21927839	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3652				  Temporin-RN1 	Rana nigrovittata	Animalia (Amphibians)	FLPLVLGALSGILPKIL	17	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3653				  Temporin-RN3 	Rana nigrovittata	Animalia (Amphibians)	FFPLLFGALSSHLPKLF	17	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3852		P84782		Napin-like polypeptide 	Brassica oleracea var. alboglabra 	Viridiplantae	PAQPFRIKKRQGPFERP	17	15485558	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3948		P0CD70		Osmin	Osmia rufa 	Animalia (Insects)	GFLSALKKYLPIVLKHV	17	19109988	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8202				Model amphipathic peptide (MAP)	Synthetic construct		KLALKALKALKAALKLA	17	23689723	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8215				RN7-IN10	Synthetic construct		FLGGLIKWKWPWWPWRR	17	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

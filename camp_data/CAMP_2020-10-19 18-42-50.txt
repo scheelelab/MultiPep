@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ64	1168634	P46166		Beta-defensin 8 	Bos taurus 	Animalia (Mammals)	VRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPQIKCCR	38	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ65	1168638	P46170	1BNB	Beta-defensin 12 , BNDB-12	Bos taurus 	Animalia (Mammals)	GPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW	38	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ78	118430	P80154		Defensin	Aeshna cyanea 	Animalia (Insects)	GFGCPLDQMQCHRHCQTITGRSGGYCSGPLKLTCTCYR	38	1425705	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ135	135310	P25068		Tracheal antimicrobial peptide precursor 	Bos taurus 	Animalia (Mammals)	NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCRKK	38	2023943	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ148	146737994	A5JSU7		Moricin-like peptide C1	Galleria mellonella	Animalia (Insects)	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRH	38	18207081	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ149	146737996	A5JSU8		Moricin-like peptide C2	Galleria mellonella	Animalia (Insects)	KVPIGAIKKGGKIIKKGLGVLGAAGTAHEVYNHVRNRQ	38	18207081	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ150	146737998	A5JSU9		Moricin-like peptide C3	Galleria mellonella	Animalia (Insects)	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRQ	38	18207081	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ151	146738000, 146738002	A5JSV0, A5JSV1		Moricin-like peptide C4, Moricin-like peptide C5	Galleria mellonella	Animalia (Insects)	KVPVGAIKKGGKAIKTGLGVVGAAGTAHEVYSHIRNRH	38	18207081	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ152	146738004	A5JSV2		Moricin-like peptide D	Galleria mellonella	Animalia (Insects)	KGIGSALKKGGKIIKGGLGALGAIGTGQQVYEHVQNRQ	38	18207081	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ324	28849943	P25068		Tracheal antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	NPVSCVRNKGICVPIRCPGNMKQIGTCVGRAVKCCRKK	38	2023943	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ333	298766	P46159		Beta-defensin 1 , peptide BNBD-1 	Bos taurus 	Animalia (Mammals)	DFASCHTNGGICLPNRCPGHMIQIGICFRPRVKCCRSW	38	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ674	28864187	Q86LE4		Defensin	Rhipicephalus microplus	Animalia (Arachnids)	GFGCPFNQGACHRHCRSIRRRGGYCAGLIKQTCTCYRN	38	14642886	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ885	41019461	P83430	1UT3	Spheniscin-2	Aptenodytes patagonicus	Animalia (Aves)	SFGLCRLRRGFCARGRCRFPSIPIGRCSRFVQCCRRVW	38	14525994 , 15123713	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ904	26393028	P81573		Defensin D7 	Spinacia oleracea	Viridiplantae	GIFSSRKCKTPSKTFKGYCTRDSNCDTSCRYEGYPAGD	38	9762899	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1080	82086162	Q6GXJ1		Gallinacin-4	Gallus gallus	Animalia (Aves)	RYHMQCGYRGTFCTPGKCPHGNAYLGLCRPKYSCCRWL	38	17346671	Antibacterial		Experimentally Validated
+CAMPSQ1126	585018	P80323		Bacteriocin curvaticin FS47	Lactobacillus curvatus	Bacteria	YTAKQCLQAIGSCGIAGTGAGAAGGPAGAFVGAXVVXI	38	8031103	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2121	124015192	P0C2D4		L-amino-acid oxidase	Naja kaouthia	Animalia (Reptiles)	DDRRSPLEECFQQNDYEEFLEIAKNGLKKTXNPKHVXV	38		Antibacterial		Experimentally Validated
+CAMPSQ2874				  Chicken AvBD4 	Gallus gallus domestic	Animalia (Aves)	RYHMQCGYRGTFCTPGKCPYGNAYLGLCRPKYSCCRWL	38	17346671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2929				  Cathelicidin-AM 	Ailuropoda melanoleuca	Animalia (Mammals)	GRLRNLIEKAGQNIRGKIQGIGRRIKDILKNLQPRPQV	38	22101189	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ3384	41223196	Q70LU3		  CRS4C-2, Cryptdin related sequence peptide	Mus musculus	Animalia (Mammals)	LQDAALGWGRRCPRCPPCPRCSWCPRCPTCPRCNCNPK	38	15235601	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3385	41223194	Q70LU4		  CRS4C-3a, Cryptdin related sequence peptide	Mus musculus	Animalia (Mammals)	LQDAALGWGRRCPRCPPCPNCRRCPRCPTCPSCNCNPK	38	15235601	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3386				  CRS4C-3d 	Mus musculus	Animalia (Mammals)	LQDAALGWGRRCPRCPPCPNCRRCPRCPTCPRCNCNPK	38	15235601	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3959		P83139		Antifungal protein 5 	Malva parviflora 	Viridiplantae	ITCGQVTSQVAGCLSYLQRGGAPAPXXXXGIRNLXXMA	38	11302747	Antifungal		Experimentally Validated
+CAMPSQ4154	408407639	B3EWQ0		U-theraphotoxin-Aju1a	Avicularia juruensis 	Animalia (Arachnids)	FTCAISCDIKVNGKPCKGSGEKKCSGGWSCKFNVCVKV	38	22973266	Antifungal		Experimentally Validated
+CAMPSQ7554				H2A 2–39	Synthetic construct  		SGRGKGGKVKGKSKSRSSRAGLQFPVGRIHRLLRKGNY	38	15606770	Antibacterial	Gram+ve	Experimentally Validated

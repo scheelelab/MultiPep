@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ82	119391212	A3KD27		Temporin-1Oc1	 Rana ornativentris 	Animalia (Amphibians)	FLPLLASLFSRLF	13	17147973, 11892844	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ86	121956658	P84858		Temporin-GH 	Rana guentheri	Animalia (Amphibians)	FLPLLFGAISHLL	13	16979798	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ170	157872589		1D6X	Tritrpticin 	Sus scrofa	Animalia (Mammals)	VRRFPWWWPFLRR	13	8706838	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ350	32363120	P83412		Alloferon-1 	Calliphora vicina 	Animalia (Insects)	HGVSGHGQHGVHG	13	12235362	Antiviral, Anticancer		Experimentally Validated
+CAMPSQ429	41017609	P82821		Ranatuerin-6	Rana catesbeiana	Animalia (Amphibians)	FISAIASMLGKFL	13	9784389	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ430	41017610	P82822		Ranatuerin-7	Rana catesbeiana	Animalia (Amphibians)	FLSAIASMLGKFL	13	9784389	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ431	41017611	P82823		Ranatuerin-8	Rana catesbeiana	Animalia (Amphibians)	FISAIASFLGKFL	13	9784389	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ643	7994724	P82050		Uperin-7.1	Litoria ewingii	Animalia (Amphibians)	GWFDVVKHIASAV	13		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ683				Temporin-1Od1	 Rana ornativentris 	Animalia (Amphibians)	FLPLLASLFSGLF	13	17147973, 11892844	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ686	74793383	Q6JQN2		BmKn2	Mesobuthus martensii	Animalia (Arachnids)	FIGAIARLLSKIF	13	15062994	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ876	12644006	P23389		Secretolytin	Bos taurus 	Animalia (Mammals)	QKIAEKFSGTRRG	13	7744058 , 8603705	Antibacterial		Experimentally Validated
+CAMPSQ2152	147704399	P85143		N-acetylmuramoyl-L-alanine amidase L2	Lysobacter sp.	Bacteria	XNVVFLNXPXPQW	13		Antibacterial		Experimentally Validated
+CAMPSQ2902				  Temporin-1Ob 	Rana ornativentris	Animalia (Amphibians)	FLPLIGKILGTIL	13	11892844	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2921				  Temporin 1ARa 	Rana areolata	Animalia (Amphibians)	FLPIVGRLISGLL	13	12429503	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2922				  Temporin 1AUa 	Rana aurora	Animalia (Amphibians)	FLPIIGQLLSGLL	13	15325526	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ2923				  Temporin 1Ec  	Rana esculenta	Animalia (Amphibians)	FLPVIAGLLSKLF	13	14499272	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2927				  Temporin 1Pra 	Rana pirica	Animalia (Amphibians)	ILPILGNLLNGLL	13	15003829	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3246				  Temporin-1CEc 	Rana chensinensis	Animalia (Amphibians)	IIPLPLGYFAKKT	13	19179051	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3450				  Temporin-PRa 	Rana pretiosa	Animalia (Amphibians)	FLPILGNLLSGLL	13	21295070	Antibacterial		Experimentally Validated
+CAMPSQ3451				  Temporin-PRb 	Rana pretiosa	Animalia (Amphibians)	FLPIITNLLGKLL	13	21295070	Antibacterial		Experimentally Validated
+CAMPSQ3485				  Peptide 5 	Rapana venosa	Animalia (Molluscs (Gastropoda))	SPPSEQLGKSFNF	13	21703315	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3675				  IsCT2 	Opisthacanthus madagascariensis	Animalia (Arachnids)	IFGAIWNGIKSLF	13	20575512	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3988		B3VZU4		Temporin-CDYb	Rana dybowskii	Animalia (Amphibians)	ILPILAPLIGGLL	13	19539775	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4014		B5L1B2		Pleurain-B1 antimicrobial peptide	Rana pleuraden 	Animalia (Amphibians)	FLGGLLASLLGKI	13	19028675	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4015		B5L1A8		Pleurain-C1 antimicrobial peptide	Rana pleuraden 	Animalia (Amphibians)	YPELQQDLIARLL	13	19028675	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

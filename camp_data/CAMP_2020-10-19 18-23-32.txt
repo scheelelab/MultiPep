@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ74	117413	P01518		Crabrolin	Vespa crabro	Animalia (Insects)	FLPLILRKIVTAL	13	9273892	Antibacterial		Experimentally Validated
+CAMPSQ80	119391208	A3KD26		Temporin-1Oa1	 Rana ornativentris 	Animalia (Amphibians)	FLPLLASLFSRLL	13	17147973, 11892844	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ297	25453291	P83307		Temporin-1Ja	Rana japonica	Animalia (Amphibians)	ILPLVGNLLNDLL	13	11835990	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ314	28201905	Q8MMJ7	1T51,1T52,1T54,1T55	Cytotoxic linear peptide IsCT 	Opisthacanthus madagascariensis 	Animalia (Arachnids)	ILGKIWEGIKSLF	13	15369808	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ315				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKIAEGIKSLF	13	15369808	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ316				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKILEGIKSLF	13	15369808	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ317				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKIWKGIKSLF	13	15369808	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ318				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKILKGIKKLF	13	15369808	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ839				Temporin-1Vc	Rana catesbeiana	Animalia (Amphibians)	FLPLVTMLLGKLF	13	15996769	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ840				Temporin-1Va	Rana catesbeiana	Animalia (Amphibians)	FLSSIGKILGNLL	13	15996769	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ841				Temporin-1Vb	Rana catesbeiana	Animalia (Amphibians)	FLSIIAKVLGSLF	13	15996769	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1093	66773949	P69844		Grammistin Pp2b	Pogonoperca punctata	Animalia (Pisces)	FIGGIISFIKKLF	13		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1095	66773815	P69842		Grammistin Pp1	Pogonoperca punctata	Animalia (Pisces)	FIGGIISFFKRLF	13		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2596	374253658	B3A0N7		Plantazolicin	Bacillus pumilus  	Bacteria	CTCTTIISSSSTF	13	21950656	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3138				  Temporin-1PRb 	Rana pirica	Animalia (Amphibians)	ILPILGNLLNSLL	13	15003829	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3637				  Temporin-ALi 	Amolops loloensis	Animalia (Amphibians)	FFPIVGKLLSGLL	13	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3638				  Temporin-ALj 	Amolops loloensis	Animalia (Amphibians)	FFPIVGKLLFGLL	13	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3920		P86526		Bacteriocin rhamnosin A 	Lactobacillus rhamnosus	Bacteria	AVPAVRKTNETLD	13	19796123	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4133	403399469	E4VP07		Venom antimicrobial peptide-6	Mesobuthus eupeus 	Animalia (Arachnids)	IFGAIAGLLKNIF	13	19088182	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4149	476007178	E6ZBE2		Kassorin-S	Kassina senegalensis 	Animalia (Amphibians)	FLGGILNTITGLL	13	21040978	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ8232				WMR	Synthetic construct		WGIRRILKYGKRS	13	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8234				WMH3R	Synthetic construct		WGIRDILKYGKPS	13	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8236				WMD4R	Synthetic construct		WGIHRILKYGKPS	13	24957834	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8237				Mastoparan analogue 2	Synthetic construct		NLKALAALAKKIL	13	26114809	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8256				CP11CN	Synthetic construct		ILKKWPWWPWRRK-NH2	13	10898680	Antibacterial	Gram+ve	Experimentally Validated

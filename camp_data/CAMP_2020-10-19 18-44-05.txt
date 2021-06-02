@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ276	2494919	P80930		Antimicrobial peptide eNAP-1	Equus caballus 	Animalia (Mammals)	DVQCGEGHFCHDXQTCCRASQGGXACCPYSQGVCCADQRHCCPVGF	46	1639474	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ307	26397622	P83312		Parabutoporin	Parabuthus schlechteri 	Animalia (Arachnids)	FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ	45	12354111	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ591	7993734	P82018		Bactenecin-5 	Capra hircus 	Animalia (Mammals)	RFRPPIRRPPIRPPFNPPFRPPVRPPFRPPFRPPFRPPIGPFPGRR	46	10417180	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ657	9756284	P81534	1KJ6	Beta-defensin-3 	Homo sapiens 	Animalia (Mammals)	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	45	11085990	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ793				Salvic	Homo sapiens 	Animalia (Mammals)	MHDFWVLWVLLEYIYNSACSVLSATSSVSSRVLNRSLQVKVVKITN	46	Reference: Kim Y.S., Lee S.K., Park S.C., Chi J.G., Chung S.I. (2005) Cloning and identification of a new antimicrobial peptide, salvic, from human salivary gland. International symposium of Maxillofacial and Oral Regenerative Biology	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1077	224495923	P0C8T8		Esculentin-1HSa	Rana hosii	Animalia (Amphibians)	GIFSKFGGKAIKNLFIKGAKNIGKEVGMDVIRTGIDVAGCKIKGEC	46	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1212	25091023	P83421		Psychimicin	Oiketicus kirbyi 	Animalia (Insects)	INNWVRVPPCDQVCSRTNPEKDECCRAHGHAFHATCSGGMQCYRR	45		Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1701	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2c-1	Macadamia integrifolia 	Viridiplantae	RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQ	45	10571855	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2453	74817293	Q8MVA6		Antimicrobial peptide ISAMP	Ixodes scapularis	Animalia (Arachnids)	DPGQPWQVKAGRPPCYSIPCRKHDECRVGSCSRCNNGLWGDRTCR	45	12177149	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2602	317374836	B2MW54		Longicornsin	Haemaphysalis longicornis 	Animalia (Arachnids)	FGCGQGMIFMCQRRCMRLYPGSTGFCRGFRCMCDTHIPLRPPFMVG	46	20027626	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2771		Q28880		  Lingual antimicrobial peptide 	Bos taurus	Animalia (Mammals)	GFTQGVRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK	45	7886453	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ2826				  Esculentin-1PLa   	Rana palustris	Animalia (Amphibians)	GLFPKINKKKAKTGVFNIIKTVGKEAGMDLIRTGIDTIGCKIKGEC	46	11087945	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2863				  VaD1 	Vigna angularis	Viridiplantae	RTCMKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC	45	15713009	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2948				  Ee-CBP 	Euonymus europaeus L.	Viridiplantae	QQCGRQAGNRRCANNLCCSQYGYCGRTNEYCCTSQGCQSQCRRCG	45	12387889	Antifungal		Experimentally Validated
+CAMPSQ3093				  ABP-118 	Lactobacillus salivarius subsp. salivarius UCC118	Bacteria	KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL	45	11932444	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3142				  Palustrin-3AR 	Rana areolata	Animalia (Amphibians)	GIFPKIIGKGIVNGIKSLAKGVGMKVFKAGLNNIGNTGCNNRDEC	45	12429503	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3143				  Esculentin-1ARa 	Rana areolata	Animalia (Amphibians)	GIFSKINKKKAKTGLFNIIKTVGKEAGMDVIRAGIDTISCKIKGEC	46	12429503	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3144				  Esculentin-1ARb 	Rana areolata	Animalia (Amphibians)	GLFPKFNKKKVKTGIFDIIKTVGKEAGMDVLRTGIDVIGCKIKGEC	46	12429503	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3261				  WAMP-1b 	Triticum kiharae	Viridiplantae	AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGCR	45	19583772	Antifungal		Experimentally Validated
+CAMPSQ3354				  Pp-AMP2 	Phyllostachys edulis	Viridiplantae	KSCCRSTTARNIYNGCRVPGTARPVCAKKSGCKIQEAKKCEPPYD	45	15784998	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3357				  BIN1b 	Rattus norvegicus	Animalia (Mammals)	GIRNTVCFMQRGHCRLFMCRSGERKGDICSDPWNRCCVSSSIKNR	45	19007826	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3709	350008	P01544	2PLH	  Alpha-purothionin, Purothionin AII	Triticum aestivum	Viridiplantae	KSCCRSTLGRNCYNLCRARGAQKLCAGVCRCKISSGLSCPKGFPK	45	5031563	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3710	229588	P01543	1BHP	  Beta-purothionin 	Triticum aestivum	Viridiplantae	KSCCKSTLGRNCYNLCRARGAQKLCANVCRCKLTSGLSCPKDFPK	45	5031563	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ4326				Pediocin PA-1	Pediococcus acidilactici PAC1.0	Bacteria	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	44	8633866	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ8106		B9UJ32		Beta-defensin	Oryzias latipes 	Animalia (Pisces)	EEKDPVMQYWTCGYRGLCRRFCYAQEYIIGHHGCPRRYRCCAMRF	45	19084554	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

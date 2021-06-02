@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ196	1708945	P54228	2KET	Antibacterial peptide BMAP-27 	Bos taurus 	Animalia (Mammals)	GRFKRFRKKFKKLFKKLSPVIPLLHLG	27	8910461	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ440	41017620	P82879		Ranatuerin-2Cb	Rana clamitans	Animalia (Amphibians)	GLFLDTLKGLAGKLLQGLKCIKAGCKP	27	10822101	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ463	461478	P30227		Cysteine-rich antifungal protein 1 (Br-AFP1)	Brassica rapa subsp. rapa	Viridiplantae	QKLCERPSGTWSGVCGNNNACKNQCIN	27	8422949	Antifungal		Experimentally Validated
+CAMPSQ464	461481	P30228		Cysteine-rich antifungal protein 2 (Br-AFP2)	Brassica rapa subsp. rapa	Viridiplantae	QKLCERPSGTXSGVCGNNNACKNQCIR	27	8422949	Antifungal		Experimentally Validated
+CAMPSQ467	461938	P80280	2DCX,2DD6	Dermaseptin-4 	Phyllomedusa sauvagii	Animalia (Amphibians)	ALWMTLLKKVLKAAAKALNAVLVGANA	27	11850249	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ485	47605787	P61508		Lycotoxin-2 	Hogna carolinensis	Animalia (Arachnids)	KIKWFKTMKSIAKFIAKEQMKKHLGGE	27	9442044	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ491	50401829	P83960		Alpha-benincasin	Benincasa hispida 	Viridiplantae	RDWERREFERRQNELRREQEQRREELL	27	12576080	Antifungal		Experimentally Validated
+CAMPSQ507	52783032	O54329		Lantibiotic mutacin-2 	Streptococcus mutans 	Bacteria	NRWWQGVVPTVSYECRMNSWQHVFTCC	27	8592997	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ524	55976279	P84274		Palustrin-1a	Rana palustris	Animalia (Amphibians)	ALFSILRGLKKLGKMGQAFVNCEIYKKC	28	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ525	55976280	P84275		Palustrin-1b	Rana palustris	Animalia (Amphibians)	ALFSILRGLKKLGNMGQAFVNCKIYKKC	28	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ679				MBMAP28	Bos taurus 	Animalia (Mammals)	GGLRSLGRKILRAWKKYGPQATPATRQ	27	8910461	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1752	68052272	Q58T45 , Q58T39		Maximin-10	Bombina maxima	Animalia (Amphibians)	GIGGALLSAGKSALKGLAKGLAEHFAS	27		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ1754	68052034	Q58T55		Maximin-9	Bombina maxima	Animalia (Amphibians)	GIGRKFLGGVKTTFRCGVKDFASKHLY	27	11835991	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ1778	68052276	Q58T51, Q58T41		Maximin-11	Bombina maxima	Animalia (Amphibians)	GIGTKIIGGLKTAVKGALKELASTYVN	27		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2727		P82847, Q8QFQ4		  RANATUERIN 2P 	Rana pipiens 	Animalia (Amphibians)	LMDTVKNVAKNLAGHMLDKLKCKITGC	27	10651828	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2759				  Human KS-27 	Homo sapiens	Animalia (Mammals)	KSKEKIGKEFKRIVQRIKDFLRNLVPR	27	17012259	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2828	357580472	A7WNV6		  Ranatuerin-2PLa  	Rana palustris	Animalia (Amphibians)	GIMDTVKNVAKNLAGQLLDKLKCKITAC	28	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2829				  Ranatuerin-2PLb  	Rana palustris	Animalia (Amphibians)	GIMDTVKNAAKDLAGQLLDKLKCRITGC	28	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3459				  Maximin 39 	Bombina maxima	Animalia (Amphibians)	GIGTKFLGGVKTALKGALKELAFTYVN	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3461				  Maximin 45 	Bombina maxima	Animalia (Amphibians)	GIGGKILGGLRTALKGAAKELAATYLH	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3463				  Maximin 49 	Bombina maxima	Animalia (Amphibians)	GIGGVLLSAGKAALKGLTKVLAEKYAN	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3464				  Maximin 63 	Bombina maxima	Animalia (Amphibians)	GIGGVLLGAGKATLKGLAKVLAEKYAN	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3466				  Maximin 42 	Bombina maxima	Animalia (Amphibians)	SIGAKILGGVKTFFKGALKELAFTYLQ	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3468				  Maximin 78 	Bombina maxima	Animalia (Amphibians)	GIGGALLSVGKLALKGLANVLADKFAN	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ7557		C0HJF7		Trypsin inhibitor 1 (JcTI-I)	Jatropha curcas 	Viridiplantae	VRDICKKEAERQDLSSCENYITQRRGY	27	24523715	Antibacterial	Gram+ve	Experimentally Validated

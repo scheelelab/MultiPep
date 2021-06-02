@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ47	115311726	Q1ELU4		Latarcin-4b	Lachesana tarabaevi	Animalia (Arachnids)	SLKDKVKSMGEKLKQYIQTWKAKF	24	16735513	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ72	1169818	P80400		Gaegurin-6	Rana rugosa 	Animalia (Amphibians)	FLPLLAGLAANFLPTIICKISYKC	24	7999137	Antibacterial,Antifungal,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ283	2506237	P80399		Gaegurin-5	Rana rugosa 	Animalia (Amphibians)	FLGALFKVASKVLPSVFCAITKKC	24	7999137	Antibacterial,Antifungal,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ296	25453144	P83240		Pandinin-2	Pandinus imperator	Animalia (Arachnids)	FWGALAKGALKLIPSLFSSFSKKD	24	11563967	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ303	26393016	P81568		Antimicrobial peptide D5 	Spinacia oleracea 	Viridiplantae	MFFSSKKCKTVXKTFRGPCVRNAN	24	9762899	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ330	29336801	Q8QFQ5		Brevinin-1Pb precursor	Rana pipiens	Animalia (Amphibians)	FLPIIAGIAAKVFPKIFCAISKKC	24	10651828	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ831		P0CJ27		Ascaphin-3	Ascaphus truei	Animalia (Amphibians)	GFRDVLKGAAKAFVKTVAGHIANI	24	15207717	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ832				Ascaphin-5	Ascaphus truei	Animalia (Amphibians)	GIKDWIKGAAKKLIKTVASNIANQ	24	15207717	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ833		P0CJ31		Ascaphin-7	Ascaphus truei	Animalia (Amphibians)	GFKDWIKGAAKKLIKTVASSIANQ	24	15207717	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1066				CGA 47-70	Synthetic construct		RILSILRHQNLLKELQDLALQGAK	24	10753865	Antifungal		Experimentally Validated
+CAMPSQ1085	224487672	P0C8T1		Brevinin-1PTa	Rana picturata	Animalia (Amphibians)	FMGGLIKAATKIVPAAYCAITKKC	24	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1086	224487671	P0C8S8		Brevinin-1HSb	Rana hosii	Animalia (Amphibians)	FLPAVLRVAAQVVPTVFCAISKKC	24	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1087	224487670	P0C8S7		Brevinin-1HSa	Rana hosii	Animalia (Amphibians)	FLPAVLRVAAKIVPTVFCAISKKC	24	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1096	66773811	P69836		Grammistin GsG	Grammistes sexlineatus	Animalia (Pisces)	LFGFLIPLLPHIIGAIPQVIGAIR	24		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1815	224487673	P0C8T2		Brevinin-1PTb	Rana picturata	Animalia (Amphibians)	FMGGLIKAATKALPAAFCAITKKC	24		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2603	317411858	P0CI91		Ponericin-W-like 321	Lychas mucronatus	Animalia (Arachnids)	FGSLFSLGSKLLPSVFKLFSRKKQ	24	20663230	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2842				  Lantibiotic 97518 	Planomonospora sp.	Bacteria	ITSVSWCTPGCTSEGGGSGCSHCC	24	17469849	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2878				  Dermaseptin-S9 	Phyllomedusa sauvagei	Animalia (Amphibians)	GLRSKIWLWVLLMIWQESNKFKKM	24	16401077	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3376				  Ci-MAM-A24 	Ciona intestinalis	Animalia (Ascidiacea)	WRSLGRTLLRLSHALKPLARRSGW	24	18598239	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3388				  WLBU2 	Synthetic construct		RRWVRRVRRWVRRVVRVVRRWVRR	24	15616311	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3646				  Gaegurin-RN1 	Rana nigrovittata	Animalia (Amphibians)	FIGPVLKIAAGILPTAICKIFKKC	24	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3647				  Gaegurin-RN4 	Rana nigrovittata	Animalia (Amphibians)	FVGPVLKIAAGILPTAICKIYKKC	24	19778602	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3648				  Gaegurin-RN5 	Rana nigrovittata	Animalia (Amphibians)	FLGPIIKIATGILPTAICKFLKKC	24	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4142	410591619	B3A0N0		Brevinin-1JDc	Odorrana jingdongensis 	Animalia (Amphibians)	FLPAVLRVAAKVVPTVFCLISKKC	24	22917879	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4143	410591617	B3A0M4		Brevinin-1JDa	Odorrana jingdongensis 	Animalia (Amphibians)	FLPAVIRVAANVLPTVFCAISKKC	24	22917879	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

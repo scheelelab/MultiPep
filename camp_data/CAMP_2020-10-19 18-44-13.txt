@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ96	122063469	P85059		Esculentin-1SEA	Rana sevosa	Animalia (Amphibians)	GLFSKFNKKKIKSGLIKIIKTAGKEAGLEALRTGIDVIGCKIKGEC	46	16386333	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ97	122063470	P85054		Esculentin-1SEB	Rana sevosa	Animalia (Amphibians)	GLFSKFNKKKIKSGLFKIIKTAGKEAGLEALRTGIDVIGCKIKGEC	46	16386333	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ236	20139322	P81929	1JKZ,2IIW,2IJ1,2IJT,2IJU,2IJV,2IJW,2IKL,2IKM,2IKN,2IKP,2IKR,2IKT,2IKV,2IKW,2IKX,2IKY,2IKZ,2IL0,2ILC,2ILD,2ILE,2ILF,2ILG,2ILH,2ILJ	Defense-related peptide 1 	Pisum sativum	Viridiplantae	KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC	46	10860545	Antifungal		Experimentally Validated
+CAMPSQ459	416969	P32414		Esculentin-1	Rana esculenta	Animalia (Amphibians)	GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	46	8508915	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ605	729444	P40843		Esculentin-1A	Rana esculenta (edible frog )	Animalia (Amphibians)	GIFSKLAGKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	46	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ625	74844670	Q95VE8		Md-Cec	Musca domestica (house fly )	Animalia (Insects)	GSPEFGWLKKIGKKIERVGQHTRDATIQTIGVAQQAANVAATLKG	46	15982736	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ631	7674025	P56928		Antimicrobial peptide eNAP-2	Equus caballus	Animalia (Mammals)	EVERKHPLGGSRPGRCPTVPPGTFGHCACLCTGDASEPKGQKCCSN	46	1452336	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ688	729445	P40844		Esculentin-1B precursor	Rana esculenta	Animalia (Amphibians)	GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	46	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ889	3913441	O16136		Defensin-1	Stomoxys calcitrans	Animalia (Insects)	AAKPMGITCDLLSLWKVGHAACAAHCLVLGDVGGYCTKEGLCVCKE	46	9326639	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ913	6225076	P81493		Antifungal protein AX1	Beta vulgaris	Viridiplantae	AICKKPSKFFKGACGRDADCEKACDQENWPGGVCVPFLRCECQRSC	46	7655063	Antifungal		Experimentally Validated
+CAMPSQ919	7993732	P82010		Antifungal protein AX2	Beta vulgaris	Viridiplantae	ATCRKPSMYFSGACFSDTNCQKACNREDWPNGKCLVGFKCECQRPC	46	7655063	Antifungal		Experimentally Validated
+CAMPSQ945	114152286	P84920		Cp-thionin-2	Vigna unguiculata	Viridiplantae	KTCMTKKEGWGRCLIDTTCAHSCRKYGYMGGKCQGITRRCYCLLNC	46	16824043	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ946	2507457	P09618		Leaf-specific thionin BTH6	Hordeum vulgare	Viridiplantae	KSCCKDTLARNCYNTCRFAGGSRPVCAGACRCKIISGPKCPSDYPK	46	16453847	Antifungal		Experimentally Validated
+CAMPSQ991				Esculentin-IGra	Rana grahami	Animalia (Amphibians)	GLFSKFAGKGIKNLIFKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC	46	16621155	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3200				  DEFA1 	Equus caballus	Animalia (Mammals)	AREASKSLIGTASCTCRRAWICRWGERHSGKCIDQKGSTYRLCCRR	46	17620056	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3430				  Esculentin-1ISa  	Odorrana ishikawae	Animalia (Amphibians)	GIFSKFAGKGIKNLLVKGVKNIGKEVGMDVIRTGIDIAGCKIKGEC	46	 21193000	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3431				  Esculentin-1ISb  	Odorrana ishikawae	Animalia (Amphibians)	RIFSKIGGKAIKNLILKGIKNIGKEVGMDVIRTGIDVAGCKIKGEC	46	 21193000	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3479	22164302	Q8MVA6		  ISAMP 	Ixodes scapularis	Animalia (Arachnids)	PDPGQPWQVKAGRPPCYSIPCRKHDECRVGSCSRCNNGLWGDRTCR	46	19852941	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3562				  Esculentin-1-OA1 	Odorrana andersonii	Animalia (Amphibians)	GLFSKFVGKGIKNFLIKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3563				  Esculentin-1-OA2 	Odorrana andersonii	Animalia (Amphibians)	GLFSKFSGKGIKNFLIKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3564				  Esculentin-1-OA3 	Odorrana andersonii	Animalia (Amphibians)	GLFSKFAGKGIKDLIFKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3565				  Esculentin-1-OA4 	Odorrana andersonii	Animalia (Amphibians)	GLFTKFAGKGIKDLIFKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3566				  Esculentin-1-OA5 	Odorrana andersonii	Animalia (Amphibians)	GLFSKFAGKGIKNFLIKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3568				  Esculentin-1-OR1 	Odorrana rotodora	Animalia (Amphibians)	GIFSKISGKAIKNLFIKGAKNVGKEVGMDVVRTGIDVVGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4335				  Esculentin-1PLb 	Rana palustris	Animalia (Amphibians)	GIFTKINKKKAKTGVFNIIKTIGKEAGMDVIRAGIDTISCKIKGEC	46	11087945	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

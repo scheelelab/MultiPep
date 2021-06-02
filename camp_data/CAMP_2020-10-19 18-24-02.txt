@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ226	19924284	P57104		Temporin-L	Rana temporaria	Animalia (Amphibians)	FVQWFSKFLGRIL	13	9022710	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ227	20137306	P82386		Aurein-1.1	Litoria raniformis	Animalia (Amphibians)	GLFDIIKKIAESI	13	10951191	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ228	20137307	P82387	1VM5	Aurein-1.2	Litoria raniformis	Animalia (Amphibians)	GLFDIIKKIAESF	13	10951191	Antibacterial,Anticancer	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ441	41018245	P82830		Temporin-1La	Rana luteiventris	Animalia (Amphibians)	VLPLISMALGKLL	13	10651828	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ444	41018248	P82848		Temporin-1P	Rana pipiens	Animalia (Amphibians)	FLPIVGKLLSGLL	13	10651828	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ445	41018249	P82880		Temporin-1Ca	 Rana clamitans (green frog)	Animalia (Amphibians)	FLPFLAKILTGVL	13	10822101	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ446	41018250	P82881		Temporin-1Cb	Rana clamitans	Animalia (Amphibians)	FLPLFASLIGKLL	13	10822101	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ447	41018251	P82882		Temporin-1Cc	Rana clamitans	Animalia (Amphibians)	FLPFLASLLTKVL	13	10822101	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ448	41018252	P82883		Temporin-1Cd	Rana clamitans	Animalia (Amphibians)	FLPFLASLLSKVL	13	10822101	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ449	41018253	P82884		Temporin-1Ce	Rana clamitans	Animalia (Amphibians)	FLPFLATLLSKVL	13	10822101	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ707				OdG1	Odorrana grahami	Animalia (Amphibians)	FMPILSCSRFKRC	13	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ962	157878253	P33046	1HR1	Indolicidin Peptide Derivative With P-->a Substitution	Synthetic construct		ILAWKWAWWAWRX	13	11294848	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ967	159164534		2F3A	Ll-37-Derived Aurein 1.2 Analog 	Synthetic construct		RLFDKIRQVIRKF	13	16716252	Antibacterial,Anticancer		Experimentally Validated
+CAMPSQ981	2493351	P79875		Temporin-G	Rana temporaria	Animalia (Amphibians)	FFPVIGRILNGIL	13	9022710	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ998				Temporin-1CSa	Rana cascadae	Animalia (Amphibians)	FLPIVGKLLSGLL	13	17451843	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1253	18202393	P82238		Salmocidin-2A	Oncorhynchus mykiss	Animalia (Pisces)	SGFVLKGYTKTSQ	13		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2766		P83338		  Oncorhyncin III	Oncorhynchus mykiss 	Animalia (Pisces)	PKRKSATKGDEPA	13	12713443	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2779		P01190		  Alpha-MSH 	Homo sapiens	Animalia (Mammals)	SYSMEHFRWGKPV	13	10670585	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3286				  Temporin-CPa 	Rana capito	Animalia (Amphibians)	IPPFIKKVLTTVF	13	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3556				  Andersonin-C1 	Odorrana andersonii	Animalia (Amphibians)	TSRCIFYRRKKCS	13	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4030	403399463	I0DEB3		Amphiphatic peptide CT1	Vaejovis mexicanus smithi 	Animalia (Arachnids)	FLGALWNVAKSVF	13	22342498	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4031	403399464	I0DEB4		Amphiphatic peptide CT2	Vaejovis mexicanus smithi 	Animalia (Arachnids)	FLSTLWNAAKSIF	13	22342498	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4033	430802816	L0GAZ8		Antimicrobial peptide CT5-NDBP-5.16 precursor 	Urodacus yaschenkoi	Animalia (Arachnids)	IWSAIWSGIKGLL	13	23182832	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4035	430802814	L0GCI6		Antimicrobial peptide CT3-NDBP-5.15 precursor 	Urodacus yaschenkoi	Animalia (Arachnids)	ILSAIWSGIKSLF	13	23182832	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8163		P0DME6		Peptide Hp1036	Heterometrus petersii 	Animalia (Arachnids)	ILGKIWEGIKSIF	13	24315793	Antiviral		Experimentally Validated

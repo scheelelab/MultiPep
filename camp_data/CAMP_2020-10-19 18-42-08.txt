@@ -1,0 +1,27 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1	2597848	O17513		Ceratotoxin-D	Ceratitis capitata	Animalia (Insects)	SIGTAVKKAVPIAKKVGKVAIPIAKAVLSVVGQLVG	36		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ35	112820823	A4UAF2		Sperm associated antigen 11 isoform E 	Bos taurus 	Animalia (Mammals)	RNIICLMQHGTCRLFFCRSGEKKSEICSDPWNRCCI	36	17344469	Antibacterial		Experimentally Validated
+CAMPSQ59	116091	P01511		Cecropin-D	Antheraea pernyi	Animalia (Insects)	WNPFKELERAGQRVRDAIISAGPAVATVAQATALAK	36	6754375	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ60	116092	P01510		Cecropin-D	Hyalophora cecropia	Animalia (Insects)	WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAK	36	7140755	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ84	121195	P01281		Gastric inhibitory polypeptide 	Sus scrofa	Animalia (Mammals)	ISDYSIAMDKIRQQDFVNWLLAQKGKKSDWKHNITQ	36	8375398	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ142	13959581	P82321	1MM0	Termicin	Pseudacanthotermes spiniger 	Animalia (Insects)	ACNFQSCWATCQAQHSIYFRRAFCDRSQCKCVFVRG	36	11053427	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ158	156139055	P46165		Beta-defensin 7 	Bos taurus 	Animalia (Mammals)	NFVTCRINRGFCVPIRCPGHRRQIGTCLGPRIKCCR	36	8454635	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ188	1703274	P25404		Antimicrobial peptide 2 	Mirabilis jalapa	Viridiplantae	CIGNGGRCNENVGPPYCCSGFCLRQPNQGYGVCRNR	36	1733929 , 7647302	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ326	289396	P25068		Tracheal antimicrobial peptide	Bos taurus 	Animalia (Mammals)	NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCR	36	8506305	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ516	546443			Gallinacin 2, Gal-2	Gallus gallus	Animalia (Aves)	LFCKGGSCHFGGCPSHLIKVGSCFGFRSCCKWPWNA	36	8150085	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ693	37547390	P83943		Beta defensin 1	Chinchilla lanigera 	Animalia (Mammals)	QRYFCRVRGGRCAALTCLPRETQIGRCSVKGRKCCR	36	14996845	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ824	18202966	Q9HHA8		Halocin-S8	haloarchaeon S8a	Archaea	SDCNINSNTAADVILCFNQVGSCALCSPTLVGGPVP	36	Reference: Liao W, Ma D, Wang R, Han Z, Shao T, Li H, Liu S (2009) mRNA Cloning, Evolutionary Analysis and Biological Characterization of Duck Avian Beta-defensin 10. Acta Veterinaria et Zootechnica Sinica, 2009, 40(9): 1320-1326.
+	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ888	37999545	Q86QI5		Defensin	Dermacentor variabilis	Animalia (Arachnids)	GFGCPLNQGACHNHCRSIRRRGGYCSGIIKQTCTCY	36	11439245	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ923	74813990	Q86SC0	1IYC	Scarabaecin	Oryctes rhinoceros	Animalia (Insects)	ELPKLPDDKVLIRSRSNCPKGKVWNGFDCKSPFAFS	36	12859949	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ1028	159163762	P0CAP0	2B5B	Reptilian Defensin	Caretta caretta	Animalia	EKKCPGRCTLKCGKHERPTLPYNCGKYICCVPVKVK	36	16700051	Antibacterial,Antiviral	Gram-ve	Experimentally Validated
+CAMPSQ1034				Raphanus Sativus Antifungal Protein 2 	Raphanus sativus var. niger	Viridiplantae	QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSC	36	1639777	Antifungal		Experimentally Validated
+CAMPSQ1135	46396047	Q9XZG9		Cecropin-A	Spodoptera litura	Animalia (Insects)	RWKVFKKIEKVGRNVRDGIIKAGPAIGVLGQAKALG	36	11790350	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1412	894209	Q28880		Lingual antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	NSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCR	36	7886453	Antibacterial,Antifungal 		Experimentally Validated
+CAMPSQ2898		P83653	1Q3J	  Alo-3 	Acrocinus longimanus	Animalia (Insects)	CIKNGNGCQPNGSQNGCCSGYCHKQPGWVAGYCRRK	36	14661954	Antifungal		Experimentally Validated
+CAMPSQ3265				  Neuropeptide Y 	Homo sapiens	Animalia (Mammals)	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	9756788	Antifungal		Experimentally Validated
+CAMPSQ3508				  Palustrin-2SIb 	Odorrana ishikawae	Animalia (Amphibians)	GLWNSIKIAGKKLFVNVLDKIRCKVAGGCKTSPDVE	36	21911019	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3510				  WAM1 	Macropus eugenii	Animalia (Mammals)	KRGFGKKLRKRLKKFRNSIKKRLKNFNVVIPIPLPG	36	21912615	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3511				  WAM2 	Macropus eugenii	Animalia (Mammals)	KRGLWESLKRKATKLGDDIRNTLRNFKIKFPVPRQG	36	21912615	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3973		P84064		Glycine-rich protein GWK 	Cucumis melo 	Viridiplantae	YKRGGGGWGGGGGWKGGGGGGGGWKGGGGGGKGGGG	36		Antifungal		Experimentally Validated
+CAMPSQ4169	403318319	J9QU63		Beta-defensin 1TB precursor 	Tupaia belangeri 	Animalia (Mammals)	DHYLCVKNEGICLYSSCPSYTKIEGTCYGGKAKCCK	36	22939868	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ100	122069645	P85057		Ranatuerin-2SEA	Rana sevosa	Animalia (Amphibians)	GFISTVKNLATNVAGTVIDTIKCKVTGGC	29	16386333	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ116	129769	P01211		Proenkephalin A precursor 	Bos taurus 	Animalia (Mammals)	FAEPTBSEEEGESYSKEVPEMEKRYGGFM	29	8654396	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ124	1345732	P36190, O17512		Ceratotoxin-A	Ceratitis capitata	Animalia (Insects)	SIGSALKKALPVAKKIGKIALPIAKAALP	29	8353519	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ400	41016801	P82234		Brevinin-2Tc	Rana temporaria	Animalia (Amphibians)	GLWETIKNFGKKFTLNILHKLKCKIGGGC	29	10333736	Antibacterial		Experimentally Validated
+CAMPSQ401	41016802	P82235		Brevinin-2Td	Rana temporaria	Animalia (Amphibians)	GLWETIKNFGKKFTLNILHNLKCKIGGGC	29	10333736	Antibacterial		Experimentally Validated
+CAMPSQ602	728982	P40840		Brevinin-2Ed	Rana esculenta (edible frog )	Animalia (Amphibians)	GILDSLKNLAKNAGQILLNKASCKLSGQC	29	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ604	728985	P40841		Brevinin-2Ee	Rana esculenta (edible frog )	Animalia (Amphibians)	GIFDKLKNFAKGVAQSLLNKASCKLSGQC	29	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ697	110560567	A6MBL3		Odorranain-F1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibians)	GFMDTAKNAAKNVAVTLLDNLKCKITKAC	29	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ851	129769	P01211		Enkelytin	Bos taurus 	Animalia (Mammals)	FAEPLPSEEEGESYSKEVPEMEKRYGGFM	29	8654396	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ877	1710861	P49928 , P49929	1FRY	Cathelin-related peptide SC5	Ovis aries	Animalia (Mammals)	RGLRRLGRKIAHGVKKYGPTVLRIIRIAG	29	8549789	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1147	74764779	O96447		Lumbrican	Lumbricus rubellus	Animalia (Annelids (Clitellata))	RQKDKRPYSERKNQYTGPQFLYPPERIPP	29	9784609	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1885	114149284	P84600		Dermaseptin-5	Phyllomedusa hypochondrialis	Animalia (Amphibians)	GLWSTIKQKGKEAAIAAAKAAGQAALGAL	29		Antibacterial,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2738		P59665	3HJ2	 human neutrophil peptide-2 	Homo sapiens	Animalia (Mammals)	CYCRIPACIAGERRYGTCIYQGRLWAFCC	29	15616305	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3004				  Circulin F 	Chassalia parvifolia	Viridiplantae	KVCYRAIPCGESCVWIPCISAAIGCSCKN	29	10691702	Antiviral		Experimentally Validated
+CAMPSQ3152				  Odorranain-F1 	Odorrana grahami	Animalia (Amphibians)	GFMDTAKNVAKNVAVTLLDNLKCKITKAC	29	17272268	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3172				  BHP 	Bos taurus	Animalia (Mammals)	FLSFPTTKTYFPHFDLSHGSAQVKGHGAK	29	11226440	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3221				  SgII peptide A 	Homo sapiens	Animalia (Mammals)	KQEGRDHDKSKGHFHMIVIHHKGGQAHHG	29	18714013	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3473	269819995	D1MJ09		Cc-CATH3 	Coturnix coturnix	Animalia (Aves)	RVRRFWPLVPVAINTVAAGINLYKAIRRK	29	21375690	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3481				  GRPSp 	Scylla paramamosain	Animalia (Crustaceans (Malacostraca))	IPAMEPAARVKRSPGYGGCSPRWACGGYG	29	21220028	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3499	374110720	G3ETQ3		  Palustrin-2AJ1 	Amolops jingdongensis	Animalia (Amphibians)	GFMDTAKNVAKNVAVTLIDKLRCKVTGGC	29	21816202	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3664				  Hymenochirin-1B 	Hymenochirus boettgeri	Animalia (Amphibians)	IKLSPETKDNLKKVLKGAIKGAIAVAKMV	29	22497805	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3665				  Hymenochirin-2B 	Hymenochirus boettgeri	Animalia (Amphibians)	LKIPGFVKDTLKKVAKGIFSAVAGAMTPS	29	22497805	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3677				  ChaC8 	Chassalia chartacea	Viridiplantae	AIPCGESCVWIPCISTVIGCSCSNKVCYR	29	22467870	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3756		P0DMI7		  HsAp	Heterometrus spinifer	Animalia (Arachnids)	SGTSEKERESGRLLGVVKRLIVCFRSPFP	29	23000095	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4507		P84921		Dermaseptin-1	Phyllomedusa tarsius	Animalia (Amphibians)	GLWSKIKETGKEAAKAAGKAALNKIAEAV	29		Antibacterial		Experimentally Validated

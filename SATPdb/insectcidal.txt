@@ -1,0 +1,35 @@
+satpdb10433	GLPVCGETCFGGTCNTPGCSCTWPICTRD	6	antibacterial, antiviral, antiparasitic, toxic, antimicrobial, antifungal,	anti-gram+, cytotoxic	insecticidal,	apd2
+satpdb10915	GWKDWLNKGKEWLKKKGPGIMKAALKAATQ
+	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb12670	FIGTALGIASAIPAIVKLFK	2	toxic, antimicrobial,	hemolytic	insecticidal,	hemolytik
+satpdb12875	CAESCVWIPCTVTALLGCSCSNNVCYNGIP
+	3	antiviral, toxic, antimicrobial,	hemolytic, cytotoxic	trypsin inhibitory, insecticidal, anti-neurotensive,	hemolytik
+satpdb13102	SAISCGETCFKFKCYTPRCSCSYPVCK	3	antiviral, toxic, antimicrobial,	hemolytic, cytotoxic	uterotonic, insecticidal, anti-neurotensive,	hemolytik
+satpdb13224	DFKDWMKTAGEWLKKKGPGILKAAMAAAT	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb14224	FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ	3	antibacterial, toxic, antimicrobial,	hemolytic	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb14522	LLKELWTKIKGAGKAVLGKIKGLL	3	antibacterial, antiviral, antimicrobial,	anti-gram+, anti-gram-	insecticidal,	apd2, hipdb, yadamp
+satpdb15119	RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC	2	antimicrobial, antifungal,	NA	insecticidal,	apd2, camp
+satpdb15498	FWGALAKGALKLIPSLFSSFSKKD	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, anti-gram-	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb17780	RTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC	3	antibacterial, antimicrobial, antifungal,	NA	insecticidal,	apd2, phytamp
+satpdb19405	GLVDVLGKVGGLIKKLLP	2	toxic, antimicrobial,	hemolytic	insecticidal,	hemolytik
+satpdb19932	GLPVCGETCVGGTCNTPGCTCSWPVCTRN	4	antibacterial, antiviral, toxic, antimicrobial,	anti-gram+, cytotoxic	insecticidal,	apd2
+satpdb20644	VAPIAKYLATALAKWALKQGFAKLKS	2	antibacterial, antimicrobial,	anti-gram+, anti-gram-	insecticidal,	apd2
+satpdb20703	LLKELWTKIKGAGKAVLGKIKGLL	2	toxic, antimicrobial,	hemolytic	insecticidal,	hemolytik
+satpdb20844	GIPCAESCVYIPCTVTALLGCSCSNRVCYN
+	1	antimicrobial,	NA	insecticidal,	apd2
+satpdb21227	GIWGTLAKIGIKAVPRVISMLKKKKQ	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb21421	GIWGTALKWGVKLLPKLVGMAQTKKQ	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb21783	GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ
+	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb23271	GVIPCGESCVFIPCISTLLGCSCKNKVCYRN	3	antibacterial, antimicrobial, antifungal,	NA	insecticidal,	camp, phytamp, yadamp
+satpdb23655	GLVDVLGKVGGLIKKLLP	3	antibacterial, antimicrobial, antifungal,	anti-gram+, anti-gram-	insecticidal,	apd2, camp, yadamp
+satpdb24629	GKVWDWIKSAAKKIWSSEPVSQLKGQVLNAAKNYVAEKIGATPT	3	antibacterial, toxic, antimicrobial,	hemolytic, anti-gram+, cytotoxic, anti-gram-	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb25049	GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME	5	anticancer, antibacterial, antiparasitic, toxic, antimicrobial,	hemolytic, anti-gram+, cytotoxic, anti-gram-	insecticidal,	apd2, hemolytik
+satpdb25477	RTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGDCKGMTRTCYCLVNC	1	antimicrobial,	NA	insecticidal,	apd2
+satpdb25948	WLGSALKIGAKLLPSVVGLFKKKKQ	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, anti-gram-	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb26274	GLPVCGETCFGGTCNTPGCSCTWPICTRD	1	antimicrobial,	NA	insecticidal,	phytamp
+satpdb27669	FWGALIKGAAKLIPSVVGLFKKKQ	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb28342	GGSVPCGESCVFIPCITSLAGCSCKNKVCYYD	2	toxic, antimicrobial,	cytotoxic	insecticidal,	apd2
+satpdb28461	GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, anti-gram-	insecticidal,	apd2, camp, dadp, hemolytik, yadamp
+satpdb29138	GKFSVFGKILRSIAKVFKGVGKVRKQFKTASDLDKNQ	3	antibacterial, toxic, antimicrobial,	hemolytic	insecticidal,	apd2, camp, hemolytik, yadamp
+satpdb29178	IWLTALKFLGKHAAKHLAKQQLSKL	4	antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	neuroactive, insecticidal,	apd2, hemolytik

@@ -1,0 +1,1518 @@
+ID	Sequence	Length	Organism	Family	Name
+NP00039	YRQSLNNFQGLRSFGCRFGTCTVQKLAHQIYHFTDKDKDGSAPRSKISPQGY	52	Bos taurus	Adrenomedullin	Adrenomedullin
+NP00040	LRSFGCRFGTCTVQKL	16	Bos taurus	Adrenomedullin	Adrenomedullin-11-26
+NP00041	ARLDVAAEFRKKWNKWALSR	20	Bos taurus	Adrenomedullin	Proadrenomedullin N-20 terminal peptide
+NP00042	TQAQLLRVGCVLGTCQVQNLSHRLWQLMGPAGRQDSAPVDPSSPHSY	47	Homo sapiens	Adrenomedullin	Adrenomedullin-2 (By similarity)
+NP00043	VGCVLGTCQVQNLSHRLWQLMGPAGRQDSAPVDPSSPHSY	40	Homo sapiens	Adrenomedullin	Intermedin-short (Potential)
+NP00044	YRQSMNNFQGLRSFGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY	52	Homo sapiens	Adrenomedullin	Adrenomedullin
+NP00045	ARLDVASEFRKKWNKWALSR	20	Homo sapiens	Adrenomedullin	Proadrenomedullin N-20 terminal peptide
+NP00046	PHAQLLRVGCVLGTCQVQNLSHRLWQLVRPAGRRDSAPVDPSSPHSY	47	Mus musculus	Adrenomedullin	Adrenomedullin-2 (By similarity)
+NP00047	VGCVLGTCQVQNLSHRLWQLVRPAGRRDSAPVDPSSPHSY	40	Mus musculus	Adrenomedullin	Intermedin-short (Potential)
+NP00048	YRQSMNQGSRSNGCRFGTCTFQKLAHQIYQLTDKDKDGMAPRNKISPQGY	50	Mus musculus	Adrenomedullin	Adrenomedullin
+NP00049	AGPDTPSQFRKKWNKWALSR	20	Mus musculus	Adrenomedullin	Proadrenomedullin N-20 terminal peptide
+NP00050	PHAQLLRVGCVLGTCQVQNLSHRLWQLVRPSGRRDSAPVDPSSPHSY	47	Rattus norvegicus	Adrenomedullin	Adrenomedullin-2 (By similarity)
+NP00051	VGCVLGTCQVQNLSHRLWQLVRPSGRRDSAPVDPSSPHSY	40	Rattus norvegicus	Adrenomedullin	Intermedin-short (Potential)
+NP00052	YRQSMNQGSRSTGCRFGTCTMQKLAHQIYQFTDKDKDGMAPRNKISPQGY	50	Rattus norvegicus	Adrenomedullin	Adrenomedullin
+NP00053	ARLDTSSQFRKKWNKWALSR	20	Rattus norvegicus	Adrenomedullin	Proadrenomedullin N-20 terminal peptide
+NP00613	RFTFDCPGMMGQRYLYEQVEQVCDDCYNLYREEKIAVNCRENCFLNSWFTVCLQATMREHETPRFDIWR	69	Jasus lalandii	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00614	EXYXKQSAFNAVS	13	Locusta migratoria	Arthropod CHH/MIH/GIH/VIH hormone	locustamyoinhibin
+NP00615	RSAEGLGRMG	10	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[1-10]
+NP00616	RSAEGLGRMGRL	12	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[1-12]
+NP00617	RSAEGLGRMGRLL	13	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[1-13]
+NP00618	LASLKSDTVTPLR	13	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[13-25]
+NP00619	ASLKSDTVTPLR	12	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[14-25]
+NP00620	SLKSDTVTPLR	11	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[15-25]
+NP00621	SDTVTPLRGFE	11	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[18-28]
+NP00622	RSAEGLGRM	9	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[1-9]
+NP00623	TPLRGFEGETGHPLE	15	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[22-36]
+NP00624	RVINDDCPNLIGNR	14	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[1-14]
+NP00625	RVINDDCPNLIGNRD	15	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[1-15]
+NP00626	KVEWICEDCSNIFR	14	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[19-32]
+NP00627	VEWICEDCSNIFR	13	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[20-32]
+NP00628	VINDDCPNLIGNR	13	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[2-14]
+NP00629	VINDDCPNLIGNRDLYK	17	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[2-18]
+NP00630	NTGMATLCR	9	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[33-41]
+NP00631	KNCFFNEDFLWCVYATER	18	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[42-59]
+NP00632	NCFFNEDFLWCVYATER	17	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[43-59]
+NP00633	RRINNDCQNFIGNRAMYE	18	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[1-18]
+NP00634	VDWICKDCANIFR	13	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[20-32]
+NP00635	RINNDCQNFIGNR	13	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[2-14]
+NP00636	DCANIFR	7	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[26-32]
+NP00637	DCANIFRQDGLLNNCR	16	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[26-41]
+NP00638	CANIFRKDGLLNNCRSNCFYNTE	23	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[27-49]
+NP00639	INNDCQNFIGNR	12	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[3-14]
+NP00640	QDGLLNNCR	9	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[33-41]
+NP00641	SNCFYNTEFLWCIDATENTR	20	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[42-61]
+NP00642	EQLEQWAAILGAGWN	15	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[64-78]
+NP00643	QWAAILGAGWN	11	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[68-78]
+NP00644	PSAALAVEHGTTHPLE	16	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00645	RSTPGYGRMDRIL	13	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00646	RSTPGYGRMDRILAA	15	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00647	RSTPGYGRMDRILAALKTSPMEPSAALAVEHGTTHPLE	38	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00648	RSTQGYGRMDPIL	13	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00649	RSTQGYGRMDRILAA	15	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00650	RSTQGYGRMDRILAALKTSPMEPSAALAVEHGTTHPLE	38	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00651	SPMEPSAALAVEHGTTHPLE	20	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00652	TSPMEPSAALAVEHGTTHPLE	21	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00653	PLGFLSQDHS	10	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00654	PLGFLSQDHSV	11	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00655	PLGFLSQDHSVN	12	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00656	RSVEGASRMEKL	12	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00657	RSVEGASRMEKLL	13	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00658	RSVEGASRMEKLLS	14	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00659	RSVEGASRMEKLLSS	15	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00660	RSVEGASRMEKLLSSS	16	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00661	RSVEGASRMEKLLSSSN	17	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00662	RSVEGASRMEKLLT	14	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00663	RSVEGVSRME	10	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00664	RSVEGVSRMEKLL	13	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00665	RSVEGVSRMEKLLS	14	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00666	RSVEGVSRMEKLLSSISPSSTPLGFLSQDHSVN	33	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00667	RSVEGVSRMEKLLT	14	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00668	GPAESSGESAHPLE	14	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00669	LLTSLRGPAESSGESAHPLE	20	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00670	LPSAHPLE	8	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00671	LTSLRGPAESSGESAHPLE	19	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00672	RGPAESSGESAHPLE	15	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00673	SLRGPAESDGESAHPLE	17	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00674	SLRGPAESSGESAHPLE	17	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00675	SLRGPAESSGESALSE	16	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00676	TSLRGPAESSGESAHPLE	18	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00677	RSVESSGSSSSEPLSFLSQDQSVN	24	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	CPRPv1
+NP00678	RSVESSGSSSSEPLSFLSQDQSVS	24	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	CPRPv2
+NP00679	HEEYQAHVQTV	11	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycaemic hormones
+NP00680	AHVQTVGK	8	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00681	SFFTLECKGVFDAAIFARLDRICDDCFNLFREPQLYTLCRAECFTTPYFKGCMESLYLYDEKEQIDQMIDFV	72	Bombyx mori	Arthropod CHH/MIH/GIH/VIH hormone	CHH-like protein
+NP00682	RVINDDCPNLIGNRDLYKKVEWICDDCANIYRSTGMASLCRKDCFFNEDFLWCVRATERSEDLAQLKQWVTILGAGRI	78	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00683	RSAQGMGKMERLLASYRGALEPSTPLGDLSGSLGHPVE	38	Cancer pagurus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00684	RSTQGYGRMDRILAALKTSPMEPSAALAVENGTTHPLE	38	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00685	QIYDTSCKGVYDRALFNDLEHVCDDCYNLYRTSYVASACRSNCYSNLVFRQCMDDLLMMDEFDQYARKVQMV	72	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00686	RVINDECPNLIGNRDLYKKVEWICEDCSNIFRKTGMASLCRRNCFFNEDFVWCVHATERSEELRDLEEWVGILGAGRD	78	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00687	RVFNDDCPNLMGNRDLYKKVEWICDDCANIFRIPGMASICRKDCFFNEDFLWCVRATERTEEMMQLKQWVRILGAGRM	78	Charybdis feriatus	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00688	RSVEGASRMEKLLSSSNSPSSTPLGFLSQDHSVN	34	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide A(Potential)
+NP00689	QVFDQACKGVYDRNLFKKLDRVCEDCYNLYRKPFVATTCRENCYSNWVFRQCLDDLLLSDVIDEYVSNVQMV	72	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone A
+NP00690	RSVEGVSRMEKLLSSSISPSSTPLGFLSQDHSVN	34	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide B
+NP00691	QVFDQACKGVYDRNLFKKLNRVCEDCYNLYRKPFIVTTCRENCYSNRVFRQCLDDLLLSDVIDEYVSNVQMV	72	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone B
+NP00692	ASAWFTNDECPGVMGNRDLYEKVAWVCNDCANIFRNNDVGVMCKKDCFHTMDFLWCVYATERHGEIDQFRKWVSILRA	78	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	Gonad-inhibiting hormone
+NP00693	RSTQGYGRMDKLLATLMGSSEGGALESASQHSLE	34	Libinia emarginata	Arthropod CHH/MIH/GIH/VIH hormone	MOIH precursor-related peptide
+NP00694	QIFDPSCKGLYDRGLFSDLEHVCKDCYNLYRNPQVTSACRVNCYSNRVFRQCMEDLLLMEDFDKYARAIQTV	72	Libinia emarginata	Arthropod CHH/MIH/GIH/VIH hormone	Mandibular organ-inhibiting hormone
+NP00695	SLFDPSCTGVFDRQLLRRLRRVCDDCFNVFREPNVSTECRSNCYNNEVFRQCMEYLLPPHLHEEHRLAVQMV	72	Litopenaeus vannamei	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00696	DTFDHSCKGIYDRELFRKLDRVCEDCYNVFREPKVATECKSNCFVNKRFNVCVADLRHDVSRFLKMANSALS	72	Litopenaeus vannamei	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone-like
+NP00697	WSLDGLARIEKLLSTSSSASAASPTRGQALNL	32	Macrobrachium lanchesteri	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00698	AILDQSCKGIFDRELFKKLDRVCDDCYNLYRKPYVAIDCREGCYQNLVFRQCIQDLQLMDQLDEYANAVQIV	72	Macrobrachium lanchesteri	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00699	RVINDDCPNLIGNRDLYKRVEWICEDCSNIFRNTGMATLCRKNCFFNEDFLWCVYATERTEEMSQLRQWVGILGAGRE	78	Metacarcinus magister	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00700	ASSPRVDHRLV	11	Metapenaeus ensis	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide B
+NP00701	SLFDPSCTGVFDRELLGRLNRVCDDCYNVFREPKVATECRSHCFLNPAFIQCLEYIIPEVLHEEYQANVQLV	72	Metapenaeus ensis	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone B
+NP00702	SYIENTCRGVMGNRDIYKKVVRVCEDCTNIFRLPGLDGMCRDRCFNNEWFLVCLKAANRDDELDKFKVWISILNPGL	77	Metapenaeus ensis	Arthropod CHH/MIH/GIH/VIH hormone	Probable molt-inhibiting hormone
+NP00703	RSVEGSSRMERLLSSGSSSSEPLSFLSQDQSVS	33	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide A
+NP00704	QVFDQACKGIYDRAIFKKLDRVCEDCYNLYRKPYVATTCRQNCYANSVFRQCLDDLLLIDVLDEYISGVQTV	72	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00705	RSVEGSSRMERLLSSGSSSSEPLSFLSQDQSVN	33	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide A
+NP00706	SPVDAFSPPEASLTGGQSLS	20	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 1
+NP00707	SLFDPSCTGVFDRQLLRRLGRVCDDCFNVFREPNVATECRSNCYNNPVFRQCMAYVVPAHLHNEHREAVQMV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 1
+NP00708	DAFSPPEASLTGGQSLS	17	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 2
+NP00709	SLFDPSCTGVFDRQLLRRLGRVCDDCFNVFREPNVAMECRSNCYNNPVFRQCMEYLLPAHLHDEYRLAVQMV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 2
+NP00710	RSFDASPSATSGNHSLN	17	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 3
+NP00711	SLFDPACTGIYDRQLLRKLGRLCDDCYNVFREPKVATGCRSNCYHNLIFLDCLEYLIPSHLQEEHMAAMQTV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 3
+NP00712	RSSEDLSAPEDRSLS	15	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 5
+NP00713	LVFDPSCAGVYDRVLLGKLNRLCDDCYNVFREPNVATECRSNCFYNLAFVQCLEYLMPPSLHEEYQANVQMV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 5
+NP00714	RSLEGSSSPVTSLTRGRSLN	20	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 7
+NP00715	AAFDPSCTGVYDRELLGRLSRLCDDCYNVFREPKVAMECRSNCFFNPAFVQCLEYLIPAELHEEYQALVQTV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 7
+NP00716	SFIDNTCRGVMGNRDIYKKVVRVCEDCTNIFRLPGLDGMCRNRCFYNEWFLICLKAANREDEIEKFRVWISILNAGQ	77	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00717	DALSPPAAGLGADHSFT	17	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 1
+NP00718	SLFDPSCTGVFDRQLLRRLSRVCDDCFNVFREPNVATECRSNCYNNEVFRQCMEYLLPAHLHEEHRLAVQMV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 1
+NP00719	RSLEGSSSPVASLIRGRSLS	20	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 2
+NP00720	ANFDPSCAGVYNRELLGRLSRLCDDCYNVFREPKVATECRSNCFYNPVFVQCLEYLIPADLHEEYQAHVQTV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 2
+NP00721	RSFN	4	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 3
+NP00722	ANFDPSCAGVYNRELLGRLSRLCDDCYNVFREPKVATECRNNCFYNPVFVQCLEYLIPADLHEEYQAHVQTV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 3
+NP00723	RSLDASPSSAFSGNHSLS	18	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 4
+NP00724	SLFDPACTGIYDRQLLGKLGRLCDDCYNVFREPKVATGCRSNCYYNLIFLDCLEYLIPSHLQEEHMEALQTV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 4
+NP00725	ANFDPSCAGVYDRELLGGLSRLCDDCYNVFREPKVATECRSNCFYNSVFVQCLEYLIPADLHEEYQAHVQTV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 5
+NP00726	QVFDQACKGIYDRAIFKKLELVCDDCYNLYRKPKVATTCRENCYANSVFRQCLDDLLLINVVDEYISGVQIV	72	Procambarus bouvieri	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00727	RSVEGSSRMERLLSSGSSSSEPLSFLSQDQSVN	33	Procambarus clarkii	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide(Potential)
+NP00728	QVFDQACKGIYDRAIFKKLDRVCEDCYNLYRKPYVATTCRQNCYANSVFRQCLDDLLLIDVVDEYISGVQTV	72	Procambarus clarkii	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00729	SFFDIQCKGVYDKSIFARLDRICEDCYNLFREPQLHSLCRSDCFKSPYFKGCLQALLLIDEEEKFNQMVEIL	72	Schistocerca gregaria	Arthropod CHH/MIH/GIH/VIH hormone	Ion transport peptide
+NP00730	NSEIINSLLGLPKVLNDA	18	Gryllus bimaculatus	Arthropod PDH	Pigment-dispersing factor
+NP00731	NSGMINSILGIPRVMTEA	18	NA	Arthropod PDH	pigment-dispersing crustacean neurohormone
+NP00732	NSELINSLLSLPKKLNDA	18	Aedes aegypti	Arthropod PDH	Pigment-dispersing hormone
+NP00733	NSELINSLLGLPKNMNNA	18	Apis mellifera	Arthropod PDH	Pigment dispersing factor
+NP00734	QELHVPEREA	10	Callinectes sapidus	Arthropod PDH	Pigment-dispersing hormone
+NP00735	NSELINSILGLPKVMNDA	18	Cancer borealis	Arthropod PDH	?-PDH
+NP00736	NSELINSLLGISRLMNEA	18	Cancer borealis	Arthropod PDH	?-PDH
+NP00737	NSELINSLLGLPRFMKVV	18	Daphnia pulex	Arthropod PDH	Pigment dispersing hormone
+NP00738	NSELINSILGLPKVMNDA	18	Homarus americanus	Arthropod PDH	?-PDH
+NP00739	NSELINSLLGISRLMNEA	18	Homarus americanus	Arthropod PDH	?-PDH
+NP00740	NSELINSLLSLPKNMNNA	18	Nasonia vitripennis	Arthropod PDH	Pigment dispersing factor
+NP00741	NSELINSILGLPK	13	Ocypode ceratophthalma	Arthropod PDH	Pigment-dispersing hormone
+NP00742	NSELINSILGLPKVM	15	Ocypode ceratophthalma	Arthropod PDH	Pigment-dispersing hormone
+NP00743	NSELINSILGLPKVMNDA	18	Ocypode ceratophthalma	Arthropod PDH	Pigment-dispersing hormone
+NP00744	SELINSILGLPKVMNDA	17	Ocypode ceratophthalma	Arthropod PDH	Pigment-dispersing hormone
+NP00745	AAQILRVAQGPSAFVAGPH	19	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00746	LINSILGLPK	10	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00747	LINSLLGIPKVMNDA	15	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00748	LINSLLGIPKVMTDA	15	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00749	LLGIPKVMNDA	11	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00750	NSELINSLLGIP	12	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00751	NSELINSLLGIPK	13	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00752	NSELINSLLGIPKVM	15	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00753	NSELINSLLGIPKVMNDA	18	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00754	NSELINSLLGIPKVMTDA	18	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00755	RSIAVVVL	8	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00756	RVAQGPSAFVAGPH	14	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00757	VAQGPSAFVAG	11	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00758	QSRDFSISEREIVASLAKQLLRVARMGYVPEGDLPR	36	Eurydice pulchra	Arthropod PDH	PDH precursor-related peptide(Potential)
+NP00759	NAELINSLLGVPRVMSDA	18	Eurydice pulchra	Arthropod PDH	Pigment-dispersing hormone
+NP00760	NSELINAILGSPTLFGEV	18	Orconectes limosus	Arthropod PDH	Pigment-dispersing hormone B
+NP00761	NSELINAILGSPTLMGEV	18	Orconectes limosus	Arthropod PDH	Pigment-dispersing hormone C
+NP00762	NSELINSILGLPKVMNDA	18	Cancer productus	Arthropod PDH	Canpr-beta-PDH I
+NP00763	NSELINSLLGLSRLMNEA	18	Cancer productus	Arthropod PDH	Canpr-beta-PDH II
+NP00764	NSELINSLLGIPKVMTDA	18	Penaeus japonicus	Arthropod PDH	Pej-PDH-I
+NP00765	NSELINSILGLPKVMNDA	18	Callinectes sapidus	Arthropod PDH	Pigment-dispersing hormone
+NP00766	NSELINSILGLPKVMNDA	18	Carcinus maenas	Arthropod PDH	Pigment-dispersing hormone
+NP00767	QRLGNQWAVGHLM	13	Bombina variegata	Bombesin/neuromedin-B/ranatensin	Bombesin
+NP00768	EQRLGNQWAVGHLM	14	NA	Bombesin/neuromedin-B/ranatensin	Bombesin
+NP00769	APVPGGQGTVLDKMYPRGNHWAVGHLM	27	NA	Bombesin/neuromedin-B/ranatensin	Bombesin-like peptide
+NP00770	GGQGTVLDKMYPRGNHWAVGHLM	23	NA	Bombesin/neuromedin-B/ranatensin	Bombesin-like peptide
+NP00771	GNHWAVGHLM	10	NA	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00772	EMIFGAPMWALGHLM	15	Sanguirana varians	Bombesin/neuromedin-B/ranatensin	Bombesin-like peptide
+NP00773	APLQPGGSPALTKIYP	16	Coturnix coturnix japonica	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00774	APLQPGGSPALTKIYPR	17	Coturnix coturnix japonica	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00775	APAPSGGGSAPLAKIYPRGSHWAVGHLM	28	Alligator mississippiensis	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00776	SENTGAIGKVFPRGNHWAVGHLM	23	Oncorhynchus mykiss	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00777	GSHWAVGHLM	10	Pelophylax ridibundus	Bombesin/neuromedin-B/ranatensin	Neuromedin-C
+NP00778	SPTSQQHNDAASLSKIYPRGSHWAVGHLM	29	Bombina orientalis	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00779	GSHWAVGHLM	10	Bombina orientalis	Bombesin/neuromedin-B/ranatensin	Neuromedin-C
+NP00780	SIEEYPYAYDEADRSSAAVFSEGDKPSDGYQQWKESLLNLLKMIEVNEYRNSKAMREASVYN	62	Bombina orientalis	Bombesin/neuromedin-B/ranatensin	C-terminal extension peptide (Potential)
+NP00781	APVTAGRAGALAKMYTRGNHWAVGHLM	27	Ovis aries	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00782	GNHWAVGHLM	10	Ovis aries	Bombesin/neuromedin-B/ranatensin	Neuromedin-C
+NP00783	APLSWDLPEPRSRAGKIRVHPRGNLWATGHFM	32	Sus scrofa	Bombesin/neuromedin-B/ranatensin	Neuromedin-B-32
+NP00784	LSWDLPEPRSRAGKIRVHPRGNLWATGHFM	30	Sus scrofa	Bombesin/neuromedin-B/ranatensin	Neuromedin-B-30
+NP00785	GNLWATGHFM	10	Sus scrofa	Bombesin/neuromedin-B/ranatensin	Neuromedin-B
+NP00786	APVTAGRGGALAKMYTRGNHWAVGHLM	27	Bos taurus	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00787	GNHWAVGHLM	10	Bos taurus	Bombesin/neuromedin-B/ranatensin	Neuromedin-C
+NP00788	GNLWATGHFM	10	Bos taurus	Bombesin/neuromedin-B/ranatensin	Neuromedin-B
+NP00789	APLGWDLPESRSRASKIRVHPRGNLWATGHFM	32	Bos taurus	Bombesin/neuromedin-B/ranatensin	Neuromedin-B-32
+NP00790	VPLPAGGGTVLTKMYPRGNHWAVGHLM	27	Homo sapiens	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00791	GNHWAVGHLM	10	Homo sapiens	Bombesin/neuromedin-B/ranatensin	Neuromedin-C
+NP00792	GNLWATGHFM	10	Homo sapiens	Bombesin/neuromedin-B/ranatensin	Neuromedin-B
+NP00793	APLSWDLPEPRSRASKIRVHSRGNLWATGHFM	32	Homo sapiens	Bombesin/neuromedin-B/ranatensin	Neuromedin-B-32
+NP00794	APVSTGAGGGTVLAKMYPRGSHWAVGHLM	29	Mus musculus	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00795	GSHWAVGHLM	10	Mus musculus	Bombesin/neuromedin-B/ranatensin	Neuromedin-C
+NP00796	GNLWATGHFM	10	Mus musculus	Bombesin/neuromedin-B/ranatensin	Neuromedin-B
+NP00797	APFNWDLPEPRSRASKIRVHPRGNLWATGHFM	32	Mus musculus	Bombesin/neuromedin-B/ranatensin	Neuromedin-B-32
+NP00798	APVSTGAGGGTVLAKMYPRGSHWAVGHLM	29	Rattus norvegicus	Bombesin/neuromedin-B/ranatensin	Gastrin-releasing peptide
+NP00799	GSHWAVGHLM	10	Rattus norvegicus	Bombesin/neuromedin-B/ranatensin	Neuromedin-C
+NP00800	MPPGMSPFR	9	Acipenseriformes	Bradykinin	Bradykinin
+NP00801	APPGWSPFR	9	Amia calva	Bradykinin	Bradykinin
+NP00802	APPGFTPFR	9	Broghammerus reticulatus	Bradykinin	Bradykinin
+NP00803	GITSWLPF	8	Leucoraja erinacea	Bradykinin	Bradykinin
+NP00804	RPPGFSPFG	9	NA	Bradykinin	Bradykinin
+NP00805	RPPGSPFR	8	NA	Bradykinin	Bradykinin
+NP00806	RPPGFSPFR	9	Rana temporaria	Bradykinin	Bradykinin
+NP00807	RPPGFSPFR	9	Ascaphus truei	Bradykinin	Bradykinin
+NP00808	RPPGFTPFR	9	Trachemys scripta	Bradykinin	[Thr6]-bradykinin
+NP00809	KRPPGFSPFR	10	Bos taurus	Bradykinin	Lysyl-bradykinin
+NP00810	RPPGFSPFR	9	Bos taurus	Bradykinin	Bradykinin
+NP00811	RPPGFSPFR	9	Homo sapiens	Bradykinin	Bradykinin
+NP00812	KRPPGFSPFR	10	Homo sapiens	Bradykinin	Lysyl-bradykinin
+NP00813	ISLMKRPPGFSPFR	14	Homo sapiens	Bradykinin	T-kinin
+NP00814	RPPGFSPFR	9	Mus musculus	Bradykinin	Bradykinin
+NP00815	RPPGFSPFR	9	Rattus norvegicus	Bradykinin	Bradykinin
+NP00859	GLDLGLGRGFSGSQAAKHLMGLAAANFAGGP	31	Homarus americanus	Calcitonin-like peptide	Calcitonin-like diuretic hormone
+NP00860	TVDFGLSRGYSGAQEAKHRMAMAVANFAGGP	31	Aedes aegypti	Calcitonin-like peptide	Diuretic hormone 31
+NP00861	GVDFGLGRGYSGSQAAKHLMGLAAANYAIGP	31	Daphnia pulex	Calcitonin-like peptide	Diuretic hormone-31
+NP00862	AGGLLDFGLSRGASGAEAAKARLGLKLANDPYGP	34	Ixodes scapularis	Calcitonin-like peptide	Diuretic hormone-35
+NP00863	GLDLGLNRGFSGSQAAKHLMGLAAANYAGGP	31	Nasonia vitripennis	Calcitonin-like peptide	Diuretic hormone 31
+NP00864	GLDLGLSRGFSGSQAAKHLMGLAAANYAGGP	31	Apis mellifera	Calcitonin-like peptide	Calcitonin-like diuretic hormone
+NP01107	DPSPEPFNPNYNRFRQKIPRI	21	Daphnia pulex	Ecdysis triggering hormone	Ecdysis-triggering hormone 1
+NP01108	GEGIIAEYMNSESFPHEGSLSNFFLKASKAVPRL	34	Daphnia pulex	Ecdysis triggering hormone	Ecdysis-triggering hormone 2
+NP01109	DEPPAFFLKIAKNIPRI	17	Nasonia vitripennis	Ecdysis triggering hormone	Ecdysis triggering hormone
+NP01110	DETPGFFIKLSKSVPRI	17	Aedes aegypti	Ecdysis triggering hormone	Ecdysis triggering hormone-1b
+NP01111	GDFENFFLKQSKSVPRI	17	Aedes aegypti	Ecdysis triggering hormone	Ecdysis triggering hormone-2b
+NP01112	DDSSPGFFLKITKNVPRL	18	Drosophila melanogaster	Ecdysis triggering hormone	Ecdysis triggering hormone 1
+NP01113	GENFAIKNLKTIPRI	15	Drosophila melanogaster	Ecdysis triggering hormone	Ecdysis-triggering hormone 2
+NP01114	CSCSSLMDKECVYFCHLDIIW	21	Atelerix albiventris	Endothelin/sarafotoxin	Endothelin-1
+NP01115	CSCNSWLDKECVYFCHLDIIW	21	Atelerix albiventris	Endothelin/sarafotoxin	Endothelin-2
+NP01116	CSCSSLMDKECVYFCHLDIIW	21	Bos taurus	Endothelin/sarafotoxin	Endothelin-1
+NP01117	CSCSSWLDKECVYFCHLDIIW	21	Bos taurus	Endothelin/sarafotoxin	Endothelin-2
+NP01118	CSCSSLMDKECVYFCHLDIIW	21	Canis familiaris	Endothelin/sarafotoxin	Endothelin-1
+NP01119	CSCSSWLDKECVYFCHLDIIW	21	Canis familiaris	Endothelin/sarafotoxin	Endothelin-2
+NP01120	CTCFTYKDKECVYYCHLDIIW	21	Canis familiaris	Endothelin/sarafotoxin	Endothelin-3
+NP01121	CSCSSLMDKECVYFCHLDIIW	21	Cavia porcellus	Endothelin/sarafotoxin	Endothelin-1
+NP01122	CSCSSWLDKECVYFCHLDIIW	21	Equus caballus	Endothelin/sarafotoxin	Endothelin-2
+NP01123	CSCSSLLDKECVYFCHLDIIW	21	Felis catus	Endothelin/sarafotoxin	Endothelin-1
+NP01124	CSCSSWLDKECVYFCHLDIIW	21	Felis catus	Endothelin/sarafotoxin	Endothelin-2
+NP01125	CSCSSLMDKECVYFCHLDIIWVNTPEHVVPYGLGSPRS	38	Homo sapiens	Endothelin/sarafotoxin	Big endothelin-1
+NP01126	CSCSSLMDKECVYFCHLDIIW	21	Homo sapiens	Endothelin/sarafotoxin	Endothelin-1
+NP01127	CSCSSWLDKECVYFCHLDIIW	21	Homo sapiens	Endothelin/sarafotoxin	Endothelin-2
+NP01128	CTCFTYKDKECVYYCHLDIIW	21	Homo sapiens	Endothelin/sarafotoxin	Endothelin-3
+NP01129	CSCSSLMDKECVYFCHLDIIW	21	Mus musculus	Endothelin/sarafotoxin	Endothelin-1
+NP01130	CSCNSWLDKECVYFCHLDIIW	21	Mus musculus	Endothelin/sarafotoxin	Endothelin-2
+NP01131	CTCFTYKDKECVYYCHLDIIW	21	Mus musculus	Endothelin/sarafotoxin	Endothelin-3
+NP01132	CSCSSWLDKECVYFCHLDIIW	21	Mustela putorius furo	Endothelin/sarafotoxin	Endothelin-2
+NP01133	CSCSSLMDKECVYFCHLDIIW	21	Oryctolagus cuniculus	Endothelin/sarafotoxin	Endothelin-1
+NP01134	CSCSSWLDKECVYFCHLDIIW	21	Oryctolagus cuniculus	Endothelin/sarafotoxin	Endothelin-2
+NP01135	CTCFTYKDKECVYYCHLDIIW	21	Oryctolagus cuniculus	Endothelin/sarafotoxin	Endothelin-3
+NP01136	CSCSSLMDKECVYFCHLDIIW	21	Ovis aries	Endothelin/sarafotoxin	Endothelin-1
+NP01137	CSCSSLMDKECVYFCHLDIIW	21	Rattus norvegicus	Endothelin/sarafotoxin	Endothelin-1
+NP01138	CSCNSWLDKECVYFCHLDIIW	21	Rattus norvegicus	Endothelin/sarafotoxin	Endothelin-2
+NP01139	CTCFTYKDKECVYYCHLDIIW	21	Rattus norvegicus	Endothelin/sarafotoxin	Endothelin-3
+NP01140	CSCSSLMDKECVYFCHLDIIWVNTPEHIVP	30	Sus scrofa	Endothelin/sarafotoxin	Big endothelin-1
+NP01141	CSCSSLMDKECVYFCHLDIIW	21	Sus scrofa	Endothelin/sarafotoxin	Endothelin-1
+NP01142	CTCFTYKDKECVYYCHLDIIW	21	Sus scrofa	Endothelin/sarafotoxin	Endothelin-3
+NP01143	PEQTAPYGLGNPPRRRRRSLPRRCQCSSARDPSCATFCLRRPWTEARAVPSRKSPADVFQTGKTGATRGELLQRLRDIS	79	Macaca fascicularis	Endothelin/sarafotoxin	Endothelin-2
+NP01144	FMRF	4	Achatina fulica	FMRFamide related peptide	FMRFamide
+NP01145	KNEFIRF	7	Achatina fulica	FMRFamide related peptide	Neuropeptide AF1
+NP01146	FMRF	4	Aedes aegypti	FMRFamide related peptide	FMRFamide
+NP01147	EGRF	4	Anthopleura elegantissima	FMRFamide related peptide	Antho-RFamide
+NP01148	QGRFG	5	Anthopleura elegantissima	FMRFamide related peptide	Antho-RFamide
+NP01149	FMRF	4	Aplysia kurodai	FMRFamide related peptide	FMRFamide
+NP01150	SDPNFLRF	8	Ascaridia galli	FMRFamide related peptide	Neuropeptide PF1
+NP01151	FDRDFMHF	8	Ascaris suum	FMRFamide related peptide	Neuropeptide AF17
+NP01152	SDPNFLRF	8	Ascaris suum	FMRFamide related peptide	Neuropeptide PF1
+NP01153	SADPNFLRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide PF2
+NP01154	KPNFIRF	7	Ascaris suum	FMRFamide related peptide	Neuropeptide PF4
+NP01155	GYIRF	5	Bdelloura candida	FMRFamide related peptide	GYIRFamide
+NP01156	FMRF	4	Branchiostoma lanceolatum	FMRFamide related peptide	FMRFamide
+NP01157	AGSDPNFLRFG	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-1
+NP01158	FMRF	4	Caenorhabditis elegans	FMRFamide related peptide	FMRFamide
+NP01159	KNNKFEFIRF	10	Caenorhabditis elegans	FMRFamide related peptide	FMRFamide-like peptide
+NP01160	SADPNFLRFG	10	Caenorhabditis elegans	FMRFamide related peptide	FMRFamide-like peptide
+NP01161	ADDGAPLIRF	10	Caenorhabditis elegans	FMRFamide related peptide	FMRFamide-related peptide
+NP01162	GFGDEMSMPGVLRF	14	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide AF10
+NP01163	FDRDFMHF	8	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide AF17
+NP01164	EGRF	4	Callinectes sapidus	FMRFamide related peptide	CP1/Antho-RFamide
+NP01165	TNRNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like neuropeptide 4
+NP01166	FMRF	4	Calliphora vomitoria	FMRFamide related peptide	FMRFamide
+NP01167	KHKNYLRF	8	Cancer magister	FMRFamide related peptide	KHKNYLRFamide
+NP01168	TNRNFLRF	8	Cancer productus	FMRFamide related peptide	FMRFamide-like neuropeptide 4
+NP01169	EWLRGRF	7	Cyanea lamarckii	FMRFamide related peptide	Cyanea-RFamide I
+NP01170	EPLWSGRF	8	Cyanea lamarckii	FMRFamide related peptide	Cyanea-RFamide II
+NP01171	SKPANFIRF	9	Diploptera punctata	FMRFamide related peptide	FIRFamide
+NP01172	SDPFLRF	7	Doryteuthis pealeii	FMRFamide related peptide	SDPFLRFamide
+NP01173	DEGHKMLYF	9	Drosophila melanogaster	FMRFamide related peptide	FMRFamide-related peptide
+NP01174	GYIRF	5	Dugesia tigrina	FMRFamide related peptide	GYIRFamide
+NP01175	GYIRF	5	Eudiplozoon nipponicum	FMRFamide related peptide	GYIRFamide
+NP01176	GNFFRF	6	Fasciola hepatica	FMRFamide related peptide	FMRFamide-related peptide
+NP01177	GYIRF	5	Fasciola hepatica	FMRFamide related peptide	GYIRFamide
+NP01178	KNEFIRF	7	Fasciola hepatica	FMRFamide related peptide	Neuropeptide AF1
+NP01179	KHEYLRF	7	Fasciola hepatica	FMRFamide related peptide	Neuropeptide AF2
+NP01180	KSAYMRF	7	Fasciola hepatica	FMRFamide related peptide	Neuropeptide AF8
+NP01181	KNKFEFIRF	9	Globodera pallida	FMRFamide related peptide	FMRFamide-related peptide
+NP01182	KHEYLRF	7	Globodera pallida	FMRFamide related peptide	Neuropeptide AF2
+NP01183	KSAYMRF	7	Globodera pallida	FMRFamide related peptide	Neuropeptide AF8
+NP01184	KPNQDFMRF	9	Haemonchus contortus	FMRFamide related peptide	CalliFMRFamide 4
+NP01185	KHEYLRF	7	Haemonchus contortus	FMRFamide related peptide	Neuropeptide AF2
+NP01186	SDPDLDDVIRASLLAYSLDDSPNN	24	Haliotis asinina	FMRFamide related peptide	FMRFamide-related peptide
+NP01187	SDPGEDMLKSILLRGAPSNNGLQY	24	Haliotis asinina	FMRFamide related peptide	FMRFamide-related peptide
+NP01188	SVATAPVEAKAVEAGNKDIE	20	Haliotis asinina	FMRFamide related peptide	FMRFamide-related peptide
+NP01189	FMRF	4	Hediste diversicolor	FMRFamide related peptide	FMRFamide
+NP01190	FMRF	4	Helicoverpa zea	FMRFamide related peptide	FMRFamide
+NP01191	FIRF	4	Helix aspersa	FMRFamide related peptide	FIRFamide
+NP01192	DNFLRF	6	Helix aspersa	FMRFamide related peptide	FxRFamide related neuropeptide
+NP01193	PDVDHVFLRF	10	Helix aspersa	FMRFamide related peptide	FxRFamide related neuropeptide
+NP01194	KNEFIRF	7	Helix aspersa	FMRFamide related peptide	Neuropeptide AF1
+NP01195	SDPNFLRF	8	Helix aspersa	FMRFamide related peptide	Neuropeptide PF1
+NP01196	EDPFLRF	7	Helix aspersa	FMRFamide related peptide	pQDPFLRFamide
+NP01197	SKPYMRF	7	Helix aspersa	FMRFamide related peptide	SKPYMRFamide
+NP01198	SEPYLRF	7	Helix lucorum	FMRFamide related peptide	SEPYLRFamide
+NP01199	FMRF	4	Helix pomatia	FMRFamide related peptide	FMRFamide
+NP01200	FLRF	4	Heterodera glycines	FMRFamide related peptide	FLRFamide
+NP01201	FMRF	4	Hexagrammos stelleri	FMRFamide related peptide	FMRFamide
+NP01202	QDPFLRF	7	Hirudo medicinalis	FMRFamide related peptide	QDPFLRF-amide
+NP01203	EWLGGRF	7	Hydra vulgaris	FMRFamide related peptide	Hydra-RFamide I
+NP01204	EWFNGRF	7	Hydra vulgaris	FMRFamide related peptide	Hydra-RFamide II
+NP01205	KPHLRGRF	8	Hydra vulgaris	FMRFamide related peptide	Hydra-RFamide III
+NP01206	HLRGRF	6	Hydra vulgaris	FMRFamide related peptide	Hydra-RFamide IV
+NP01207	FLRF	4	Idiosepius notoides	FMRFamide related peptide	FLRFamide
+NP01208	FMRF	4	Lampetra japonica	FMRFamide related peptide	FMRFamide
+NP01209	SIPNLPQRF	9	Lithobates catesbeiana	FMRFamide related peptide	fGRP-related peptide 1
+NP01210	ADVGHVFLRF	10	Locusta migratoria	FMRFamide related peptide	FMRFamide-related peptide
+NP01211	GQERNFLRF	9	Locusta migratoria	FMRFamide related peptide	FMRFamide-related peptide
+NP01212	LWENLRF	7	Locusta migratoria	FMRFamide related peptide	RFamide
+NP01213	FMRF	4	Loligo forbesi	FMRFamide related peptide	FMRFamide
+NP01214	TPHWRPQGRF	10	Lymnaea stagnalis	FMRFamide related peptide	RFamide
+NP01215	SDPYLFR	7	Lymnaea stagnalis	FMRFamide related peptide	SDPYLFRamide
+NP01216	SGRNMEVSLVRQVLNLPQRF	20	Macaca mulatta	FMRFamide related peptide	Gonadotropin-inhibitory hormone
+NP01217	GYRKPPFNGSIF	12	Macrobrachium rosenbergii	FMRFamide related peptide	SIFamide
+NP01218	FLRF	4	Manduca sexta	FMRFamide related peptide	FLRFamide
+NP01219	YAEAAGEQVPEYQALVRDYPQLLDSGMKRQDVVHSFLRF	39	Manduca sexta	FMRFamide related peptide	FLRFamide
+NP01220	FMRF	4	Manduca sexta	FMRFamide related peptide	FMRFamide
+NP01221	APLDRSALVRF	11	Meloidogyne incognita	FMRFamide related peptide	APLDRSALVRFamide
+NP01222	FLRF	4	Meloidogyne incognita	FMRFamide related peptide	FLRFamide
+NP01223	TNRNFLRF	8	Metacarcinus magister	FMRFamide related peptide	FMRFamide-like neuropeptide 4
+NP01224	AGEGLSSPFWSLAPQRF	17	Mus musculus	FMRFamide related peptide	Neuropeptide AF
+NP01225	FLQPQRF	7	Mus musculus	FMRFamide related peptide	Neuropeptide FF
+NP01226	SLAAPQRF	8	Mus musculus	FMRFamide related peptide	Neuropeptide SF
+NP01227	EPYLRF	6	NA	FMRFamide related peptide	EPYLRFamide
+NP01228	FMLF	4	NA	FMRFamide related peptide	FMRFamide
+NP01229	XDYGHMRF	8	NA	FMRFamide related peptide	FMRFamide-related peptide
+NP01230	SIKPSAYLPLRF	12	NA	FMRFamide related peptide	Gonadotropin-inhibitory hormone
+NP01231	SWGAPAEKFWMRAMPQRF	18	NA	FMRFamide related peptide	RFamide
+NP01232	YGGFMKKKFMRF	12	NA	FMRFamide related peptide	YFamde
+NP01233	ANRSLRLRF	9	Periplaneta americana	FMRFamide related peptide	RFamide
+NP01234	MPPKPDNPSPDASPELSKYMLAVRNYINLITRQRY	35	Petromyzon marinus	FMRFamide related peptide	Peptide methionine-tyrosine
+NP01235	FMRF	4	Polyorchis penicillatus	FMRFamide related peptide	FMRFamide
+NP01236	ELLGGRF	7	Polyorchis penicillatus	FMRFamide related peptide	Pol-RFamide I
+NP01237	EWLKGRF	7	Polyorchis penicillatus	FMRFamide related peptide	Pol-RFamide II
+NP01238	EGRF	4	Polyorchis penicillatus	FMRFamide related peptide	RFamide
+NP01239	GYRKPPFNGSIFG	13	Procambarus clarkii	FMRFamide related peptide	SIFamide
+NP01240	AGEGLSSPFWSLAAPQR	17	Rattus norvegicus	FMRFamide related peptide	Neuropeptide AF
+NP01241	YFMRF	5	Rattus norvegicus	FMRFamide related peptide	Tyr-FMRFamide
+NP01242	EGRF	4	Renilla koellikeri	FMRFamide related peptide	Antho-RFamide
+NP01243	QGRFG	5	Renilla koellikeri	FMRFamide related peptide	Antho-RFamide
+NP01244	DRSDNFIRF	9	Rhyparobia maderae	FMRFamide related peptide	Pea-FMRFa-7
+NP01245	FMRF	4	Salmo salar	FMRFamide related peptide	FMRFamide
+NP01246	YIRF	4	Schistosoma mansoni	FMRFamide related peptide	FMRFamide-like peptide
+NP01247	GYIRF	5	Schistosoma mansoni	FMRFamide related peptide	GYIRFamide
+NP01248	FMRF	4	Scyliorhinus torazame	FMRFamide related peptide	FMRFamide
+NP01249	LPLRF	5	Sphyrna tiburo tiburo	FMRFamide related peptide	LPLRFamide
+NP01250	GYRKPPFNGSIFG	13	Aedes aegypti	FMRFamide related peptide	ext SIFa
+NP01251	SALDKNFMRF	10	Aedes aegypti	FMRFamide related peptide	FMRFa-1
+NP01252	SDPRFLRLV	9	Aedes aegypti	FMRFamide related peptide	FMRFa-10
+NP01253	MDNNFMRF	8	Aedes aegypti	FMRFamide related peptide	FMRFa-11
+NP01254	DSPKNLMRF	9	Aedes aegypti	FMRFamide related peptide	FMRFa-4
+NP01255	ANLMRF	6	Aedes aegypti	FMRFamide related peptide	FMRFa-6
+NP01256	GSGNLMRF	8	Aedes aegypti	FMRFamide related peptide	FMRFa-8
+NP01257	ASKQANLMRF	10	Aedes aegypti	FMRFamide related peptide	FMRFamide-2
+NP01258	AGQGFMRF	8	Aedes aegypti	FMRFamide related peptide	FMRFamide-3
+NP01259	DDTNKFLRLS	10	Aedes aegypti	FMRFamide related peptide	FMRFamide-5
+NP01260	AGSEAGGNLQRTNFLRF	17	Aedes aegypti	FMRFamide related peptide	FMRFamide-7
+NP01261	AKGNLMRF	8	Aedes aegypti	FMRFamide related peptide	FMRFamide-9
+NP01262	GYRKPPFNGSIF	12	Aedes aegypti	FMRFamide related peptide	SIFamide
+NP01263	AYRKPPFNGSIF	12	Apis mellifera	FMRFamide related peptide	SIFamide
+NP01264	RKPPFNGSIF	10	Apis mellifera	FMRFamide related peptide	SIFamide
+NP01265	YRKPPFNGSIF	11	Apis mellifera	FMRFamide related peptide	SIFamide
+NP01266	AGFKNLNREQ	10	Apis mellifera	FMRFamide related peptide	TWKSPDIVIRFa?FMRFa-like
+NP01267	SVLTTLKTDGGLRIFKDAPNEF	22	Apis mellifera	FMRFamide related peptide	TWKSPDIVIRFa?FMRFa-like
+NP01268	TWKSPDIVIRF	11	Apis mellifera	FMRFamide related peptide	TWKSPDIVIRFa?FMRFa-like
+NP01269	GGALFRF	7	Aplysia	FMRFamide related peptide	Aplysia FRF-A
+NP01270	STLFRF	6	Aplysia	FMRFamide related peptide	Aplysia FRF-C
+NP01271	DFDRDFMHF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF17+O
+NP01272	AEGLSSPLIRF	11	Ascaris suum	FMRFamide related peptide	Neuropeptide AF19
+NP01273	PADPNFLRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF27
+NP01274	SAEPNFLRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF28
+NP01275	NAEPNFLRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF29
+NP01276	ENEKKAVPGVLRF	13	Ascaris suum	FMRFamide related peptide	Neuropeptide AF3
+NP01277	GSDPNFLRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF32
+NP01278	DSKLMDPLIRF	11	Ascaris suum	FMRFamide related peptide	Neuropeptide AF34+O
+NP01279	DPQQRIVTDETVLRF	15	Ascaris suum	FMRFamide related peptide	Neuropeptide AF35
+NP01280	VPSAADMMIRF	11	Ascaris suum	FMRFamide related peptide	Neuropeptide AF36+O2
+NP01281	AQREPIRF	8	Ascaris suum	FMRFamide related peptide	Neuropeptide AF38
+NP01282	GNSYRSFFNPNEYTVVE	17	Ascaris suum	FMRFamide related peptide	PepGE
+NP01283	SGRVDHIHDILSTLQRLQLANE	22	Ascaris suum	FMRFamide related peptide	PepSE
+NP01284	TPPEEDLLGRFT	12	Ascaris suum	FMRFamide related peptide	PepTT
+NP01285	TNIMGENRLNRNL	13	Ascaris suum	FMRFamide related peptide	PeptTL+ O
+NP01286	AAADPNFLRF	10	Caenorhabditis briggsae	FMRFamide related peptide	FLP-1
+NP01287	AGSDPNFLRF	10	Caenorhabditis briggsae	FMRFamide related peptide	FLP-1
+NP01288	SQPNFLRF	8	Caenorhabditis briggsae	FMRFamide related peptide	FLP-1
+NP01289	ASGGMRNALVRF	12	Caenorhabditis briggsae	FMRFamide related peptide	FLP-11
+NP01290	RNKFEFIRF	9	Caenorhabditis briggsae	FMRFamide related peptide	FLP-12
+NP01291	AADGAPLIRF	10	Caenorhabditis briggsae	FMRFamide related peptide	FLP-13
+NP01292	AAPSAPLIRF	10	Caenorhabditis briggsae	FMRFamide related peptide	FLP-13
+NP01293	APEASPFIRF	10	Caenorhabditis briggsae	FMRFamide related peptide	FLP-13
+NP01294	ASPSAPLIRF	10	Caenorhabditis briggsae	FMRFamide related peptide	FLP-13
+NP01295	ASSAPLIRF	9	Caenorhabditis briggsae	FMRFamide related peptide	FLP-13
+NP01296	GGPQGPLRF	9	Caenorhabditis briggsae	FMRFamide related peptide	FLP-15
+NP01297	RGPSGPLRF	9	Caenorhabditis briggsae	FMRFamide related peptide	FLP-15
+NP01298	AYFDEKKSVPGVLRF	15	Caenorhabditis briggsae	FMRFamide related peptide	FLP-18
+NP01299	DFDGAMPGVLRF	12	Caenorhabditis briggsae	FMRFamide related peptide	FLP-18
+NP01300	DVPGVLRF	8	Caenorhabditis briggsae	FMRFamide related peptide	FLP-18
+NP01301	EIPGVLRF	8	Caenorhabditis briggsae	FMRFamide related peptide	FLP-18
+NP01302	SEVPGVLRF	9	Caenorhabditis briggsae	FMRFamide related peptide	FLP-18
+NP01303	SVPGVLRF	8	Caenorhabditis briggsae	FMRFamide related peptide	FLP-18
+NP01304	ASWASSVRF	9	Caenorhabditis briggsae	FMRFamide related peptide	FLP-19
+NP01305	AGAGEPLAFSPDMLSLRF	18	Caenorhabditis briggsae	FMRFamide related peptide	FLP-26
+NP01306	EFNADDLTLRF	11	Caenorhabditis briggsae	FMRFamide related peptide	FLP-26
+NP01307	APNRVLMRF	9	Caenorhabditis briggsae	FMRFamide related peptide	FLP-28
+NP01308	ASPSFIRF	8	Caenorhabditis briggsae	FMRFamide related peptide	FLP-4
+NP01309	AGAKFIRF	8	Caenorhabditis briggsae	FMRFamide related peptide	FLP-5
+NP01310	APKPKFIRF	9	Caenorhabditis briggsae	FMRFamide related peptide	FLP-5
+NP01311	GAKFIRF	7	Caenorhabditis briggsae	FMRFamide related peptide	FLP-5
+NP01312	KPSFVRF	7	Caenorhabditis briggsae	FMRFamide related peptide	FLP-9
+NP01313	SPREPIRF	8	Caenorhabditis briggsae	FMRFamide related peptide	FMRFamide-like peptide
+NP01314	SPSAAPLIRF	10	Caenorhabditis briggsae	FMRFamide related peptide	FMRFamide-like peptide
+NP01315	KHEYLRF	7	Caenorhabditis briggsae	FMRFamide related peptide	Neuropeptide AF2
+NP01316	NGAPQPFVRF	10	Caenorhabditis briggsae	FMRFamide related peptide	Neuropeptide AF22
+NP01317	SDPNFLRF	8	Caenorhabditis briggsae	FMRFamide related peptide	Neuropeptide PF1
+NP01318	SADPNFLRF	9	Caenorhabditis briggsae	FMRFamide related peptide	Neuropeptide PF2
+NP01319	WANQVRF	7	Caenorhabditis briggsae	FMRFamide related peptide	WANQVRF-amide
+NP01320	SDPNFLRFG	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-1
+NP01321	SQPNFLRFG	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-1
+NP01322	AMRNALVRFG	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-11
+NP01323	NGAPQPFVRFG	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-11
+NP01324	RNKFEFIRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-12
+NP01325	AADGAPFIRF	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-13
+NP01326	APEASPFIRFG	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-13
+NP01327	ASPSAPFIRF	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-13
+NP01328	ASSAPFIRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-13
+NP01329	ASSAPLIRFGR	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-13
+NP01330	SAAAPLIRFG	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-13
+NP01331	SPSAVPFIRF	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-13
+NP01332	SPSAVPLIRFG	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-13
+NP01333	GGPQGPLRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-15
+NP01334	GGPQGPLRFG	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-15
+NP01335	RGPSGPLRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-15
+NP01336	DFDGAMPGVLRF	12	Caenorhabditis elegans	FMRFamide related peptide	FLP-18
+NP01337	DFDGAMPGVLRFG	13	Caenorhabditis elegans	FMRFamide related peptide	FLP-18
+NP01338	EMPGVLRFG	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-18
+NP01339	SVPGVLRFG	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-18
+NP01340	ASWASSVRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-19
+NP01341	WANQVRFG	8	Caenorhabditis elegans	FMRFamide related peptide	FLP-19
+NP01342	LRGEPIRFG	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-2
+NP01343	AMMRFG	6	Caenorhabditis elegans	FMRFamide related peptide	FLP-20
+NP01344	GLGPRPLRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-21
+NP01345	SPREPIRF	8	Caenorhabditis elegans	FMRFamide related peptide	FLP-2-1
+NP01346	SPSAKWMRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-22
+NP01347	SPSAKWMRFG	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-22
+NP01348	VPSAGDMMVRFG	12	Caenorhabditis elegans	FMRFamide related peptide	FLP-24
+NP01349	ASYDYIRF	8	Caenorhabditis elegans	FMRFamide related peptide	FLP-25
+NP01350	DYDFVRF	7	Caenorhabditis elegans	FMRFamide related peptide	FLP-25
+NP01351	DYDFVRFG	8	Caenorhabditis elegans	FMRFamide related peptide	FLP-25
+NP01352	EFNADDLTLRFG	12	Caenorhabditis elegans	FMRFamide related peptide	FLP-26
+NP01353	FRLPFQFFGANEDFNSGLT	19	Caenorhabditis elegans	FMRFamide related peptide	FLP-26
+NP01354	GGAGEPLAFSPDMLSLRFG	19	Caenorhabditis elegans	FMRFamide related peptide	FLP-26
+NP01355	APNRVLMRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-28
+NP01356	APNRVLMRFG	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-28
+NP01357	VLMRFG	6	Caenorhabditis elegans	FMRFamide related peptide	FLP-28
+NP01358	ASEDALFGTMRFG	13	Caenorhabditis elegans	FMRFamide related peptide	FLP-3
+NP01359	NPLGTMRFG	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-3
+NP01360	AMRNSLVRF	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-32
+NP01361	APLEGFEDMSGFLRTIDGIQKPRF	24	Caenorhabditis elegans	FMRFamide related peptide	FLP-33
+NP01362	ASPSFIRF	8	Caenorhabditis elegans	FMRFamide related peptide	FLP-4
+NP01363	AGAKFIRFG	9	Caenorhabditis elegans	FMRFamide related peptide	FLP-5
+NP01364	APKPKFIRFG	10	Caenorhabditis elegans	FMRFamide related peptide	FLP-5
+NP01365	KSAYMRFG	8	Caenorhabditis elegans	FMRFamide related peptide	FLP-6
+NP01366	SPMQRSSMVRFG	12	Caenorhabditis elegans	FMRFamide related peptide	FLP-7
+NP01367	TPMQRSSMVRFG	12	Caenorhabditis elegans	FMRFamide related peptide	FLP-7
+NP01368	SPMQRSSMVRF	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-7-1
+NP01369	TPMQRSSMVRF	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-7-2
+NP01370	SPMERSAMVRF	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-7-3
+NP01371	SPMDRSKMVRF	11	Caenorhabditis elegans	FMRFamide related peptide	FLP-7-4
+NP01372	KNEFIRF	7	Caenorhabditis elegans	FMRFamide related peptide	FLP-8
+NP01373	LRGEPIRF	8	Caenorhabditis elegans	FMRFamide related peptide	FMRFamide-like peptide
+NP01374	GAMPGVLRF	9	Caenorhabditis elegans	FMRFamide related peptide	FMRFamide-related peptide
+NP01375	SYFDEKKSVPGVLRF	15	Caenorhabditis elegans	FMRFamide related peptide	FMRFamide-related peptide
+NP01376	AVPGVLRF	8	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide AF3
+NP01377	GDVPGVLRF	9	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide AF4
+NP01378	KPNFIRF	7	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide PF4
+NP01379	FNADDLTLRF	10	Caenorhabditis elegans	FMRFamide related peptide	Novel FaRP
+NP01380	AHKNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01381	APQGNFLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01382	APQRNFLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01383	AYNRSFLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01384	DDNFLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01385	DENRNFLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01386	DRNFLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01387	FDDFLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01388	GAHKNYLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01389	GDRNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01390	GHDFEVFLRF	10	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01391	GLSRNYLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01392	GNNFLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01393	GNRNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01394	GPFLRF	6	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01395	GRPNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01396	GYSKNYLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01397	NFLRF	5	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01398	NQPNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01399	NRNFLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01400	NRSFLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01401	NVGSHGFLRF	10	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01402	PGVNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01403	PSDNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01404	QGNFLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01405	RNFLRF	6	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01406	RQFLRF	6	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01407	SENRNFLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01408	SKNYLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01409	SPRNFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01410	SQPSKNYLRF	10	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01411	THPFLRF	7	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01412	YEQDFLRF	8	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01413	YGAHVFLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01414	YGNRSFLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like peptide
+NP01415	AHRNFLRF	8	Callinectes sapidus	FMRFamide related peptide	RFamide
+NP01416	DARTAPLRLRF	11	Callinectes sapidus	FMRFamide related peptide	RFamide
+NP01417	DHVPFLRF	8	Callinectes sapidus	FMRFamide related peptide	RFamide
+NP01418	ETNFLRF	7	Callinectes sapidus	FMRFamide related peptide	RFamide
+NP01419	FTSKNYLRF	9	Callinectes sapidus	FMRFamide related peptide	RFamide
+NP01420	GHRNFLRF	8	Callinectes sapidus	FMRFamide related peptide	RFamide
+NP01421	YGSDRNFLRF	10	Callinectes sapidus	FMRFamide related peptide	RFamide
+NP01422	DLDSVLDPSIF	11	Callinectes sapidus	FMRFamide related peptide	SIFamide
+NP01423	GYRKPPFNGSIF	12	Callinectes sapidus	FMRFamide related peptide	SIFamide
+NP01424	DRNFLRF	7	Cancer borealis	FMRFamide related peptide	DF2
+NP01425	TNRNFLRF	8	Cancer borealis	FMRFamide related peptide	FMRFamide-like neuropeptide 4
+NP01426	APQRNFLRF	9	Cancer borealis	FMRFamide related peptide	RFamide
+NP01427	APRNFLRF	8	Cancer borealis	FMRFamide related peptide	RFamide
+NP01428	AYNRSFLRF	9	Cancer borealis	FMRFamide related peptide	RFamide
+NP01429	DGGRNFLRF	9	Cancer borealis	FMRFamide related peptide	RFamide
+NP01430	DVRTPALRLRF	11	Cancer borealis	FMRFamide related peptide	RFamide
+NP01431	GAHKNYLRF	9	Cancer borealis	FMRFamide related peptide	RFamide
+NP01432	GGRNFLRF	8	Cancer borealis	FMRFamide related peptide	RFamide
+NP01433	GNRNFLRF	8	Cancer borealis	FMRFamide related peptide	RFamide
+NP01434	GPRNFLRF	8	Cancer borealis	FMRFamide related peptide	RFamide
+NP01435	GYSKNYLRF	9	Cancer borealis	FMRFamide related peptide	RFamide
+NP01436	NRNFLRF	7	Cancer borealis	FMRFamide related peptide	RFamide
+NP01437	RNFLRF	6	Cancer borealis	FMRFamide related peptide	RFamide
+NP01438	RSFLRF	6	Cancer borealis	FMRFamide related peptide	RFamide
+NP01439	SDRNFLRF	8	Cancer borealis	FMRFamide related peptide	RFamide
+NP01440	SENRNFLRF	9	Cancer borealis	FMRFamide related peptide	RFamide
+NP01441	SGRNFLRF	8	Cancer borealis	FMRFamide related peptide	RFamide
+NP01442	SMPSLRLRF	9	Cancer borealis	FMRFamide related peptide	RFamide
+NP01443	GYRKPPFNGSIF	12	Cancer borealis	FMRFamide related peptide	SIFamide
+NP01444	SGTGLSATLPQRF	13	Carassius auratus	FMRFamide related peptide	Goldfish LPXRFa peptide-3
+NP01445	APQGNFLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01446	APQRNFLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01447	DARTPALRLRF	11	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01448	DGNRNFLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01449	DRNFLRF	7	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01450	EMPSLRLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01451	GAHKNYLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01452	GLSRNYLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01453	NRNFLRF	7	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01454	NRSFLRF	7	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01455	QGNFLRF	7	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01456	RNFLRF	6	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01457	SENRNFLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01458	SMPSLRLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01459	SRNYLRF	7	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01460	YGNRSFLRF	9	Carcinus maenas	FMRFamide related peptide	FMRFamide-like peptide
+NP01461	GYRKPPFNGSIF	12	Carcinus maenas	FMRFamide related peptide	SIFamide
+NP01462	RKPPFNGSIF	10	Carcinus maenas	FMRFamide related peptide	SIFamide
+NP01463	VYRKPPFNGSIF	12	Carcinus maenas	FMRFamide related peptide	SIFamide
+NP01464	ARSSIQSLLNLPQ	13	Coturnix coturnix japonica	FMRFamide related peptide	GnIH-RP2
+NP01465	SPLARSSIQSLLNLPQ	16	Coturnix coturnix japonica	FMRFamide related peptide	GnIH-RP2
+NP01466	SALNKNFIRF	10	Daphnia pulex	FMRFamide related peptide	FIRFamide1
+NP01467	DEERSFHPARPSRSLRSNFIRF	22	Daphnia pulex	FMRFamide related peptide	FIRFamide2
+NP01468	TRKLPFNGSIF	11	Daphnia pulex	FMRFamide related peptide	SIFamide
+NP01469	APSQDFMRF	9	Delia radicum	FMRFamide related peptide	FMRFamide
+NP01470	EQDFMRF	7	Delia radicum	FMRFamide related peptide	FMRFamide
+NP01471	KPNQDFMRF	9	Delia radicum	FMRFamide related peptide	FMRFamide
+NP01472	SPKQDFMRF	9	Delia radicum	FMRFamide related peptide	SPKQDFMRF-amide
+NP01473	AYRKPPFNGSIF	12	Drosophila melanogaster	FMRFamide related peptide	SIFamide
+NP01474	GNSFLRF	7	Galleria mellonella	FMRFamide related peptide	FLRFamide II
+NP01475	AMVRF	5	Galleria mellonella	FMRFamide related peptide	Gam-Neuropeptide F
+NP01476	APQRNFLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-like peptide
+NP01477	DRNFLRF	7	Homarus americanus	FMRFamide related peptide	FMRFamide-like peptide
+NP01478	NFLRF	5	Homarus americanus	FMRFamide related peptide	FMRFamide-like peptide
+NP01479	RNFLRF	6	Homarus americanus	FMRFamide related peptide	FMRFamide-like peptide
+NP01480	SKNFLRF	7	Homarus americanus	FMRFamide related peptide	FMRFamide-like peptide
+NP01481	APSKNFLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01482	DQNRNFLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01483	DRNYLRF	7	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01484	DTSTPALRLRF	11	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01485	FEPSLRLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01486	FSHDRNFLRF	10	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01487	GAHKNYLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01488	GDRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01489	GGGEYDDYGHLRF	13	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01490	GGRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01491	GNRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01492	GPPSLRLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01493	GPRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01494	GYPSRNYLRF	10	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01495	GYSDRNYLRF	10	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01496	HDRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01497	QLDRNFLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01498	QPRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01499	SDRNYLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01500	SGRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01501	SMPSLRLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01502	SPKNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01503	YSDRNYLRF	9	Homarus americanus	FMRFamide related peptide	FMRFamide-related peptide
+NP01504	NRNFLRF	7	Homarus americanus	FMRFamide related peptide	RFamide
+NP01505	RKPPFNGSIF	10	Homarus americanus	FMRFamide related peptide	SIFamide
+NP01506	VYRKPPFNGSIF	12	Homarus americanus	FMRFamide related peptide	SIFamide
+NP01507	APERNFLRF	9	Litopenaeus vannamei	FMRFamide related peptide	FMRFamide-related peptide
+NP01508	DGRNFLRF	8	Litopenaeus vannamei	FMRFamide related peptide	FMRFamide-related peptide
+NP01509	GYSNKDFVRF	10	Litopenaeus vannamei	FMRFamide related peptide	FMRFamide-related peptide
+NP01510	GYSNKNFVRF	10	Litopenaeus vannamei	FMRFamide related peptide	FMRFamide-related peptide
+NP01511	NRNFLRF	7	Litopenaeus vannamei	FMRFamide related peptide	FMRFamide-related peptide
+NP01512	SENRNFLRF	9	Litopenaeus vannamei	FMRFamide related peptide	FMRFamide-related peptide
+NP01513	GYRKPPFNGSIF	12	Litopenaeus vannamei	FMRFamide related peptide	SIFamide
+NP01514	RKPPFNGSIF	10	Litopenaeus vannamei	FMRFamide related peptide	SIFamide
+NP01515	APSQDFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFa-13
+NP01516	TPPQPSDNFIRF	12	Lucilia cuprina	FMRFamide related peptide	FMRFamide-18
+NP01517	AYRKPPFNGSIF	12	Lucilia cuprina	FMRFamide related peptide	SIFamide
+NP01518	NTLFRF	6	Lymnaea stagnalis	FMRFamide related peptide	FRF1
+NP01519	QGSLFRF	7	Lymnaea stagnalis	FMRFamide related peptide	FRF2
+NP01520	GGSLFRF	7	Lymnaea stagnalis	FMRFamide related peptide	FRF3/5
+NP01521	GTLLRF	6	Lymnaea stagnalis	FMRFamide related peptide	FRF4
+NP01522	TLFRF	5	Lymnaea stagnalis	FMRFamide related peptide	FRF6
+NP01523	EDVVHSFLRF	10	Manduca sexta	FMRFamide related peptide	FLRFamide I
+NP01524	GNSFLRF	7	Manduca sexta	FMRFamide related peptide	FLRFamide II
+NP01525	DPSFLRF	7	Manduca sexta	FMRFamide related peptide	FLRFamide III
+NP01526	SSIQSLLNLPQRF	13	NA	FMRFamide related peptide	Gonadotropin inhibitory hormone-related peptide 2
+NP01527	SIKPFANLPLRF	12	NA	FMRFamide related peptide	Gonadotropin-inhibitory hormone
+NP01528	AMAHLPLRLGKNREDSLSRWVPNLPQRF	28	NA	FMRFamide related peptide	RFamide-related peptide-3
+NP01529	SGRNMEVSLVRQVLNLPQRF	20	NA	FMRFamide related peptide	RFamide-related peptide-3
+NP01530	AYRKPPFNGSIF	12	Nasonia vitripennis	FMRFamide related peptide	SIFamide
+NP01531	AHKNFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01532	AHRNFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01533	APRNFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01534	AYNQSFLRF	9	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01535	DENRNFLRF	9	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01536	DGNRNFLRF	9	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01537	DRNFLRF	7	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01538	EFVDPNLRF	9	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01539	GAHKNYLRF	9	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01540	GDRNFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01541	GNRNFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01542	GRNFLRF	7	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01543	GRPNFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01544	NFLRF	5	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01545	NPSDFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01546	NQPGVNFL	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01547	NRNFLRF	7	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01548	NRSNLRF	7	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01549	PKSNFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01550	RDRNFLRF	8	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01551	SKNYLRF	7	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01552	SVGNRNFLRF	10	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01553	TNYGGFLRF	9	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01554	YGNKNYLRF	9	Ocypode ceratophthalma	FMRFamide related peptide	FLP-extended-FLRFa
+NP01555	GYRKPPFNOSIF	12	Ocypode ceratophthalma	FMRFamide related peptide	SIFamide
+NP01556	RKPPFNGSIF	10	Ocypode ceratophthalma	FMRFamide related peptide	SIFamide
+NP01557	ESVLHQPQRF	10	Oryzias latipes	FMRFamide related peptide	Neuropeptide FF
+NP01558	GYRKPPFNGS	10	Penaeus monodon	FMRFamide related peptide	SIFamide
+NP01559	RKPPFNGSIF	10	Penaeus monodon	FMRFamide related peptide	SIFamide
+NP01560	QTEDDDKFVRLS	12	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-19
+NP01561	SANQDFMRF	9	Sarcophaga bullata	FMRFamide related peptide	Neb-FMRFamide-4
+NP01562	EEDFMRF	7	Sarcophaga bullata	FMRFamide related peptide	Neb-FMRFamide-7
+NP01563	GGKMFMRF	8	Sarcophaga bullata	FMRFamide related peptide	Neb-FMRFamide-7
+NP01564	AGQDNFMRF	9	Sarcophaga bullata	FMRFamide related peptide	Neb-FMRFamide-8
+NP01565	AYRKPPFNGSLF	12	Sarcophaga bullata	FMRFamide related peptide	Neb-LFamide
+NP01566	SPAPANKVPHSAANLPLRF	19	Siberian hamster	FMRFamide related peptide	RFamide-related peptide-1
+NP01567	TLSRVPSLPQRF	12	Siberian hamster	FMRFamide related peptide	RFamide-related peptide-3
+NP01568	SIKPFSNLPLRF	12	Taeniopygia guttata	FMRFamide related peptide	Gonadotropin-inhibitory hormone
+NP01569	FMRF	4	Alitta virens	FMRFamide related peptide	FMRFamide
+NP01570	QGRF	4	Anthopleura elegantissima	FMRFamide related peptide	Antho-RFamide
+NP01571	FLRF	4	Aplysia californica	FMRFamide related peptide	FLRF-amide
+NP01572	FMRF	4	Aplysia californica	FMRFamide related peptide	FMRF-amide
+NP01573	RYIRF	5	Arthurdendyus triangulatus	FMRFamide related peptide	FMRFamide-like neuropeptide RYIRF-amide
+NP01574	KNEFIRF	7	Ascaris suum	FMRFamide related peptide	Neuropeptide AF1
+NP01575	KHEYLRF	7	Ascaris suum	FMRFamide related peptide	Neuropeptide AF2
+NP01576	SGKPTFIRF	9	Ascaris suum	FMRFamide related peptide	FMRFamide-like neuropeptide AF5
+NP01577	AGPRFIRF	8	Ascaris suum	FMRFamide related peptide	FMRFamide-like neuropeptide AF7
+NP01578	GLGPRPLRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF9
+NP01579	SDIGISEPNFLRF	13	Ascaris suum	FMRFamide related peptide	Neuropeptide AF11
+NP01580	GFGDEMSMPGVLRF	14	Ascaris suum	FMRFamide related peptide	Neuropeptide AF10
+NP01581	SDMPGVLRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF13
+NP01582	SMPGVLRF	8	Ascaris suum	FMRFamide related peptide	Neuropeptide AF14
+NP01583	GMPGVLRF	8	Ascaris suum	FMRFamide related peptide	Neuropeptide AF20
+NP01584	AVPGVLRF	8	Ascaris suum	FMRFamide related peptide	Neuropeptide AF3
+NP01585	GDVPGVLRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF4
+NP01586	AQSFLRL	7	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-1
+NP01587	PAPETNYLRDP	11	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-10
+NP01588	SPALDDEHNDNFLRF	15	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-12
+NP01589	PDYLQLARA	9	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-2
+NP01590	GPDSTFLRL	9	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-3
+NP01591	GVDSSFLRL	9	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-4
+NP01592	TDRNFLRL	8	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-5
+NP01593	ARSDNFVRL	9	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-7
+NP01594	ARTDNFVRL	9	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-8
+NP01595	GRGGASNYVRL	11	Austrophasma gansbaaiense	FMRFamide related peptide	Extended FMRFamide-9
+NP01596	AQSFLRL	7	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-1
+NP01597	PAPESGFIRDP	11	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-10
+NP01598	SPTLDDEHNDNFVRL	15	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-12
+NP01599	SDYLQLAR	8	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-2
+NP01600	GPDSSFLRL	9	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-3
+NP01601	GVDSSFLRL	9	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-4
+NP01602	TDRNFLRL	8	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-5
+NP01603	ARSDNFVRL	9	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-7
+NP01604	ARTDNFVRL	9	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-8
+NP01605	GRGGASNYVRL	11	Austrophasma rawsonvillense	FMRFamide related peptide	Extended FMRFamide-9
+NP01606	ARNHFIRL	8	Bombyx mori	FMRFamide related peptide	ARNHFIRL-amide
+NP01607	DPSFIRF	7	Bombyx mori	FMRFamide related peptide	DPSFIRF-amide
+NP01608	SAIDRSMIRF	10	Bombyx mori	FMRFamide related peptide	SAIDRSMIRF-amide
+NP01609	SASFVRF	7	Bombyx mori	FMRFamide related peptide	SASFVRF-amide
+NP01610	AGEGLSSPFWSLAAPQRF	18	Bos taurus	FMRFamide related peptide	Neuropeptide AF
+NP01611	FLFQPQRF	8	Bos taurus	FMRFamide related peptide	Neuropeptide FF
+NP01612	SPAFLFQPQRF	11	Bos taurus	FMRFamide related peptide	Neuropeptide SF
+NP01613	SLTFEEVKDWAPKIKMNKPVVNKMPPSAANLPLRF	35	Bos taurus	FMRFamide related peptide	Neuropeptide NPSF
+NP01614	WVPNLPQRF	9	Bos taurus	FMRFamide related peptide	Neuropeptide NPVF (By similarity)
+NP01615	MPPSAANLPLRF	12	Bos taurus	FMRFamide related peptide	Neuropeptide RFRP-1 (Potential)
+NP01616	STRAMAHLPLRL	12	Bos taurus	FMRFamide related peptide	Neuropeptide RFRP-2 (Potential)
+NP01617	AQTFVRF	7	Caenorhabditis briggsae	FMRFamide related peptide	AQTFVRF-amide 1 (By similarity)
+NP01618	GQTFVRF	7	Caenorhabditis briggsae	FMRFamide related peptide	GQTFVRF-amide (By similarity)
+NP01619	VPSAGDMMVRF	11	Caenorhabditis briggsae	FMRFamide related peptide	Neuropeptide AF 36
+NP01620	EASAFGDIIGELKGKGLGGRMRF	23	Caenorhabditis briggsae	FMRFamide related peptide	EASAFGDIIGELKGKGLGGRMRF-amide (Bysimilarity)
+NP01621	AAADPNFLRF	10	Caenorhabditis elegans	FMRFamide related peptide	AAADPNFLRF-amide
+NP01622	AGSDPNFLRF	10	Caenorhabditis elegans	FMRFamide related peptide	AGSDPNFLRF-amide
+NP01623	ASGDPNFLRF	10	Caenorhabditis elegans	FMRFamide related peptide	ASGDPNFLRF-amide
+NP01624	SDPNFLRF	8	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide PF1
+NP01625	PNFLRF	6	Caenorhabditis elegans	FMRFamide related peptide	PNFLRF-amide
+NP01626	PNFMRY	6	Caenorhabditis elegans	FMRFamide related peptide	PNFMRY-amide
+NP01627	SADPNFLRF	9	Caenorhabditis elegans	FMRFamide related peptide	SADPNFLRF-amide
+NP01628	SQPNFLRF	8	Caenorhabditis elegans	FMRFamide related peptide	SQPNFLRF-amide
+NP01629	ASEDALFGTMRF	12	Caenorhabditis elegans	FMRFamide related peptide	ASEDALFGTMRF-amide
+NP01630	EAEEPLGTMRF	11	Caenorhabditis elegans	FMRFamide related peptide	EAEEPLGTMRF-amide
+NP01631	NPENDTPFGTMRF	13	Caenorhabditis elegans	FMRFamide related peptide	NPENDTPFGTMRF-amide
+NP01632	NPLGTMRF	8	Caenorhabditis elegans	FMRFamide related peptide	NPLGTMRF-amide (Potential)
+NP01633	SADDSAPFGTMRF	13	Caenorhabditis elegans	FMRFamide related peptide	SADDSAPFGTMRF-amide
+NP01634	SAEPFGTMRF	10	Caenorhabditis elegans	FMRFamide related peptide	SAEPFGTMRF-amide
+NP01635	SPLGTMRF	8	Caenorhabditis elegans	FMRFamide related peptide	SPLGTMRF-amide (Potential)
+NP01636	TPLGTMRF	8	Caenorhabditis elegans	FMRFamide related peptide	TPLGTMRF-amide
+NP01637	AGAKFIRF	8	Caenorhabditis elegans	FMRFamide related peptide	AGAKFIRF-amide
+NP01638	APKPKFIRF	9	Caenorhabditis elegans	FMRFamide related peptide	APKPKFIRF-amide (Potential)
+NP01639	GAKFIRF	7	Caenorhabditis elegans	FMRFamide related peptide	GAKFIRF-amide
+NP01640	KSAYMRF	7	Caenorhabditis elegans	FMRFamide related peptide	KSAYMRF-amide 1
+NP01641	QQDSEVEREMM	11	Caenorhabditis elegans	FMRFamide related peptide	QQDSEVEREMM
+NP01642	KPSFVRF	7	Caenorhabditis elegans	FMRFamide related peptide	KPSFVRF-amide 1
+NP01643	AMRNALVRF	9	Caenorhabditis elegans	FMRFamide related peptide	AMRNALVRF-amide (Potential)
+NP01644	ASGGMRNALVRF	12	Caenorhabditis elegans	FMRFamide related peptide	ASGGMRNALVRF-amide
+NP01645	NGAPQPFVRF	10	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide AF22
+NP01646	SPLDEEDFAPESPLQ	15	Caenorhabditis elegans	FMRFamide related peptide	SPLDEEDFAPESPLQ-amide
+NP01647	AADGAPLIRF	10	Caenorhabditis elegans	FMRFamide related peptide	AADGAPLIRF-amide 1
+NP01648	AMDSPLIRF	9	Caenorhabditis elegans	FMRFamide related peptide	AMDSPLIRF-amide
+NP01649	APEASPFIRF	10	Caenorhabditis elegans	FMRFamide related peptide	APEASPFIRF-amide 2
+NP01650	ASPSAPLIRF	10	Caenorhabditis elegans	FMRFamide related peptide	ASPSAPLIRF-amide
+NP01651	ASSAPLIRF	9	Caenorhabditis elegans	FMRFamide related peptide	ASSAPLIRF-amide (Potential)
+NP01652	SAAAPLIRF	9	Caenorhabditis elegans	FMRFamide related peptide	SAAAPLIRF-amide
+NP01653	SDRPTRAMDSPLIRF	15	Caenorhabditis elegans	FMRFamide related peptide	SDRPTRAMDSPLIRF-amide (Potential)
+NP01654	SPSAVPLIRF	10	Caenorhabditis elegans	FMRFamide related peptide	SPSAVPLIRF-amide
+NP01655	KHEYLRF	7	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide AF2
+NP01656	AQTFVRF	7	Caenorhabditis elegans	FMRFamide related peptide	AQTFVRF-amide 1
+NP01657	GQTFVRF	7	Caenorhabditis elegans	FMRFamide related peptide	GQTFVRF-amide
+NP01658	DVPGVLRF	8	Caenorhabditis elegans	FMRFamide related peptide	DVPGVLRF-amide
+NP01659	EIPGVLRF	8	Caenorhabditis elegans	FMRFamide related peptide	EIPGVLRF-amide
+NP01660	EMPGVLRF	8	Caenorhabditis elegans	FMRFamide related peptide	EMPGVLRF-amide
+NP01661	SEVPGVLRF	9	Caenorhabditis elegans	FMRFamide related peptide	SEVPGVLRF-amide
+NP01662	SVPGVLRF	8	Caenorhabditis elegans	FMRFamide related peptide	SVPGVLRF-amide 1
+NP01663	WANQVRF	7	Caenorhabditis elegans	FMRFamide related peptide	WANQVRF-amide
+NP01664	VVGQQDFLRF	10	Caenorhabditis elegans	FMRFamide related peptide	VVGQQDFLRF-amide (Potential)
+NP01665	VPSAGDMMVRF	11	Caenorhabditis elegans	FMRFamide related peptide	Neuropeptide AF 36
+NP01666	EFNADDLTLRF	11	Caenorhabditis elegans	FMRFamide related peptide	EFNADDLTLRF-amide
+NP01667	GGAGEPLAFSPDMLSLRF	18	Caenorhabditis elegans	FMRFamide related peptide	GGAGEPLAFSPDMLSLRF-amide
+NP01668	EASAFGDIIGELKGKGLGGRMRF	23	Caenorhabditis elegans	FMRFamide related peptide	EASAFGDIIGELKGKGLGGRMRF-amide
+NP01669	QGRF	4	Calliactis parasitica	FMRFamide related peptide	Antho-RFamide
+NP01670	GYNRSFLRF	9	Callinectes sapidus	FMRFamide related peptide	FMRFamide-like neuropeptide
+NP01671	TPQQDFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-1
+NP01672	TPSQDFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-2
+NP01673	SPSQDFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-3
+NP01674	KPNQDFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-4
+NP01675	APGQDFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-5
+NP01676	ASGQDFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-6
+NP01677	AXGQDFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-7
+NP01678	GANDFMRF	8	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-8
+NP01679	SVNTKNDFMRF	11	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-9
+NP01680	TPNRDFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-10
+NP01681	PDNFMRF	7	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-11
+NP01682	AAGQDNFMRF	10	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-12
+NP01683	AGQDGFMRF	9	Calliphora vomitoria	FMRFamide related peptide	CalliFMRFamide-13
+NP01684	APNQPSDNMIRF	12	Calliphora vomitoria	FMRFamide related peptide	CalliMIRFamide-1
+NP01685	SIKPSAYLPLRF	12	Coturnix coturnix japonica	FMRFamide related peptide	Gonadotropin inhibitory hormone
+NP01686	VPNSVANLPLRF	12	Coturnix coturnix japonica	FMRFamide related peptide	Gonadotropin inhibitory hormone-related peptide 1 
+NP01687	SSIQSLLNLSQRF	13	Coturnix coturnix japonica	FMRFamide related peptide	Gonadotropin inhibitory hormone-related peptide 2
+NP01688	AYRKPPFNGSIF	12	Delia radicum	FMRFamide related peptide	SIFamide-related peptide
+NP01689	GDNFMRF	7	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide GDNFMRF-amide
+NP01690	SAQGQDFMRF	10	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide SAQGQDFMRF-amide
+NP01691	GQDFMRF	7	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide GQDFMRF-amide
+NP01692	PDNFMRF	7	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide PDNFMRF-amide
+NP01693	GGNDFMRF	8	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide GGNDFMRF-amide
+NP01694	PGQDFMRF	8	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide PGQDFMRF-amide
+NP01695	APGQDFMRF	9	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide APGQDFMRF-amide
+NP01696	TPGQDFMRF	9	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide TPGQDFMRF-amide
+NP01697	SAPGQDFMRF	10	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide SAPGQDFMRF-amide
+NP01698	LPEQDFMRF	9	Delia radicum	FMRFamide related peptide	FMRFamide-like neuropeptide LPEQDFMRF-amide
+NP01699	ALSGDAFLRF	10	Doryteuthis opalescens	FMRFamide related peptide	ALSGDAFLRF-amide
+NP01700	FIRF	4	Doryteuthis opalescens	FMRFamide related peptide	FIRF-amide
+NP01701	FLRF	4	Doryteuthis opalescens	FMRFamide related peptide	FLRF-amide
+NP01702	FMRF	4	Doryteuthis opalescens	FMRFamide related peptide	FMRF-amide 1
+NP01703	ALSGDAFLRF	10	Doryteuthis pealeii	FMRFamide related peptide	ALSGDAFLRF-amide (By similarity)
+NP01704	FIRF	4	Doryteuthis pealeii	FMRFamide related peptide	FIRF-amide (By similarity)
+NP01705	FLRF	4	Doryteuthis pealeii	FMRFamide related peptide	FLRF-amide (By similarity)
+NP01706	FMRF	4	Doryteuthis pealeii	FMRFamide related peptide	FMRF-amide 1 (By similarity)
+NP01707	AAMDRY	6	Drosophila melanogaster	FMRFamide related peptide	AAMDRY-amide
+NP01708	QAEQLPPEGSYAGSDELEGMA	21	Drosophila melanogaster	FMRFamide related peptide	Corticotropin-releasing factor-like
+NP01709	DPKQDFMRF	9	Drosophila melanogaster	FMRFamide related peptide	DPKQDFMRF-amide
+NP01710	SVQDNFMHF	9	Drosophila melanogaster	FMRFamide related peptide	FMRFamide A
+NP01711	MDSNFIRF	8	Drosophila melanogaster	FMRFamide related peptide	MDSNFIRF-amide
+NP01712	PDNFMRF	7	Drosophila melanogaster	FMRFamide related peptide	PDNFMRF-amide
+NP01713	SAPQDFVRS	9	Drosophila melanogaster	FMRFamide related peptide	SAPQDFVRS-amide
+NP01714	SDNFMRF	7	Drosophila melanogaster	FMRFamide related peptide	SDNFMRF-amide
+NP01715	SPKQDFMRF	9	Drosophila melanogaster	FMRFamide related peptide	SPKQDFMRF-amide
+NP01716	TPAEDFMRF	9	Drosophila melanogaster	FMRFamide related peptide	TPAEDFMRF-amide
+NP01717	APPSDFMRF	9	Drosophila virilis	FMRFamide related peptide	APPSDFMRF-amide
+NP01718	APSDFMRF	8	Drosophila virilis	FMRFamide related peptide	APSDFMRF-amide
+NP01719	DPKQDFMRF	9	Drosophila virilis	FMRFamide related peptide	DPKQDFMRF-amide
+NP01720	DPSQDFMRF	9	Drosophila virilis	FMRFamide related peptide	DPSQDFMRF-amide
+NP01721	MDSNFMRF	8	Drosophila virilis	FMRFamide related peptide	MDSNFMRF-amide
+NP01722	PDNFMRF	7	Drosophila virilis	FMRFamide related peptide	PDNFMRF-amide
+NP01723	SAPTEFERN	9	Drosophila virilis	FMRFamide related peptide	SAPTEFERN-amide
+NP01724	SDNFMRF	7	Drosophila virilis	FMRFamide related peptide	SDNFMRF-amide
+NP01725	SLQDNFMHF	9	Drosophila virilis	FMRFamide related peptide	SLQDNFMHF-amide
+NP01726	SPKQDFMRF	9	Drosophila virilis	FMRFamide related peptide	SPKQDFMRF-amide
+NP01727	LPLRF	5	Gallus gallus	FMRFamide related peptide	FMRFamide-like neuropeptide
+NP01728	KSAYMRF	7	Haemonchus contortus	FMRFamide related peptide	FMRFamide-like neuropeptide PF3
+NP01729	GDPFLRF	7	Helisoma trivolvis	FMRFamide related peptide	FMRFamide-like neuropeptide GDPFLRF-amide
+NP01730	FLRF	4	Helisoma trivolvis	FMRFamide related peptide	FLRFamide
+NP01731	FMRF	4	Helisoma trivolvis	FMRFamide related peptide	FMRFamide
+NP01732	QDPFLRI	7	Helix aspersa	FMRFamide related peptide	KQDPFLRI-amide
+NP01733	NDPFLRFGKKSDPFLRF	17	Helix aspersa	FMRFamide related peptide	NDPFLRFGKKSDPFLRF-amide
+NP01734	QDPFLRF	7	Helix aspersa	FMRFamide related peptide	QDPFLRF-amide
+NP01735	QFYRF	5	Helix aspersa	FMRFamide related peptide	QFYRF-amide
+NP01736	ENNNGYIRF	9	Helix aspersa	FMRFamide related peptide	ENNNGYIRF-amide
+NP01737	SYGWAEGDTTDNEYLRF	17	Helix aspersa	FMRFamide related peptide	FMRFamide-like
+NP01738	NDPFLRF	7	Helix aspersa	FMRFamide related peptide	NDPFLRF-amide
+NP01739	NDPYLRF	7	Helix aspersa	FMRFamide related peptide	NDPYLRF-amide
+NP01740	SEPYLRF	7	Helix aspersa	FMRFamide related peptide	SEPYLRF-amide
+NP01741	FLRF	4	Helix aspersa	FMRFamide related peptide	FLRF-amide
+NP01742	FMRF	4	Helix aspersa	FMRFamide related peptide	FMRF-amide
+NP01743	AQSFLRL	7	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-1
+NP01744	PAPDSSFLRDP	11	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-10
+NP01745	SPALDDEHNDNFLRL	15	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-12
+NP01746	SDYLQLAR	8	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-2
+NP01747	GPSAFLRL	8	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-3
+NP01748	GVDSSFLRL	9	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-4
+NP01749	TDRNFLRL	8	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-5
+NP01750	ARSDNFVRL	9	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-7
+NP01751	ARTDNFVRL	9	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-8
+NP01752	GRGGASNYVRL	11	Hemilobophasma montaguense	FMRFamide related peptide	Extended FMRFamide-9
+NP01753	YLRF	4	Hirudo medicinalis	FMRFamide related peptide	FMRFamide-like neuropeptide YLRF-amide
+NP01754	YMRF	4	Hirudo medicinalis	FMRFamide related peptide	FMRFamide-like neuropeptide YMRF-amide
+NP01755	GGKYMRF	7	Hirudo medicinalis	FMRFamide related peptide	FMRFamide-like neuropeptide GGKYMRF-amide
+NP01756	FLRF	4	Hirudo medicinalis	FMRFamide related peptide	FLRFamide
+NP01757	FMRF	4	Hirudo medicinalis	FMRFamide related peptide	FMRFamide
+NP01758	SDRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-like neuropeptide 3
+NP01759	TNRNFLRF	8	Homarus americanus	FMRFamide related peptide	FMRFamide-like neuropeptide 4
+NP01760	AGEGLNSQFWSLAAPQRF	18	Homo sapiens	FMRFamide related peptide	Neuropeptide AF
+NP01761	FLFQPQRF	8	Homo sapiens	FMRFamide related peptide	Neuropeptide FF
+NP01762	SQAFLFQPQRF	11	Homo sapiens	FMRFamide related peptide	Neuropeptide SF
+NP01763	SLNFEELKDWGPKNVIKMSTPAVNKMPHSFANLPLRF	37	Homo sapiens	FMRFamide related peptide	Neuropeptide NPSF (Potential)
+NP01764	VPNLPQRF	8	Homo sapiens	FMRFamide related peptide	Neuropeptide NPVF
+NP01765	MPHSFANLPLRF	12	Homo sapiens	FMRFamide related peptide	Neuropeptide RFRP-1
+NP01766	SAGATANLPLRS	12	Homo sapiens	FMRFamide related peptide	Neuropeptide RFRP-2 (Potential)
+NP01767	AQSFLRL	7	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-1
+NP01768	PAPDSSFLRDP	11	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-10
+NP01769	SPALDDEHNDNFLRL	15	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-12
+NP01770	SDYLQLAR	8	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-2
+NP01771	GPDSTFLRL	9	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-3
+NP01772	GVDSSFLRL	9	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-4
+NP01773	TDRNFLRL	8	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-5
+NP01774	ARSDNFVRL	9	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-7
+NP01775	ARTDNFVRL	9	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-8
+NP01776	GRGGASNYVRL	11	Karoophasma biedouwense	FMRFamide related peptide	Extended FMRFamide-9
+NP01777	AQSFLRL	7	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-1
+NP01778	PAPESSFIRDP	11	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-10
+NP01779	SPALDDERNDNFIRL	15	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-12
+NP01780	SDYLQLAR	8	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-2
+NP01781	GPDSTFLRL	9	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-3
+NP01782	GVDSSFLRL	9	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-4
+NP01783	TDRNFLRL	8	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-5
+NP01784	ARSDNFVRL	9	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-7
+NP01785	ARTDNFVRL	9	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-8
+NP01786	GRGGASNYVRL	11	Karoophasma botterkloofense	FMRFamide related peptide	Extended FMRFamide-9
+NP01787	SIPNLPQRF	9	Lithobates catesbeiana	FMRFamide related peptide	fGRP-related peptide 1
+NP01788	YLSGKTKVQSMANLPQRF	18	Lithobates catesbeiana	FMRFamide related peptide	fGRP-related peptide 2
+NP01789	AQYTNHFVHSLDTLPLRF	18	Lithobates catesbeiana	FMRFamide related peptide	fGRP-related peptide 3
+NP01790	SLKPAANLPLRF	12	Lithobates catesbeiana	FMRFamide related peptide	Growth hormone-releasing peptide
+NP01791	AQSFLRL	7	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-1
+NP01792	PAPDSSFIRDP	11	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-10
+NP01793	SPAFDDEHNDNFLRL	15	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-12
+NP01794	SDYLQLARG	9	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-2
+NP01795	LPDSSFLRL	9	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-3
+NP01796	GVDSSFLRL	9	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-4
+NP01797	TDRNFLRL	8	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-5
+NP01798	ARSDNFVRL	9	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-7
+NP01799	ARTDNFVRL	9	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-8
+NP01800	GHGGASNYVRL	11	Lobatophasma redelinghuysense	FMRFamide related peptide	Extended FMRFamide-9
+NP01801	PDVDHVFLRF	10	Locusta migratoria	FMRFamide related peptide	SchistoFLRFamide
+NP01802	SVQDNFIRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-1
+NP01803	GPSQDFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-13
+NP01804	AGQDNFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-14
+NP01805	NPQQDFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-15
+NP01806	TPQQDFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-16
+NP01807	PDNFMRF	7	Lucilia cuprina	FMRFamide related peptide	FMRFamide-17
+NP01808	TPPQPADNFIRF	12	Lucilia cuprina	FMRFamide related peptide	FMRFamide-18
+NP01809	SANAKNDFMRF	11	Lucilia cuprina	FMRFamide related peptide	FMRFamide-19
+NP01810	GDNFMRF	7	Lucilia cuprina	FMRFamide related peptide	FMRFamide-2
+NP01811	SANTKNDFMRF	11	Lucilia cuprina	FMRFamide related peptide	FMRFamide-3
+NP01812	GGNDFMRF	8	Lucilia cuprina	FMRFamide related peptide	FMRFamide-4
+NP01813	SPTQDFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-5
+NP01814	AAASDNFMRF	10	Lucilia cuprina	FMRFamide related peptide	FMRFamide-6
+NP01815	QANQDFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-7
+NP01816	AAGQDFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-8
+NP01817	SPSQDFMRF	9	Lucilia cuprina	FMRFamide related peptide	FMRFamide-9/10/11/12
+NP01818	EFFPL	5	Lymnaea stagnalis	FMRFamide related peptide	EFFPL-amide
+NP01819	GDPFLRF	7	Lymnaea stagnalis	FMRFamide related peptide	GDPFLRF-amide 1
+NP01820	HDYMRF	6	Lymnaea stagnalis	FMRFamide related peptide	HDYMRF-amide
+NP01821	SDPFFRF	7	Lymnaea stagnalis	FMRFamide related peptide	SDPFFRF-amide
+NP01822	SDPFLRF	7	Lymnaea stagnalis	FMRFamide related peptide	SDPFLRF-amide 1
+NP01823	SDPYLRF	7	Lymnaea stagnalis	FMRFamide related peptide	SDPYLRF-amide
+NP01824	SKPYMRF	7	Lymnaea stagnalis	FMRFamide related peptide	SKPYMRF-amide
+NP01825	SSFPRY	6	Lymnaea stagnalis	FMRFamide related peptide	SSFPRY-amide
+NP01826	EFLRI	5	Lymnaea stagnalis	FMRFamide related peptide	EFLRIamide
+NP01827	FLRF	4	Lymnaea stagnalis	FMRFamide related peptide	FLRF-amide 1
+NP01828	FMRF	4	Lymnaea stagnalis	FMRFamide related peptide	FMRF-amide 1
+NP01829	SEQPDVDDYLRDVVLQSEEPLY	22	Lymnaea stagnalis	FMRFamide related peptide	PN
+NP01830	QFYRI	5	Lymnaea stagnalis	FMRFamide related peptide	QFYRI-amide
+NP01831	DRNFLRF	7	Macrobrachium rosenbergii	FMRFamide related peptide	FMRFamide-like neuropeptide FLP1
+NP01832	ADKNFLRF	8	Macrobrachium rosenbergii	FMRFamide related peptide	FMRFamide-like neuropeptide FLP2
+NP01833	NYDKNFLRF	9	Macrobrachium rosenbergii	FMRFamide related peptide	FMRFamide-like neuropeptide FLP3
+NP01834	APALRLRF	8	Macrobrachium rosenbergii	FMRFamide related peptide	FMRFamide-like neuropeptide FLP4
+NP01835	DRTPALRLRF	10	Macrobrachium rosenbergii	FMRFamide related peptide	FMRFamide-like neuropeptide FLP5
+NP01836	DGGRNFLRF	9	Macrobrachium rosenbergii	FMRFamide related peptide	FMRFamide-like neuropeptide FLP6
+NP01837	GYGDRNFLRF	10	Macrobrachium rosenbergii	FMRFamide related peptide	FMRFamide-like neuropeptide FLP7
+NP01838	VSHNNFLRF	9	Macrobrachium rosenbergii	FMRFamide related peptide	FMRFamide-like neuropeptide FLP8
+NP01839	FMRF	4	Macrocallista nimbosa	FMRFamide related peptide	FMRFamide
+NP01840	QDVVHSFLRF	10	Manduca sexta	FMRFamide related peptide	Myosuppressin
+NP01841	AQSFLRL	7	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-1
+NP01842	PAASESGFRRDP	12	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-10
+NP01843	SPGALEDEHNDNFLRF	16	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-12
+NP01844	ADYLQLARA	9	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-2
+NP01845	GPESAFLRL	9	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-3
+NP01846	GVDSSFLRL	9	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-4
+NP01847	TDRNFLRL	8	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-5
+NP01848	ARSDNFVRL	9	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-7
+NP01849	GRGGSSNYVRL	11	Mantophasma kudubergense	FMRFamide related peptide	Extended FMRFamide-9
+NP01850	GNFFRF	6	Moniezia expansa	FMRFamide related peptide	FMRFamide-like neuropeptide GNFFRF-amide
+NP01851	QFWSLAAPQRF	11	Mus musculus	FMRFamide related peptide	Neuropeptide AF-like
+NP01852	FLFQPQRF	8	Mus musculus	FMRFamide related peptide	Neuropeptide FF
+NP01853	SPAFLFQPQRF	11	Mus musculus	FMRFamide related peptide	Neuropeptide SF
+NP01854	SVSFQELKDWGAKNVIKMSPAPANKVPHSAANLPLRF	37	Mus musculus	FMRFamide related peptide	Neuropeptide NPSF (Potential)
+NP01855	VNMEAGTRSHFPSLPQRF	18	Mus musculus	FMRFamide related peptide	Neuropeptide NPVF (Potential)
+NP01856	VPHSAANLPLRF	12	Mus musculus	FMRFamide related peptide	Neuropeptide RFRP-1 (Potential)
+NP01857	ASGGQDFMRF	10	Musca domestica	FMRFamide related peptide	MudFMRFamide-14
+NP01858	APSGQDFMRF	10	Musca domestica	FMRFamide related peptide	MudFMRFamide-15
+NP01859	TPAQSSDFMRF	11	Musca domestica	FMRFamide related peptide	MudFMRFamide-16
+NP01860	PDNFMRF	7	Musca domestica	FMRFamide related peptide	MudFMRFamide-17
+NP01861	TPTQSSDFMRF	11	Musca domestica	FMRFamide related peptide	MudFMRFamide-18
+NP01862	GDNFMRF	7	Musca domestica	FMRFamide related peptide	MudFMRFamide-2
+NP01863	SVGGSGGNDDNFMRF	15	Musca domestica	FMRFamide related peptide	MudFMRFamide-3
+NP01864	ASGSSDFMRF	10	Musca domestica	FMRFamide related peptide	MudFMRFamide-4
+NP01865	AGQDNFMRF	9	Musca domestica	FMRFamide related peptide	MudFMRFamide-5
+NP01866	AAGQDFMRF	9	Musca domestica	FMRFamide related peptide	MudFMRFamide-6
+NP01867	GSGQDFMRF	9	Musca domestica	FMRFamide related peptide	MudFMRFamide-7
+NP01868	SPGSQDFMRF	10	Musca domestica	FMRFamide related peptide	MudFMRFamide-8
+NP01869	NPGSQDFMRF	10	Musca domestica	FMRFamide related peptide	MudFMRFamide-9
+NP01870	ALAGDHFFRF	10	Mytilus edulis	FMRFamide related peptide	FMRFamide-like neuropeptide ALAGDHFFRF-amide
+NP01871	AQSFLRL	7	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-1
+NP01872	PAPESNFVRDP	11	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-10
+NP01873	SPSLDDERNDNFVRL	15	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-12
+NP01874	SDYLQLAR	8	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-2
+NP01875	GPDSAFLRL	9	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-3
+NP01876	GVDSSFLRL	9	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-4
+NP01877	TDRNFLRL	8	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-5
+NP01878	GRAENFLRL	9	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-6
+NP01879	ARSDNFVRL	9	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-7
+NP01880	ARTDNFVRL	9	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-8
+NP01881	GRGGASNYVRL	11	Namaquaphasma ookiepense	FMRFamide related peptide	Extended FMRFamide-9
+NP01882	SLTFEEVKDWGPKIKMNTPAVNKMPPSAANLPLRF	35	Ovis aries	FMRFamide related peptide	Neuropeptide NPSF (By similarity)
+NP01883	VPNLPQRF	8	Ovis aries	FMRFamide related peptide	Neuropeptide NPVF (By similarity)
+NP01884	MPPSAANLPLRF	12	Ovis aries	FMRFamide related peptide	Neuropeptide RFRP-1 (Potential)
+NP01885	STRVMAHLPLRL	12	Ovis aries	FMRFamide related peptide	Neuropeptide RFRP-2 (Potential)
+NP01886	AQSFLRL	7	Pachyphasma brandbergense	FMRFamide related peptide	Extended FMRFamide-1
+NP01887	SPALADEHNDNFLRF	15	Pachyphasma brandbergense	FMRFamide related peptide	Extended FMRFamide-12
+NP01888	SDYLQLART	9	Pachyphasma brandbergense	FMRFamide related peptide	Extended FMRFamide-2
+NP01889	GPESAFLRL	9	Pachyphasma brandbergense	FMRFamide related peptide	Extended FMRFamide-3
+NP01890	GVDSSFLRL	9	Pachyphasma brandbergense	FMRFamide related peptide	Extended FMRFamide-4
+NP01891	TDRNFLRL	8	Pachyphasma brandbergense	FMRFamide related peptide	Extended FMRFamide-5
+NP01892	ARSDNFVRL	9	Pachyphasma brandbergense	FMRFamide related peptide	Extended FMRFamide-7
+NP01893	GRGGASNYVRL	11	Pachyphasma brandbergense	FMRFamide related peptide	Extended FMRFamide-9
+NP01894	KHEYLRF	7	Panagrellus redivivus	FMRFamide related peptide	Neuropeptide AF2
+NP01895	SDPNFLRF	8	Panagrellus redivivus	FMRFamide related peptide	Neuropeptide PF1
+NP01896	SADPNFLRF	9	Panagrellus redivivus	FMRFamide related peptide	FMRFamide-like neuropeptide PF2
+NP01897	KSAYMRF	7	Panagrellus redivivus	FMRFamide related peptide	FMRFamide-like neuropeptide PF3
+NP01898	KPNFIRF	7	Panagrellus redivivus	FMRFamide related peptide	Neuropeptide PF4
+NP01899	AMRNALVRF	9	Panagrellus redivivus	FMRFamide related peptide	FMRFamide-like neuropeptide PF5
+NP01900	NGAPQPFVRF	10	Panagrellus redivivus	FMRFamide related peptide	FMRFamide-like neuropeptide PF6
+NP01901	GDRNFLRF	8	Penaeus monodon	FMRFamide related peptide	FMRFamide-like neuropeptide FLP1
+NP01902	AYSNLNYLRF	10	Penaeus monodon	FMRFamide related peptide	FMRFamide-like neuropeptide FLP2
+NP01903	AQPSMRLRF	9	Penaeus monodon	FMRFamide related peptide	FMRFamide-like neuropeptide FLP3
+NP01904	SQPSMRLRF	9	Penaeus monodon	FMRFamide related peptide	FMRFamide-like neuropeptide FLP4
+NP01905	SMPSLRLRF	9	Penaeus monodon	FMRFamide related peptide	FMRFamide-like neuropeptide FLP5
+NP01906	DGRTPALRLRF	11	Penaeus monodon	FMRFamide related peptide	FMRFamide-like neuropeptide FLP6
+NP01907	GYRKPPFNGSIF	12	Penaeus monodon	FMRFamide related peptide	SIFamide
+NP01908	QLLAERH	7	Polyorchis penicillatus	FMRFamide related peptide	Neuropeptide
+NP01909	QLLGGRF	7	Polyorchis penicillatus	FMRFamide related peptide	Pol-RFamide-I
+NP01910	QWLKGRF	7	Polyorchis penicillatus	FMRFamide related peptide	Pol-RFamide-II
+NP01911	AQSFLRL	7	Praedatophasma maraisi	FMRFamide related peptide	Extended FMRFamide-1
+NP01912	ADYLQLTRA	9	Praedatophasma maraisi	FMRFamide related peptide	Extended FMRFamide-2
+NP01913	GPETAFLRL	9	Praedatophasma maraisi	FMRFamide related peptide	Extended FMRFamide-3
+NP01914	GVDSSFLRL	9	Praedatophasma maraisi	FMRFamide related peptide	Extended FMRFamide-4
+NP01915	TDRNFLRL	8	Praedatophasma maraisi	FMRFamide related peptide	Extended FMRFamide-5
+NP01916	ARSDNFVRL	9	Praedatophasma maraisi	FMRFamide related peptide	Extended FMRFamide-7
+NP01917	GRGGPSNYVRL	11	Praedatophasma maraisi	FMRFamide related peptide	Extended FMRFamide-9
+NP01918	NRNFLRF	7	Procambarus clarkii	FMRFamide related peptide	Cardio-excitatory FMRFamide homolog NF1
+NP01919	DRNFLRF	7	Procambarus clarkii	FMRFamide related peptide	Cardio-excitatory FMRFamide homolog DF2
+NP01920	AGGDSLYEPGKALASACQVAVEACAAWFPGPE	32	Procambarus clarkii	FMRFamide related peptide	C-terminal peptide (Potential)
+NP01921	GYRKPPFNGSIF	12	Procambarus clarkii	FMRFamide related peptide	GYRKPPFNGSIF-amide
+NP01922	EFWSLAAPQRF	11	Rattus norvegicus	FMRFamide related peptide	Neuropeptide AF-like
+NP01923	FLFQPQRF	8	Rattus norvegicus	FMRFamide related peptide	Neuropeptide FF
+NP01924	NPAFLFQPQRF	11	Rattus norvegicus	FMRFamide related peptide	Neuropeptide SF
+NP01925	SVTFQELKDWGAKKDIKMSPAPANKVPHSAANLPLRF	37	Rattus norvegicus	FMRFamide related peptide	Neuropeptide NPSF
+NP01926	ANMEAGTMSHFPSLPQRF	18	Rattus norvegicus	FMRFamide related peptide	Neuropeptide NPVF
+NP01927	VPHSAANLPLRF	12	Rattus norvegicus	FMRFamide related peptide	Neuropeptide RFRP-1 (Potential)
+NP01928	AKDNFLRF	8	Rhodnius prolixus	FMRFamide related peptide	FMRFamide-related protein 1
+NP01929	TYKKPPFNGSIF	12	Rhodnius prolixus	FMRFamide related peptide	SIFamide related peptide
+NP01930	YKKPPFNGSIF	11	Rhodnius prolixus	FMRFamide related peptide	SIFamide related peptide(2-12)
+NP01931	KKPPFNGSIF	10	Rhodnius prolixus	FMRFamide related peptide	SIFamide related peptide(3-12)
+NP01932	KPPFNGSIF	9	Rhodnius prolixus	FMRFamide related peptide	SIFamide related peptide(4-12)
+NP01933	QPSQDFMRF	9	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-1
+NP01934	GDNFMRF	7	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-10
+NP01935	SLNTKNDFMRF	11	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-11
+NP01936	SAPSQDFMRF	10	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-12
+NP01937	TNDFMRF	7	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-13
+NP01938	DPHHDFMRF	9	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-14
+NP01939	THDFMRF	7	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-15
+NP01940	AAAGDNFMRF	10	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-16
+NP01941	PDNFMRF	7	Sarcophaga bullata	FMRFamide related peptide	SabFMRFamide-17
+NP01942	APPQPSDNFIRF	12	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-18
+NP01943	TPSQDFMRF	9	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-2
+NP01944	SPPSQDFMRF	10	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-3
+NP01945	ASNQDFMRF	9	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-4
+NP01946	LSPTQDFMRF	10	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-5
+NP01947	TPTHDFMRF	9	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-6
+NP01948	GSNDFMRF	8	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-7
+NP01949	AGGADNFMRF	10	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-8
+NP01950	GHADNFMRF	9	Sarcophaga bullata	FMRFamide related peptide	FMRFamide-9
+NP01951	PDVDHVFLRF	10	Schistocerca gregaria	FMRFamide related peptide	SchistoFLRFamide
+NP01952	ALSGDAFLRF	10	Sepia officinalis	FMRFamide related peptide	ALSGDAFLRF-amide
+NP01953	FIRF	4	Sepia officinalis	FMRFamide related peptide	FIRF-amide
+NP01954	FLRF	4	Sepia officinalis	FMRFamide related peptide	FLRF-amide
+NP01955	FMRF	4	Sepia officinalis	FMRFamide related peptide	FMRF-amide 1
+NP01956	AQSFLRL	7	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-1
+NP01957	PVPDSSFLRDP	11	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-10
+NP01958	SPALDDEHNDNFLRL	15	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-12
+NP01959	ADYLQLAR	8	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-2
+NP01960	GPESAFLRL	9	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-3
+NP01961	GVDSSFLRL	9	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-4
+NP01962	TDRNFLRL	8	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-5
+NP01963	GRADNFLRL	9	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-6
+NP01964	ARSDNFVRL	9	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-7
+NP01965	GRGGASNYVRL	11	Striatophasma naukluftense	FMRFamide related peptide	Extended FMRFamide-9
+NP01966	AQSFVRL	7	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-1
+NP01967	PASDSGFLRDP	11	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-10
+NP01968	SPVPEDDRGDNFVRL	15	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-12
+NP01969	ADYLRLARA	9	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-2
+NP01970	GPETAFFRL	9	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-3
+NP01971	GVDSSFVRL	9	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-4
+NP01972	TDRNFLRL	8	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-5
+NP01973	ARSDNFVRL	9	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-7
+NP01974	GRGASSNYVRL	11	Tyrannophasma gladiator	FMRFamide related peptide	Extended FMRFamide-9
+NP01975	AMRNALVRF	9	Ascaris suum	FMRFamide related peptide	Neuropeptide AF21
+NP01976	SGMRNALVRF	10	Ascaris suum	FMRFamide related peptide	Neuropeptide AF23
+NP01977	QDVDHVFLRF	10	Blattella germanica	FMRFamide related peptide	Leucomyosuppressin
+NP01978	GPMGWVPVFYRF	12	Conus spurius	FMRFamide related peptide	Conorfamide-Sr1
+NP01979	QWLGGRFG	8	Hydra vulgaris	FMRFamide related peptide	Hydra-RFamide I 
+NP01980	NGAPQPFVRF	10	Ascaris suum	FMRFamide related peptide	Neuropeptide AF22
+NP01981	AYRKPPFNGSIF	12	Ixodes scapularis	FMRFamide related peptide	SIFamide
+NP01982	AEEQNQPPPV	10	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-1
+NP01983	GKSDNFIRF	9	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-10
+NP01984	ARPDNFIRF	9	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-11
+NP01985	GKQDFIRF	8	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-12
+NP01986	GNSNFVRF	8	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-13
+NP01987	DDSSNVETFDTEEEATTDSTLRV	23	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-14
+NP01988	GGKSGSNFIRF	11	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-15
+NP01989	ARPSSNFIRL	10	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-16
+NP01990	RDEEVTQREE	10	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-17
+NP01991	GRPSNNFVRF	10	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-18
+NP01992	RRCSNRNFVRL	11	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-2
+NP01993	SGNSNELRRGKL	12	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-20
+NP01994	TDRNFIRL	8	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-21
+NP01995	SGPSYDEKEQENEDGNSVRL	20	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-22
+NP01996	SENPSNSRNFIRL	13	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-23
+NP01997	RALDQNLLVDEHLMRF	16	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-24
+NP01998	GHDFDQDDVNSSGEKDESLVRI	22	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-3
+NP01999	GGRSNDNFIRF	11	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-4
+NP02000	GGKNDNFIRF	10	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-5
+NP02001	GGKQDNFIRF	10	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-6
+NP02002	DRSDNFIRF	9	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-7
+NP02003	GKTDNFIRF	9	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-8
+NP02004	GRSDNFIRF	9	Periplaneta americana	FMRFamide related peptide	Pea-FMRFa-9
+NP02005	TPDINPAWYAGRGIRPVGRF	20	Bos taurus	FMRFamide related peptide	Prolactin-releasing peptide PrRP20
+NP02006	SRAHQHSMEIRTPDINPAWYAGRGIRPVGRF	31	Bos taurus	FMRFamide related peptide	Prolactin-releasing peptide PrRP31
+NP02007	TPDINPAWYASRGIRPVGRF	20	Homo sapiens	FMRFamide related peptide	Prolactin-releasing peptide PrRP20
+NP02008	SRTHRHSMEIRTPDINPAWYASRGIRPVGRF	31	Homo sapiens	FMRFamide related peptide	Prolactin-releasing peptide PrRP31
+NP02009	TPDINPAWYTGRGIRPVGRF	20	Rattus norvegicus	FMRFamide related peptide	Prolactin-releasing peptide PrRP20
+NP02010	SRAHQHSMETRTPDINPAWYTGRGIRPVGRF	31	Rattus norvegicus	FMRFamide related peptide	Prolactin-releasing peptide PrRP31
+NP02875	KPNAYKGKLPIGLW	14	Hydra vulgaris	LWamide neuropeptide	GLWamide
+NP02876	EQPGLW	6	Hydra vulgaris	LWamide neuropeptide	Hydra-LWamide
+NP02877	GPPPGLW	7	Hydra vulgaris	LWamide neuropeptide	Hydra-LWamide l
+NP02878	QHGLW	5	Actinia equina	LWamide neuropeptide	LWamide I (Potential)
+NP02879	QNPGLW	6	Actinia equina	LWamide neuropeptide	LWamide II (Potential)
+NP02880	PGLW	4	Actinia equina	LWamide neuropeptide	LWamide III (Potential)
+NP02881	QKAGLW	6	Actinia equina	LWamide neuropeptide	LWamide IV (Potential)
+NP02882	LGLW	4	Actinia equina	LWamide neuropeptide	LWamide V (Potential)
+NP02883	RSRIGLW	7	Actinia equina	LWamide neuropeptide	LWamide VI (Potential)
+NP02884	QPGLW	5	Actinia equina	LWamide neuropeptide	Metamorphosin A
+NP02885	QDLDIGMW	8	Actinia equina	LWamide neuropeptide	MWamide (Potential)
+NP02886	ERIGIW	6	Anemonia sulcata	LWamide neuropeptide	IWamide (Potential)
+NP02887	QAGLW	5	Anemonia sulcata	LWamide neuropeptide	LWamide I (Potential)
+NP02888	QNPGLW	6	Anemonia sulcata	LWamide neuropeptide	LWamide II a (Potential)
+NP02889	QHPGLW	6	Anemonia sulcata	LWamide neuropeptide	LWamide II b (Potential)
+NP02890	QQPGLW	6	Anemonia sulcata	LWamide neuropeptide	Metamorphosin A
+NP02891	QNPGLW	6	Anthopleura elegantissima	LWamide neuropeptide	LWamide I (Potential)
+NP02892	QPGLW	5	Anthopleura elegantissima	LWamide neuropeptide	LWamide III (Potential)
+NP02893	QKIGLW	6	Anthopleura elegantissima	LWamide neuropeptide	LWamide IV (Potential)
+NP02894	QLGLW	5	Anthopleura elegantissima	LWamide neuropeptide	LWamide IX (Potential)
+NP02895	QSPGLW	6	Anthopleura elegantissima	LWamide neuropeptide	LWamide VII (Potential)
+NP02896	QSRIGLW	7	Anthopleura elegantissima	LWamide neuropeptide	LWamide VIII (Potential)
+NP02897	QQPGLW	6	Anthopleura elegantissima	LWamide neuropeptide	Metamorphosin A
+NP02898	RPPGLW	6	Hydractinia echinata	LWamide neuropeptide	LWamide I (Potential)
+NP02899	KPPGLW	6	Hydractinia echinata	LWamide neuropeptide	LWamide II (Potential)
+NP02900	KPPSLWS	7	Hydractinia echinata	LWamide neuropeptide	LWS (Potential)
+NP03029	PMSMLRL	7	Achatina fulica	Myomodulin	Myomodulin
+NP03030	AMGMLRM	7	Perinereis vancaurica	Myomodulin	Myomodulin
+NP03031	PMSMLRL	7	Aplysia californica	Myomodulin	Myomodulin-A
+NP03032	GSYRMMRL	8	Aplysia californica	Myomodulin	Myomodulin-B
+NP03033	GLSMLRL	7	Aplysia californica	Myomodulin	Myomodulin-D
+NP03034	SLNMSRL	7	Aplysia californica	Myomodulin	Myomodulin-F
+NP03035	TLSMLRL	7	Aplysia californica	Myomodulin	Myomodulin-G (Potential)
+NP03036	GLHMLRL	7	Aplysia californica	Myomodulin	Myomodulin-H (Potential)
+NP03037	SLSMLRL	7	Aplysia californica	Myomodulin	Myomodulin-I (Potential)
+NP03038	GGSLDALRSGHQVPMLRA	18	Aplysia californica	Myomodulin	MMG2-DPa
+NP03039	QPPLPRY	7	Aplysia californica	Myomodulin	MMG2-DPb
+NP03040	AVALPRI	7	Aplysia californica	Myomodulin	MMG2-DPd
+NP03041	AVPRPRI	7	Aplysia californica	Myomodulin	MMG2-DPf
+NP03042	GWSMLRL	7	Aplysia californica	Myomodulin	Myomodulin-C
+NP03043	GLQMLRL	7	Aplysia californica	Myomodulin	Myomodulin-E
+NP03044	GLQMLRL	7	Lymnaea stagnalis	Myomodulin	GLQMLRL-amide
+NP03045	PMSMLRL	7	Lymnaea stagnalis	Myomodulin	Myomodulin-A
+NP03046	QIPMLRL	7	Lymnaea stagnalis	Myomodulin	QIPMLRL-amide (Potential)
+NP03047	SLSMLRL	7	Lymnaea stagnalis	Myomodulin	SLSMLRL-amide
+NP03048	SMSMLRL	7	Lymnaea stagnalis	Myomodulin	SMSMLRL-amide
+NP03627	GLSRSCFGVKLDRIGSMSGLGC	22	Gallus gallus	Natriuretic peptide	C-type natriuretic peptide
+NP03628	HPLGGRSPASEASEASEASGLWAVQELLGRLKDAVSELQAEQLALEPLHRSHSPAEAPEAGGTPRGVLAPHDSVLQALRRLRSPKMMHKSGCFGRRLDRIGSLSGLGCNVLRKY	114	Canis familiaris	Natriuretic peptide	Natriuretic peptides B
+NP03629	LRSPKMMHKSGCFGRRLDRIGSLSGLGCNVLRKY	34	Canis familiaris	Natriuretic peptide	Brain natriuretic peptide 34
+NP03630	MMHKSGCFGRRLDRIGSLSGLGCNVLRKY	29	Canis familiaris	Natriuretic peptide	Brain natriuretic peptide 29
+NP03631	SLRRSSCFGGRMDRIGAQSGLGCNSFRY	28	Canis familiaris	Natriuretic peptide	Atrial natriuretic factor
+NP03632	NPMYNVVSNADLVDFKNLLDHLEEKMPLED	30	Cavia porcellus	Natriuretic peptide	Cardiodilatin-related peptide
+NP03633	SLRRSSCFGGRMDRIGAQSSLGCNSFRY	28	Cavia porcellus	Natriuretic peptide	Atrial natriuretic factor
+NP03634	SLRRSSCFGGRMDRIGAQSGLGCNSFRY	28	Equus caballus	Natriuretic peptide	Atrial natriuretic factor
+NP03635	HPLGGPGPASEASAIQELLDGLRDTVSELQEAQMALGPLQQGHSPAESWEAQEEPPARVLAPHDNVLRALRRLGSSKMMRDSRCFGRRLDRIGSLSGLGCNVLRRH	106	Felis catus	Natriuretic peptide	Natriuretic peptides B
+NP03636	SSKMMRDSRCFGRRLDRIGSLSGLGCNVLRRH	32	Felis catus	Natriuretic peptide	Brain natriuretic peptide 32 (By similarity)
+NP03637	SLRRSSCFGGRMDRIGAQSGLGCNSFRY	28	Felis catus	Natriuretic peptide	Atrial natriuretic factor
+NP03638	GTSKGCFGLKLDRIGAMSGLGC	22	Lithobates catesbeiana	Natriuretic peptide	C-type natriuretic peptide 2
+NP03639	SMRRSSDCFGSRIDRIGAQSGMGCGRRF	28	Lithobates catesbeiana	Natriuretic peptide	Atrial natriuretic factor (By similarity)
+NP03640	SSDCFGSRIDRIGAQSGMGCGRRF	24	Lithobates catesbeiana	Natriuretic peptide	ANP-24
+NP03641	SLRRSSCFGGRIDRIGAQSGLGCNSFRY	28	Mus musculus	Natriuretic peptide	Atrial natriuretic factor (By similarity)
+NP03642	RSSCFGGRIDRIGAQSGLGCNSFRY	25	Mus musculus	Natriuretic peptide	Auriculin-B (By similarity)
+NP03643	RSSCFGGRIDRIGAQSGLGCNSFR	24	Mus musculus	Natriuretic peptide	Auriculin-A (By similarity)
+NP03644	SSCFGGRIDRIGAQSGLGCNSFR	23	Mus musculus	Natriuretic peptide	Atriopeptin-1 (By similarity)
+NP03645	SSCFGGRIDRIGAQSGLGCNS	21	Mus musculus	Natriuretic peptide	Atriopeptin-2 (By similarity)
+NP03646	SLRRSSCFGGRIDRIGAQSGLGCNSFRY	28	Oryctolagus cuniculus	Natriuretic peptide	Atrial natriuretic factor
+NP03647	GGSTSRSGCFGHKMDRIGTISGMGC	25	Oryzias latipes	Natriuretic peptide	C-type natriuretic peptide 4
+NP03648	HPLGGPGSASELPGLQELLDRLRDRVSELQAEQLRVEPLQQGQGLEETWDSPAAAPAGFLGPHHSLLQALRGPKMMRDSGCFGRRLDRIGSLSGLGCNVLRRY	103	Ovis aries	Natriuretic peptide	Natriuretic peptides B
+NP03649	MMRDSGCFGRRLDRIGSLSGLGCNVLRRY	29	Ovis aries	Natriuretic peptide	Brain natriuretic peptide 29 (By similarity)
+NP03650	DSGCFGRRLDRIGSLSGLGCNVLRRY	26	Ovis aries	Natriuretic peptide	Brain natriuretic peptide 26 (By similarity)
+NP03651	DLRVDTKSRAAWTRLLHEHPNARKYKGGNKKGLSKGCFGLKLDRIGSMSGLGC	53	Ovis aries	Natriuretic peptide	CNP-53 (By similarity)
+NP03652	YKGGNKKGLSKGCFGLKLDRIGSMSGLGC	29	Ovis aries	Natriuretic peptide	CNP-29 (By similarity)
+NP03653	GLSKGCFGLKLDRIGSMSGLGC	22	Ovis aries	Natriuretic peptide	CNP-22
+NP03654	SLRRSSCFGGRMDRIGAQSGLGCNSFRY	28	Ovis aries	Natriuretic peptide	Atrial natriuretic factor (By similarity)
+NP03655	GLGKGCFGLKLDRIGSMSGLGC	22	Philodryas olfersii	Natriuretic peptide	C-type natriuretic peptide (By similarity)
+NP03656	GLPKKGLGSGCFGLKLDRIGSMSGLGC	27	Rhabdophis tigrinus tigrinus	Natriuretic peptide	Natriuretic peptide
+NP03657	HPLGGAGLASELPGIQELLDRLRDRVSELQAERTDLEPLRQDRGLTEAWEAREAAPTGVLGPRSSIFQVLRGIRSPKTMRDSGCFGRRLDRIGSLSGLGCNVLRRY	106	Sus scrofa	Natriuretic peptide	Natriuretic peptides B
+NP03658	SPKTMRDSGCFGRRLDRIGSLSGLGCNVLRRY	32	Sus scrofa	Natriuretic peptide	Brain natriuretic peptide 32
+NP03659	DSGCFGRRLDRIGSLSGLGCNVLRRY	26	Sus scrofa	Natriuretic peptide	Brain natriuretic peptide 26
+NP03660	DLRVDTKSRAAWARLLHEHPNARKYKGGNKKGLSKGCFGLKLDRIGSMSGLGC	53	Sus scrofa	Natriuretic peptide	CNP-53
+NP03661	YKGGNKKGLSKGCFGLKLDRIGSMSGLGC	29	Sus scrofa	Natriuretic peptide	CNP-29 (By similarity)
+NP03662	GLSKGCFGLKLDRIGSMSGLGC	22	Sus scrofa	Natriuretic peptide	CNP-22
+NP03663	NPVYGSVSNADLMDFKNLLDHLEDKMPLED	30	Sus scrofa	Natriuretic peptide	Cardiodilatin-related peptide (By similarity)
+NP03664	SLRRSSCFGGRMDRIGAQSGLGCNSFRY	28	Sus scrofa	Natriuretic peptide	Atrial natriuretic factor
+NP03665	GGSSRSGCFGHKMDRIGTISGMGC	24	Takifugu rubripes	Natriuretic peptide	C-type natriuretic peptide 4
+NP03666	SLRRSSCFGGRMDRIGAQSGLGCNSFRY	28	Bos taurus	Natriuretic peptide	Atrial natriuretic factor
+NP03667	ALRGPKMMRDSGCFGRRLDRIGSLSGLGCNVLRRY	35	Bos taurus	Natriuretic peptide	Aldosterone secretion inhibitory factor
+NP03668	DSGCFGRRLDRIGSLSGLGCNVLRRY	26	Bos taurus	Natriuretic peptide	Brain natriuretic peptide 26
+NP03669	HPVGGPGPVSELPGLQELLDRLRDRVSELQAEQLRVEPLQQGQGLEETWDSPAAAPAGFLGPHHSILRALRGPKMMRDSGCFGRRLDRIGSLSGLGCNVLRRY	103	Bos taurus	Natriuretic peptide	Natriuretic peptides B
+NP03670	GLSKGCFGLKLDRIGSMSGLGC	22	Bos taurus	Natriuretic peptide	CNP-22
+NP03671	YKGGNKKGLSKGCFGLKLDRIGSMSGLGC	29	Bos taurus	Natriuretic peptide	CNP-29 (By similarity)
+NP03672	DLRVDTKSRAAWTRLLHEHPNARKYKGGNKKGLSKGCFGLKLDRIGSMSGLGC	53	Bos taurus	Natriuretic peptide	CNP-53 (By similarity)
+NP03673	SLRRSSCFGGRMDRIGAQSGLGCNSFRY	28	Homo sapiens	Natriuretic peptide	Atrial natriuretic factor
+NP03674	NPMYNAVSNADLMDFKNLLDHLEEKMPLED	30	Homo sapiens	Natriuretic peptide	Cardiodilatin-related peptide
+NP03675	SPKMVQGSGCFGRKMDRISSSSGLGCKV	28	Homo sapiens	Natriuretic peptide	BNP(1-28)
+NP03676	SPKMVQGSGCFGRKMDRISSSSGLGCKVL	29	Homo sapiens	Natriuretic peptide	BNP(1-29)
+NP03677	SPKMVQGSGCFGRKMDRISSSSGLGCKVLR	30	Homo sapiens	Natriuretic peptide	BNP(1-30)
+NP03678	PKMVQGSGCFGRKMDRISSSSGLGCKVLRR	30	Homo sapiens	Natriuretic peptide	BNP(2-31)
+NP03679	KMVQGSGCFGRKMDRISSSSGLGCKVL	27	Homo sapiens	Natriuretic peptide	BNP(3-29)
+NP03680	KMVQGSGCFGRKMDRISSSSGLGCKVLR	28	Homo sapiens	Natriuretic peptide	BNP(3-30)
+NP03681	KMVQGSGCFGRKMDRISSSSGLGCKVLRRH	30	Homo sapiens	Natriuretic peptide	BNP(3-32)
+NP03682	MVQGSGCFGRKMDRISSSSGLGCK	24	Homo sapiens	Natriuretic peptide	BNP(4-27)
+NP03683	MVQGSGCFGRKMDRISSSSGLGCKVL	26	Homo sapiens	Natriuretic peptide	BNP(4-29)
+NP03684	MVQGSGCFGRKMDRISSSSGLGCKVLR	27	Homo sapiens	Natriuretic peptide	BNP(4-30)
+NP03685	MVQGSGCFGRKMDRISSSSGLGCKVLRR	28	Homo sapiens	Natriuretic peptide	BNP(4-31)
+NP03686	MVQGSGCFGRKMDRISSSSGLGCKVLRRH	29	Homo sapiens	Natriuretic peptide	BNP(4-32)
+NP03687	VQGSGCFGRKMDRISSSSGLGCKVL	25	Homo sapiens	Natriuretic peptide	BNP(5-29)
+NP03688	VQGSGCFGRKMDRISSSSGLGCKVLRR	27	Homo sapiens	Natriuretic peptide	BNP(5-31)
+NP03689	VQGSGCFGRKMDRISSSSGLGCKVLRRH	28	Homo sapiens	Natriuretic peptide	BNP(5-32)
+NP03690	SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH	32	Homo sapiens	Natriuretic peptide	Brain natriuretic peptide 32
+NP03691	HPLGSPGSASDLETSGLQEQRNHLQGKLSELQVEQTSLEPLQESPRPTGVWKSREVATEGIRGHRKMVLYTLRAPRSPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH	108	Homo sapiens	Natriuretic peptide	Natriuretic peptides B
+NP03692	GLSKGCFGLKLDRIGSMSGLGC	22	Homo sapiens	Natriuretic peptide	CNP-22
+NP03693	YKGANKKGLSKGCFGLKLDRIGSMSGLGC	29	Homo sapiens	Natriuretic peptide	CNP-29
+NP03694	DLRVDTKSRAAWARLLQEHPNARKYKGANKKGLSKGCFGLKLDRIGSMSGLGC	53	Homo sapiens	Natriuretic peptide	CNP-53
+NP03695	SQGSTLRVQQRPQNSKVTHISSCFGHKIDRIGSVSRLGCNALKLL	45	Mus musculus	Natriuretic peptide	Brain natriuretic peptide
+NP03696	YPLGSPSQSPEQFKMQKLLELIREKSEEMAQRQLLKDQGLTKEHPKRVLRSQGSTLRVQQRPQNSKVTHISSCFGHKIDRIGSVSRLGCNALKLL	95	Mus musculus	Natriuretic peptide	Natriuretic peptides B
+NP03697	GLSKGCFGLKLDRIGSMSGLGC	22	Mus musculus	Natriuretic peptide	CNP-22
+NP03698	YKGGNKKGLSKGCFGLKLDRIGSMSGLGC	29	Mus musculus	Natriuretic peptide	CNP-29 (By similarity)
+NP03699	DLRVDTKSRAAWARLLHEHPNARKYKGGNKKGLSKGCFGLKLDRIGSMSGLGC	53	Mus musculus	Natriuretic peptide	CNP-53 (By similarity)
+NP03700	SLRRSSCFGGRIDRIGAQSGLGCNSFRY	28	Rattus norvegicus	Natriuretic peptide	Atrial natriuretic factor (By similarity)
+NP03701	SSCFGGRIDRIGAQSGLGCNS	21	Rattus norvegicus	Natriuretic peptide	Atriopeptin-1
+NP03702	SSCFGGRIDRIGAQSGLGCNSFR	23	Rattus norvegicus	Natriuretic peptide	Atriopeptin-2
+NP03703	SSCFGGRIDRIGAQSGLGCNSFRY	24	Rattus norvegicus	Natriuretic peptide	Atriopeptin-3
+NP03704	RSSCFGGRIDRIGAQSGLGCNSFR	24	Rattus norvegicus	Natriuretic peptide	Auriculin-A
+NP03705	RSSCFGGRIDRIGAQSGLGCNSFRY	25	Rattus norvegicus	Natriuretic peptide	Auriculin-B
+NP03706	SQDSAFRIQERLRNSKMAHSSSCFGQKIDRIGAVSRLGCDGLRLF	45	Rattus norvegicus	Natriuretic peptide	Brain natriuretic peptide 45
+NP03707	HPLGSPSQSPEQSTMQKLLELIREKSEEMAQRQLSKDQGPTKELLKRVLRSQDSAFRIQERLRNSKMAHSSSCFGQKIDRIGAVSRLGCDGLRLF	95	Rattus norvegicus	Natriuretic peptide	Natriuretic peptides B
+NP03708	GLSKGCFGLKLDRIGSMSGLGC	22	Rattus norvegicus	Natriuretic peptide	CNP-22
+NP03709	YKGGNKKGLSKGCFGLKLDRIGSMSGLGC	29	Rattus norvegicus	Natriuretic peptide	CNP-29 (By similarity)
+NP03710	DLRVDTKSRAAWARLLHEHPNARKYKGGNKKGLSKGCFGLKLDRIGSMSGLGC	53	Rattus norvegicus	Natriuretic peptide	CNP-53
+NP03727	EFLFRPRN	8	Canis familiaris	Neuromedins	Neuromedin U-8
+NP03728	EXLXRPRN	8	Canis familiaris	Neuromedins	Neuromedin U-8
+NP03729	YFLFRPRN	8	Gallus gallus	Neuromedins	neuromedin U-8
+NP03730	GYFLFRPRN	9	Sus scrofa	Neuromedins	Neuromedin U
+NP03731	FWRRDSRATAADFTKKDYTATLGRPFFLFRPRN	33	Bos taurus	Neuromedins	Neuromedin-S
+NP03732	ILQRGSGTAAVDFTKKDHTATWGRPFFLFRPRN	33	Homo sapiens	Neuromedins	Neuromedin-S
+NP03733	FRVDEEFQSPFASQSRGYFLFRPRN	25	Homo sapiens	Neuromedins	Neuromedin-U-25
+NP03734	LPRLLRLDSRMATVDFPKKDPTTSLGRPFFLFRPRN	36	Mus musculus	Neuromedins	Neuromedin-S
+NP03735	FKAEYQSPSVGQSKGYFLFRPRN	23	Mus musculus	Neuromedins	Neuromedin-U-23
+NP03736	LPRLLHTDSRMATIDFPKKDPTTSLGRPFFLFRPRN	36	Rattus norvegicus	Neuromedins	Neuromedin-S
+NP03737	YKVNEYQGPVAPSGGFFLFRPRN	23	Rattus norvegicus	Neuromedins	Neuromedin-U-23
+NP03738	FRLDEEFQGPIASQVRRQFLFRPRN	25	Canis familiaris	Neuromedins	Neuromedin-U-25
+NP03739	SDEEVQVPGGVISNGYFLFRPRN	23	Litoria caerulea	Neuromedins	Neuromedin-U-23
+NP03740	DSSGIVGRPFFLFRPRN	17	Bombina maxima	Neuromedins	Neuromedin-S-17
+NP03741	DSSGIVGRPFFLFRPRN	17	Bombina orientalis	Neuromedins	Neuromedin-S-17
+NP03742	WYKPAAGHSSYSVGRAAGLLSGL	23	NA	Neuropeptide B/W	Neuropeptide B
+NP03743	WYKPTAGQGYYSVGRAAGLLSGFHRSPYA	29	Bos taurus	Neuropeptide B/W	Neuropeptide B-29
+NP03744	WYKPAAGHSSYSVGRAAGLLSGLR	24	Homo sapiens	Neuropeptide B/W	Neuropeptide B-23
+NP03745	WYKPAAGHSSYSVGRAAGLLSGLRRSPYA	29	Homo sapiens	Neuropeptide B/W	Neuropeptide B-29
+NP03746	WYKHVASPRYHTVGRAAGLLMGL	23	Homo sapiens	Neuropeptide B/W	Neuropeptide W-23
+NP03747	WYKHVASPRYHTVGRAAGLLMGLRRSPYLW	30	Homo sapiens	Neuropeptide B/W	Neuropeptide W-30
+NP03748	WYKPAAGPHHYSVGRASGLLSSFHRFPST	29	Mus musculus	Neuropeptide B/W	Neuropeptide B-29
+NP03749	WYKPAAGSHHYSVGRAAGLLSSFHRFPST	29	Rattus norvegicus	Neuropeptide B/W	Neuropeptide B-29
+NP03750	WYKHVASPRYHTVGRASGLLMGL	23	Rattus norvegicus	Neuropeptide B/W	Neuropeptide W-23
+NP03751	WYKHVASPRYHTVGRASGLLMGLRRSPYLW	30	Rattus norvegicus	Neuropeptide B/W	Neuropeptide W-30
+NP03752	WYKHTASPRYHTVGRAAGLLMGL	23	Sus scrofa	Neuropeptide B/W	Neuropeptide W-23
+NP03753	WYKHTASPRYHTVGRAAGLLMGLRRSPYMW	30	Sus scrofa	Neuropeptide B/W	Neuropeptide W-30
+NP03754	SFRNGVGTGMKKTSFRRAKS	20	Bos taurus	Neuropeptide S	Neuropeptide S
+NP03755	SFRNGVGTGMKKTSFQRAKS	20	Homo sapiens	Neuropeptide S	Neuropeptide S
+NP03756	SFRNGVGSGAKKTSFRRAKQ	20	Mus musculus	Neuropeptide S	Neuropeptide S
+NP03757	SFRNGVGSGVKKTSFRRAKQ	20	Rattus norvegicus	Neuropeptide S	Neuropeptide S
+NP04020	VPLERGAPKEENPATESPDTGLYYHRYLQEVINVLETDGHFREKLQAANAEDIKSGKLSRELDFVSHHVRTKLDELKRQEVSRLRMLLKAKMDAQQEPNIQLDHLNLLKQFEHLDPQNQHTFEARDLELLIQTATRDLAQYDAAHHEEFKRYEMLKEHERRRYLESLGEEQRKEAERKLEEQQRRHREHPKVNVPGSQAQLKEVWEELDGLDPNRFNPKTFFILHDINSDGVLDEQELEALFTKELEKVYDPKNEDDDMREMEEERLRMREHVMKNVDTNQDRLVTLEEFLASTQRKEFGDTGEGWEQGKAGVPLPMAPVLTLQTVEMHPAYTEEELRRFEEELAAREAELNAKAQRLSQETEALGRSQGRLEAQKRELQQAVLQMEQRKQQQQSHNNPAPGPEGQLKFHPDTDDVPVPAPAGDQKDVDASEKKVPEQTPEPPQLDSQHL	450	Bos taurus	Nucleobindin	Nucleobindin-1
+NP04021	VPLERGAPNKEETPATESPDTGLYYHRYLQEVIDVLETDGHFREKLQAANAEDIKSGKLSRELDFVSHHVRTKLDELKRQEVSRLRMLLKAKMDAEQDPNVQVDHLNLLKQFEHLDPQNQHTFEARDLELLIQTATRDLAQYDAAHHEEFKRYEMLKEHERRRYLESLGEEQRKEAERKLEEQQRRHREHPKVNVPGSQAQLKEVWEELDGLDPNRFNPKTFFILHDINSDGVLDEQELEALFTKELEKVYDPKNEEDDMREMEEERLRMREHVMKNVDTNQDRLVTLEEFLASTQRKEFGDTGEGWETVEMHPAYTEEELRRFEEELAAREAELNAKAQRLSQETEALGRSQGRLEAQKRELQQAVLHMEQRKQQQQQQQGHKAPAAHPEGQLKFHPDTDDVPVPAPAGDQKEVDTSEKKLLERLPEVEVPQHL	435	Homo sapiens	Nucleobindin	Nucleobindin-1
+NP04022	VPVDRAAPPQEDSQATETPDTGLYYHRYLQEVINVLETDGHFREKLQAANAEDIKSGKLSQELDFVSHNVRTKLDELKRQEVSRLRMLLKAKMDAKQEPNLQVDHMNLLKQFEHLDPQNQHTFEARDLELLIQTATRDLAQYDAAHHEEFKRYEMLKEHERRRYLESLGEEQRKEAERKLQEQQRRHREHPKVNVPGSQAQLKEVWEELDGLDPNRFNPKTFFILHDINSDGVLDEQELEALFTKELEKVYDPKNEEDDMREMEEERLRMREHVMKNVDTNQDRLVTLEEFLASTQRKEFGDTGEGWKTVEMSPAYTEEELKRFEEELAAREAELNARAQRLSQETEALGRSQDRLEAQKRELQQAVLQMEQRKQQLQEQSAPPSKPDGQLQFRADTDDAPVPAPAGDQKDVPASEKKVPEQPPELPQLDSQHL	434	Mus musculus	Nucleobindin	Nucleobindin-1
+NP04023	VPLERGAPNKEETPATESPDTGLYYHRYLQEVIDVLETDGHFREKLQAANAEDIKSGKLSRELDFVSHHVRTKLDELKRQEVSRLRMLLKAKMDAEQDPNVQVDHLNLLKQFEHLDPQNQHTFEARDLELLIQTATRDLAQYDAAHHEEFKRYEMLKEHERRRYLESLGEEQRKEAERRLEEQQRRHREHPKVNVPGSQAQLKEVWEELDGLDPNRFNPKTFFILHDINSDGVLDEQELEALFTKELEKVYDPKNEEDDMREMEEERLRMREHVMKNVDTNQDRLVTLGEFLASTQRKEFGDTGEGWETVEMHPAYTEEELRRFEEELAAREAELNAKAQRLSQETEALGRSQGRLEAQKRELQQAVLHMEQRKQQQQQQQQQGHKAPAAHPEGQLKFHPDTDDVPVPAPAGDQKEVDTSEKKLLERLPEVEVPQHL	437	Pongo abelii	Nucleobindin	Nucleobindin-1
+NP04024	VPVDRAAPHQEDNQATETPDTGLYYHRYLQEVINVLETDGHFREKLQAANAEDIKSGKLSQELDFVSHNVRTKLDELKRQEVSRLRMLLKAKMDAKQEPNLQVDHMNLLKQFEHLDPQNQHTFEARDLELLIQTATRDLAQYDAAHHEEFKRYEMLKEHERRRYLESLGEEQRKEAERKLQEQQRRHREHPKVNVPGSQAQLKEVWEELDGLDPNRFNPKTFFILHDINSDGVLDEQELEALFTKELEKVYDPKNEEDDMREMEEERLRMREHVMKNVDTNQDRLVTLEEFLASTQRKEFGETAEGWKTVEMYPAYTEEELKRFEEELAAREAELNARAQRLSQETEALGRSQDRLEAQKRELQQAVLQMEQRKQQQQEQSAPPSQPDGQLQFRADTGDAPVPAPAGDQKDVPASEKKVPEQPPVLPQLDSQHL	434	Rattus norvegicus	Nucleobindin	Nucleobindin-1
+NP04025	VPIDIDKTKVQNIHPVESAKIEPPDTGLYYDEYLKQVIDVLETDKHFREKLQKADIEEIKSGRLSKELDLVSHHVRTKLDEL	82	Homo sapiens	Nucleobindin	Nesfatin-1
+NP04026	VPIDIDKTKVQNIHPVESAKIEPPDTGLYYDEYLKQVIDVLETDKHFREKLQKADIEEIKSGRLSKELDLVSHHVRTKLDELKRQEVGRLRMLIKAKLDSLQDIGMDHQALLKQFDHLNHLNPDKFESTDLDMLIKAATSDLEHYDKTRHEEFKKYEMMKEHERREYLKTLNEEKRKEEESKFEEMKKKHENHPKVNHPGSKDQLKEVWEETDGLDPNDFDPKTFFKLHDVNSDGFLDEQELEALFTKELEKVYDPKNEEDDMVEMEEERLRMREHVMSEVDTNKDRLVTLEEFLKATEKKEFLEPDSWETLDQQQFFTEEELKEYENIIALQENELKKKADELQKQKEELQRQHDQLEAQKLEYHQVIQQMEQKKLQQGIPPSGPAGELKFEPHI	396	Homo sapiens	Nucleobindin	Nucleobindin-2
+NP04027	VPIDVDKTKVHNTEPVENARIEPPDTGLYYDEYLKQVIEVLETDPHFREKLQKADIEEIRSGRLSQELDLVSHKVRTRLDEL	82	Mus musculus	Nucleobindin	Nesfatin-1
+NP04028	VPIDVDKTKVHNTEPVENARIEPPDTGLYYDEYLKQVIEVLETDPHFREKLQKADIEEIRSGRLSQELDLVSHKVRTRLDELKRQEVGRLRMLIKAKLDALQDTGMNHHLLLKQFEHLNHQNPNTFESRDLDMLIKAATADLEQYDRTRHEEFKKYEMMKEHERREYLKTLSEEKRKEEESKFEEMKRKHEDHPKVNHPGSKDQLKEVWEETDGLDPNDFDPKTFFKLHDVNNDGFLDEQELEALFTRELEKVYNPQNAEDDMIEMEEERLRMREHVMSEIDNNKDRLVTLEEFLRATEKKEFLEPDSWETLDQQQLFTEDELKEYESIIAIQENELKKRAEELQKQKEDLQRQHDHLEAQKQEYHQAVQHLEQKKLQQGIAPSGPAGELKFEPHT	396	Mus musculus	Nucleobindin	Nucleobindin-2
+NP04029	VPIDVDKTKVHNVEPVESARIEPPDTGLYYDEYLKQVIEVLETDPHFREKLQKADIEEIRSGRLSQELDLVSHKVRTRLDEL	82	Rattus norvegicus	Nucleobindin	Nesfatin-1
+NP04030	VPIDVDKTKVHNVEPVESARIEPPDTGLYYDEYLKQVIEVLETDPHFREKLQKADIEEIRSGRLSQELDLVSHKVRTRLDELKRQEVGRLRMLIKAKLDALQDTGMNHHLLLKQFEHLNHQNPDTFESKDLDMLIKAATADLEQYDRTRHEEFKKYEMMKEHERREYLKTLSEEKRKEEEAKFAEMKRKHEDHPKVNHPGSKDQLKEVWEETDGLDPNDFDPKTFFKLHDVNNDGFLDEQELEALFTKELDKVYNPQNAEDDMIEMEEERLRMREHVMNEIDNNKDRLVTLEEFLRATEKKEFLEPDSWETLDQQQLFTEEELKEYESIIAIQESELKKKADELQKQKEELQRQHDHLEAQKQEYQQAVQQLEQKKFQQGIAPSGPAGELKFEPHT	396	Rattus norvegicus	Nucleobindin	Nucleobindin-2
+NP04031	YGGFL	5	Aplysia californica	Opioid	Leu-enkephalin
+NP04032	YGGFLRQFKVVT	12	Bos taurus	Opioid	Dynorphin B
+NP04033	YPFP	4	Bos taurus	Opioid	Endomorphin-2
+NP04034	LVVYPWT	7	Bos taurus	Opioid	Spinorphin
+NP04035	YPWT	4	Cavia porcellus	Opioid	hemorphin-4
+NP04036	FGFTGARKSARKLANQ	16	Cepaea nemoralis	Opioid	Nociceptin
+NP04037	SYSMEHFRWGKPVGRKRRPIKVYPNGVDEESAESYPMEF	39	Gallus gallus	Opioid	Adrenocorticotropic
+NP04038	YAFDVVG	7	Homo sapiens	Opioid	Deltorphin I
+NP04039	ELTGQRLRQGDGPNAGADDGPGAQADLEHSLLVAAEKKD EGPYRMEHFRWGSPPKD	57	Homo sapiens	Opioid	Gamma-Lipotropin
+NP04040	YVMGHFRWDRFG	12	Homo sapiens	Opioid	?- melanocyte-stimulating hormone
+NP04041	MEHFRWG	7	NA	Opioid	ACTH4-10
+NP04042	SYMEHFRWGKPV	12	NA	Opioid	Alpha-melanocyte-stimulating hormone
+NP04043	SYSMEHFRWGKPV	13	NA	Opioid	Alpha-melanocyte-stimulating hormone
+NP04044	YAGFL	5	NA	Opioid	DADLE
+NP04045	YAFEVVG	7	NA	Opioid	Deltorphin II
+NP04046	YGGFLRRIRPKLKWDNE	17	NA	Opioid	Dynorphin A(1-17)
+NP04047	YPW/FF	4	NA	Opioid	Endomorphin
+NP04048	YPFF	4	NA	Opioid	Endomorphin-2
+NP04049	APGPR	5	NA	Opioid	Enterostatin 
+NP04050	YGFL	4	NA	Opioid	Leu-enkephalin
+NP04051	LVVYPWTQRY	10	NA	Opioid	Leu-Val-Val-hemorphin-7
+NP04052	VVYPWTQRF	9	NA	Opioid	VV-hemorphin 7
+NP04053	YAFQVVG	7	Oryctolagus cuniculus	Opioid	Deltorphin II
+NP04054	YSGFLT	6	Oryctolagus cuniculus	Opioid	Enkephalin
+NP04055	KYVMSHFRWNKF	12	Pelophylax ridibundus	Opioid	Lys-gamma 1-MSH
+NP04056	YAFXVVG	7	Phyllomedusa	Opioid	deltorphin
+NP04057	YMFHLMD	7	Phyllomedusa	Opioid	deltorphin A
+NP04058	YAFGYPS	7	Phyllomedusa	Opioid	Dermorphin
+NP04059	YLFADVSTIGDFFHSI	16	Phyllomedusa burmeisteri	Opioid	[D-Leu2]deltorphin
+NP04060	YGGFF	5	Protopterus annectens	Opioid	Phe-enkephalin
+NP04061	MEHFPGP	7	Rattus norvegicus	Opioid	ACTH4-10
+NP04062	YPFPGP	6	Rattus norvegicus	Opioid	beta-casomorphin-7
+NP04063	YPWF	4	Rattus norvegicus	Opioid	Endomorphin-1
+NP04064	SYSMEHFRWGKPV	13	Sparus aurata	Opioid	Alpha-melanocyte-stimulating hormone
+NP04065	YGGFMRNY	8	Spea multiplicatus	Opioid	Met-enkephalin-Arg-Gly-Leu
+NP04066	SMEHFRWGKPM	11	Squalus acanthias	Opioid	Melanocyte stimulating hormones
+NP04067	YGGFM	5	Theromyzon tessulatum	Opioid	Met-enkephalin
+NP04068	YGGFI	5	Xenopus laevis	Opioid	Ile-enkephalin
+NP04069	YGGFMRF	7	Coturnix coturnix japonica	Opioid	MERF
+NP04070	GSWPAARGVQ	10	Coturnix coturnix japonica	Opioid	Neuropeptide 1
+NP04071	FSEFLKQYLGMSPR	14	Coturnix coturnix japonica	Opioid	Neuropeptide 2
+NP04072	SEFLKQYLGMSPR	13	Coturnix coturnix japonica	Opioid	Neuropeptide 2
+NP04073	YGGFIGVRK	9	Coturnix coturnix japonica	Opioid	Nociceptin
+NP04074	YGGFIGVRKSA	11	Coturnix coturnix japonica	Opioid	Nociceptin
+NP04075	YGGFIGVRKSARKWNNQ	17	Coturnix coturnix japonica	Opioid	Nociceptin
+NP04076	SYSEHFRWGKPV	12	Mus musculus	Opioid	Alpha-MSH (oxidized)
+NP04077	YGGFMTSEKSQTPLVTLFKNAIIKNAH	27	Mus musculus	Opioid	beta-endorphin
+NP04078	RPVKVYPNVAENESAEAFPLEF	22	Mus musculus	Opioid	Corticotropin-like intermediate lobe peptide
+NP04079	SYSMEHFRWGKPV	13	Oryzias latipes	Opioid	Alpha-melanocyte-stimulating hormone
+NP04080	RPVKVYTPNGVEEESSEVFPGEM	23	Oryzias latipes	Opioid	Corticotropin-like intermediate lobe peptide
+NP04081	DGSYKMKHFRWSGPPAS	17	Oryzias latipes	Opioid	?- melanocyte-stimulating hormone
+NP04082	YGGFMKSWEEDRQKPLVTLFKNIINKDEQQ	30	Oryzias latipes	Opioid	?-Endorphin
+NP04083	VEPEEEANGGEILA	14	Rattus norvegicus	Opioid	PENK 114-133 (7-20)
+NP04084	VGRPEWW	7	Rattus norvegicus	Opioid	Propeptide 219-229 (1-7)
+NP04085	YGGFLRKYPK	10	Bos taurus	Opioid	Alpha-neoendorphin
+NP04086	YGGFLRKYP	9	Bos taurus	Opioid	Beta-neoendorphin
+NP04087	YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT	32	Bos taurus	Opioid	Big dynorphin (By similarity)
+NP04088	YGGFLRRIRPKLK	13	Bos taurus	Opioid	Dynorphin A(1-13) (By similarity)
+NP04089	YGGFLRRIRPKLKWDNQ	17	Bos taurus	Opioid	Dynorphin A(1-17)
+NP04090	YGGFLRRI	8	Bos taurus	Opioid	Dynorphin A(1-8) (By similarity)
+NP04091	YGGFL	5	Bos taurus	Opioid	Leu-enkephalin
+NP04092	YGGFLRRQFKVVTRSQEDPSAYYEELFDV	29	Bos taurus	Opioid	Leumorphin (By similarity)
+NP04093	YGGFLRRQFKVVT	13	Bos taurus	Opioid	Rimorphin (By similarity)
+NP04094	FAEPLPSEEEGESYSKEVPEMEKRYGGFM	29	Bos taurus	Opioid	Enkelytin
+NP04095	YGGFM	5	Bos taurus	Opioid	Met-enkephalin
+NP04096	YGGFMRGL	8	Bos taurus	Opioid	Met-enkephalin-Arg-Gly-Leu
+NP04097	YGGFMRF	7	Bos taurus	Opioid	Met-enkephalin-Arg-Phe
+NP04098	MDELYPLEVEEEANGGEVLG	20	Bos taurus	Opioid	PENK(111-130) (By similarity)
+NP04099	DAEEDDGLGNSSNLLKELLGAGDQREGSLHQEGSDAEDVS	40	Bos taurus	Opioid	PENK(140-179) (By similarity)
+NP04100	FAEPLPSEEEGESYSKEVPEME	22	Bos taurus	Opioid	PENK(233-254) (By similarity)
+NP04101	ECSQDCATCSYRLARPTDLNPLACTLECEGKLPSLKTWETCKELLQLTKLELPPDATSALSKQEESHLLA	70	Bos taurus	Opioid	Synenkephalin
+NP04102	MPRVRSLFQRQKRTEPGLEEVGEIEQKQLQ	30	Bos taurus	Opioid	Neuropeptide 1 (Probable)
+NP04103	FSEFMRQYLVLSMQSSQ	17	Bos taurus	Opioid	Neuropeptide 2 (Probable)
+NP04104	FGGFTGARKSARKLANQ	17	Bos taurus	Opioid	Nociceptin
+NP04105	YGGFLRKYPK	10	Cavia porcellus	Opioid	Alpha-neoendorphin (By similarity)
+NP04106	YGGFLRKYP	9	Cavia porcellus	Opioid	Beta-neoendorphin
+NP04107	YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT	32	Cavia porcellus	Opioid	Big dynorphin (By similarity)
+NP04108	YGGFLRRIRPKLK	13	Cavia porcellus	Opioid	Dynorphin A(1-13) (By similarity)
+NP04109	YGGFLRRIRPKLKWDNQ	17	Cavia porcellus	Opioid	Dynorphin A(1-17)
+NP04110	YGGFLRRI	8	Cavia porcellus	Opioid	Dynorphin A(1-8)
+NP04111	YGGFL	5	Cavia porcellus	Opioid	Leu-Enkephalin
+NP04112	YGGFLRRQFKVVTRSQEDPNAYSEEFFDV	29	Cavia porcellus	Opioid	Leumorphin
+NP04113	YGGFLRRQFKVVT	13	Cavia porcellus	Opioid	Rimorphin (By similarity)
+NP04114	YGGFM	5	Cavia porcellus	Opioid	Met-Enkephalin
+NP04115	YGGFMRGL	8	Cavia porcellus	Opioid	Met-enkephalin-Arg-Gly-Leu
+NP04116	YGGFMRF	7	Cavia porcellus	Opioid	Met-enkephalin-Arg-Phe
+NP04117	VDELYPVEPEEEANGGEILT	20	Cavia porcellus	Opioid	PENK(114-133) (By similarity)
+NP04118	DAEDGDALANSSDLLKELLGTGDDRDRENHHQEGGDSDEGVS	42	Cavia porcellus	Opioid	PENK(143-184) (By similarity)
+NP04119	FAEFLPSDEEGESYSKEVPEME	22	Cavia porcellus	Opioid	PENK(238-259) (By similarity)
+NP04120	ECSQDCAACSYRLVRPGDLNFLACTLECEGQLPSLKIWETCKDLLQVSKQELPQEGASSLRESGKQDESHLLS	73	Cavia porcellus	Opioid	Synenkephalin
+NP04121	YGGFL	5	Felis catus	Opioid	Leu-enkephalin
+NP04122	YGGFM	5	Felis catus	Opioid	Met-enkephalin
+NP04123	YGGFLRKYPK	10	Homo sapiens	Opioid	Alpha-neoendorphin
+NP04124	YGGFLRKYP	9	Homo sapiens	Opioid	Beta-neoendorphin
+NP04125	YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT	32	Homo sapiens	Opioid	Big dynorphin
+NP04126	YGGFLRRIRPKLK	13	Homo sapiens	Opioid	Dynorphin A(1-13) (By similarity)
+NP04127	YGGFLRRIRPKLKWDNQ	17	Homo sapiens	Opioid	Dynorphin A(1-17)
+NP04128	YGGFLRRI	8	Homo sapiens	Opioid	Dynorphin A(1-8) (By similarity)
+NP04129	YGGFL	5	Homo sapiens	Opioid	Leu-enkephalin
+NP04130	YGGFLRRQFKVVTRSQEDPNAYSGELFDA	29	Homo sapiens	Opioid	Leumorphin
+NP04131	YGGFLRRQFKVVT	13	Homo sapiens	Opioid	Rimorphin
+NP04132	YGGFM	5	Homo sapiens	Opioid	Met-enkephalin
+NP04133	YGGFMRGL	8	Homo sapiens	Opioid	Met-enkephalin-Arg-Gly-Leu
+NP04134	YGGFMRF	7	Homo sapiens	Opioid	Met-enkephalin-Arg-Phe
+NP04135	MDELYPMEPEEEANGSEILA	20	Homo sapiens	Opioid	PENK(114-133) (By similarity)
+NP04136	DAEEDDSLANSSDLLKELLETGDNRERSHHQDGSDNEEEVS	41	Homo sapiens	Opioid	PENK(143-183) (By similarity)
+NP04137	FAEALPSDEEGESYSKEVPEME	22	Homo sapiens	Opioid	PENK(237-258) (By similarity)
+NP04138	ECSQDCATCSYRLVRPADINFLACVMECEGKLPSLKIWETCKELLQLSKPELPQDGTSTLRENSKPEESHLLA	73	Homo sapiens	Opioid	Synenkephalin
+NP04139	MPRVRSLFQEQEEPEPGMEEAGEMEQKQLQ	30	Homo sapiens	Opioid	Neuropeptide 1 (Probable)
+NP04140	FSEFMRQYLVLSMQSSQ	17	Homo sapiens	Opioid	Neuropeptide 2 (Probable)
+NP04141	FGGFTGARKSARKLANQ	17	Homo sapiens	Opioid	Nociceptin
+NP04142	YGGFL	5	Mesocricetus auratus	Opioid	Leu-enkephalin
+NP04143	YGGFM	5	Mesocricetus auratus	Opioid	Met-enkephalin
+NP04144	YGGFMRGL	8	Mesocricetus auratus	Opioid	Met-enkephalin-Arg-Gly-Leu
+NP04145	YGGFMRF	7	Mesocricetus auratus	Opioid	Met-enkephalin-Arg-Phe
+NP04146	MDELYPVEPEEEANGGEILA	20	Mesocricetus auratus	Opioid	PENK(114-133) (By similarity)
+NP04147	DADEGDTLANSSDLLKELLGTGDNRAREGRHQESTDNDDNMS	42	Mesocricetus auratus	Opioid	PENK(143-184) (By similarity)
+NP04148	FAESLPSDEEAESYSKEVPEIE	22	Mesocricetus auratus	Opioid	PENK(238-259) (By similarity)
+NP04149	ECSQDCAKCSYHLVSPGDINFLACTLECEGQMPSHKIWETCKDLLQVSKPEFPCDSINMFKDSNKQDESHLLA	73	Mesocricetus auratus	Opioid	Synenkephalin
+NP04150	YGGFLRKYPK	10	Mus musculus	Opioid	Alpha-neoendorphin
+NP04151	YGGFLRKYP	9	Mus musculus	Opioid	Beta-neoendorphin
+NP04152	YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT	32	Mus musculus	Opioid	Big dynorphin
+NP04153	YGGFLRRIRPKLK	13	Mus musculus	Opioid	Dynorphin A(1-13) (By similarity)
+NP04154	YGGFLRRIRPKLKWDNQ	17	Mus musculus	Opioid	Dynorphin A(1-17)
+NP04155	YGGFLRRI	8	Mus musculus	Opioid	Dynorphin A(1-8) (By similarity)
+NP04156	YGGFL	5	Mus musculus	Opioid	Leu-enkephalin
+NP04157	YGGFLRRQFKVVTRSQENPNTYSEDLDV	28	Mus musculus	Opioid	Leumorphin
+NP04158	YGGFLRRQFKVVT	13	Mus musculus	Opioid	Rimorphin (By similarity)
+NP04159	YGGFM	5	Mus musculus	Opioid	Met-enkephalin
+NP04160	YGGFMRSL	8	Mus musculus	Opioid	Met-enkephalin-Arg-Gly-Leu
+NP04161	YGGFMRF	7	Mus musculus	Opioid	Met-enkephalin-Arg-Phe
+NP04162	MDELYPMEPEEEANGGEILA	20	Mus musculus	Opioid	PENK(114-133) (By similarity)
+NP04163	DADEGDTLANSSDLLKELLGTGDNRAKDSHQQESTNNDEDMS	42	Mus musculus	Opioid	PENK(143-184) (By similarity)
+NP04164	FAESLPSDEEGENYSKEVPEIE	22	Mus musculus	Opioid	PENK(238-259) (By similarity)
+NP04165	ECSQDCAKCSYRLVRPGDINFLACTLECEGQLPSFKIWETCKDLLQVSRPEFPWDNIDMYKDSSKQDESHLLA	73	Mus musculus	Opioid	Synenkephalin
+NP04166	MPRVRSLVQVRDAEPGADAEPGADAEPGADDAEEVEQKQLQ	41	Mus musculus	Opioid	Neuropeptide 1 (Probable)
+NP04167	FSEFMRQYLVLSMQSSQ	17	Mus musculus	Opioid	Neuropeptide 2 (Probable)
+NP04168	FGGFTGARKSARKLANQ	17	Mus musculus	Opioid	Nociceptin
+NP04169	YGGFLRKYPK	10	Rattus norvegicus	Opioid	Alpha-neoendorphin (By similarity)
+NP04170	YGGFLRKYP	9	Rattus norvegicus	Opioid	Beta-neoendorphin
+NP04171	YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT	32	Rattus norvegicus	Opioid	Big dynorphin (By similarity)
+NP04172	YGGFLRRIRPKLK	13	Rattus norvegicus	Opioid	Dynorphin A(1-13) (By similarity)
+NP04173	YGGFLRRIRPKLKWDNQ	17	Rattus norvegicus	Opioid	Dynorphin A(1-17)
+NP04174	YGGFLRRI	8	Rattus norvegicus	Opioid	Dynorphin A(1-8) (By similarity)
+NP04175	YGGFL	5	Rattus norvegicus	Opioid	Leu-enkephalin
+NP04176	YGGFLRRQFKVVTRSQENPNTYSEDLDV	28	Rattus norvegicus	Opioid	Leumorphin
+NP04177	YGGFLRRQFKVVT	13	Rattus norvegicus	Opioid	Rimorphin (By similarity)
+NP04178	YGGFM	5	Rattus norvegicus	Opioid	Met-enkephalin
+NP04179	YGGFMRGL	8	Rattus norvegicus	Opioid	Met-enkephalin-Arg-Gly-Leu
+NP04180	YGGFMRF	7	Rattus norvegicus	Opioid	Met-enkephalin-Arg-Phe
+NP04181	MDELYPVEPEEEANGGEILA	20	Rattus norvegicus	Opioid	PENK(114-133)
+NP04182	DADEGDTLANSSDLLKELLGTGDNRAKDSHQQESTNNDEDSTS	43	Rattus norvegicus	Opioid	PENK(143-185)
+NP04183	FAESLPSDEEGESYSKEVPEME	22	Rattus norvegicus	Opioid	PENK(239-260)
+NP04184	DCSQDCAKCSYRLVRPGDINFLACTLECEGQLPSFKIWETCKDLLQVSKPEFPWDNIDMYKDSSKQDESHLLA	73	Rattus norvegicus	Opioid	Synenkephalin
+NP04185	MPRVRSVVQARDAEPEADAEPVADEADEVEQKQLQ	35	Rattus norvegicus	Opioid	Neuropeptide 1 (Probable)
+NP04186	FSEFMRQYLVLSMQSSQ	17	Rattus norvegicus	Opioid	Neuropeptide 2 (Probable)
+NP04187	FGGFTGARKSARKLANQ	17	Rattus norvegicus	Opioid	Nociceptin
+NP04188	YGGFLRKYPK	10	Sus scrofa	Opioid	Alpha-neoendorphin
+NP04189	YGGFLRKYP	9	Sus scrofa	Opioid	Beta-neoendorphin
+NP04190	YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT	32	Sus scrofa	Opioid	Big dynorphin (By similarity)
+NP04191	YGGFLRRIRPKLK	13	Sus scrofa	Opioid	Dynorphin A(1-13)
+NP04192	YGGFLRRIRPKLKWDNQ	17	Sus scrofa	Opioid	Dynorphin A(1-17)
+NP04193	YGGFLRRI	8	Sus scrofa	Opioid	Dynorphin A(1-8)
+NP04194	YGGFL	5	Sus scrofa	Opioid	Leu-enkephalin
+NP04195	YGGFLRRQFKVVTRSQEDPNAYYEELFDV	29	Sus scrofa	Opioid	Leumorphin
+NP04196	YGGFLRRQFKVVT	13	Sus scrofa	Opioid	Rimorphin
+NP04197	FGGFTGARKSARKLANQ	17	Sus scrofa	Opioid	Nociceptin
+NP04198	YGGFM	5	Xenopus laevis	Opioid	Met-enkephalin
+NP04199	YGGFMRGY	8	Xenopus laevis	Opioid	Met-enkephalin-Arg-Gly-Tyr
+NP04200	YGGFMRF	7	Xenopus laevis	Opioid	Met-enkephalin-Arg-Phe
+NP04201	DCSKDCASCALHLGQQREINSLACTLECEGKLPSAKAWGTCKELLLLTKVDNVQDGEKYQDNNDSHYAA	69	Xenopus laevis	Opioid	Synenkephalin
+NP04202	NPELYQMNHFRWGQPPTHF	19	Petromyzon marinus	Opioid	MSH-A
+NP04203	VQESADGYRMQHFRWGQPLP	20	Petromyzon marinus	Opioid	MSH-B
+NP04204	WETCKEFLKLSQLEIPQDGTSALRESSPEESHAL	34	Felis catus	Opioid	Synenkephalin
+NP04205	ACTLECEGKLPSAKAWGTCKELLQLTKLDGVQDGEKYQDNNDSHYIA	47	Xenopus laevis	Opioid	Synenkephalin
+NP04408	SLALADDAAFRERARLLAALERRHWLNSYMHKLLVLDAP	39	Bos taurus	Parathyroid hormone	Tuberoinfundibular peptide of 39residues
+NP04409	SLALADDAAFRERARLLAALERRHWLNSYMHKLLVLDAP	39	Homo sapiens	Parathyroid hormone	Tuberoinfundibular peptide of 39residues
+NP04410	SLALADDAAFRERARLLAALERRRWLDSYMQKLLLLDAP	39	Mus musculus	Parathyroid hormone	Tuberoinfundibular peptide of 39residues
+NP04411	SLALADDAAFRERARLLAALERRRWLDSYMQKLLLLDAP	39	Rattus norvegicus	Parathyroid hormone	Tuberoinfundibular peptide of 39residues
+NP04412	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWLNSGVAESGLEGDHPYDISATSLELNLRRH	141	Canis familiaris	Parathyroid hormone	Parathyroid hormone-related protein
+NP04413	TRSAWLNSGVAESGLEGDHPYDISATSLELNLR	33	Canis familiaris	Parathyroid hormone	Osteostatin (By similarity)
+NP04414	HQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGRYLTQETNKLEPYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWLNSEVAESGLDGDHLSDFSTTSPELYLRRH	137	Equus caballus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04415	TRSAWLNSEVAESGLDGDHLSDFSTTSPELYLR	33	Equus caballus	Parathyroid hormone	Osteostatin (By similarity)
+NP04416	AVSEHQLLHDKGKSIQDLRRRIFLQNLIEGVNTAEIRATSEVSPNPKPATNTKNYPVRFGSEDEGRYLTQETNKSQTYKEQPLKVSGKKKKAKPGKRKEQEKKKRRARSAWLNSGMYGSNVTESPVLDNSVTTHNHILR	139	Gallus gallus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04417	RSAWLNSGMYGSNVTESPVLDNSVTTHNHILR	32	Gallus gallus	Parathyroid hormone	Osteostatin
+NP04418	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAANTKNHAVRFGSDDEGRYLTQETNKVEPYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWPLSAGAGSGLAGDHLSDISEPEPELDSRRH	141	Oryctolagus cuniculus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04419	TRSAWPLSAGAGSGLAGDHLSDISEPEPELDSR	33	Oryctolagus cuniculus	Parathyroid hormone	Osteostatin (By similarity)
+NP04420	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGKYLTQETNKVETYKEQPLKTPGKKKKGKPG	95	Ovis aries	Parathyroid hormone	Parathyroid hormone-related protein
+NP04421	TRSAWLTSYVAGTGLEEDYLSDISATSLELNSR	33	Bos taurus	Parathyroid hormone	Osteostatin (By similarity)
+NP04422	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGKYLTQETNKVETYKEQPLKTPGKKKKSKPGKRKEQEKKKRRTRSAWLTSYVAGTGLEEDYLSDISATSLELNSRRH	141	Bos taurus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04423	TRSAWLDSGVTGSGLEGDHLSDTSTTSLELDSR	33	Homo sapiens	Parathyroid hormone	Osteostatin
+NP04424	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPSPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWLDSGVTGSGLEGDHLSDTSTTSLELDSRRH	141	Homo sapiens	Parathyroid hormone	Parathyroid hormone-related protein
+NP04425	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEI	36	Homo sapiens	Parathyroid hormone	PTHrP[1-36]
+NP04426	ATSEVSPNSKPSPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKP	57	Homo sapiens	Parathyroid hormone	PTHrP[38-94]
+NP04427	TRSAWPSTAASGLLEDPLPHTSRTSLEPSLR	31	Mus musculus	Parathyroid hormone	Osteostatin (By similarity)
+NP04428	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRREQEKKKRRTRSAWPSTAASGLLEDPLPHTSRTSLEPSLRTH	139	Mus musculus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04429	TRSAWPGTTGSGLLEDPQPHTSPTSTSLEPSSR	33	Rattus norvegicus	Parathyroid hormone	Osteostatin (By similarity)
+NP04430	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRREQEKKKRRTRSAWPGTTGSGLLEDPQPHTSPTSTSLEPSSRTH	141	Rattus norvegicus	Parathyroid hormone	Parathyroid hormone-related protein
+NP05221	QDDGSEATGLLLGEAEKVGGLLGTLAEELNGYSRKKGGFSFRF	43	Bos taurus	RFamide neuropeptide	QRF-amide
+NP05222	QDEGSEATGFLPAAGEKTSGPLGNLAEELNGYSRKKGGFSFRF	43	Homo sapiens	RFamide neuropeptide	QRF-amide
+NP05223	QDGSSEAAGFLPADSEKASGPLGTLAEELSSYSRRKGGFSFRF	43	Mus musculus	RFamide neuropeptide	QRF-amide
+NP05224	VGTALGSLAEELNGYNRKKGGFSFRF	26	Rana esculenta	RFamide neuropeptide	Orexigenic neuropeptide 26RFa
+NP05225	QDSGSEATGFLPTDSEKASGPLGTLAEELSSYSRRKGGFSFRF	43	Rattus norvegicus	RFamide neuropeptide	QRF-amide
+NP05929	GMYGGW	6	Caenorhabditis elegans	YGGW-amide related peptide	GMYGGW-amide (Potential)
+NP05930	GMYGGY	6	Caenorhabditis elegans	YGGW-amide related peptide	GMYGGY-amide (Potential)
+NP05931	GYGGYGGY	8	Caenorhabditis elegans	YGGW-amide related peptide	GYGGYGGY-amide (Potential)
+NP05932	QWGYGGY	7	Caenorhabditis elegans	YGGW-amide related peptide	QWGYGGY-amide (Potential)
+NP05933	RGMW	4	Caenorhabditis elegans	YGGW-amide related peptide	GMW-amide (Potential)
+NP05934	GYGGY	5	Caenorhabditis elegans	YGGW-amide related peptide	GYGGY-amide (Potential)
+NP05935	PYGGYGW	7	Caenorhabditis elegans	YGGW-amide related peptide	PYGGYGW-amide (Potential)
+NP05936	GFYGG	5	Caenorhabditis elegans	YGGW-amide related peptide	GFYGG-amide (Potential)
+NP05937	GGG	3	Caenorhabditis elegans	YGGW-amide related peptide	GGG-amide (Potential)
+NP05938	GGGW	4	Caenorhabditis elegans	YGGW-amide related peptide	GGGW-amide (Potential)
+NP05939	GGGWG	5	Caenorhabditis elegans	YGGW-amide related peptide	GGGWG-amide (Potential)
+NP05940	GGW	3	Caenorhabditis elegans	YGGW-amide related peptide	GGW-amide (Potential)
+NP05941	GYG	3	Caenorhabditis elegans	YGGW-amide related peptide	GYG-amide (Potential)
+NP05942	YGGWG	5	Caenorhabditis elegans	YGGW-amide related peptide	YGGWG-amide (Potential)

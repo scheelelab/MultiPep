@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ293	25453058	P83305		Japonicin-1	Rana japonica	Animalia (Amphibians)	FFPIGVFCKIFKTC	14	11835990	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ557	60389882	P69436		Agelaia-mastoparan 	Agelaia pallipes 	Animalia (Insects)	INWLKLGKAIIDAL	14	15225564	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ799				Temporin-1Gd	Rana grylio	Animalia (Amphibians)	FILPLIASFLSKFL	14	Reference: Reid C.N., Bjourson A.J., Shaw C. (2001) Galensin, a novel homodimeric antimicrobial peptide from the defensive skin secretion of Kassina senegalensis: isolation, structural characterisation and cloning of precursor cDNA. Submitted (JUL-2001) t	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ800				Temporin-1Gc	Rana grylio	Animalia (Amphibians)	SILPTIVSFLTKFL	14	20167788	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1063				CGA 47-60	Synthetic construct		RILSILRHQNLLKE	14	10753865	Antifungal		Experimentally Validated
+CAMPSQ1069	68052006	P0C022		Eumenine mastoparan-AF	Anterhynchium flavomarginatum micado	Animalia (Insects)	INLLKIAKGIIKSL	14	15317499	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1075	223635832	Q7M0J8		Antibiotic GE2270	Planobispora rosea	Bacteria	SCNCVCGFCCSCSP	14	1908853	Antibacterial 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1878	223635797	P0C8P9		Thiocillin GE37468	Streptomyces sp.	Bacteria	STNCFCYPCCSCSS	14		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2600	338817642	P86920		Antifungal protein 1	Arachis hypogaea	Viridiplantae	DSLSFSYNNFEEDD	14		Antifungal		Experimentally Validated
+CAMPSQ3140				  Temporin-1DRa 	Rana draytonii	Animalia (Amphibians)	HFLGTLVNLAKKIL	14	16307827	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3180				Temporin-LTb 	Hylarana latouchii	Animalia (Amphibians)	FIITGLVRGLTKLF	14	19022312	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3393				  Polybia-MP-II 	Polybia paulista	Animalia (Insects)	IDWLKLGKMVIDAL	14	19463874	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3394				  Polybia-MP-III 	Polybia paulista	Animalia (Insects)	IDWLKLGKMVMDVL	14	19463874	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3400		D3VML5		  Plantazolicin 	Bacillus amyloliquefaciens FZB42	Bacteria	RCTCTTIISSSSTF	14	20971906, 21950656	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3423	284022087	C7DT09		  OdVP3 	Orancistrocerus drewseni 	Animalia (Insects)	KDLHTVVSAILQAL	14	19857508	Antifungal		Experimentally Validated
+CAMPSQ3452				  Temporin-PRc 	Rana pretiosa	Animalia (Amphibians)	NFLDTLINLAKKFI	14	21295070	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ3660		E7EKD0		Temporin-HN1	Odorrana hainanensis	Animalia (Amphibians)	AILTTLANWARKFL	14	22450466	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3661		E7EKD4		Temporin-HN2 	Odorrana hainanensis	Animalia (Amphibians)	NILNTIINLAKKIL	14	22450466	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3943		P86147		Venom peptide 2-long 	Orancistrocerus drewseni 	Animalia (Insects)	EPILGIITSLLKSL	14	19857508, 18695936	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3947		P86146		Eumenine mastoparan-OD 	Orancistrocerus drewseni 	Animalia (Insects)	GRILSFIKGLAEHL	14	19857508,18695936	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ8238				Mastoparan analogue 3	Synthetic construct		iNLKALAALAKKIL	14	26114809	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8239				Mastoparan analogue 4	Synthetic construct		InLKALAALAKKIL	14	26114809	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8241				Mastoparan analogue 6 (l form), 7 (d form) and 10	Synthetic construct		LIKKALAALAKLNIlikkalaalaklni	14	26114809	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8242				Mastoparan analogue 8	Synthetic construct		inlkalaalakkil	14	26114810	Antibacterial		Experimentally Validated
+CAMPSQ8243				Mastoparan analogue 9, 11, 12	Synthetic construct		INLKALAALAKKIL	14	26114811	Antibacterial		Experimentally Validated

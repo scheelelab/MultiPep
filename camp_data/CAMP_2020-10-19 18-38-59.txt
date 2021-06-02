@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ112	129279021	A4GUC3		Midgut defensin	Haemaphysalis longicornis 	Animalia (Arachnids)	ACHAHCQSVGRRGGYCGNFRMTCYCY	26	17521774	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ159	156619799	A8DY01, B5L1I4		Pleurain-a1	Rana pleuraden	Animalia (Amphibians)	SIITMTKEAKLPQLWKQIACRLYNTC	26	17764786, 19028675	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ168	156778015	A8B5P0		Pleurain-a2	Rana pleuraden	Animalia (Amphibians)	SIITMTKEAKLPQSWKQIACRLYNTC	26	17764786	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ221	18202408	P82425		Ponericin-W3	Pachycondyla goeldii 	Animalia (Insects)	GIWGTLAKIGIKAVPRVISMLKKKKQ	26	11279030	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ222	18202409	P82426		Ponericin-W4	Pachycondyla goeldii 	Animalia (Insects)	GIWGTALKWGVKLLPKLVGMAQTKKQ	26	11279030	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ256	24637996	P83080		Maximin 1	Bombina maxima	Animalia (Amphibians)	GIGTKILGGVKTALKGALKELASTYAN	27	11835991	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ258	24637997	P83081 , Q58T49		Maximin 2	Bombina maxima	Animalia (Amphibians)	GIGTKILGGVKTALKGALKELASTYVN	27	11835991	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ259	24637998	P83082, Q58T83 , Q58T80 , Q58T70 , Q58T69 , Q58T68 , Q58T64 , Q58T48 , Q58T46 , Q58T40		Maximin 3	Bombina maxima	Animalia (Amphibians)	GIGGKILSGLKTALKGAAKELASTYLH	27	11835991	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ261	24637999	P83083, Q58T79 , Q58T77 , Q58T62 , Q58T52 , Q58T44 , Q58T42		Maximin 4	Bombina maxima	Animalia (Amphibians)	GIGGVLLSAGKAALKGLAKVLAEKYAN	27	11835991	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ263	24638000	P83084, Q58T61 , Q58T60		Maximin 5	Bombina maxima	Animalia (Amphibians)	SIGAKILGGVKTFFKGALKELASTYLQ	27	11835991	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ360	32396196	Q7SZG5		Pleurocidin-like peptide Hb18	Hippoglossus hippoglossus	Animalia (Pisces)	GFLGILFHGVHHGRKKALQMNSERRS	26	12878506	Antibacterial,Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ389	3913493	P81487		Dermaseptin-B5 	Phyllomedusa bicolor	Animalia (Amphibians)	GLWNKIKEAASKAAGKAALGFVNEMV	26	9614066	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ517	547823	P36499		Lantibiotic lacticin-481	Lactococcus lactis subsp. lactis 	Bacteria	KGGSGVIHTISHECNMNSWQFVFTCCS	27		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ526	55976281	P84276		Palustrin-1c	Rana palustris	Animalia (Amphibians)	ALSILRGLEKLAKMGIALTNCKATKKC	27	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ527	55976282	P84277		Palustrin-1d	Rana palustris	Animalia (Amphibians)	ALSILKGLEKLAKMGIALTNCKATKKC	27	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ644	82087686	Q6QLQ5	2AMN	Cathelicidin 	Gallus gallus	Animalia (Aves)	RVKRVWPLVIRTVIAGYNLYRAIKKK	26	16326712	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ717	20138940	P82069		Maculatin-3.1	Litoria genimaculata	Animalia (Amphibians)	GLLQTIKEKLESLESLAKGIVSGIQA	26	9620615	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ750	67464324	P80214	1YTR	Plantaricin A	Lactobacillus plantarum	Bacteria	KSSAYSLQMGATAIKQVKKLFKKWGW	26	15805109	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ871				Halibut Hb18	Halibut	Animalia (Pisces)	GFLGILFHGVHHGRKKALHMNSERRS	26	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1015	78191394			CA	Synthetic construct		KWKLFKKIGIGAVLKVLTTGLPALIS	26	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1142		P01501	1BH1,2MLT	Melittin	Apis mellifera	Animalia (Insects)	GIGAVLKVLTTGLPALISWIKRKRQQ	26	9568968	Antibacterial,Antiviral	Gram-ve	Experimentally Validated
+CAMPSQ1538	24638002	P83086 , Q58T74 , Q58T58		Maximin-7	Bombina maxima	Animalia (Amphibians)	GIGAKILGGVKTALKGALKELASTYVN	27		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ3952		P86415		Halocyntin	Halocynthia papillosa 	Animalia	FWGHIWNAVKRVGANALHGAVTGALS	26	19085906	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4017		B5L1I5		Pleurain-E1 antimicrobial peptide	Rana pleuraden 	Animalia (Amphibians)	AKAWGIPPHVIPQIVPVRIRPLCGNV	26	19028675	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4019		B5L1L0		Pleurain-J1 antimicrobial peptide	Rana pleuraden 	Animalia (Amphibians)	FIPGLRRLFATVVPTVVCAINKLPPG	26	19028675	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

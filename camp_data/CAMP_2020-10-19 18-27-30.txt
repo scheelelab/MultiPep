@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ171	157874737	P01507, P11006	1F0D	Chain A, Cecropin A	Synthetic construct		KWKLFKKIGIGKFLHSAKKF	20	11009597	Antibacterial		Experimentally Validated
+CAMPSQ173	157874744	P01507, P11006	1F0G	Chain A, Cecropin A	Synthetic construct		KLKLFKKIGIGKFLHSAKKF	20	11009597	Antibacterial		Experimentally Validated
+CAMPSQ174	157874747	P01507, P11006	1F0H	Chain A, Cecropin A	Synthetic construct		KAKLFKKIGIGKFLHSAKKF	20	11009597	Antibacterial		Experimentally Validated
+CAMPSQ180	160380510	P0C5W6		Brevinin-1DYa	Rana dybowskii	Animalia (Amphibians)	FLSLALAALPKFLCLVFKKC	20	17688900	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ181	160380511	P0C5W7		Brevinin-1DYb	Rana dybowskii	Animalia (Amphibians)	FLSLALAALPKLFCLIFKKC	20	17688900	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ182	160380512	P0C5W8		Brevinin-1DYc	Rana dybowskii	Animalia (Amphibians)	FLPLLLAGLPKLLCLFFKKC	20	17688900	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ437	41017617	P82876		Ranalexin-1Ca	Rana clamitans	Animalia (Amphibians)	FLGGLMKAFPALICAVTKKC	20	10822101	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ438	41017618	P82877		Ranalexin-1Cb	Rana clamitans	Animalia (Amphibians)	FLGGLMKAFPAIICAVTKKC	20	10822101	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ669	2342597	O24006		Ib-AMP3	Impatiens balsamina	Viridiplantae	QYRHRCCAWGPGRKYCKRWC	20	9305910	Antibacterial,antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ670	2342597	O24006		Ib-AMP4	Impatiens balsamina	Viridiplantae	QWGRRCCGWGPGRRYCRRWC	20	9305910	Antibacterial,antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ680				Phylloseptin-4 	Phyllomedusa hypochondrialis	Animalia (Amphibians)	FLSLIPHAINAVSTLVHHSG	20	16963159	Antibacterial		Experimentally Validated
+CAMPSQ685		Q58T61 , Q58T60		Maximin H4	Bombina maxima	Animalia (Amphibians)	ILGPVISKIGGVLGGLLKNL	20	11835991	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ695	110560616	A6MBN6		Odorranain-J1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibians)	GLFTLIKCAYQLIAPTVACN	20	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ698	110560423	A6MBD9		Odorranain-B1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibians)	AALKGCWTKSIPPKPCFGKR	20	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1237	109940030	P81903		Histone H2B 1 	Ictalurus punctatus 	Animalia (Pisces)	PDPAKTAPKKGSKKAVTKXA	20	9645227	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ1749	68052292	Q58T86, Q58T49		Maximin-H8	Bombina maxima	Animalia (Amphibians)	ILGPVLGLVSNALGGLLKNI	20		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ1750	68052290	Q58T80, Q58T69		Maximin-H9	Bombina maxima	Animalia (Amphibians)	ILGPVLGLVSNALGGLIKKI	20		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2717		P82282		  Bombinin H1  	Bombina variegata	Animalia (Amphibians)	IIGPVLGMVGSALGGLLKKI	20	8223491	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2718		P82284		  Bombinin H4  	Bombina variegata	Animalia (Amphibians)	LIGPVLGLVGSALGGLLKKI	20	8223491	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3244				  Kassinatuerin-2Md 	Kassina maculata	Animalia (Amphibians)	FIGAIAAALPHVINAIKNTF	20	19427345	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3245				  Brevinin-1CDYa 	Rana chensinensis	Animalia (Amphibians)	LLSLALAALPKLFCLIFKKC	20	19179051	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3248				  Bactrocerin-1 	Bactrocera dorsalis	Animalia (Insects)	VGKTWIKVIRGIGKSKIKWQ	20	19479741	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3269				  Chromofungin 	Homo sapiens	Animalia (Mammals)	RILSILRHQNLLKELQDLAL	20	12438152	Antifungal		Experimentally Validated
+CAMPSQ3488				  Peptide 9 	Rapana venosa	Animalia (Molluscs (Gastropoda))	FPPPGESAVDMSFFYALSNP	20	21703315	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3491				  Piceain 1 	Picea sitchensis	Viridiplantae	KSLRPRCWIKIKFRCKSLKF	20	21644248	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

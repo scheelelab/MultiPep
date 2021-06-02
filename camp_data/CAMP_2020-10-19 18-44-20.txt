@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ137	135798	P07504		Thionin	Pyrularia pubera	Viridiplantae	KSCCRNTWARNCYNVCRLPGTISREICAKKCDCKIISGTTCPSDYPK	47	3985614	Antibacterial		Experimentally Validated
+CAMPSQ237	20139323	P81930		Defense-related peptide 2 	Pisum sativum	Viridiplantae	KTCENLSGTFKGPCIPDGNCNKHCRNNEHLLSGRCRDDFRCWCTNRC	47	10860545	Antifungal		Experimentally Validated
+CAMPSQ390	3913645	P81456		Fabatin-1	Vicia faba	Viridiplantae	LLGRCKVKSNRFHGPCLTDTHCSTVCRGEGYKGGDCHGLRRRCMCLC	47	9103978	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ732	157881028	Q962A7	1XV3	Penaeidin 4	Litopenaeus setiferus	Animalia (Crustaceans (Malacostraca))	HSSGYTRPLRKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHL	47	15699044	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ772				White cloud bean defensin 	Phaseolus vulgaris	Viridiplantae	KTCENLADTFRGPCFATSNCDDHCKNKEHLLSGRCRDDFRCWCTRNC	47	16687191	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ857	3913646	P81457		Fabatin-2	Vicia faba	Viridiplantae	LLGRCKVKSNRFNGPCLTDTHCSTVCRGEGYKGGDCHGLRRRCMCLC	47	9103978	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ916	44887846	Q8H6Q1	1N4N	Floral defensin-like protein 1PhD1	Petunia x hybrida	Viridiplantae	ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC	47	12644678	Antifungal		Experimentally Validated
+CAMPSQ935	44887844	Q8GTM0	4AAZ,4AB0	Flower-specific defensin precursor 	Nicotiana alata	Viridiplantae	RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC	47	12644678	Antifungal		Experimentally Validated
+CAMPSQ1058	55583802	P82243	2B9K	Antimicrobial peptide LCI	Bacillus subtilis 	Bacteria	AIKLVQSPNGNFAASFVLDGTKWIFKSKYYDSSKGYWVGIYEVWDRK	47		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1700	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2c-2	Macadamia integrifolia 	Viridiplantae	RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQKR	47	10571855	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2801				Tu-AMP 1 	Tulipa gesneriana L	Viridiplantae	KSCCRNTVARNCYNVCRIPGTPRPVCAATCDCKLITGTKCPPGYEK	46	15056889	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2911				  Enterocin A 	Enterococcus faecium	Bacteria	TTHSGKYYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGGAIPGKC	47	8633865	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3163				  Chicken AvBD7 	Gallus gallus	Animalia (Aves)	QPFIPRPIDTCRLRNGICFPGICRRPYYWIGTCNNGIGSCCARGWRS	47	19738012	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3166				  Vv-AMP1 	Vitis vinifera	Viridiplantae	RTCESQSHRFKGTCVRQSNCAAVCQTEGFHGGNCRGFRRRCFCTKHC	47	18611251	Antifungal		Experimentally Validated
+CAMPSQ3306				  Ap 	Argopecten purpuratus	Animalia (Molluscs (Bivalvia))	TYMPVEEGEYIVNISYADQPKKNSPFTAKKQPGPKVDLSGVKAYGPG	47	19481126	Antifungal		Experimentally Validated
+CAMPSQ3332				  Longicornsin 	Haemaphysalis longicornis	Animalia (Arachnids)	DFGCGQGMIFMCQRRCMRLYPGSTGFCRGFRCMCDTHIPLRPPFMVG	47	20027626	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3570				  Esculentin-1-OR3 	Odorrana rotodora	Animalia (Amphibians)	GIFSKISGKAIKNLFIKGAKNVGKRVGMDVVRTGMDVVGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3571				  Esculentin-1-OR4 	Odorrana rotodora	Animalia (Amphibians)	GIFSKISGKAIKNLFIKGAENVGKHVGIDVVRTGIDVVGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3572				  Esculentin-1-OR5 	Odorrana rotodora	Animalia (Amphibians)	GIFSKISGKAIKNLFIKGAKNVGKEVGIDVVRTGMDVVGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3932		P84813		Potamin-1	Solanum tuberosum 	Viridiplantae	DICTNCCAGTKGCNTTSANGAFICEGQSDPKKPKACPLNCDPHIAYA	47	15809084	Antifungal		Experimentally Validated
+CAMPSQ3971		B3F051		Defensin Lc-def	Lens culinaris subsp. culinaris 	Viridiplantae	KTCENLSDSFKGPCIPDGNCNKHCKEKEHLLSGRCRDDFRCWCTRNC	47	18468512	Antifungal		Experimentally Validated
+CAMPSQ3981		P86518		Defensin Ec-AMP-D1	Echinochloa crus-galli 	Viridiplantae	RECQSQSHRYKGACVHDTNCASVCQTEGFSGGKCVGFRGRCFCTKAC	47	18625284	Antifungal		Experimentally Validated
+CAMPSQ3982		P86519		Defensin Ec-AMP-D2	Echinochloa crus-galli 	Viridiplantae	RECQSQSHRYKGACVHDTNCASVCQTEGFSGGKCVGFRGRCFCTKHC	47	18625284	Antifungal		Experimentally Validated
+CAMPSQ7576		F1AWB0		Vejovine	Vaejovis mexicanus 	Animalia (Arachnids)	GIWSSIKNLASKAWNSDIGQSLRNKAAGAINKFVADKIGVTPSQAAS	47	20969885	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8156		Q9Y0X4		Bradykinin-potentiating peptide BmKbpp	Mesobuthus martensii 	Animalia (Arachnids)	FRFGSFLKKVWKSKLAKKLRSKGKQLLKDYANKVLNGPEEEAAAPAE	47	22115565	Antibacterial, Antifungal		Experimentally Validated

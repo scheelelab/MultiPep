@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ176	158705869	P0C5G7		Mastoparan-like peptide 12d	Vespa magnifica 	Animalia (Insects)	INLKAIAAMAKKLL	14	17046111	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ179	160358716	P0C5X6		Temporin-1DYa	Rana dybowskii	Animalia (Amphibians)	FIGPIISALASLFG	14	17688900	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ229	20137309	P82389		Aurein-2.2	Litoria aurea	Animalia (Amphibians)	FDIVKKVVGALGSL	14	10951191	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ231	20137311	P82391		Aurein-2.4	Litoria aurea	Animalia (Amphibians)	FDIVKKVVGTIAGL	14	10951191	Antibacterial,Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ432	41017612	P82824		Ranatuerin-9	Rana catesbeiana	Animalia (Amphibians)	FLFPLITSFLSKVL	14	9784389	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ442	41018246	P82831		Temporin-1Lb	Rana luteiventris	Animalia (Amphibians)	NFLGTLINLAKKIM	14	10651828	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ443	41018247	P82832		Temporin-1Lc	Rana luteiventris	Animalia (Amphibians)	FLPILINLIHKGLL	14	10651828	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ711				OdR1	Odorrana grahami	Animalia (Amphibians)	GFSPNLPGKGLRIS	14	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ712		A6MBR9		OdS1	Odorrana grahami	Animalia (Amphibians)	FLPPSPWKETFRTS	14	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ713				OdT1	Odorrana grahami	Animalia (Amphibians)	TSRCYIGYRRKWCS	14	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1001				Temporin-1CSd	Rana cascadae	Animalia (Amphibians)	NFLGTLVNLAKKIL	14	17451843	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1171				E14LKK / H14LKK	Synthetic construct		LKLLKKLLKLLKKL	14	7726486	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1174				E14KKL	Synthetic construct		LKKLLKKLKKLLKK	14	7726486	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2743		P21564		  Mastoparan B 	Vespa basalis	Animalia (Insects)	LKLKSIVSWAKKVL	14	8555423	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2774				  The K4 peptide 	Synthetic construct		KKKKPLFGLFFGLF	14	19573572	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3247				  Japonicin-1CDYa 	Rana chensinensis	Animalia (Amphibians)	FFPLALLCKVFKKC	14	19179051	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3487				  Peptide 8 	Rapana venosa	Animalia (Molluscs (Gastropoda))	APPPGYAMESDSFS	14	21703315	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4027	403399468	P0DJO3		Amphipathic peptide CT1	Scorpiops tibetanus 	Animalia (Arachnids)	GFWGSLWEGVKSVV	14	19854232	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4029	403399470	P0DJO4		Amphipathic peptide CT2	Scorpiops tibetanus 	Animalia (Arachnids)	GFWGKLWEGVKSAI	14	22542475	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4034	430802812	L0GCV8		Antimicrobial peptide CT1-NDBP-5.17 precursor 	Urodacus yaschenkoi	Animalia (Arachnids)	GFWGKLWEGVKNAI	14	23182832	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4581		P0CJ39		Eumenine mastoparan-EF	Eumenes fraterculus	Animalia (Insects)	FDVMGIIKKIAGAL	14	21549739	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4582		P0CJ38		Eumenine mastoparan-ER	Eumenes rubrofemoratus	Animalia (Insects)	FDIMGLIKKVAGAL	14	21549739	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8140		U4N938		Sm-AMP-X2	Stellaria media 	Viridiplantae	CMSTRGDQARKICE	14	24081691	Antifungal		Experimentally Validated
+CAMPSQ8155		P0DMF9		Peptide Ctri9677	Chaerilus tricostatus 	Animalia (Arachnids)	INWDILIDTIKDKL	14	23415044	Antiviral		Experimentally Validated
+CAMPSQ8164		P0DMF8		Peptide Ctri10261	Chaerilus tricostatus 	Animalia (Arachnids)	FDLGGLIKGVVDLF	14	23415044	Antiviral		Experimentally Validated

@@ -1,0 +1,17 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ83	119852237	A1IKN3		Preprotemporin-1SKa 	Rana sakuraii	Animalia (Amphibians)	FLPVILPVIGKLLNGILGK	19	17174009	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ328	29123272	Q800R3		PBN1 	Phyllomedusa bicolor	Animalia (Amphibians)	FLSLIPHIVSGVAALAKHL	19	12709067	Antibacterial		Experimentally Validated
+CAMPSQ588	215276702	P84567, P84566	2JQ0	Phylloseptin-1 	Phyllomedusa hypochondrialis	Animalia (Amphibians)	FLSLIPHAINAVSAIAKHN	19	15752569	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ590	68565868	P84570		Phylloseptin-5 	Phyllomedusa oreades 	Animalia (Amphibians)	FLSLIPHAINAVSAIAKHS	19	15752569	Antiparasitic		Experimentally Validated
+CAMPSQ614	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibians)	LGGLIKIVPAMICAVTKKC	19	8144672	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ615	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibians)	FLGGLIKIVPAMICAVTKK	19	8144672	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ633	7994700	P82027		Uperin-2.1	Uperoleia inundata 	Animalia (Amphibians)	GIVDFAKKVVGGIRNALGI	19		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ634	7994707	P82028		Uperin-2.2	Uperoleia inundata 	Animalia (Amphibians)	GFVDLAKKVVGGIRNALGI	19		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ635	7994708	P82029		Uperin-2.3	Uperoleia inundata 	Animalia (Amphibians)	GFFDLAKKVVGGIRNALGI	19		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ866				Winter flounder Y	Pseudopleuronectes americanus	Animalia (Pisces)	FFRLLFHGVHHGGGYLNAA	19	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ867		Q7SZH0		Winter flounder Z	Pseudopleuronectes americanus	Animalia (Pisces)	FFRLLFHGVHHVGKIKPRA	19	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ870	32396190	Q7SZG8		Witch flounder GC3.8-t	Glyptocephalus cynoglossus	Animalia (Pisces)	GWKKWLRKGAKHLGQAAIK	19	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1141				Tricholongin BII	Trichoderma longibrachiatum 	Fungi	AGFAAQAAASLAPVAIQQL	19	1935961	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ2128	6093637	P81383		L-amino-acid oxidase	Ophiophagus hannah	Animalia (Reptiles)	HVINLEESFQEPEYENHLA	19		Antibacterial		Experimentally Validated
+CAMPSQ2877				  Phylloseptin-H5 	Phyllomedusa hypochondrialis	Animalia (Amphibians)	FLSLIPHAINAVSAIAKHF	19	16963159	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3183				Phylloseptin 12, Phylloseptin-H10	Phyllomedusa hypochondrialis	Animalia (Amphibians)	FLSLLPSIVSGAVSLAKKL	19	17553595, 18644413	Antibacterial	Gram+ve	Experimentally Validated

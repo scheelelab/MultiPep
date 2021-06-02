@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ281	2500218	P56029	1OT0,1P0G,1P0J,1P0L,1P0O,1P5K,1P5L	50S ribosomal protein L1 	 Helicobacter pylori 	Bacteria	AKKVFKRLEKLFSKIQNDK	19	16255716	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ299	26390784	P81925		27 kDa antibacterial protein	Cyprinus carpio	Animalia (Pisces)	GIGGKPVQTAFVDNDGIYD	19	8797847	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ509	52783433	P82271		RTD-2	Macaca mulatta	Animalia (Mammals)	GVCRCLCRRGVCRCLCRR	18	11675394	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ510	543812	Q06601		Apidaecin-2 	Apis mellifera	Animalia (Insects)	GNNRPIYIPQPRPPHPRL	18	2676519	Antibacterial		Experimentally Validated
+CAMPSQ511	543814	P35581		Apidaecin-1B 	Apis mellifera	Animalia (Insects)	GNNRPVYIPQPRPPHPRL	18	2676519	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ515	544189	P36193		Drosocin	Drosophila melanogaster	Animalia (Insects)	GKPRPYSPRPTSHPRPIRV	19	7588819	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2578	288561881	B3VZU0		Brevinin-1CDYa	Rana dybowskii 	Animalia (Amphibians)	LSLALAALPKLFCLIFKKC	19	19539775	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2858				  A3-APO 	Synthetic construct		RPDKPRPYLPRPRPPRPVR	19	20031377	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3118		P0CJ32		Ascaphin-8 	Ascaphus truei	Animalia (Amphibians)	GFKDLLKGAAKALVKTVLF	19	15207717	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3350				  Phylloseptin-1 	Scylla Phyllomedusa sauvagei	Animalia (Amphibians)	FLSLIPHIVSGVASIAKHF	19	18425600	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3358	544193	P36504		  Duramycin 	Streptoverticillium griseoverticillatum PA-48009	Bacteria	CKQSCSFGPFTFVCDGNTK	19	2272918	Antibacterial		Experimentally Validated
+CAMPSQ3359		P36502		Duramycin B 	Streptoverticillium strain R2075	Bacteria	CRQSCSFGPLTFVCDGNTK	19	2125590	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3360	544195	P36503		Duramycin C 	Streptomyces griseoluteus R2107	Bacteria	CANSCSYGPLTWSCDGNTK	19	2125590	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3364				  PP30 	Pteromalus puparum	Animalia (Insects)	YVPPVQKPHPNGPKFPTFP	19	20466006	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3367				Gradimycin 	Actinoplanes garbadinensis	Bacteria	SSGWVCTLTIECGTVICAC	19	8414	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3615				  Ranacyclin-B-RN1 	Rana nigrovittata	Animalia (Amphibians)	SALVGCWTKSYPPKPCFGR	19	21927839	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3616				  Ranacyclin-B-RN2 	Rana nigrovittata	Animalia (Amphibians)	SALVGCGTKSYPPKPCFGR	19	21927839	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3619				  Ranacyclin-B-LK2 	Limnonectes kuhlii	Animalia (Amphibians)	SALVGCWTKSWPPKPCFGR	19	21927839	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3640				  Nigroain-B1 	Rana nigrovittata	Animalia (Amphibians)	CVISAGWNHKIRCKLTGNC	19	19778602	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3641				  Nigroain-C2 	Rana nigrovittata	Animalia (Amphibians)	FKTWKRPPFQTSCWGIIKE	19	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3861		P85882		Phylloseptin-7 	Phyllomedusa azurea 	Animalia (Amphibians)	FLSLIPHAINAVSAIAKHF	19	17553595	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3878		P86136		Deserticolin-1	Crinia deserticola 	Animalia (Amphibians)	GLADFLNKAVGKVVDFVKS	19	18601958	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4127	410591583	B3A0L2		Antimicrobial peptide GP-19	Xenorhabdus budapestensis	Bacteria	GPVGLLSSPGSLPPVGGAP	19	22497806	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ4131	403377895	G1FE62		Antimicrobial peptide ctriporin	Chaerilus tricostatus 	Animalia (Arachnids)	FLWGLIPGAISAVTSLIKK	19	21876042	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8196				HBc157-175	Synthetic construct		RRRTPSPRRRRSQSPRRRR	19	23785287	Antibacterial	Gram-ve	Experimentally Validated

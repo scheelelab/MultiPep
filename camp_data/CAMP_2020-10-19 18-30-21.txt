@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ234	20138937	P82066		Maculatin-1.1 	Litoria genimaculata 	Animalia (Amphibians)	GLFGVLAKVAAHVVPAIAEHF	21	9620615	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ240	21542075	P82951	1S6W	Hepcidin	Morone chrysops x Morone saxatilis	Animalia (Pisces)	GCRFCCNCCPNMSGCGVCCRF	21	11985602	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ482	47117131	P83867		Ocellatin-3	Leptodactylus ocellatus	Animalia (Amphibians)	GVLDILKNAAKNILAHAAEQI	21	15648972	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ520	55775527	Q2VWH5		Moronecidin	Siniperca chuatsi	Animalia (Pisces)	IFHHIFKGIVHVGKTIHRLVTG	22	17498177	Antibacterial		Experimentally Validated
+CAMPSQ737	167013228	Q5SC60	2JSB	Arenicin-1	Synthetic construct		RWCVYAYVRVRGVLVRYRRCW	21	17935487	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ754		P37046	1RPB	Rp 71955	Actinomycete Sp9440	Bacteria	CLGIGSCNDFAGCGYAVVCFW	21	8286361	Antiviral		Experimentally Validated
+CAMPSQ777				Citropin 2.1	Litoria citropa	Animalia (Amphibians)	GLIGSIGKALGGLLVDVLKPKL	22	10504394	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ988	126215668	P85078		Tricyclic peptide MS-271	Streptomyces sp.	Bacteria	CLGVGSCNNFAGCGYAIVCFW	21	8689231	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ995	124007192	P85070, P0C2A5, P85071		Nigrocin-2GRc, Grahamin-2, Grahamin-1	Rana grahami	Animalia (Amphibians)	GLLSGILGAGKHIVCGLSGLC	21	16621155 , 16487561	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1061	116548	P05059	1CFK,1N2Y	Chromacin	Bos taurus 	Animalia (Mammals)	YPGPQAKEDSEGPSQGPASREK	22	8910482	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2780		Q9X2V7	1Q71	  Microcin J25 	Escherichia coli AY25	Bacteria	VGIGTPIFSYGGGAGHVPEYF	21	1429464	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2805				  Siamycin II 	Streptomyces strains AA3891	Bacteria	CLGIGSCNDFAGCGYAIVCFW	21	7787424	Antiviral		Experimentally Validated
+CAMPSQ2809				  Brevinin-2-related peptide 	Rana septentrionalis	Animalia (Amphibians)	GIWDTIKSMGKVFAGKILQNL	21	15556063	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3068				  Siamycin I 	Streptomyces strain AA6532	Bacteria	CLGVGSCNDFAGCGYAVVCFW	21	8557614	Antibacterial, Antiviral	Gram+ve	Experimentally Validated
+CAMPSQ3069				  NP-06 	Streptomyces strain AA6532	Bacteria	CLGVGSCNDFAGCGYAIVCFW	21	8619594	Antiviral		Experimentally Validated
+CAMPSQ3284				  GHH20 	Homo sapiens	Animalia (Mammals)	GHHPHGHHPHGHHPHGHHHPH	21	18797515	Antifungal		Experimentally Validated
+CAMPSQ3298				  Scolopin 1 	Scolopendra mutilans	Animalia (Centipedes)	FLPKMSTKLRVPYRRGTKDYH	21	19716842	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3323				  Ocellatin-5 	Leptodactylus ocellatus	Animalia (Amphibians)	AVLDILKDVGKGLLSHFMEKV	21	19739090	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3582				  Nigrocin-1-OA1 	Odorrana andersonii	Animalia (Amphibians)	GLLSGVLGVGKKIVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3583				  Nigrocin-1-OA2 	Odorrana andersonii	Animalia (Amphibians)	GIFGKILGVGKKTLCELSGMC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3788				  Pis2 	Gadus morhua	Animalia (Pisces)	FLHHIVGLIHHGLSLFGDRAD	21	22178249	Antiparasitic		Experimentally Validated
+CAMPSQ3809				  NAI-802 	Actinoplanes sp.	Bacteria	ASSGWVCTLTIECGTVICACR	21	23168402	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4331				  Siamycin II	Streptomyces strain AA6532	Bacteria	CLGIGSCNDFAGCGYAIVCFW	21	8557614	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ4600	405944872, 405944871			Chain C, D, Co-Complex Of The Of Ns3-4a Protease With The Inhibitory  Peptide Cp5-46-A	Synthetic construct		GELGRLVYLLDGPGYDPIHCD	21	22965230	Antiviral		Experimentally Validated
+CAMPSQ8191				HBc147-167	Synthetic construct		TVVRRRGRSPRRRTPSPRRRR	21	23785287	Antibacterial	Gram-ve	Experimentally Validated

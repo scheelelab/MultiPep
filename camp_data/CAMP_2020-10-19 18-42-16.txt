@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ198	1709081	P49931		Antibacterial peptide PMAP-36 	Sus scrofa 	Animalia (Mammals)	GRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLGCG	36	8293820	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ266	2493349	P80956		Rugosin-C	Rana rugosa 	Animalia (Amphibians)	GILDSFKQFAKGVGKDLIKGAAQGVLSTMSCKLAKTC	37	7612013	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ282	2506236	P80398	2G9L	Gaegurin-4	Rana rugosa 	Animalia (Amphibians)	GILDTLKQFAKGVGKDLVKGAAQGVLSTVSCKLAKTC	37	7999137	Antibacterial,Antifungal,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ450	4102640	P25068		Tracheal antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	NPVSCVRNKGICVPIRCPGNMKQIGTCVGRAVKCCR	36	8506305	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ496	51241753	Q68Y22		Pilosulin 4	Myrmecia banksi 	Animalia (Insects)	FDITKLNIKKLTKATCKVISKGASMCKVLFDKKKQE	36	15246874	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ554	6014948	P56686		4 kDa defensin	Androctonus australis	Animalia (Arachnids)	GFGCPFNQGACHRHCRSIRRRGGYCAGLFKQTCTCYR	37	8939880	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ742	41016819	P83653	1Q3J	Antimicrobial peptide Alo-3	Acrocinus longimanus	Animalia (Insects)	CIKNGNGCQPNGSQGNCCSGYCHKQPGWVAGYCRRK	36	14661954	Antifungal		Experimentally Validated
+CAMPSQ780	75050050	Q9GLV5		RL-37	Macaca mulatta	Animalia (Mammals)	RLGNFFRKVKEKIGGGLKKVGQKIKDFLGNLVPRTAS	37	11557457	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ781				LL-37 pentamide	Synthetic construct		LLGNFFRKSKQKIGKQFKRIVQRIKNFFRNLVPRTQS	37	11557457	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ789	115503705	Q1KLX8		HmdSL-37, Antibacterial protein LL-37	Hylobates moloch	Animalia (Mammals)	SLGNFFRKARKKIGEEFKRIVQRIKDFLQHLIPRTEA	37	16720578	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ790				PobRL-37	Cercopithecidae	Animalia (Mammals)	RLGNFFRKAKKKIGRGLKKIGQKIKDFLGNLVPRTES	37	16720578	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ791				CjaRL-37	Platyrrhini	Animalia (Mammals)	RLGDILQKAREKIEGGLKKLVQKIKDFFGKFAPRTES	37	16720578	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ803	20532149	P83002		Bacteriocin lactococcin MMFII	Lactococcus lactis subsp. lactis 	Bacteria	TSYGNGVHCNKSKCWIDVSELETYKAGTVSNPKDILW	37	11555873	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ804	175950732	B2LS02		Sakacin G immunity protein	Lactobacillus sakei 2512	Bacteria	KYYGNGVSCNSHGCSVNWGQAWTCGVNHLANGGHGVC	37	11555873	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ973	145566911	P85113		Ostricacin-1	Struthio camelus	Animalia (Aves)	LFCRKGTCHFGGCPAHLVKVGSCFGFRACCKWPWDV	36	16459058	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2754		P80392		  THP-2 	Meleagris gallopavo 	Animalia (Aves)	LFCKRGTCHFGRCPSHLIKVGSCFGFRSCCKWPWDA	36	7964174	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2827	269818977	A7WNV5		  Esculentin-2PLa   	Rana palustris	Animalia (Amphibians)	GLFSILKGVGKIALKGLAKNMGKMGLDLVSCKISKEC	37	11087945	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2859				  Mytilus defensin 	Mytilus edulis	Animalia (Molluscs (Bivalvia))	GFGCPNDYPCHRHCKSIPGRAGGYCGGAHRLRCTCYR	37	8702979	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2862				  scorpion defensin 	Leiurus quinquestriatus	Animalia (Arachnids)	GFGCPLNQGACHRHCRSIRRRGGYCAGFFKQTCCYRN	37	8333834	Antibacterial		Experimentally Validated
+CAMPSQ3355				  pBD-2 	Sus scrofa	Animalia (Mammals)	DHYICAKKGGTCNFSPCPLFNRIEGTCYSGKAKCCIR	37	17658606	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3361				  pBD-1 	Sus scrofa	Animalia (Mammals)	SVSCLRNKGVCMPGKCAPKMKQIGTCGMPQVKCCKRK	37	17168333	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3368				  Sublancin 168 	Bacillus subtilis 168	Bacteria	GLGKAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	9722542	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3630				  Esculentin-2-ALa 	Amolops loloensis	Animalia (Amphibians)	GIFALIKTAAKFVGKNLLKQAGKAGLEHLACKANNQC	37	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3873		P68577		SPBc2 prophage-derived bacteriocin sublancin-168	Bacillus subtilis 	Bacteria	IGCGGGAVACQNYRQFCR	37	21196935	Antibacterial		Experimentally Validated
+CAMPSQ8197				HBc147-183(34AA)	Synthetic construct		TVVRRRGRSPRRRTPSPRRAASQSPRRAASQSRESQC	37	23785287	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

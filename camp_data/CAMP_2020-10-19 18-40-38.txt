@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ91	122056010	A0AEI6		Brevinin-2GHc precursor 	Rana guentheri	Animalia (Amphibians)	SIWEGIKNAGKGFLVSILDKVRCKVAGGCNP	31	16979798	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ274	2494048	Q62714		Neutrophil antibiotic peptide NP-4 precursor 	Rattus norvegicus	Animalia (Mammals)	ACYCRIGACVSGERLTGACGLNGRIYRLCCR	31	2543629	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ342	3024355	P81056		Penaeidin-1 	Litopenaeus vannamei	Animalia (Crustaceans (Malacostraca))	YRGGYTGPIPRPPPIGRPPLRLVVCACYRLS	31	11028917	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ528	55976283	P84278		Palustrin-2a	Rana palustris	Animalia (Amphibians)	GFLSTVKNLATNVAGTVLDTIRCKVTGGCRP	31	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ529	55976284	P84279		Palustrin-2b	Rana palustris	Animalia (Amphibians)	GFFSTVKNLATNVAGTVIDTLKCKVTGGCRS	31	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ530	55976285	P84280		Palustrin-2c	Rana palustris	Animalia (Amphibians)	GFLSTVKNLATNVAGTVIDTLKCKVTGGCRS	31	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ534	58430587	P14661		Cecropin P1	Ascaris suum	Animalia (Nematode)	SWLSKTAKKLENSAKKRISEGIAIAIQGGPR	31	2512577, 11772394	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ760	76365061	P84639		Cycloviolin-C	Leonia cymosa	Viridiplantae	GIPCGESCVFIPCLTTVAGCSCKNKVCYRN	30	10813905	Antiviral		Experimentally Validated
+CAMPSQ761	76365062	P84640		Cycloviolin-D	Leonia cymosa	Viridiplantae	GFPCGESCVFIPCISAAIGCSCKNKVCYRN	30	10813905	Antiviral		Experimentally Validated
+CAMPSQ764	76364211	P84641		Circulin-C	Chassalia parviflora 	Viridiplantae	CGESCVFIPCITSVAGCSCKSKVCYRNGIP	30	10691702	Antiviral		Experimentally Validated
+CAMPSQ765	76364212	P84642		Circulin-D	Chassalia parviflora 	Viridiplantae	KIPCGESCVWIPCVTSIFNCKCENKVCYHD	30	10691702	Antiviral		Experimentally Validated
+CAMPSQ766	76364213	P84643		Circulin-E	Chassalia parviflora 	Viridiplantae	KIPCGESCVWIPCLTSVFNCKCENKVCYHD	30	10691702	Antiviral		Experimentally Validated
+CAMPSQ1053	399355	P11478, Q64365		Neutrophil cationic peptide 1 	Cavia porcellus	Animalia (Mammals)	RRCICTTRTCRFPYRRLGTCIFQNRVYTFCC	31	2473036 , 3623703	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1884	122546963	Q2QBT0		Lantibiotic nisin-U	Streptococcus uberis	Bacteria	ITSKSLCTPGCKTGILMTCPLKTATCGCHFG	31		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2303	338817703	B6D434		Cathelicidin-BF antimicrobial peptide	Bungarus fasciatus	Animalia (Reptiles)	KFFRKLKKSVKKRAKEFFKKPRVIGVSIPF	30	18795096	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2581	308154251	P86720		Lantibiotic lichenicidin A2	Bacillus licheniformis DSM 13 = ATCC 14580  	Bacteria	TPATTSSWTCITAGVTVSASLCPTTKCTSRC	31	15383718	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2814				  human KS-30 	Homo sapiens	Animalia (Mammals)	KSKEKIGKEFKRIVQRIKDFLRNLVPRTES	30	14978112	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2899				  Caerulein precursor-related fragment Ea 	Rana esculenta	Animalia (Amphibians)	GLGSILGKILNVAGKVGKTIGKVADAVGNKE	31	14726199	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2900				  Caerulein precursor-related fragment Eab 	Rana esculenta	Animalia (Amphibians)	GLGSFLKNAIKIAGKVGSTIGKVADAIGNKE	31	14726199	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2901				  Caerulein precursor-related fragment Ec 	Rana esculenta	Animalia (Amphibians)	GLGSFFKNAIKIAGKVGSTIGKVADAIGNKE	31	14726199	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2907				  Ranatuerin-2G 	Rana grylio	Animalia (Amphibians)	GLLLDTLKGAAKDIAGIALEKLKCKITGCKP	31	10828493	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3377				  Epilancin K7 	Staphylococcus epidermidis K7	Bacteria	SASVLKTSIKVSKKYCKGVTLTCGCNITGGK	31	7867636	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3645				  Nigroain-K2 	Rana nigrovittata	Animalia (Amphibians)	SLWETIKNAGKGFILNILDKIRCKVAGGCKT	31	19778602	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ3879		P84927		Dermaseptin-7 	Phyllomedusa tarsius 	Animalia (Amphibians)	ALWKDVLKKIGTVALHAGKAALGAVADTISQ	31		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3891		P80959		Bacteriocin lactocin-705	Lactobacillus paracasei	Bacteria	GMSGYIQGIPDFLKGYLHGISAANKHKKGRL	31		Antibacterial	Gram+ve	Experimentally Validated

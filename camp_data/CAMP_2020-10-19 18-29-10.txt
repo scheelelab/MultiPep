@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ357	32396188	Q7SZG9		Pleurocidin-like peptide GcSc4B7	Glyptocephalus cynoglossus	Animalia (Pisces)	FWGKLLKLGMHGIGLLHQHLG	21	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ375	38257917	P83674		Ruminococcin-A 	Ruminococcus gnavus 	Bacteria	GNGVLKTISHECNMNTWQFLF	21	11526013	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ393	3914038	P81474		Misgurin	Misgurnus anguillicaudatus	Animalia (Pisces)	RQRVEELSKFSKKGAAARRRK	21	9271200	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ609	730432	Q99134		PYLa/PGLa precursor 	Xenopus laevis	Animalia (Amphibians)	GMASKAGAIAGKIAKVALKAL	21	1717472	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ648	8928532	P82282		Bombinin-H1/H3	Bombina variegata	Animalia (Amphibians)	IIGPVLGMVGSALGGLLKKIG	21	8223491	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ649	8928533	P82284		Bombinin-H4	Bombina variegata	Animalia (Amphibians)	LIGPVLGLVGSALGGLLKKIG	21	8223491	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ672	33358303	Q7T053		Pleurocidin-like peptide WFX 	Pseudopleuronectes americanus	Animalia (Pisces)	RSTEDIIKSISGGGFLNAMNA	21	12950255 , 12878506	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ696	110560590	A6MBM3		Odorranain-H1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibians)	GIFGKILGVGKKVLCGLSGVC	21	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ699	110560345	A6MBA3 , P0C2A4, P85070		Nigrosin-OG20 , nigrocin-2GRa , Grahamin-1, nigrosin-OG17, Grahamin-2	Odorrana grahami	Animalia (Amphibians)	GLLSGILGAGKNIVCGLSGLC	21	17272268 , 16621155 , 16487561	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ700	110560319	A6MB90		Nigrosin-OG21 antimicrobial peptide	Odorrana grahami	Animalia (Amphibians)	GLLSGVLGVGKKVLCGLSGLC	21	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ701	110560301	A6MB81		Nigrosin-OG13 antimicrobial peptide	Odorrana grahami	Animalia (Amphibians)	GLLSGILGAGKHIVCGLSGLR	21	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ702				Nigrocin-OG4	Odorrana grahami	Animalia (Amphibians)	GLLSGILGAGKHIICGLSGLC	21	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ703				Nigrocin-OG5	Odorrana grahami	Animalia (Amphibians)	GLLSGILGAGKQKVCGLSGLC	21	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ869				Witch flounder GcSc4B7	Glyptocephalus cynoglossus	Animalia (Pisces)	GFWGKLFKLGLHGIGLLHLHL	21	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1156	254674360	C7C1L1		Kasseptin 1Md	Kassina maculata (spotted running frog)	Animalia (Amphibians)	IIGAIAAALPHVINAIKNTFG	21	19427345	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2711				  LP1A 	Manduca sexta	Animalia (Insects)	QRFSQPTFKLPQGRLTLSRKF	21	20096726	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2919				  Catestatin 	Homo sapiens	Animalia (Mammals)	SSMKLSFRARAYGFRGPGPQL	21	15723172	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2928				  Brevinin-1Ja 	Rana japonica	Animalia (Amphibians)	FLGSLIGAAIPAIKQLLGLKK	21	18558801	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2934				  SP-B 	Sus scrofa	Animalia (Mammals)	APPGARPPPGPPPPGPPPPGP	21	17883246	Antifungal		Experimentally Validated
+CAMPSQ2986				  Mutacin 1140	Streptococcus mutans	Bacteria	KSWSLCTPGCARTGSFNSYCC	21	9596742	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3158				  Nigrocin-OG21 	Odorrana grahami	Animalia (Amphibians)	GLLSGVLGVGKKVDCGLSGLC	21	17272268	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3420				  PvD1 	Phaseolus vulgaris 	Viridiplantae	KTCENLADTYKGPCFTTGSCD	21	18786582	Antifungal		Experimentally Validated
+CAMPSQ3436				  Nigrocin-2ISa  	Odorrana ishikawae	Animalia (Amphibians)	GIFSTVFKAGKGIVCGLTGLC	21	 21193000	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3437				  Nigrocin-2ISb  	Odorrana ishikawae	Animalia (Amphibians)	GILGTVFKAGKGIVCGLTGLC	21	 21193000	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3673				  Bmkb1 	Mesobuthus martensii	Animalia (Arachnids)	FLFSLIPSAISGLISAFKGRR	21	15062994	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

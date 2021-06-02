@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ184	160380518	P0C5X4		Brevinin-2DYd	Rana dybowskii	Animalia (Amphibians)	GIFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC	33	17688900	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ454	416724	P32424		Brevinin-2	Rana porosa brevipoda 	Animalia (Amphibians)	GLLDSLKGFAATAGKGVLQSLLSTASCKLAKTC	33	1449472	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ455	416725	P32413		Brevinin-2E	Rana esculenta (edible frog )	Animalia (Amphibians)	GIMDTLKNLAKTAGKGALQSLLNKASCKLSGQC	33	8508915	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ704				OdC1, Brevinin -2 GrB	Odorrana grahami	Animalia (Amphibians)	GVLGTVKNLLIGAGKSAAQSVLKTLSCKLSNDC	33	17272268 , 16621155	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ705				OdD1	Odorrana grahami	Animalia (Amphibians)	GFLDTFKNLALNAAKSAGVSVLNSLSCKLFKTC	33	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ980	1706115	P51437		Cathelin-related antimicrobial peptide 	 Mus musculus	Animalia (Mammals)	GLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE	33	9148921	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ984	117949327	P0C201	1X5V	Psalmopeotoxin-1	Psalmopoeus cambridgei	Animalia (Arachnids)	ACGILHDNCVYVPAQNPCCRGLQCRYGKCLVQV	33	15304333	Antiparasitic		Experimentally Validated
+CAMPSQ992	110560015, 110560722	A6MAU3, A6MBT9		Brevinin -2 Gra , Brevinin-2E-OG1, Brevinin-2E-OG6	Rana grahami	Animalia (Amphibians)	GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC	33	16621155 , 17272268	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3542				  Brevinin-2-OA1 	Odorrana andersonii	Animalia (Amphibians)	GILDTFKNMALNAAKSAGVSVLNALSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3543				  Brevinin-2-OA3 	Odorrana andersonii	Animalia (Amphibians)	GLLDTFKNMAINAAHGAGVSVLNALSCKLKKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3544				  Brevinin-2-OA4 	Odorrana andersonii	Animalia (Amphibians)	GLLDTFKNLAINAAESAGVSVLNSLSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3545				  Brevinin-2-OA5 	Odorrana andersonii	Animalia (Amphibians)	GLLDGILNANFNAAKSAGTSVLNALSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3546				  Brevinin-2-OA6 	Odorrana andersonii	Animalia (Amphibians)	GVLATVKNLLIGTGDGAAQSVLKTLSCKLSNDC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3547				  Brevinin-2-OA7 	Odorrana andersonii	Animalia (Amphibians)	GVLGTVKDLLIGAGKSAAQSTLKTLSCKISNDC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3548				  Brevinin-2-OA8 	Odorrana andersonii	Animalia (Amphibians)	GVLATVKNLLNGTGDGAAQSVLKTLSCKLSNDC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3550				  Brevinin-2-OR2 	Odorrana rotodora	Animalia (Amphibians)	GLLDTIKNMALNAAKSAGVSVLNSLSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3551				  Brevinin-2-OR3 	Odorrana rotodora	Animalia (Amphibians)	GLIDTIKNMALNAAKSAGVSVLNTLSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3552				  Brevinin-2-OR4 	Odorrana rotodora	Animalia (Amphibians)	SVLGTVKDLLIGAGKSAAQSVLTANSCKLSNSC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3553				  Brevinin-2-OR5 	Odorrana rotodora	Animalia (Amphibians)	SFLDTLKNLAISAAKGAGQSVLSTLSCKLSETC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3554				  Brevinin-2-OR6 	Odorrana rotodora	Animalia (Amphibians)	GLLDTIKNMALNAAKSAGVSVLNSLSCKDSKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3555				  Brevinin-2-OR7 	Odorrana rotodora	Animalia (Amphibians)	GLLDTIKNMALNAAKSAGVSVLNTLSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3557				  Brevinin-2-OR9 	Odorrana rotodora	Animalia (Amphibians)	SFLSTFKELAINAAKNAGQSILHTLSCKLDKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3558				  Brevinin-2-OR10 	Odorrana rotodora	Animalia (Amphibians)	SFLSTFKELAINAAKNAGQSLLHTLSCKLDKTC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8142				Sm-AMP-L	Synthetic construct		VDPDVRAYCKHQCLSTRGDQARKICESVCLRQD	33	24081691	Antifungal		Experimentally Validated
+CAMPSQ8143		U4N938		Antimicrobial peptide X precursor (Sm-AMP-X)	Stellaria media 	Viridiplantae	VDPDVRAYCKHQCMSTRGDQARKICESVCMRQD	33	24081691	Antifungal		Experimentally Validated

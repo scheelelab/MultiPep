@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ147	146737992	A5JSU6		Moricin-like peptide B	Galleria mellonella	Animalia (Insects)	GKIPVKAIKKGGQIIGKALRGINIASTAHDIISQFKPKKKKNH	43	18207081	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ461	3849841	Q9Z4J1		Divercin V41	Carnobacterium divergens 	Bacteria	TKYYGNGVYCNSKKCWVDWGQASGCIGQTVVGGWLGGAIPGKC	43	15205430	Antibacterial		Experimentally Validated
+CAMPSQ849	46395683	P83669		Defensin-A	Anomala cuprea	Animalia (Insects)	VTCDLLSFEAKGFAANHSICAAHCLAIGRKGGSCQNGVCVCRN	43	11719071	Antibacterial 	Gram+ve	Experimentally Validated
+CAMPSQ891				Defensin C	Zophobas atratus 	Animalia (Insects)	FTCDVLGFEIAGTKLNSAACGAHCLALGRTGGYCNSKSVCVCR	43	1761552	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ892	46395682	P83668		Defensin-B	Anomala cuprea	Animalia (Insects)	VTCDLLSFEAKGFAANHSICAAHCLVIGRKGGACQNGVCVCRN	43	11719071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ893	1706353	Q10745		Defensin	Allomyrina dichotoma	Animalia (Insects)	VTCDLLSFEAKGFAANHSLCAAHCLAIGRRGGSCERGVCICRR	43	8607799	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ898	81867362	Q91X12		Neutrophil cationic antibacterial polypeptide of 11 kDa 	Cavia porcellus	Animalia (Mammals)	GLRKKFRKTRKRIQKLGRKIGKTGRKVWKAWREYGQIPYPCRI	43	8644997	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ966	159163764	Q4GWV4	2B68	Recombinant Crassostrea Gigas Defensin	Crassostrea gigas	Animalia (Molluscs (Bivalvia))	GFGCPGNQLKCNNHCKSISCRAGYCDAATLWLRCTCTDCNGKK	43	16246846	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1100	75457088	Q6E3K9		Propionicin-F	Propionibacterium freudenreichii subsp. freudenreichii	Bacteria	WFYQGMNIAIYANIGGVANIIGYTEAAVATLLGAVVAVAPVVP	43	15574930	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1121	47115696	Q7M426		Holotricin-1	Holotrichia diomphalia	Animalia (Insects)	VTCDLLSLQIKGIAINDSACAAHCLAMRRKGGSCKQGVCVCRN	43	7550103	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1178	114907	P11494	1BDS,2BDS	Antihypertensive protein BDS-1 	Anemonia sulcata	Animalia (Anthozoans)	AAPCFCSGKPGRGDLWILRGTCPGGYGYTSNCYKWPNICCYPH	43		Antiviral		Experimentally Validated
+CAMPSQ1956	71152329	Q8C1G4		Beta-defensin 41	 Mus musculus	Animalia (Mammals)	RSHIDIKNGIERCEKVRGMCKTVCDIDEYDYGYCIRWRNQCCI	43		Antibacterial		Experimentally Validated
+CAMPSQ2208	74820403	Q8WTD4		Defensin-A	Glossina morsitans morsitans 	Animalia (Insects)	VTGELKRDKRVTCNIGEWVCVAHCNSKSKKSGYCSRGVCYCTN	43	11886771	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2449	328877070	P85966	2LB7	Chain A, Hevein-Type Antifungal Peptide With A Unique 10-Cysteine  Motif 	Triticum kiharae	Viridiplantae	QRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC	43	19583772	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2875				  Galleria defensin  	Galleria mellonella	Animalia (Insects)	DTLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFLNVNCWCE	43	14728668	Antibacterial		Experimentally Validated
+CAMPSQ2909				  Human drosomycin-like defensin 	Homo sapiens	Animalia (Mammals)	CLAGRLDKQCTCRRSQPSRRSGHEVGRPSPHCGPSRQCGCHMD	43	18212107	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2913				  Listeriocin 743A 	Listeria innocua 743	Bacteria	KSYGNGVHCNKKKCWVDWGSAISTIGNNSAANWATGGAAGWKS	43	11526003	Antibacterial		Experimentally Validated
+CAMPSQ2914				  Mundticin KS 	Enterococcus mundtii NFRI 7397	Bacteria	KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWKS	43	12147478	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2955		C7G1H4		  Bacteriocin plantarican ASM1	Lactobacillus plantarum A-1	Bacteria	KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGVKHSSGGGGSYHC	43	19939484	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3190				  RprDefA 	Rhodnius prolixus	Animalia (Insects)	ATCDLFSFRSKWVTPNHAACAAHCLLRGNRGGRCKGTICHCRK	43	12650692	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3672	145864817	A9XFZ7		  Coprisin	Copris tripartitus	Animalia (Insects)	VTCDVLSFEAKGIAVNHSACALHCIALRKKGGSCQNGVCVCRN	43	23137439	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3977		P29420		Seed non-specific lipid transfer protein-like 	Raphanus sativus 	Viridiplantae	ALSCGTVNSNLAACIGYLTQNAPLARGCCTGVTNLNNMAXTTP	43	16653017	Antifungal		Experimentally Validated
+CAMPSQ4985	363805607	B3A0N4		Bacteriocin weissellin-A	Weissella paramesenteroides 	Bacteria	KNYGNGVYCNKHKCSVDWATFSANIANNSVAMAGLTGGNAGNK	43	21511463	Antibacterial	Gram +ve	Experimentally Validated
+CAMPSQ7548		E9K9Z1	2KUY	Bacteriocin glycocin F (GccF)	Lactobacillus plantarum	Bacteria	KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGIKHHSSGSSSYHC	43	21251913	Antibacterial		Experimentally Validated
+CAMPSQ8118		H6UWK5, Q7T0L3		Beta-defensin	Epinephelus coioides 	Animalia (Pisces)	NDPEMQYWTCGYRGLCRRFCHAQEYIVGHHGCPRRYRCCAVRS	43	22343108	Antiviral		Experimentally Validated

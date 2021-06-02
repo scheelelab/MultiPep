@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ273	2494047	Q62713		Neutrophil antibiotic peptide NP-3 precursor 	Rattus norvegicus	Animalia (Mammals)	CSCRTSSCRFGERLSGACRLNGRIYRLCC	29	2543629	Antibacterial,Antifungal,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ435	41017615	P82840		Ranatuerin-2B	Rana berlandieri	Animalia (Amphibians)	GLLDTIKGVAKTVAASMLDKLKCKISGC	28	10651828	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ451	4102644	P46163		Neutrophil beta-defensin 5 	Bos taurus 	Animalia (Mammals)	NPQSCRWNMGVCIPISCPGNMRQIGTCS	28		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ504	51701745	P84115		Ranatuerin-2BYb	Rana boylii 	Animalia (Amphibians)	GIMDSVKGLAKNLAGKLLDSLKCKITGC	28	14531844	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ514	543980	P36191		Ceratotoxin-B	Ceratitis capitata	Animalia (Insects)	SIGSAFKKALPVAKKIGKAALPIAKAALP	29	8353519	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ682				Ranatuerin 2SKa 	Rana sakuraii	Animalia (Amphibians)	GLLDAIKDTAQNLFANVLDKIKCKFTKC	28	17174009	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ687	1708946	P54229		Cathelicidin-5 , Antibacterial peptide BMAP-28 , Myeloid antibacterial peptide 28	Bos taurus 	Animalia (Mammals)	GGLRSLGRKILRAWKKYGPIIVPIIRIG	28	8910461	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ708		A6MBP5		OdM1	Odorrana grahami	Animalia (Amphibians)	ATAWDFGPHGLLPIRPIRIRPLCGKDKS	28	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ759	76365059	P84638		Cycloviolin-B	Leonia cymosa	Viridiplantae	GTACGESCYVLPCFTVGCTCTSSQCFKN	28	10813905	Antiviral		Experimentally Validated
+CAMPSQ958	75172159	Q9FR52		Shepherin I	Capsella bursa-pastoris	Viridiplantae	GYGGHGGHGGHGGHGGHGGHGHGGGGHG	28	11117262	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ985	152060988	P0C202		Psalmopeotoxin-2	Psalmopoeus cambridgei	Animalia (Arachnids)	RCLPAGKTCVRGPMRVPCCGSCSQNKCT	28	15304333	Antiparasitic		Experimentally Validated
+CAMPSQ2598	357580501	F8J4S0	2L3I	Oxyopinin-4a	Oxyopes takobius  	Animalia (Arachnids)	IRCPKSWKCKAFKQRVLKRLLAMLRQHAF	29	21933345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2793				 Kenojeinin I 	Raja kenojei	Animalia (Chondrichthyes)	GKQYFPKVGGRLSGKAPLAAKTHRRLKP	28	15752571	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2817				  human LL-29 	Homo sapiens	Animalia (Mammals)	LLGDFFRKSKEKIGKEFKRIVQRIKDFLR	29	17012259	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2869		P56254	1KAL	  Kalata B1 	Oldenlandia affinis	Viridiplantae	GLPVCGETCVGGTCNTPGCTCSWPVCTRN	29	10430870	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3268				  Vasoactive intestinal polypeptide 	Homo sapiens	Animalia (Mammals)	HSDAVFTDNYTRLRKQMAVKKYLNSILN	28	18603306	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3371				  Plantaricin W 	Lactobacillus plantarum	Bacteria	KCKWWNISCDLGNNGHVCTLSHECQVSCN	29	11238971	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3594				  Odorranain-F-OA1 	Odorrana andersonii	Animalia (Amphibians)	GFMDTAKNVAKNMAGNLLDNLKCKITKAC	29	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3595				  Odorranain-F-OA3 	Odorrana andersonii	Animalia (Amphibians)	GFMDTAKNVAKNEAGNLLDNLKCKITKAC	29	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3596				  Odorranain-F-OA4 	Odorrana andersonii	Animalia (Amphibians)	GFMATAKNVAKNMDVTLLDNLKCKITKAC	29	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3872		P86037		Raniseptin-1 	Hypsiboas raniceps 	Animalia (Amphibians)	AWLDKLKSLGKVVGKVALGVAQNYLNPQQ	29	18976634	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3888		O87237		Lantibiotic lacticin 3147 A2	Lactococcus lactis subsp. lactis 	Bacteria	TTPATPAISILSAYISTNTCPTTKCTRAC	29		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4171	386656276	J7FBF0		Defensin 	Camponotus floridanus 	Animalia (Insects)	VNHSACAAHCILRGKTGGRCNSNAVCVCR	29	22912782	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8178		C0HJH7		Dinoponeratoxin Dq-3104	Dinoponera quadriceps 	Animalia (Insects)	GLKDWWNKHKDKIVEVVKDSGKAGLNAA	28	24157790	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8179		C0HJH6		Dinoponeratoxin Dq-3162/Dq-3163/Dq-3178	Dinoponera quadriceps 	Animalia (Insects)	GLKDWWNKHKDKIVEVVKEMGKAGLNAA	28	24157790	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

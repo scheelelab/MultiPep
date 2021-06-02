@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ69	1169813	P80395		Gaegurin-1	Rana rugosa 	Animalia (Amphibians)	SLFSLIKAGAKFLGKNLLKQGACYAACKASKQC	33	7999137	Antibacterial,Antifungal,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ70	1169814	P80396		Gaegurin-2	Rana rugosa 	Animalia (Amphibians)	GIMSIVKDVAKNAAKEAAKGALSTLSCKLAKTC	33	7999137	Antibacterial,Antifungal,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ71	1169815	P80397		Gaegurin-3	Rana rugosa 	Animalia (Amphibians)	GIMSIVKDVAKTAAKEAAKGALSTLSCKLAKTC	33	7999137	Antibacterial,Antifungal,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ76	118419	P01376		Corticostatin-3 precursor 	Oryctolagus cuniculus	Animalia (Mammals)	VVCACRRALCLPRERRAGFCRIRGRIHPLCCRR	33	2745983	Antibacterial,Antifungal,Antiviral	Gram+ve	Experimentally Validated
+CAMPSQ77	118422, 246393	P01377, G1U2G9		Corticostatin-4 precursor 	Oryctolagus cuniculus	Animalia (Mammals)	VVCACRRALCLPLERRAGFCRIRGRIHPLCCRR	33	2745983	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ287	25089860	P83414		Cecropin-B	Heliothis virescens	Animalia (Insects)	KWKVFKKIEKVGRNIRDGIVKAGPAIAVLGQAN	33		Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ288	25089862	P83415		Cecropin-C	Heliothis virescens	Animalia (Insects)	RWKVFKKIEKMGRNIRDGVIKAAPAIEVLGQAK	33		Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ538	585056, 260423	P31107		Adenoregulin 	Phyllomedusa bicolor	Animalia (Amphibians)	GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV	33	8306981	Antibacterial,Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ562	6225739	P81614		Mytimycin	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	DCCRKPFRKHCWDCTAGTPYYGYSTRNIFGCTC	33	8702979	Antifungal		Experimentally Validated
+CAMPSQ574	67460988	P0C008		Nigrocin-1	Rana nigromaculata (dark-spotted frog )	Animalia (Amphibians)	GLLDSIKGMAISAGKGALQNLLKVASCKLDKTC	33	11682065	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ847	2506343	P50704		Defensin-related cryptdin-6/12	Mus musculus	Animalia (Mammals)	DLVCYCRARGCKGRERMNGTCRKGHLLYMLCCR	33	7927786 , 1500163	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1070	224487680	P0C8T7		Brevinin-2PTe	Rana picturata	Animalia (Amphibians)	GFLDSFKNAMIGVAKSVGKTALSTLACKIDKSC	33	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1071	224487679	P0C8T6		Brevinin-2PTd	Rana picturata	Animalia (Amphibians)	GFLDSFKNAMIGVAKSAGKTALNTLACKIDKTC	33	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1072	224487675	P0C8T0		Brevinin-2HSb	Rana hosii	Animalia (Amphibians)	GLLDTLKNMAINAAKGAGQSVLNTLSCKLSKTC	33	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1073	224487674	P0C8S9		Brevinin-2HSa	Rana hosii	Animalia (Amphibians)	GLLDSLKNLAINAAKGAGQSVLNTLSCKLSKTC	33	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1082	224487678	P0C8T5		Brevinin-2PTc	Rana picturata	Animalia (Amphibians)	GLLDSFKNAMIGIAKSAGKTALNKIACKIDKTC	33	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1083	224487677	P0C8T4		Brevinin-2PTb	Rana picturata	Animalia (Amphibians)	GFKGAFKNVMFGIAKSAGKSALNALACKIDKSC	33	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3369				  Bovicin HJ50  	Streptococcus bovis HJ50	Bacteria	ADRGWIKTLTKDCPNVISSICAGTIITACKNCA	33	14702402	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3370				  Thermophilin 1277 	Streptococcus thermophilus SBT1277	Bacteria	ADRGWIKTLTKDCPNVISSICAGTIITACKNCA	33	17381740	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3379				  HbbetaP-1 	Ictalurus punctatus	Animalia (Pisces)	AANFGPSVFTPEVHETWQKFLNVVVAALGKQYH	33	18538841	Antiparasitic		Experimentally Validated
+CAMPSQ3603				  Brevinin-2RTb 	Amolops ricketti	Animalia (Amphibians)	GILDTLKEFGKTAAKGIAQSLLSTASCKLAKTC	33	22100518	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3649				  Rugosin-RN1 	Rana nigrovittata	Animalia (Amphibians)	SIRDKIKTIAIDLAKSAGTGVLKTLICKLDKSC	33	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3650				  Rugosin-RN3 	Rana nigrovittata	Animalia (Amphibians)	SIRDKIKTIAIDLAKSAGMGILKTLICKLDKSC	33	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3651				  Rugosin-RN5 	Rana nigrovittata	Animalia (Amphibians)	SIRDKIKTIAIDLAKSAGTGVLKTLICKLNKSC	33	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4144	410591620	B3A0M3		Brevinin-2JD	Odorrana jingdongensis 	Animalia (Amphibians)	GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC	33	22917879	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated

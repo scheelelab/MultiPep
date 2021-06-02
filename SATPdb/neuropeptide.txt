@@ -1,0 +1,7 @@
+satpdb13082	GSSFLSPEHQLAQQRKESKKPPAKLQPR	2	antiparasitic, antimicrobial,	antitrypanosomic	neuropeptide,	parapep
+satpdb14893	SYSMEHFRWGKPV	5	antibacterial, antiparasitic, cell-cell communication, antimicrobial, antifungal,	antitrypanosomic, hormones	neuropeptide,	camp, hmrbase, neuropedia, parapep, yadamp
+satpdb16988	SEEPPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII	4	antiparasitic, cell-cell communication, antimicrobial, drug delivery vehicle,	antitrypanosomic, hormones, blood brain barrier	neuropeptide,	brainpeps, hmrbase, neuropedia, parapep
+satpdb19847	DDPPLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV	3	antiparasitic, cell-cell communication, antimicrobial,	antitrypanosomic	neuropeptide,	neuropedia, parapep
+satpdb19995	YPPKPESPGEDASPEEMNKYLTALRHYINLVTRQRY	2	antiparasitic, antimicrobial,	antileishmania	neuropeptide,	dadp, parapep
+satpdb25507	HSDAVFTDNYTRLRKQMAVKKYLNSILN	6	antibacterial, antiparasitic, cell-cell communication, antimicrobial, antifungal, drug delivery vehicle,	antitrypanosomic, blood brain barrier	neuropeptide,	brainpeps, camp, neuropedia, parapep, yadamp
+satpdb27605	YRQSMNQGSRSNGCRFGTCTFQKLAHQIYQLTDKDKDGMAPRNKISPQGY	3	antiparasitic, cell-cell communication, antimicrobial,	antitrypanosomic	neuropeptide,	neuropedia, parapep

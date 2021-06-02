@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ271	2493582	P55788	8TFV	Thanatin	Podisus maculiventris	Animalia (Insects)	GSKKPVPIIYCNRRTGKCQRM	21	8577744	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ278	2495138	P55897		Buforin-2 	Bufo gargarizans	Animalia (Amphibians)	TRSSRAGLQFPVGRVHRLLRK	21	8573171	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ290	25090821	P83434	1SIY	Nonspecific lipid-transfer protein 1 	Vigna radiata var. radiata	Viridiplantae	MTCGQVQGNLAQCIGFLQKGG	21	15350690	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ294	25453059	P83306		Japonicin-2	Rana japonica	Animalia (Amphibians)	FGLPMLSILPKALCILLKRKC	21	11835990	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ573	67460722	P0C010		Kassinatuerin-1	Kassina senegalensis	Animalia (Amphibians)	GFMKYIGPLIPHAVKAISDLI	21	15885852	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ575	67460989	P0C009		Nigrocin-2	Rana nigromaculata (dark-spotted frog )	Animalia (Amphibians)	GLLSKVLGVGKKVLCGVSGLC	21	11682065	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ776				Nigrocin-2GRb	Rana grahami	Animalia (Amphibians)	GLFGKILGVGKKVLCGLSGMC	21	16621155	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ806	158705988	P85090		Ocellatin-4	Leptodactylus ocellatus	Animalia (Amphibians)	GLLDFVTGVGKDIFAQLIKQI	21	11555873	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ838	223635182	B5LUQ4		Fallaxidin 4.1	Litoria fallax	Animalia (Amphibians)	GLLSFLPKVIGVIGHLIHPPS	21	18803332	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1067	48429009	Q9X2V7	1PP5,1Q71,1S7P	MicrocinJ25	Escherichia coli	Bacteria	GGAGHVPEYFVGIGTPISFYG	21	1429464	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1078	224493152	P0C8U1		Nigrocin-2HSb	Rana hosii	Animalia (Amphibians)	GLLGSIFGAGKKIACALSGLC	21	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1079	224493151	P0C8U0		Nigrocin-2HSa	Rana hosii	Animalia (Amphibians)	GLLGSLFGAGKKVACALSGLC	21	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1092	123321624	Q09T02		Lantibiotic michiganin-A	Clavibacter michiganensis subsp. michiganensis	Bacteria	SSSGWLCTLTIECGTIICACR	21	16957199	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1098	223635234	A1Z0M0		Hepcidin	Larimichthys crocea	Animalia (Pisces)	RCRFCCRCCPRMRGCGICCRF	21		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2587	334305783	E5KIB6		Cypemycin	Streptomyces sp.	Bacteria	TPATPTVAQFVIQGSTICLVC	21	20805503	Antibacterial, Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ3153				  Odorranain-H1 	Odorrana grahami	Animalia (Amphibians)	GIFGKILGVGKKVLCGLSGWC	21	17272268	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3157				  Nigrocin-OG13 	Odorrana grahami	Animalia (Amphibians)	GLLSGILGAGKHIVCGLSGLK	21	17272268	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3591				  Nigrocin-1-OW4 	Odorrana wuchuanensis	Animalia (Amphibians)	GILSGVLGMGKKIVCGLRGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3592				  Nigrocin-1-OW5 	Odorrana wuchuanensis	Animalia (Amphibians)	GILGNIVGMGKQVVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3644				  Nigroain-K1 	Rana nigrovittata	Animalia (Amphibians)	SLWETIKNAGKGFIQNILDKIR	21	19778602	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3654				  Hainanenin 1 	Amolops hainanensis	Animalia (Amphibians)	FALGAVTKLLPSLLCMITRKC	21	22306820	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3655				  Hainanenin 5 	Amolops hainanensis	Animalia (Amphibians)	FALGAVTKRLPSLFCLITRKC	21	22306820	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4150	410591646	B3A0M6		Nigrocin-2JDa	Odorrana jingdongensis 	Animalia (Amphibians)	GIFGKILGAGKKVLCGLSGLC	21	22917879	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4152	410591647	B3A0M7		Nigrocin-2JDb	Odorrana jingdongensis 	Animalia (Amphibians)	GIFGKILGVGKKVLCGLSGMC	21	22917879	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8201				Transportan-10 (TP10)	Synthetic construct		AGYLLGKINLKALAALAKKIL	21	23689723	Antibacterial	Gram-ve	Experimentally Validated

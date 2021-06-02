@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ175	158705868	A0SPI0		Mastoparan-like peptide 12c precursor	Vespa magnifica 	Animalia (Insects)	INLKAIAALAKKLLG	15	17046111	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ241	21542166	P83287		Oncorhyncin-1 	Oncorhynchus mykiss	Animalia (Pisces)	SKGKKANKDVELARG	15	10938737	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ653	91208278	P84797		Agrocybin	Agrocybe cylindracea 	Fungi	ANDPQCLYGNVAAKF	15	15629530	Antibacterial,Antifungal,Antiviral		Experimentally Validated
+CAMPSQ747	206944351	B6D434		Cathelicidin-BF-15	Bungarus fasciatus	Animalia (Reptiles)	KFFRKLKKSVKKRAK	15	18795096	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1018				CA	Synthetic construct		KWKLFKKGIGAVLKV	15	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1019	152149152		2JMY	CA	Synthetic construct		KWKLFKKIGAVLKVL	15	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1020				CA	Synthetic construct		KWKLFKKGAVLKVLT	15	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1021				CA	Synthetic construct		KWKLFKKAVLKVLTT	15	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1022				CA	Synthetic construct		KWKLFKKVLKVLTTG	15	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1023				CA	Synthetic construct		KWKLFKKLKVLTTGL	15	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1181	1170959	P80408		Metalnikowin-1 	Palomena prasina	Animalia (Insects)	VDKPDYRPRPRPPNM	15		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1211	1170960	P80409		Metalnikowin-2A 	Palomena prasina	Animalia (Insects)	VDKPDYRPRPWPRPN	15		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2458	317411786	P0CI90		Antimicrobial peptide 143	Lychas mucronatus	Animalia (Arachnids)	FFLPSLIGGLISAIK	15	20663230	Antibacterial		Experimentally Validated
+CAMPSQ2469	317411787	D9U2B8		Mucroporin-like peptide	Lychas mucronatus	Animalia (Arachnids)	FFLPSLIGGLISAFK	15	20663230	Antibacterial		Experimentally Validated
+CAMPSQ2785			1MAG	  Gramicidin A 	Bacillus brevis	Bacteria	VGALAVVVWLWLWLW	15	19870884	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3257				  Lasioglossin LL-I 	Lasioglossum laticeps	Animalia (Insects)	VNWKKVLGKIIKVAK	15	19591185	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3549				  Andersonin-D1 	Odorrana andersonii	Animalia (Amphibians)	FIFPKKNIINSLFGR	15	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3843		C0HJB7		  Buforin-EC 	Euphlyctis cyanophlyctis	Animalia (Amphibians)	RAGLKFPVGRVHRLLR	16		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3965		P84754		Chitinase 	Streptomyces violaceus 	Bacteria	EQPGGDKVNLGYFTN	15	16972135	Antifungal		Experimentally Validated
+CAMPSQ3979		P86781		Amaryllin 	Amaryllis belladonna 	Viridiplantae	QKIQEIDLQTYLQPQ	15	19478451	Antifungal		Experimentally Validated
+CAMPSQ4022		P86796		Antifungal protein Pr-2 	Cucurbita maxima 	Viridiplantae	QGIGVGDNDGKRGKR	15	19807165	Antifungal		Experimentally Validated
+CAMPSQ4608	85700158	P02788		Lactotransferrin-H, HLP1	Homo sapiens	Animalia (Mammals)	FQWQRNMRKVRGPPVS	16	14573629, 9596699	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8145		P0CJ37		Eumenitin-F	Eumenes rubrofemoratus 	Animalia (Insects)	LNLKGLFKKVASLLT	15	21549739	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8146		P0CJ36		Eumenitin-R	Eumenes rubrofemoratus 	Animalia (Insects)	LNLKGLIKKVASLLN	15	21549739	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8171		P0DMF5		Peptide Ctri9194	Chaerilus tricostatus 	Animalia (Arachnids)	YIRDFITRRPPFGNI	15	23415044	Antiviral		Experimentally Validated

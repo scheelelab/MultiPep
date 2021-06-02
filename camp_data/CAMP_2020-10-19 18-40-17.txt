@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ90	122056008	A0AEI5		Brevinin-2GHb precursor 	Rana guentheri	Animalia (Amphibians)	GVITDALKGAAKTVAAELLRKAHCKLTNSC	30	16979798	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ309	2708727	O54220		Epicidin 280	Staphylococcus epidermidis 	Bacteria	SLGPAIKATRQVCPKATRFVTVSCKKSDCQ	30	9726851	Antibacterial		Experimentally Validated
+CAMPSQ345	30316323, 4503305	P59666, Q6EZF9	1DFN,1ZMH,1ZMI,1ZMK,2PM4,2PM5	Neutrophil defensin 3, Defensin-6	Homo sapiens 	Animalia (Mammals)	DCYCRIPACIAGERRYGTCIYQGRLWAFCC	30	2006422	Antibacterial,Antifungal,Antiviral		Experimentally Validated
+CAMPSQ815	110808192	P84886		Curvaticin 	Lactobacillus curvatus	Bacteria	AYPGNGVHCGKYSCTVDKQTAIGNIGNNAA	30	15752569	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ844	13959290	P82964		Antibacterial 6.5 kDa protein	Carcinus maenas	Animalia (Crustaceans (Malacostraca))	XXVPYPRPFPRPPIGPRPLPFPGGGRPFQS	30	8856051	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ850	29337224	P81488		Dermaseptin-3	Phyllomedusa bicolor	Animalia (Amphibians)	ALWKTIIKGAGKMIGSLAKNLLGSQAQPES	30	9540838	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1065				CGA 41-70	Synthetic construct		TLRGDERILSILRHQNLLKELQDLALQGAK	30	10753865	Antifungal		Experimentally Validated
+CAMPSQ1084	224487676	P0C8T3		Brevinin-2PTa	Rana picturata	Animalia (Amphibians)	GAIKDALKGAAKTVAVELLKKAQCKLEKTC	30	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1089	92090603	P84408		SAMPH1	Salmo salar	Animalia (Pisces)	AEVAPAPAAAAPAKAPKKKAAAKPKKAGPS	30	15917539	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1118	68064400	P83959		Thaumatin-like protein	Phaseolus vulgaris	Viridiplantae	ANFEIVNNCPYTVWAAASPGGGRRLDRGQT	30	10486265	Antifungal		Experimentally Validated
+CAMPSQ1883	209572996	P86013		Lantibiotic paenibacillin	Paenibacillus polymyxa	Bacteria	ASIIKTTIKVSKAVCKTLTCICTGSCSNCK	30		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2599	380876852	B3EWF0		Antifungal protein 1	Passiflora alata  	Viridiplantae	GAGSQEERMQGQMEGQDFSHEERFLSMVRE	30	20955745	Antifungal		Experimentally Validated
+CAMPSQ2604	306755860	P86696		Antifungal protein 1	Musca domestica	Animalia (Insects)	SAPAPEVSGDAVFSAIQNGXLKNLGNAFFW	30	19728925	Antifungal		Experimentally Validated
+CAMPSQ3372				  Staphylococcin C55 	Staphylococcus aureus C55	Bacteria	CSTNTFSLSDYWGNKGNWCTATHECMSWCK	30	9835565	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3374				  Epilancin 15X 	Staphylococcus epidermidis 15X154	Bacteria	AUIVKTTIKASKKLCRGFTLTCGCHFTGKK	30	22524291	Antibacterial		Experimentally Validated
+CAMPSQ3397				  Brevinin-2-RN1 	Rana nigrovittata	Animalia (Amphibians)	GAFGNFLKGVAKKAGLKILSIAQCKLSGTC	30	21171145	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3398				  Brevinin-2-RN2 	Rana nigrovittata	Animalia (Amphibians)	GAFGNFLKGVAKKAGLKILSIAQCKLFGTC	30	21171145	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3621	365824243	G9I0X2		Hedyotide B1 	Hedyotis biflora	Viridiplantae	GTRCGETCFVLPCWSAKFGCYCQKGFCYRN	30	21979955	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3887		O87236		Lantibiotic lacticin 3147 A1	Lactococcus lactis subsp. lactis 	Bacteria	CSTNTFSLSDYWGNNGAWCTLTHECMAWCK	30		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3945		P84923		Dermaseptin-3 	Phyllomedusa tarsius 	Animalia (Amphibians)	GLFKTLIKGAGKMLGHVAKQFLGSQGQPES	30		Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ7492	827029579			SHc-CATH	Synthetic construct  		LKKLKGRVSRSFLFFVKLRPAKRTLKKRIL	30	26013823	Antifungal, Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ7493	827029579			Hc-CATH2	Synthetic construct  		AFFARLLASVRAAVKAFAKKPRLIGLSTLL	30	26013823	Antifungal, Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ7494	827029579			Hc-CATH1	Synthetic construct  		KFFARLLASVRAAVKKFRKKPRLIGLSTLL	30	26013823	Antifungal, Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ7495	827029579			Hc-CATH	Hydrophis cyanocinctus 	Animalia (Reptiles)	KFFKRLLKSVRRAVKKFRKKPRLIGLSTLL	30	26013823	Antifungal, Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ7523		B3EWN4		2S seed storage-like protein (2S albumin storage-like protein) (Rc-2S-Alb) (Fragment)	Ricinus communis 	Viridiplantae	QDYCAQEGQQEVQRKDLSDLERYLRQSRQR	30		Antifungal		Experimentally Validated

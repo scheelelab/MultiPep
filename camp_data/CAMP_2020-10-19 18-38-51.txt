@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ43	115311721	Q1ELU1	2G9P	Latarcin-2a 	Lachesana tarabaevi	Animalia (Arachnids)	GLFGKLIKKFGRKAISYAVKKARGKH	26	16735513	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ44	115311722	Q1ELU0		Latarcin-2b 	Lachesana tarabaevi	Animalia (Arachnids)	GLFGKLIKKFGRKAISYAVKKARGKN	26	16735513	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ99	122064230	P84859		NGU Guentherin 	Rana guentheri	Animalia (Amphibians)	VIDDLKKVAKKVRRELLCKKHHKKLN	26	16979798	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ270	2493581	Q24395		Metchnikowin	Drosophila melanogaster	Animalia (Insects)	HRHQGPIFDTRPSPFNPNQPRPGPIY	26	7588819	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ311	27806725	P19661	4JWC, 4JWD	Cathelicidin antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	QCVGTITLDQSDDLFDLNCNELQSVR	26	8706679	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ327	29123270	Q800R4		Dermaseptin-like PBN2	Phyllomedusa bicolor	Animalia (Amphibians)	GLVTSLIKGAGKLLGGLFGSVTGGQS	26	12709067	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ353	32396178	Q7SZH4		Pleurocidin-like peptide AP1	Hippoglossoides platessoides	Animalia (Pisces)	GWKSVFRKAKKVGKTVGGLALDHYLG	26	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ354	32396180	Q7SZH3		Pleurocidin-like peptide AP2	Hippoglossoides platessoides	Animalia (Pisces)	GWKKWFNRAKKVGKTVGGLAVDHYLG	26	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ356	32396186			Pleurocidin-like peptide GcSc4C5	Glyptocephalus cynoglossus	Animalia (Pisces)	GWGSIFKHIFKAGKFIHGAIQAHNDG	26	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ493	50401862	P62548		Caerin-1.7	Litoria xanthomera	Animalia (Amphibians)	GLFKVLGSVAKHLLPHVAPVIAEKL	25	9230483	Antibacterial		Experimentally Validated
+CAMPSQ494	50401866	P62568		Caerin-1.1	Litoria splendida 	Animalia (Amphibians)	GLLSVLGSVAKHVLPHVVPVIAEHL	25	10601876	Antibacterial,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ778	7531077	P81847		Citropin-2.1.3	Litoria citropa	Animalia (Amphibians)	GLIGSIGKALGGLLVDVLKPKLQAAS	26	10504394	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ796	29123260	Q800R9		Caerin 1.11	Litoria caerulea	Animalia (Amphibians)	GLFSVLGSVAKHVVPRVVPVIAEHLG	26	Reference: Bull. Chem. Soc. Jpn., 58, 1469-1472 (1985)	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ863				Winter flounder 1a1	Pseudopleuronectes americanus	Animalia (Pisces)	GRRKRKWLRRIGKGVKIIGGAALDHL	26	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ868				Witch flounder GcSc4C5	Glyptocephalus cynoglossus	Animalia (Pisces)	AGWGSIFKHIFKAGKFIHGAIQAHND	26	12878506	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1102	66773817	P69846		GrammistinGsC	Grammistes sexlineatus	Animalia (Pisces)	NWRKILGKIAKVAAGLLGSMLAGYQV	26	15777955	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1889	190358830	P85170		Cathelicidin-3.4	Capra hircus	Animalia (Mammals)	RFRLPFRRPPIRIHPPPFYPPFRRFL	26		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2799				Ocellatin-P1 	Leptodactylus pentadactylus	Animalia (Amphibians)	GLLDTLKGAAKNVVGSLASKVMEKL	25	16236555	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3080				  Plantaricin S 	Lactobacillus plantarum LPCO10	Bacteria	NKLAYNMGHYAGKATIFGLAAWALLA	26	16348933	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3316	225579557	C1K8V9		Cathelicidin, EA-CATH1	Equus asinus	Animalia (Mammals)	KRRGSVTTRYQFLMIHLLRPKKLFA	25	20423460	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3396				  Pc-CATH1 	Phasianus colchicus	Animalia (Aves)	RIKRFWPVVIRTVVAGYNLYRAIKKK	26	20955730	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally Validated
+CAMPSQ3827				  Alarin 	Homo sapiens	Animalia (Mammals)	APAHRSSTFPKWVTKTERGRQPLRS	25	23537644	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8199				Pin2 [G]	Synthetic construct		FWGALAKGALKLIGPGSLFSSFSKKD	26	25019413	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8254				CP26	Synthetic construct		KWKSFIKKLTSAAKKVVTTAKPLISS	26	10898680	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ8255				CP29	Synthetic construct		KWKSFIKKLTTAVKKVLTTGLPALIS	26	10898680	Antibacterial	Gram+ve	Experimentally Validated

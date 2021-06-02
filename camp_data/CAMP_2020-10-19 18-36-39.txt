@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ88	122056005	P85056		Brevinin-1SE	Rana sevosa	Animalia (Amphibians)	FLPLVRGAAKLIPSVVCAISKRC	23	16386333	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ109	126683	P11006	1DUM,2MAG	Magainin-1 	Xenopus laevis	Animalia (Amphibians)	GIGKFLHSAGKFGKAFVGEIMKS	23	3299384	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ110	126683	P11006	1DUM,2MAG	Magainin 2	Xenopus laevis	Animalia (Amphibians)	GIGKFLHSAKKFGKAFVGEIMNS	23	1717472 , 3299384	Antibacterial,Antifungal,Antiparasitic	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ155	154347366	A7BJK5		Prepromelittin-related peptide 	Rana sakuraii	Animalia (Amphibians)	VIGSILGALASGLPTLISWIKNR	23	17174009	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ156	154347368	A7BJK6		Prepromelittin-related peptide 	Rana tagoi 	Animalia (Amphibians)	AIGSILGALAKGLPTLISWIKNR	23	12804591	Antibacterial,Antifungal,Anticancer	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ167	156767193	A7YL71		Antimicrobial peptide odorranin-HP	Odorrana grahami	Animalia (Amphibians)	GLLRASSVWGRKYYVDLAGCAKA	23	17698252	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ190	1703731			Antibacterial peptide/melittin homolog	Synthetic construct		FALALKALKKALKKLKKALKKAL	23	8714745	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ197	1709080	P49930		Antibacterial peptide PMAP-23 	 Sus scrofa	Animalia (Mammals)	RIIDLLWRVRRPQKPKFVTVWVR	23	8132502	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ346	3121854	P80710		Clavanin-A	Styela clava	Animalia	VFQFLGKIIHHVGNFVHGFSHVF	23	9001389	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ347	3121863	O18493		Clavanin-C	Styela clava	Animalia	VFHLLGKIIHHVGNFVYGFSHVF	23	9001389	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ348	3121864	P80711		Clavanin-B	Styela clava	Animalia	VFQFLGRIIHHVGNFVHGFSHVF	23	9001389	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ349	3121865	P80713		Clavanin-D	Styela clava	Animalia	AFKLLGRIIHHVGNFVYGFSHVF	23	9001389	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ456	41688509	Q95NH6		Attacin-C	Drosophila melanogaster	Animalia (Insects)	QRPYTQPLIYYPPPPTPPRIYRA	23	14744858	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ675	32396182	Q7SZH2		Pleurocidin-like peptide AP3	Hippoglossoides platessoides	Animalia (Pisces)	GWRTLLKKAEVKTVGKLALKHYL	23	12878506	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ920	461480	P30226		Cysteine-rich antifungal protein 2 (Bn-AFP2)	Brassica napus	Viridiplantae	QKLCERPSGTWSGVCGNNNACKN	23	8422949	Antifungal		Experimentally Validated
+CAMPSQ1175	913451			E23GIG magainin 2	Synthetic construct		SNMIEGVFAKGFKKASHLFKGIG	23	7726486	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2760			0W78	  Galensin 	Kassina senegalensis 	Animalia (Amphibians)	CYSAAKYPGFQEFINRKYKSSRF	23	Reference: Reid C.N., Bjourson A.J., Shaw C. (2001) Galensin, a novel homodimeric antimicrobial peptide from the defensive skin secretion of Kassina senegalensis: isolation, structural characterisation and cloning of precursor cDNA. Submitted (JUL-2001) t	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3249				  Alyteserin-1a 	Alytes obstetricans	Animalia (Amphibians)	GLKDIFKAGLGSLVKGIAAHVAN	23	19463738	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3250				  Alyteserin-1b 	Alytes obstetricans	Animalia (Amphibians)	GLKEIFKAGLGSLVKGIAAHVAN	23	19463738	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3251		H0USY4	2L5R	  Alyteserin-1c 	Alytes obstetricans	Animalia (Amphibians)	GLKEIFKAGLGSLVKGIAAHVAS	23	19463738	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3421				  Cc-LTP1 	Coffea canephora	Viridiplantae	ITCQQVTSELGPCVPYLTGQGIP	23	21167915	Antifungal		Experimentally Validated
+CAMPSQ3714		E8RMD3	2LTI	  Astexin-1 	Asticcacaulis excentricus CB 48	Bacteria	GLSQGVEPDIGQTYFEESRINQD	23	22949633 	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3785				  TP3 	Oreochromis niloticus	Animalia (Pisces)	FIHHIIGGLFSVGKHIHSLIHGH	23	23226256	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3951		P84924		Dermaseptin-4 	Phyllomedusa tarsius 	Animalia (Amphibians)	ALWKDILKNAGKAALNEINQIVQ	23		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4016		B5L1D1		Pleurain-D1 antimicrobial peptide	Rana pleuraden 	Animalia (Amphibians)	FLSGILKLAFKIPSVLCAVLKNC	23	19028675	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

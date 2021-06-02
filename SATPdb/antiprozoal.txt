@@ -1,0 +1,3 @@
+satpdb11891	FLSLIPHAINAVSAIAKHN	4	antibacterial, antiparasitic, toxic, antimicrobial,	antiplasmodial, hemolytic, anti-gram+, antileishmania	antiprotozoal,	apd2, dadp, hemolytik, parapep
+satpdb21141	GLWSTIKNVGKEAAIAAGKAALGA	3	antibacterial, antiparasitic, antimicrobial,	NA	antiprotozoal,	camp
+satpdb26824	FLSLIPHAINAVSTLVHHF	3	antibacterial, toxic, antimicrobial,	hemolytic, anti-gram+, anti-gram-	antiprotozoal,	apd2, dadp, hemolytik

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ38	115056	P29002		Bombinin-like peptides 1	Bombina orientalis	Animalia (Amphibians)	GIGASILSAGKSALKGLAKGLAEHFAN	27	1744108	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ39	115057	P29003		Bombinin-like peptide 2 	Bombina orientalis	Animalia (Amphibians)	GIGSAILSAGKSALKGLAKGLAEHFAN	27	1744108	Antibacterial,Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ41	115060	P29006		Bombinin-like peptide 1	Bombina variegata	Animalia (Amphibians)	GIGGALLSAAKVGLKGLAKGLAEHFAN	27	1712299	Antibacterial		Experimentally Validated
+CAMPSQ50	115502205	P84995		Ganodermin	Ganoderma lucidum 	Fungi	AGETHTVMINHAGRGAPKLVVGGKKLS	27	16039755	Antifungal		Experimentally Validated
+CAMPSQ553	59798984	P84387		Antimicrobial peptide 1 	Xenopus tropicalis	Animalia (Amphibians)	GFLGPLLKLAAKGVAKVIPHLIPSRQQ	27	11738090	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ630	75416081	Q9KWM4		Lantibiotic nukacin precursor 	Staphylococcus warneri 	Bacteria	KKKSGVIPTVSHDCHMNSFQFVFTCCS	27	16233732 , 16957223	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ829	1536914	P71449		Bacteriocin J46	Lactococcus lactis	Bacteria	KGGSGVIHTISHEVIYNSWNFVFTCCS	27	8588891	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1311	68052268	Q58T41 , Q58T59		Maximin-6 	Bombina maxima	Animalia (Amphibians)	GIGGALLSAGKSALKGLAKGLAEHFAN	27	11835991	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2122	124015191	P0C2D3		L-amino-acid oxidase	Eristocophis macmahoni	Animalia (Reptiles)	ADDKNPLEEAFREADYEVFLEIAKNGL	27		Antibacterial		Experimentally Validated
+CAMPSQ2676	339958754	G1ERV9		Ranatuerin-2YJ precursor  	Rana dybowskii	Animalia (Amphibians)	LMDIFKVAVNKLLAAGMNKPRCKAAHC	27	22702542	Antibacterial,Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2831				  Ranatuerin-2PLc	Rana palustris	Animalia (Amphibians)	GLLDTKNTAKNLAVGLLDKIKCKMTGC	27	11087945	Antibacterial, Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ2832				  Ranatuerin-2PLf  	Rana palustris	Animalia (Amphibians)	GIMDTVKNAAKDLAGQLDKLKCRITGC	27	11087945	Antibacterial, Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ3455				  Maximin 15 	Bombina maxima	Animalia (Amphibians)	GIGTKILGGVKAALKGALKELASTYVN	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3456	169730572	C3RTJ9		  Maximin 28 	Bombina maxima	Animalia (Amphibians)	GIGTKFLGGVKTALKGALKELASTYVN	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3458				  Maximin 32 	Bombina maxima	Animalia (Amphibians)	GIGGKILGGLKTALKGAAKELASTYLH	27	21338048	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3607				  CPF-P2 	Xenopus petersii	Animalia (Amphibians)	GLASFLGKALKAGLKIGSHLLGGAPQQ	27	22123629	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3608				  CPF-P3 	Xenopus petersii	Animalia (Amphibians)	GFGSFLGKALKAALKIGANVLGGAPQQ	27	22123629	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3609				  CPF-P4 	Xenopus petersii	Animalia (Amphibians)	GFGSFLGKALKAALKIGANVLGGAPEQ	27	22123629	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3610				  CPF-P5 	Xenopus petersii	Animalia (Amphibians)	GFGSFLGKALKAALKIGADVLGGAPQQ	27	22123629	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3659				  Lasiocepsin 	Lasioglossum laticeps	Animalia (Insects)	GLPRKILCAIAKKKGKCKGPLKLVCKC	27	22038181	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3670				  Geobacillin II 	Geobacillus thermodenitrificans NG80-2	Bacteria	STIVCVSLRICNWSLRFCPSFKVRCPM	27	22431611	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3681				  Enterocin NKR-5-3D 	Enterococcus faecium	Bacteria	TPGGIDFISGGPHVAQDVLNAIKNFFK	27	22738965	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3682				  CPF-SE1 	Silurana epitropicalis	Animalia (Amphibians)	GFLGPLLKLGLKGVAKVIPHLIPSRQQ	27	22800690	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3683				  CPF-SE2 	Silurana epitropicalis	Animalia (Amphibians)	GFLGPLLKLGLKGAAKLLPQLLPSRQQ	27	22800690	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3944		P83914		Dermaseptin-like peptide 	Schistosoma mansoni 	Animalia	DLWNSIKDMAAAAGRAALNAVTGMVNQ	27	16539015	Antibacterial, Antifungal	Gram+ve	Experimentally Validated

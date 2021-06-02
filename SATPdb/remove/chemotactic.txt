@@ -1,0 +1,22 @@
+satpdb10245	GWGSFFKKAAHVGKHVGKAALTHYL	5	anticancer, antibacterial, antiparasitic, toxic, antimicrobial,	hemolytic, anti-gram+, antitrypanosomic, anti-gram-	chemotactic, antibiofilm,	apd2, hemolytik, parapep
+satpdb11499	CYCRIPACIAGERRYGTCIYQGRLWAFCC	6	anticancer, antibacterial, antiviral, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	chemotactic, enzyme inhibitor,	apd2, camp, cancerppd, hemolytik, yadamp
+satpdb12331	ILGTILGLLKGL	3	antibacterial, toxic, antimicrobial,	hemolytic, anti-gram+, anti-gram-	chemotactic,	apd2, hemolytik
+satpdb12338	FLPKTLRKFFCRIRGGRCAVLNCLGKEEQIGRCSNSGRKCCRKKK	3	antibacterial, antimicrobial, antifungal,	anti-gram+, anti-gram-	chemotactic,	apd2
+satpdb12693	FLPLIGRVLSGIL	7	anticancer, antibacterial, antiviral, antiparasitic, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, antileishmania, anti-gram-	chemotactic,	apd2, cancerppd, dadp, hemolytik, parapep
+satpdb13301	ASFPWSCPSLSGVCRKVCLPTELFFGPLGCGKGFLCGVSHFL	2	antibacterial, antimicrobial,	anti-gram+, anti-gram-	chemotactic,	apd2
+satpdb14564	GMWSKIKNAGKAAKAAAKAAGKAALGAVSEAM	3	antibacterial, toxic, antimicrobial,	hemolytic, anti-gram-	chemotactic,	apd2, camp, hemolytik, yadamp
+satpdb15643	IDWLKLGKMVMDVL	3	antibacterial, toxic, antimicrobial,	hemolytic, anti-gram+, cytotoxic, anti-gram-	chemotactic, inflammatory,	apd2, hemolytik
+satpdb17276	SSMKLSFRARAYGFRGPGPQL	3	antibacterial, antimicrobial, antifungal,	anti-gram+, anti-gram-	chemotactic, antioxidant,	apd2, yadamp
+satpdb18459	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	7	anticancer, antibacterial, antiviral, antiparasitic, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, antitrypanosomic, anti-gram-	chemotactic, antibiofilm, wound healing,	apd2, avpdb, baamps, cancerppd, hemolytik, parapep, yadamp
+satpdb21526	IDWLKLGKMVIDAL	3	antibacterial, toxic, antimicrobial,	anti-gram+, cytotoxic, anti-gram-	chemotactic,	apd2
+satpdb22208	GLRSKIWLWVLLMIWQESNKFKKM	3	antibacterial, antiviral, antimicrobial,	anti-gram+, anti-gram-	chemotactic,	apd2, dadp, hipdb, yadamp
+satpdb22575	QEAQSVACTSYYCSKFCGSAGCSLYGCYLLHPGKICYCLHCSR	2	antiviral, antimicrobial,	NA	chemotactic,	apd2, camp
+satpdb23304	QIINNPITCMTNGAICWGPCPTAFRQIGNCGHFKVRCCKIR	2	antibacterial, antimicrobial,	anti-gram+, anti-gram-	chemotactic,	apd2
+satpdb24196	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	5	antibacterial, antiviral, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, anti-gram-	chemotactic, antibiofilm, wound healing,	apd2, baamps, camp, hemolytik, yadamp
+satpdb24876	IDWKKLLDAAKQIL	5	anticancer, antibacterial, toxic, antimicrobial, antifungal,	hemolytic, anti-gram+, cytotoxic, anti-gram-	chemotactic,	apd2, hemolytik
+satpdb25293	DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+	5	anticancer, antibacterial, antiviral, antimicrobial, antifungal,	anti-gram+, anti-gram-	chemotactic, enzyme inhibitor,	apd2, baamps, camp, yadamp
+satpdb27556	ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+	6	anticancer, antibacterial, antiviral, antiparasitic, antimicrobial, antifungal,	anti-gram+, antitrypanosomic, anti-gram-	effector molecule of innate immunity, chemotactic, wound healing, enzyme inhibitor, host defense peptides,	apd2, avpdb, camp, parapep, yadamp
+satpdb28068	GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP	5	antibacterial, antiviral, antiparasitic, antimicrobial, antifungal,	anti-gram+, antitrypanosomic, antileishmania, anti-gram-	chemotactic, wound healing,	apd2, camp, parapep
+satpdb28734	ILGTILGLLKSL	3	antibacterial, toxic, antimicrobial,	hemolytic, anti-gram+, cytotoxic	chemotactic,	apd2, hemolytik

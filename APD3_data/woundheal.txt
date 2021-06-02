@@ -1,0 +1,52 @@
+Found 23 entries according to your query
+AP00008
+P22226, Bactenecin (Cyclic dodecapeptide, bovine cathelicidin, cattle, ruminant, mammals; animals; BBMm; JJsn; 1S=S; Derivatives: Bac2A; IDR-1018) 	RLCRIVVIRVCR
+AP00094
+2MAA, Temporin A (temporin-1Ta; temporin-Ta; TA; Leu-rich; XXA; UCLL1c; frog, amphibians, animals; ZZP) 	FLPLIGRVLSGIL
+AP00144
+2MAG, Magainin 2 (Magainin II, PGS; Hebrew "shield"; UCLL1; frog, amphibians, animals. BBMm; BBL; Derivatives: MSI-78, pexiganan acetate, or cytolex, loxilex; clinical trials; MSI-594; MSI-99. 	GIGKFLHSAKKFGKAFVGEIMNS
+AP00150
+1G89, Indolicidin (IR13; XXA, Trp-rich, cathelicidin, cattle, ruminant, mammals; animals; BBN; BBPP/BBII; Derivatives: CP-11, MBI-549, Omiganan (old MBI 226; MBI-226), clincal trials 	ILPWKWPWWPWRR
+AP00176
+3GNY, human neutrophil peptide-1 (HNP-1, HNP1, alpha Defensin, UCSS1a; lectin; primates, mammals, animals; XXX; ZZHh, BBS; BBL; BBW; 3S=S) 	ACYCRIPACIAGERRYGTCIYQGRLWAFCC
+AP00180
+1ZMP, human defensin 5 (HD-5, HD5, DEFA5; intestinal, alpha Defensin; UCSS1a; primates, mammals, animals; BBBH2O; 3S=S; BBL; Derivatives: HD5(1-9)) 	ATCYCRTGRCATRESLSGVCEISGRLYRLCCR
+AP00205
+1WCO, Nisin A (NisaplinTM, ChrisinTM, food additive E234; lantibiotic, type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXO; XXT5; XXW3; UCSS1b; ZZS; BBW; BBMm; JJsn; Variants: nisin AP) 	ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+AP00283
+1KJ6, Human beta defensin 3 (hBD-3, hBD3, or DEFB103, human defensin, 3S=S, UCSS1a; primates, mammals, animals; ZZHh; BBBh2o; BBW; JJsn) 	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+AP00310
+2K6O, LL-37 [LL37; FALL-39; cathelicidin; UCLL1; human; chimpanzee; primates, mammals, animals; XXX; XXY; XXZ; BBBh2o, BBBm; BBMm, BBPP, BBN, BBL, BBrsg, JJsn; Derivatives: many) 	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+AP00396
+P80054, PR-39 (PR39, a proline-arginine-rich peptide with 39 residues, XXA, cathelicidin, pigs, mammals; animals; Pro-rich; Arg-rich; BBN) 	RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPRFP
+AP00524
+1FD3, Human beta defensin 2 (hBD-2; hBD2; UCSS1a; human, primates, mammals, animals; ZZHh; 3S=S; JJsn) 	GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP
+AP01328
+Ref, Epinecidin-1 (Epi-1; fish, animals; XXA; BBMm) 	GFIFHIIKGLFHAGKMIHGLV
+AP01532
+2LLD, Lucifensin (Lucilia sericata Meigen defensin, UCSS1a; insects, arthropods, invertebrates, animals; 3S=S; BBW) 	ATCDLLSGTGVKHSACAAHCLLRGNRGGYCNGRAICVCRN
+AP01578
+Ref, Myxinidin (hagfish, fish, animals; XXA; UCLL1; Derivatives: Myxinidin1; Myxinidin2; Myxinidin3; WMR) 	GIHDILKYGKPS
+AP01788
+Ref, Myticin C (Myt C; mollusca/molluscs/mollusks, marine invertebrates, animals; 4S=S; Variants: reduced form XXR) 	QEAQSVACTSYYCSKFCGSAGCSLYGCYLLHPGKICYCLHCSR
+AP01976
+2LN4, Coprisin (defensin-like peptide; UCSS1a; 3S=S, insects, arthropods, invertebrates, animals; Derivatives: CopA3) 	VTCDVLSFEAKGIAVNHSACALHCIALRKKGGSCQNGVCVCRN
+AP01978
+Ref, BmKn2 (scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; XXA, UCLL1c; derivatives: Kn2-7) 	FIGAIARLLSKIF
+AP02134
+Ref, TP3 (Tilapia piscidin 3; His-rich; fish, animals; inactive: TP1, TP2, and TP5) 	FIHHIIGGLFSVGKHIHSLIHGH
+AP02135
+Ref, TP4 (Tilapia piscidin 4; Oreoch-2; MSP-4; fish, animals; BBL) 	FIHHIIGGLFSAGKAIHRLIRRRRR
+AP02863
+Ref, K11 (synthetic, hybrid peptide, UCLL1c) 	KWKSFIKKLTKKFLHSAKKF
+AP02872
+2N6M, Esculentin-1A(1-21) ((Esc(1-21); synthetic; BBMm; XXA; UCLL1c; BBL) 	GIFSKLAGKKIKNLLISGLKG
+AP02958
+Ref, Brevinin-2Ta (B-2Ta; frog, amphibians, animals; UCSS1a; 1S=S; XXU) 	GILDTLKNLAKTAGKGILKSLVNTASCKLSGQC
+AP03184
+Ref, Cathelicidin-DM (cathelicidin, toad, amphibians, animals) 	SSRRKPCKGWLCKLKLRGGYTLIGSATNLNRPTYVRA
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

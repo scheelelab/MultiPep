@@ -1,0 +1,29 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ233	20137316	P82396		Aurein-3.3	Litoria raniformis	Animalia (Amphibians)	GLFDIVKKIAGHIVSSI	17	10951191	Antibacterial,Anticancer	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ310	2735690	P35618	1OG7,1OHM,1OHN	Sakacin P	Lactobacillus sakei 	Bacteria	KYYGNGVHCGKHSCTVDW	18	8636023	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ512	543819	Q06602	4E81	Apidaecin-1A 	Apis mellifera	Animalia (Insects)	GNNRPVYIPQPRPPHPRI	18	2676519	Antibacterial		Experimentally Validated
+CAMPSQ532	56554823	Q5GC91, Q5GC92 , Q5GC94		Maximin S4	Bombina maxima	Animalia (Amphibians)	RSNKGFNFMVDMIQALSK	18	15649437	Antibacterial		Experimentally Validated
+CAMPSQ547	59798978	P84381		Antimicrobial peptide 7 	Xenopus tropicalis	Animalia (Amphibians)	GLLGPLLKIAAKVGSNLL	18	11738090	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ552	59798983	P84386		Antimicrobial peptide 6 	Xenopus tropicalis	Animalia (Amphibians)	GFLGSLLKTGLKVGSNLL	18	11738090	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ752				PlnA -17	Lactobacillus plantarum	Bacteria	GATAIKQVKKLFKKWGW	17	15805109	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1008				Temporin-1TGc	Rana tagoi 	Animalia (Amphibians)	FLPVILPVIGKLLSGIL	17	16675060	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2026	57013024	P84334		Thaumatin-like protein	Cassia didymobotrya	Viridiplantae	ATITFTNKCTRTVWPGG	17		Antifungal		Experimentally Validated
+CAMPSQ2304	332310267	P86896		Putative antimicrobial peptide 2	Lippia sidoides  	Viridiplantae	PPEAAYGPGNTNSDSGDK	18	21210197	Antifungal		Experimentally Validated
+CAMPSQ2819				  Maculatin 2.1	Litoria eucnemis	Animalia (Amphibians)	GFVDFLKKVAGTIANVVT	18	15203252	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3064				  CPF-AM4 	Xenopus amieti	Animalia (Amphibians)	GLGSLVGNALRIGAKLL	17	20226221	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3107				  Retrocyclin-1 	Synthetic construct		GICRCICGRGICRCICGR	18	15210812	Antiviral		Experimentally Validated
+CAMPSQ3108			2LZI	  Retrocyclin-2 	Synthetic construct		GICRCICGRRICRCICGR	18	15210812	Antiviral		Experimentally Validated
+CAMPSQ3109				  Retrocyclin-3 	Synthetic construct		RICRCICGRRICRCICGR	18	15210812	Antiviral		Experimentally Validated
+CAMPSQ3125				  CM-3 	Synthetic construct		ALKAALLAILKIVRVIKK	18	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.
+
+
+	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3301				  Imcroporin 	Isometrus maculatus	Animalia (Arachnids)	FFSLLPSLIGGLVSAIK	17	19451300	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3567				  Andersonin-W1 	Odorrana andersonii	Animalia (Amphibians)	ATNIPFKVHFRCKAAFC	17	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3569				  Andersonin-W2 	Odorrana andersonii	Animalia (Amphibians)	AVNIPFKVHFRCKAAFC	17	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3811				  Brevinin 1Tb  	Rana temporaria	Animalia (Amphibians)	LVPLFLSKLICFITKKC	17	23121565	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4067	425872851	K7ZGS2		Jingdongin-1 antimicrobial peptide precursor 	Amolops jingdongensis 	Animalia (Amphibians)	FLPLFLPKIICVITKKC	17	22828809	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4134	403399460	E4VP50		Venom antimicrobial peptide-9	Mesobuthus eupeus 	Animalia (Arachnids)	FFGHLFKLATKIIPSLFQ	18	19088182	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4148	453055539		2M1P	[Aba5-14] BTD-2	Synthetic construct		GVCRXVCRRGVCRXVCRR	18	23430740	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8162		S6D3A7		Antimicrobial peptide TsAP-2	Tityus serrulatus 	Animalia (Arachnids)	FLGMIPGLIGGLISAFK	17	23770440	Antibacterial, Antifungal, Anticancer	Gram+ve	Experimentally Validated
+CAMPSQ8176		S6CWV8		Antimicrobial peptide TsAP-1	Tityus serrulatus 	Animalia (Arachnids)	FLSLIPSLVGGSISAFK	17	23770440	Antibacterial, Antifungal, Anticancer	Gram+ve, Gram-ve	Experimentally Validated

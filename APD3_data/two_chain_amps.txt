@@ -1,0 +1,76 @@
+Found 35 entries according to your query
+AP01151
+2JPJ, Lactococcin G-a (LcnG; chain a, two-chain class 2b bacteriocin, UCLL2; Gram-positive bacteria, prokaryotes. For chain b, see info; BBrcp) 	GTWDDIGQGIGRVAYWVGKALGNLSDVNQASRINRKKKH
+AP01152
+Ref, Lactococcin Q (two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes, chain a. For chain b, see Info; UCLL2) 	SIWGDIGQGVGKAAYWVGKAMGNMSDVNQASRINRKKKH
+AP01155
+Ref, Enterocin 1071 (Ent1071A, two-chain class 2b bacteriocin, UCLL2; Gram-positive bacteria, prokaryotes; chain B is Enterocin 1071B or Ent1071B, see info; BBrcp)) 	ESVFSKIGNAVGPAAYWILKGLGNMSDVNQADRINRKKH
+AP01156
+Ref, Plantaricin S (PlnS; chain a, two-chain class 2b bacteriocins; UCLL2; Gram-positive bacteria, prokaryotes) 	NKLAYNMGHYAGKATIFGLAAWALLA
+AP01167
+Ref, Plantaricin NC8 (PLNC8, two-chain class 2b bacteriocin, UCLL2, Gram-positive bacteria, prokaryotes; More AMPs? Plantaricin J51) 	LTTKLWSSWGYYLGKKARWNLKHPYVQF
+AP01169
+Ref, Lactacin F (LafX, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For LafA, see Info; UCLL2) 	NRWGDTVLSAASGAGTGIKACKSFGPWGMAICGVGGAAIGGYFGYTHN
+AP01170
+Ref, Brochocin C (BrcC, chain BrcA = NKR-5-3A, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For BrcB, see Info; UCLL2) 	YSSKDCLKDIGKGIGAGTVAGAAGGGLAAGLGAIPGAFVGAHFGVIGGSAACIGGLLGN
+AP01171
+Ref, Thermophilin 13 (chain a ThmA, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain B ThmB, see Info; UCLL2) 	YSGKDCLKDMGGYALAGAGSGALWGAPAGGVGALPGAFVGAHVGAIAGGFACMGGMIGNKFN
+AP01172
+Ref, ABP-118 (chain a: Abp118alpha, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain b: Abp118beta, see Info; UCLL2) 	KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL
+AP01173
+Ref, Salivaricin P (chain a: Sln1; two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain b: Sln2, see Info; UCLL2) 	KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL
+AP01174
+Ref, Mutacin IV (chain a: NlmA, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain b:NLmB, see Info; UCLL2) 	KVSGGEAVAAIGICATASAAIGGLAGATLVTPYCVGTWGLIRSH
+AP01175
+Ref, Lactocin 705 (chain a: Lac705alpha; two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain b: Lac705beta, see Info; UCLL2) 	GMSGYIQGIPDFLKGYLHGISAANKHKKGRLGY
+AP01176
+Ref, Cytolysin (CylLS, a two-chain lantibiotic, type 2, class 1 bacteriocins; Gram-positive bacteria, prokaryotes; XXW5; XXT5; Chain B: CylLL; UCSS2b; JJsn) 	TTPACFTIGLGVGALFSAKFC
+AP01177
+Ref, Plantaricin EF (PlnEF; chain a: PlnE, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. Chain b: PlnF; UCLL2) 	FNRGGYNFGKSVRHVVDAIGSVAGILKSIR
+AP01178
+2KEG, Plantaricin JK (PlnJK; chain a: PlnJ; VIHNN; two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. Chain b: PlnK; UCLL2) 	GAWKNFWSSLRKGFYDGEAGRAIRR
+AP01180
+Ref, Acidocin J1132 (two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes; UCLL2) 	NPKVAHCASQIGRSTAWGAVSGA
+AP01190
+Ref, Enterocin L50 (old name: pediocin L50, EntL50A, Ent62-6A; a two-chain class 2b bacteriocin, UCLL2; Gram-positive bacteria, prokaryotes. The sequence of EntL50B/Ent62-6B is provided in Info; XXI) 	MGAIAKLVAKFGWPIVKKYYKQIMQFIGEGWAINKIIEWIKKHI
+AP01191
+2m5z, MR10A (Enterocin 7A; Ent7A; Enterocin DD14; EntDD14; XXI; class 2b bacteriocin, two-chain; Gram-positive bacteria, prokaryotes) 	MGAIAKLVAKFGWPIVKKYYKQIMQFIGEGWAINKIIDWIKKHI
+AP01194
+Ref, Lacticin 3147 (LtnA1= chain A1, a two-chain lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes. XXD3; XXT; UCSS2b; ZZS; BBW; JJsn) 	CSTNTFSLSDYWGNNGAWCTLTHECMAWCK
+AP01569
+Ref, Enterocin X (two-chain class 2b bacteriocin, Gram-positive bacteria, prokaryotes; UCLL2) 	SNDSLWYGVGQEMGKQANCITNHPVKHMIIPGYCSKILG
+AP01570
+2L9X, Thuricin CD (sactipeptide; Trn-alpha and Trn-beta, two-chain class 2b bacteriocin, 3S=CA; UCSB1c; XXJ; Gram-positive bacteria, prokaryotes) 	GNAACVIGCIGSCVISEGIGSLVGTAFTLG
+AP01573
+Ref, Centrocin 1 (two-chain; UCSS2a; sea urchin, Echinoidea, marine animals; XXH) 	GWFKKTFHKVSHAVKSGIHAGQRGCSALGF
+AP01574
+Ref, Centrocin 2 (two-chain; UCSS2a; sea urchin, Echinoidea, marine animals; XXH) 	SWFSRTVHNVGNAVRKGIHAGQGVCSGLGL
+AP01609
+Ref, Plantaricin W (plw, a two-chain lantibiotic, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes, XXT; UCSS2b; 1S=S; JJsn) 	KCKWWNISCDLGNNGHVCTLSHECQVSCN
+AP01610
+Ref, Staphylococcin C55 (a two-chain lantibiotic, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT; UCSS2b; JJsn) 	CSTNTFSLSDYWGNKGNWCTATHECMSWCK
+AP01618
+Ref, SmbB (lantibiotic, a two-chain class 1 bacteriocin, UCSS2b, Gram-positive bacteria, prokaryotes; Another sequence: SmbA) 	GTTVVNSTFSIVLGNKGYICTVTVECMRNCSK
+AP01621
+Ref, Haloduracin (a two-chain lantibiotic, HalA1 and HalA2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT7 (both chains); XXW3; UCSS2b; 1S=S; JJsn: BBW) 	CAWYNISCRLGNKGAYCTLTVECMPSCN
+AP01995
+Ref, Blp1 (class 2b two-chain bacteriocins; UCLL2, Gram-positive bacteria, prokaryotes) 	ECELAKVDGGYTPKNCAMAVGGGMLSGAIRGGMSGTVFGVGTGNLAGAFAGAHIGLVAGGLACIGGYLGSH
+AP02682
+Ref, EeCentrocin 1 (common sea urchin, Echinoidea, marine animals, XXA, XXH, two-chains, UCSS2a) 	GWWRRTVDKVRNAGRKVAGFASKACGALGH
+AP02683
+Ref, EeCentrocin 2 (common sea urchin, Echinoidea, marine animals, XXA, XXQ, XXH, two-chains, UCSS2a) 	WGHKLRSSWNKVKHAVKKGAGYASGACRVLGH
+AP02684
+Ref, EeStrongylocin 2 (common sea urchin, Echinoidea, marine animals, 3S=S, two-chains, UCSS1a) 	WNPFKKIAHRHCYPKNECITTNGKKTCKDYSCCQIVLFGKKTRSACTVVAQ
+AP02725
+Ref, Thusin (ThsA1, ThsA2; a two-chain lantibiotic, type 2, class 1 bacteriocins; UCSS2b; Gram-positive bacteria, prokaryotes) 	INTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG
+AP02741
+Ref, Formicin (lantibiotic; two-chain bacteriocins; class 1 bacteriocin; Gram-positive bacteria, prokaryotes; XXW4, XXT7, 1S=S; UCSS2b) 	CEWYNISCQLGNKGQWCTLTKECQRSCK
+AP02831
+Ref, CbnXY (carnobacteriocin XY; two-chain class 2b bacteriocin, Gram-positive bacteria, prokaryotes; JJsn; UCLL2) 	WGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG
+AP03138
+Ref, Roseocin (a two-chain lantibiotic, type 2, class 1 bacteriocins; Gram-positive bacteria, prokaryotes; UCSS2b) 	TTWACATVTLTVTVCSPTGTLCGSCSMGTRGCC
+
+Or you can also select all and see sequence statistical data
+Search again    Home
+
+

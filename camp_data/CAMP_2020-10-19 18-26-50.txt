@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ4	10863973	P81172	1M4E,1M4F,2KEF,3H0T	Hepcidin-20	Homo sapiens 	Animalia (Mammals)	ICIFCCGCCHRSKCGMCCKT	20	11113131	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ5	109287609	Q17UY9		Phylloseptin 12	Phyllomedusa azurea 	Animalia (Amphibians)	FLSLLPSIVSGAVSLAKKLG	20	17553595	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ216	18202403	P82420		Ponericin-G7	 Pachycondyla goeldii 	Animalia (Insects)	GLVDVLGKVGGLIKKLLPG	19	11279030	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ257	24637996	P83080, Q58T74, Q58T41		Maximin H1	Bombina maxima	Animalia (Amphibians)	ILGPVISTIGGVLGGLLKNL	20	11835991	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ260	24637998	P83082		Maximin H2	Bombina maxima	Animalia (Amphibians)	ILGPVLSMVGSALGGLIKKI	20	11835991	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ262	24637999	P83083, Q58T79 , Q58T77 , Q58T70 , Q58T68 , Q58T62 , Q58T52 , Q58T44 , Q58T42		Maximin H3 	Bombina maxima	Animalia (Amphibians)	ILGPVLGLVGNALGGLIKKI	20	11835991	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ279	2498604	Q26464		Pilosulin-2 	Myrmecia pilosula	Animalia (Insects)	GLLSKFGRLARKLARVIPKV	20	15639237	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ506	52782770	P84158		Cucurmoschin	Cucurbita maxima	Viridiplantae	PQRGEGGRAGNLLREEQEI	19	14499274	Antifungal		Experimentally Validated
+CAMPSQ540	585769	P37362		Pyrrhocoricin	Pyrrhocoris apterus 	Animalia (Insects)	VDKGSYLPRPTPPRPIYNRN	20	10076062	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ733	21552717	Q8JI24		Parasin I	Silurus asotus	Animalia (Pisces)	KGRGKQGGKVRAKAKTRSS	19	11821259	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ775				Dybowskin-6	Rana dybowskii	Animalia (Amphibians)	FLPLLLAGLPLKLCFLFKKC	20	17698251	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1735	114152146	P84912		RugosinA - like peptide	Rana saharica	Animalia (Amphibians)	KGAAKGLLEVASCKLSKSC	19		Antibacterial		Experimentally Validated
+CAMPSQ2573	385178646	G0LWV9		Kasstasin	Kassina maculata (spotted running frog)	Animalia (Amphibians)	IKELLPHLSGIIDSVANAIK	20	21624426	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2732				  GLK-19 	Synthetic construct		GLKKLLGKLLKKLGKLLLK	19	18957441	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2763		P81469		  Styelin A 	Styela clava 	Animalia	GFGKAFHSVSNFAKKHKTA	19	9467865	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2764		P81470		  Styelin B  	Styela clava 	Animalia	GFGPAFHSVSNFAKKHKTA	19	9467865	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2767		P81903		  Histone H2B-1	Ictalurus punctatus 	Animalia (Pisces)	PDPAKTAPKKGSKKAVTKA	19		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3327				  B2RP-ERa 	Hylarana erythraea	Animalia (Amphibians)	GVIKSVLKGVAKTVALGML	19	20015460	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3588				  Odorranain-J-OA1 	Odorrana andersonii	Animalia (Amphibians)	GLFTLIKGAYKLDAPTVACN	20	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3614				  Ranacyclin-B-RL1 	Odorrana livida	Animalia (Amphibians)	AALRGCWTKSIPPKPCPGKR	20	21927839	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3771				  Brevinin-1CHc 	Lithobates chiricahuensis	Animalia (Amphibians)	FFPTIAGLTKLFCAITKKC	19	21262304	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8211				RN1	Synthetic construct		FLGGLIKIVPAMICAVRKKC	20	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8212				RN2	Synthetic construct		FLGGLIKPVPAMICAVRKKC	20	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8213				RN3	Synthetic construct		FLGGLIKRVPAMICAVRKKC	20	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8214				RN4	Synthetic construct		FLGGLIKRPPAMICAVRKKC	20	26046345	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

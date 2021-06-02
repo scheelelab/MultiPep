@@ -1,0 +1,27 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ165	156633553	P85214		Proline-rich antimicrobial peptide 1	Galleria mellonella	Animalia (Insects)	DIQIPGIKKPTHRDIIIPNWNPNVRTQPWQRFGGNKS	37	11995991	Antibacterial,Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ169	157841288	A6YPB1		Putative antimicrobial peptide A Northern Europe Heligoland variant 	Ciona intestinalis 	Animalia	AALRGALRAVARVGKAILPHVAIANPYVRTPYVHNNP	37	17658598	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ185	160380519	P0C5X5		Brevinin-2DYe / Dybowskin-5	Rana dybowskii	Animalia (Amphibians)	GLFSVVTGVLKAVGKNVAKNVGGSLLEQLKCKISGGC	37	17688900 , 17698251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ187	1703271	P25403		Antimicrobial peptide 1 	Mirabilis jalapa	Viridiplantae	QCIGNGGRCNENVGPPYCCSGFCLRQPGQGYGYCKNR	37	1733929 , 7647302	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ195	1706745	P49913	2FBS,2FBU,2FCG,2K6O,2LMF	Cathelicidin antimicrobial peptide 	Homo sapiens 	Animalia (Mammals)	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	37	7890387,11557457	Antibacterial	Gram+,Gram-
+	Experimentally Validated
+CAMPSQ199	1709082	P49932		Antibacterial peptide PMAP-37 	 Sus scrofa	Animalia (Mammals)	GLLSRLRDFLSDRGRRLGEKIERIGQKIKDLSEFFQS	37	7737198	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ415	41016980	P82827		Esculentin-2L	Rana luteiventris	Animalia (Amphibians)	GILSLFTGGIKALGKTLFKMAGKAGAEHLACKATNQC	37	10651828	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ416	41016981	P82839		Esculentin-2B	Rana berlandieri	Animalia (Amphibians)	GLFSILRGAAKFASKGLGKDLTKLGVDLVACKISKQC	37	10651828	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ417	41016982	P82846		Esculentin-2P	Rana pipiens	Animalia (Amphibians)	GFSSIFRGVAKFASKGLGKDLARLGVNLVACKISKQC	37	10651828	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ470	462482	P34034 , Q53446	1CW6,2LEU,2LJQ,2LJT,3LEU	Bacteriocin leucocin-A precursor 	Leuconostoc gelidum 	Bacteria	KYYGNGVHCTKSGCSVNWGEAFSAGVHRLANGGNGFW	37	1840587	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ656	94448092	Q1MU20		Esculentin-2S	Odorrana schmackeri	Animalia (Amphibians)	GLFTLIKGAVKMIGKTVAKEAGKTGLELMACKVTNQC	37	16427248	Antibacterial   		Experimentally Validated
+CAMPSQ926	417989	P33045		Antifungal protein S	Hordeum vulgare	Viridiplantae	ATFTVINKCQYTVWAAAVPAGGGQKLDAGQTWSIXXP	37	1936240	Antifungal		Experimentally Validated
+CAMPSQ976	114386732	A6XMY0		Arasin-1	Hyas araneus	Animalia (Crustaceans (Malacostraca))	SRWPSPGRPRPFPGRPKPIFRPRPCNCYAPPCPCDRW	37	17658600	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ978	1709151	P38577		Bacteriocin mesentericin Y105	Leuconostoc mesenteroides	Bacteria	KYYGNGVHCTKSGCSVNWGEAASAGIHRLANGGNGFW	37	1487737	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2768		P49931		  PMAP-36 	Sus scrofa 	Animalia (Mammals)	VGRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLGCG	37		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3201				  Cg-Prp 	Crassostrea gigas	Animalia (Molluscs (Bivalvia))	ILENLLARSTNEDREGSIFDTGPIRRPKPRPRPRPEG	37	18962895	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3267				  Calcitonin gene-related peptide 	Homo sapiens	Animalia (Mammals)	ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF	37	18603306	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3442				  Esculentin-2PRa 	Rana pretiosa	Animalia (Amphibians)	GVFSFLKTGAKLLGSTLLKMAGKAGAEHLACKATNQC	37	21295070	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3443				  Esculentin-2PRb	Rana pretiosa	Animalia (Amphibians)	GIFSALAAGVKLLGNTLFKMAGKAGAEHLACKATNQC	37	21295070	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3474				  Papiliocin 	Papilio xuthus	Animalia (Insects)	RWKIFKKIEKVGRNVRDGIIKAGPAVAVVGQAATVVK	37	20213310	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3477	33114169			  Ir-Def1 	Ixodes ricinus	Animalia (Arachnids)	GGYYCPFFQDKCHRHCRSFGRKAGYCGGFLKKTCICV	37	21504572	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3478	86278360			  Ir-Def2 	Ixodes ricinus	Animalia (Arachnids)	GGYYCPFRQDKCHRHCRSFGRKAGYCGGFLKKTCICV	37	21504572	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3483		P86698	2L2R	  EcAMP1 	Echinochloa crus-galli	Viridiplantae	GSGRGSCRSQCMRRHEDEPWRVQECVSQCRRRRGGGD	37	21561864	Antifungal		Experimentally Validated
+CAMPSQ3490				  FeCath 	Felis catus	Animalia (Mammals)	QLGELIQQGGQKIVEKIQKIGQRIRDFFSNLRPRQEA	37	21533281	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3767				  Esculentin-2CHa 	Lithobates chiricahuensis	Animalia (Amphibians)	GFSSIFRGVAKFASKGLGKDLAKLGVDLVACKISKQC	37	21262304	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

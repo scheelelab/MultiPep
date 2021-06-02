@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ52	116080	P14662		Bactericidin B-2 	Manduca sexta	Animalia (Insects)	WNPFKELERAGQRVRDAVISAAPAVATVGQAAAIARG	37	3143727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ53	116081	P14663		Bactericidin B-3 	Manduca sexta	Animalia (Insects)	WNPFKELERAGQRVRDAIISAGPAVATVGQAAAIARG	37	3143727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ54	116083	P14664		Bactericidin B-4 	Manduca sexta	Animalia (Insects)	WNPFKELERAGQRVRDAIISAAPAVATVGQAAAIARG	37	3143727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ55	116084	P14665		Bactericidin B-5P precursor 	Manduca sexta	Animalia (Insects)	WNPFKELERAGQRVRDAVISAAAVATVGQAAAIARGG	37	3143727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ56	116087, 223330	P01507	1D9J,1D9L,1D9M,1D9O,1D9P,1F0D,1F0E,1F0F,1F0G,1F0H	Cecropin-A 	Hyalophora cecropia	Animalia (Insects)	KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK	37	7140755	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ98	122063471	P85055		Esculentin-2SE	Rana sevosa	Animalia (Amphibians)	GFFSLIKGVAKIATKGLAKNLGKMGLDLVGCKISKEC	37	16386333	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ560	6225249	P81610		Defensin-A	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	GFGCPNDYPCHRHCKSIPGRXGGYCGGXHRLRCTCYR	37	8702979	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ570	3023392	P56386		Beta-defensin 1	Mus musculus	Animalia (Mammals)	DQYKCLQHGGFCLRSSCPSNTKLQGTCKPDKPNCCKS	37	9488417	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ606	729446	P40845		Esculentin-2A	Rana esculenta (edible frog )	Animalia (Amphibians)	GILSLVKGVAKLAGKGLAKEGGKFGLELIACKIAKQC	37	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ607	729447	P40846		Esculentin-2B	Rana esculenta (edible frog )	Animalia (Amphibians)	GIFSLVKGAAKLAGKGLAKEGGKFGLELIACKIAKQC	37	8163497	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1076	224495924	P0C8T9		Esculentin-2HSa	Rana hosii	Animalia (Amphibians)	GIFSLIKGAAQLIGKTVAKEAGKTGLELMACKVTKQC	37	18621071	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1109	26391013	P83138		Antifungal protein 4	Malva parviflora	Viridiplantae	DRQIDMEEQQLEKLNKQDRXPGLRYAAKQQMXTXRMG	37	11302747	Antifungal		Experimentally Validated
+CAMPSQ1127	74829145	Q9TWW2		Diptericin	Sarcophaga peregrina	Animalia (Insects)	DLHIPPPDNKINWPQLSGGGGGSPKTGYDININAQQK	37		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1134	46396048	Q9XZH0		Cecropin-B	Spodoptera litura	Animalia (Insects)	RWKVFKKIEKMGRNIRDGIVKAGPAIEVLGSAKALGK	37	11790350	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2881				  Oxyopinin 2b 	Oxyopes kitabensis	Animalia (Arachnids)	GKFSGFAKILKSIAKFFKGVGKVRKQFKQASDLDKNQ	37	Reference: Komori, T., Yamada, S., Imaseki, H. (1997). Plant Physiol. 115, 314.	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2915				  Plantaricin 423 	Lactobacillus plantarum 423	Bacteria	KYYGNGVTCGKHSCSVNWGQAFSCSVSHLANFGHGKC	37	9717299	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2916				  Plantaricin C19 	Lactobacillus plantarum C19	Bacteria	KYYGNGLSCSKKGCTVNWGQAFSCGVNRVATAGHHKC	37	11545225	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3132				  Brevinin-2PRa 	Rana pirica	Animalia (Amphibians)	GLMSLFKGVLKTAGKHIFKNVGGSLLDQAKCKITGEC	37	15003829	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3133				  Brevinin-2PRb 	Rana pirica	Animalia (Amphibians)	GLMSLFRGVLKTAGKHIFKNVGGSLLDQAKCKITGEC	37	15003829	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3134				  Brevinin-2PRc 	Rana pirica	Animalia (Amphibians)	GLMSVTKGVLKTAGKHIFKNVGGSLLDQAKCKISGQC	37	15003829	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3135				  Brevinin-2PRd 	Rana pirica	Animalia (Amphibians)	GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKITGQC	37	15003829	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3136				  Brevinin-2PRe 	Rana pirica	Animalia (Amphibians)	GLLSVLKGVLKTTGKHIFKNVGGSLLDQAKCKISGQC	37	15003829	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3432				  Esculentin-2ISa  	Odorrana ishikawae	Animalia (Amphibians)	GIFSLIKGAAKLITKTVAKEAGKTGLELMACKVTNQC	37	 21193000	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3631				  Esculentin-2-ALb 	Amolops loloensis	Animalia (Amphibians)	GIFSLIKTAAKFVGKNLLKQAGKAGVEHLACKANNQC	37	19843479	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4151	410591613	B3A0M8		Esculentin-2JDa	Odorrana jingdongensis 	Animalia (Amphibians)	GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	37	22917879	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ224	18202411	P82428		Ponericin-W6	Pachycondyla goeldii 	Animalia (Insects)	FIGTALGIASAIPAIVKLFK	20	11279030	Antibacterial		Experimentally Validated
+CAMPSQ480	46577583	P83547		Chrysophsin-3	Pagrus major	Animalia (Pisces)	FIGLLISAGKAIHDLIRRRH	20	12581207	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ490	50401824	P83988		Arietin	Cicer arietinum	Viridiplantae	GVGYKVVVTTTAAADDDDVV	20	12084511	Antifungal		Experimentally Validated
+CAMPSQ1016				CA	Synthetic construct		KWKLFKKIGIGAVLKVLTTG	20	1733777	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1751	68052273	Q58T46		Maximin-H14	Bombina maxima	Animalia (Amphibians)	ILGPVLGLVGEPLGGLIKKI	20		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ1753	68052270	Q58T43, Q58T39		Maximin-H15	Bombina maxima	Animalia (Amphibians)	ILGPVLGLVGNALGGLLKNL	20		Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2788				  D28  	Synthetic construct		FLGVVFKLASKVFPAVFGKV	20	17051220	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2789				Human MUC7 20-Mer 	Homo sapiens	Animalia (Mammals)	LAHQKPFIRKSYKCLHKRCR	20	12543672	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2794				Lunatusin 	Phaseolus lunatus L	Viridiplantae	KTCENLADTFRGPCFATSNC	20	16269344	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2796				Tu-AMP 2 	Tulipa gesneriana L.	Viridiplantae	KSCCRNTTARNCYNVCRIPG	20	15056889	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2813				  human KR-20 	Homo sapiens	Animalia (Mammals)	KRIVQRIKDFLRNLVPRTES	20	14978112	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3576				  Odorranain-J-OA2 	Odorrana andersonii	Animalia (Amphibians)	GLFTLIKGAYKNDAPTVACN	20	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3581				  Andersonin-X1 	Odorrana andersonii	Animalia (Amphibians)	GLFSKFAGKGIVNFLIEGVE	20	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3584				  Nigrocin-1-OA3 	Odorrana rotodora	Animalia (Amphibians)	GIFLKVLGVGKKVLCGVSGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3585				  Nigrocin-1-OR1 	Odorrana rotodora	Animalia (Amphibians)	GLISGILGVGKKLVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3586				  Nigrocin-1-OR2 	Odorrana rotodora	Animalia (Amphibians)	GLISGILGVGKMLVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3587				  Nigrocin-1-OR3 	Odorrana rotodora	Animalia (Amphibians)	GLISGLLGVGKMLVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3589				  Nigrocin-1-OW2 	Odorrana wuchuanensis	Animalia (Amphibians)	GILGNIVGMGKKIVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3590				  Nigrocin-1-OW3 	Odorrana wuchuanensis	Animalia (Amphibians)	GILGNIVGMGKKVVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3808				  Bicarinalin 	Tetramorium bicarinatum	Animalia (Insects)	KIKIPWGKVKDFLVGGMKAV	20	22960382	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3833				  Chemerin peptide 4	Homo sapiens	Animalia (Mammals)	VRLEFKLQQTSCRKRDWKKP	20	23527010	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3844		C0HJB8		  Cyanophlyctin 	Euphlyctis cyanophlyctis	Animalia (Amphibians)	FLNALKNFAKTAGKRLKSLLN	21		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4599	405944876, 405944875			Chain C, D, Co-Complex Structure Of Ns3-4a Protease With The Optimized  Inhibitory Peptide Cp5-46a-4d5e. 	Synthetic construct		GELDELVYLLDGPGYDPIHS	20	22965230	Antiviral		Experimentally Validated
+CAMPSQ8193				HBc157-176	Synthetic construct		PRRRTPSPRRRRSQSPRRRRS	21	23785287	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ8195				HBc155-175	Synthetic construct		SPRRRTPSPRRRRSQSPRRRR	21	23785287	Antibacterial	Gram-ve	Experimentally Validated

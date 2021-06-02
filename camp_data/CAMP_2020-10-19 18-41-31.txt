@@ -1,0 +1,29 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ255	24636789	P83376		Dolabellanin-B2	Dolabella auricularia	Animalia	SHQDCYEALHKCMASHSKPFSCSMKFHMCLQQQ	33	12590964	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ284	2506269, 299496	P31529		Sapecin-B	Sarcophaga peregrina	Animalia (Insects)	LTCEIDRSLCLLHCRLKGYLRAYCSQQKVCRCVQ	34	8471044	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ308	266446	P29559	1WCO	Lantibiotic nisin-Z	Lactococcus lactis subsp. lactis 	Bacteria	ITSISLCTPGCKTGALMGCNMKTATCNCSIHVSK	34	1935953	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ332	29337160, 740957	P24302		Dermaseptin-1 	Phyllomedusa sauvagii	Animalia (Amphibians)	ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ	34	9614066 , 1909573	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ341	3024115	P56425		Antibacterial peptide BMAP-34 precursor	Bos taurus 	Animalia (Mammals)	GLFRRLRDSIRRGQQKILEKARRIGERIKDIFRG	34	9409740	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ545	5915804	P56685		Buthinin	Androctonus australis	Animalia (Arachnids)	SIVPIRCRSNRDCRRFCGFRGGRCTYARQCLCGY	34	8939880	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ563	6225740	P81612		Mytilin-A	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	GCASRCKAKCAGRRCKGWASASFRGRCYCKCFRC	34	8702979	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ564	6225741	P81613	2EEM	Mytilin-B	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	SCASRCKGHCRARRCGYYVSVLYRGRCYCKCLRC	34	8702979, 17628674	Antibacterial,Antiviral		Experimentally Validated
+CAMPSQ571	66864905	Q863C8		Canine beta-defensin 	Canis lupus familiaris	Animalia (Mammals)	KCWNLRGSCREKCIKNEKLYIFCTSGKLCCLKPK	34	15845463	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ819	110832851	Q7WYZ9		Enterocin Q 	Enterococcus faecium 	Bacteria	MNFLKNGIAKWMTGAELQAYKKKYGCLPWEKISC	34	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.
+
+
+	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1010				Brevinin-2TSa	Rana tsushimensis	Animalia (Amphibians)	GIMSLFKGVLKTAGKHVAGSLVDQLKCKITGGC	33	16413829	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1107	205829605	P82592		Cecropin-A	Aedes aegypti	Animalia (Insects)	GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKAL	34	10400619	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3147				  P9 	Cervus elaphus	Animalia (Mammals)	RFIPPILRPPVRPPFRPPFRPPFRPPPIIRFFGG	34	16011891	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3351				  Psacotheasin 	Psacothea hilaris	Animalia (Insects)	CIAKGNGCQPSGVQGNCCSGHCHKEPGWVAGYCK	34	20467242	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3559				  Brevinin-2-OW1 	Odorrana wuchuanensis	Animalia (Amphibians)	SVMGTVKDLLIGAGKSAAQSVLKSLSCKISNDC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3560				  Brevinin-2-OW2 	Odorrana wuchuanensis	Animalia (Amphibians)	SVMGTVKDLLIGAGKSAAQSVLKSLSCKLSNDC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3561				  Brevinin-2-OW3 	Odorrana wuchuanensis	Animalia (Amphibians)	SVMGTVKDLLIGAGKSAAQSVLKALSCKLSKDC	33	22029824	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3845				  sarcotoxin Pd 	Paederus dermatitis	Animalia (Insects)	GWLKKIGKKIERVGQHTRGLGIAQIAANVAATAR	34	Reference: Memarpoor-Yazdi M, Zare-Zardini H, Asoodeh A (2013) A Novel Antimicrobial Peptide Derived from the Insect Paederus dermatitis. Int J Pept Res Ther DOI 10.1007/s10989-012-9320-1	Antibacterial, Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ3865		P86416		Papillosin	Halocynthia papillosa 	Animalia	GFWKKVGSAAWGGVKAAAKGAAVGGLNALAKHIQ	34	19085906	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3910		Q7YT39		M-theraphotoxin-Gr1a 	Grammostola rosea 	Animalia (Arachnids)	GCLEFWWKCNPNDDKCCRPKLKCSKLFKLCNFSF	34	16376854	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4605	253723091			Chain A, E6-Binding Zinc Finger (E6apc2)	Homo sapiens	Animalia (Mammals)	XKFACPECPKRFMRSDHLSKHITLHELLGEERR	33	15182185	Antiviral		Experimentally Validated
+CAMPSQ6926	528320155	U5KJC9		Cathelicidin-like peptide	Bothrops atrox	Animalia (Reptiles)	KRFKKFFKKLKNSVKKRVKKFFRKPRVIGVTFPF	34	25100358	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ6927	528320163	U5KJJ1		Cathelicidin-related antimicrobial peptide isoform	Pseudonaja textilis 	Animalia (Reptiles)	KRFKKFFMKLKKSVKKRVMKFFKKPMVIGVTFPF	34	25100358	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ6928	528320151	U5KJM4		Cathelicidin-like peptide	Crotalus durissus terrificus 	Animalia (Reptiles)	KRFKKFFKKVKKSVKKRLKKIFKKPMVIGVTIPF	34	25100358	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ7512	810515334	A6YB85	2MXQ 	Paneth cell-specific alpha-defensin 1	Equus caballus	Animalia (Mammals)	SCTCRRAWICRWGERHSGKCIDQKGSTYRLCCRR	34	17620056	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

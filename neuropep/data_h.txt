@@ -1,0 +1,1188 @@
+ID	Sequence	Length	Organism	Family	Name
+NP00054	EVNFSPSW	8	Anax junius	AKH/HRTH/RPCH	Anaim-AKH
+NP00055	ELTFTPAW	8	Anopheles gambiae	AKH/HRTH/RPCH	Anoga-HrTH hormone
+NP00056	ELNYSPDW	8	Anoplotrupes stercorosus	AKH/HRTH/RPCH	Mem-CC
+NP00057	VNFSPGWGT	9	Blattella germanica	AKH/HRTH/RPCH	hypertrehalosemic neuropeptide
+NP00058	ELTFTPNWGT	10	Carausius morosus	AKH/HRTH/RPCH	Cam-HrTH-II
+NP00059	EVNFSPNW	8	Cerambycidae	AKH/HRTH/RPCH	Pea-CAH-I
+NP00060	ELNFSTGW	8	Coreidae	AKH/HRTH/RPCH	Scg-AKH-II
+NP00061	ELTFSPDW	8	Drosophila melanogaster	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00062	EVNFTPNW	8	Empusa pennata	AKH/HRTH/RPCH	Emp-AKH
+NP00063	EVNFSPTW	8	Galloisiana yuasai	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00064	ELTFSSGWGN	10	Helicoverpa zea	AKH/HRTH/RPCH	neuropeptide hormone
+NP00065	EVNFSPNW	8	Leptinotarsa decemlineata	AKH/HRTH/RPCH	Led-CC-I
+NP00066	ELTFTPNW	8	Leptinotarsa decemlineata	AKH/HRTH/RPCH	Led-CC-II
+NP00067	YADPNADPMAFL	12	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic Hormone Joining Peptide 2
+NP00068	ELNFTPNWGT	10	Melanoplus sanguinipes	AKH/HRTH/RPCH	Adipokinetic hormone 
+NP00069	ELNYSPDW	8	Melolontha melolontha	AKH/HRTH/RPCH	Mem-CC
+NP00070	EINFTPNW	8	Microhodotermes viator	AKH/HRTH/RPCH	Microhodotermes viator corpus cardiacum peptide
+NP00071	ELNFSPNWGN	10	NA	AKH/HRTH/RPCH	Del-CC 
+NP00072	EVNFSPSWGN	10	NA	AKH/HRTH/RPCH	Magicicada species-adipokinetic hormone
+NP00073	EVNFSPGWGT	10	Nauphoeta cinerea	AKH/HRTH/RPCH	hypertrehalosaemic neuropeptide
+NP00074	VNFSPNW	7	Periplaneta americana	AKH/HRTH/RPCH	Periplanetin CC-1
+NP00075	ELTFTPNWGS	10	Phymateus leprosus	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00076	EITFTPNW	8	Polyphaga aegyptiaca	AKH/HRTH/RPCH	Poa-HrTH
+NP00077	ELNFSPNW	8	Polyphaga aegyptiaca	AKH/HRTH/RPCH	Tem-HrTH
+NP00078	ELTFSPDW	8	Protophormia terraenovae	AKH/HRTH/RPCH	Phormia terraenovae hypertrehalosaemic hormone
+NP00079	ELNFTPNW	8	Pyrrhocoris apterus	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00080	ELTFTPNW	8	Pyrrhocoris apterus	AKH/HRTH/RPCH	Pea-CAH-II 
+NP00081	EVNFTPNWGT	10	Romalea microptera	AKH/HRTH/RPCH	Ro I
+NP00082	EVNFSTGW	8	Romalea microptera	AKH/HRTH/RPCH	Ro II
+NP00083	ELNFTPNWGT	10	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00084	ELNFSWGT	8	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic hormone 2
+NP00085	ELTFTPGW	8	Tabanus atratus	AKH/HRTH/RPCH	Tabanus atratus adipokinetic hormone
+NP00086	ELTFTPGWGY	10	Tabanus atratus	AKH/HRTH/RPCH	Tabanus atratus hypotrehalosemic hormone
+NP00087	QVNFSTGW	8	Acheta domesticus	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00088	QLNFSTGW	8	Anabrus simplex	AKH/HRTH/RPCH	Adipokinetic hormone 2
+NP00089	EVNFSPSW	8	Anax imperator	AKH/HRTH/RPCH	Anaim-AKH
+NP00090	EVNFTPSW	8	Anax imperator	AKH/HRTH/RPCH	Anaim-AKH (1)
+NP00091	EVNFTPSW	8	Anax junius	AKH/HRTH/RPCH	Anaim-AKH
+NP00092	ELNFSPGW	8	Callinectes sapidus	AKH/HRTH/RPCH	Red pigment-concentrating hormone
+NP00093	QLNFSPGW	8	Cancer borealis	AKH/HRTH/RPCH	Red pigment-concentrating hormone
+NP00094	EVNFSTSW	8	Daphnia pulex	AKH/HRTH/RPCH	Dappu-RPCH
+NP00095	ELTFSPDW	8	Delia radicum	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00096	ELTFSPDWGK	10	Delia radicum	AKH/HRTH/RPCH	AKH-GK
+NP00097	QLTFSPDWGK	10	Drosophila melanogaster	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00098	EVNFPTSW	8	Ephemeroptera 	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00099	GLNFSPSW	8	Ephemeroptera 	AKH/HRTH/RPCH	Corpu-AKH
+NP00100	EVNFSTGW	8	Gryllus bimaculatus	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00101	QLNFSPGW	8	Homarus americanus	AKH/HRTH/RPCH	Red pigment-concentrating hormone
+NP00102	EVNFSPYW	8	Lethocerus indicus	AKH/HRTH/RPCH	Letin-AKH
+NP00103	EVNFTPSW	8	Libellula auripennis	AKH/HRTH/RPCH	Libau-AKH
+NP00104	EVNFTPSW	8	Libellula luctuosa	AKH/HRTH/RPCH	Libau-AKH
+NP00105	EVNFTPSW	8	Libellula pulchella	AKH/HRTH/RPCH	Libau-AKH
+NP00106	ELNFSPGW	8	Litopenaeus vannamei	AKH/HRTH/RPCH	Red pigment-concentrating hormone
+NP00107	QLTFSPDW	8	Lucilia cuprina	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00108	QLTFSPDWGK	10	Lucilia cuprina	AKH/HRTH/RPCH	AKH-GK
+NP00109	QLTFSPDWGKR	11	Lucilia cuprina	AKH/HRTH/RPCH	AKH-GKR
+NP00110	ELTFTSSWG	9	Manduca sexta	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00111	QLNFTPNWGT	10	Melanoplus sanguinipes	AKH/HRTH/RPCH	Adipokinetic hormone 1
+NP00112	QLNFSPGW	8	Nezara viridula	AKH/HRTH/RPCH	Red pigment-concentrating hormone
+NP00113	EVNFTPSW	8	Pantala flavescens	AKH/HRTH/RPCH	Libau-AKH
+NP00114	EVNFSPNW	8	Periplaneta americana	AKH/HRTH/RPCH	Peram-CAH-I
+NP00115	EVNFTPSW	8	Pseudagrion inconspicuum	AKH/HRTH/RPCH	Psein-AKH (3)
+NP00116	QLTFSPDWGK	10	Sarcophaga bullata	AKH/HRTH/RPCH	Neb-AKH-GK
+NP00117	ELNFSPNW	8	Zophobas atratus	AKH/HRTH/RPCH	Tenmo-AKH
+NP00118	QLNYSPDW	8	Anoplotrupes stercorosus	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00119	QVNFSPGWGT	10	Aptera fusca	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00120	QVNFSPGWGT	10	Archimandrita tessellata	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00121	QVNFTPGW	8	Austrophasma gansbaaiense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00122	QVNFTPGW	8	Austrophasma rawsonvillense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00123	QVNFSPGWGT	10	Bantua robusta	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00124	QVNFSPGWGT	10	Blaberus craniifer	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00125	QVNFSPGWGT	10	Blaberus discoidalis	AKH/HRTH/RPCH	Hypertrehalosaemic hormone
+NP00126	SAVQDSPCKGSAESLMYIYKLVQNEAQKILECEKFSSN	38	Blaberus discoidalis	AKH/HRTH/RPCH	Hypertrehalosaemic hormone precursor-related peptide (Potential)
+NP00127	QVNFSPGWGTGKRSAVQDSPCKGSAESLMYIYKLVQNEAQKILECEKFSSN	51	Blaberus discoidalis	AKH/HRTH/RPCH	Hypertrehalosaemic prohormone
+NP00128	QVNFSPGWGT	10	Blaberus giganteus	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00129	QVNFSPGWGT	10	Blaptica dubia	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00130	QVNFSPNW	8	Blatta lateralis	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00131	QVNFSPNW	8	Blatta orientalis	AKH/HRTH/RPCH	Hypertrehalosaemic factor 1
+NP00132	QLTFTPNW	8	Blatta orientalis	AKH/HRTH/RPCH	Hypertrehalosaemic factor 2
+NP00133	QVNFSPGWGT	10	Blattella germanica	AKH/HRTH/RPCH	Hypertrehalosaemic hormone
+NP00134	QVNFSPGWGT	10	Blepharodera discoidalis	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00135	QLTFTPNWGT	10	Carausius morosus	AKH/HRTH/RPCH	Hypertrehalosaemic factor 2
+NP00136	QLNFSPNW	8	Cryptocercus darwini	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00137	QLNFSPNW	8	Cryptocercus kyebangensis	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00138	QLTFSPDW	8	Delia radicum	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00139	QVNFSPNW	8	Deropeltis atra	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00140	QVNFSPNW	8	Deropeltis erythrocephala	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00141	QVNFSPNW	8	Deropeltis integerrima	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00142	QVNFSPGWGT	10	Diploptera punctata	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00143	QLTFSPDW	8	Drosophila melanogaster	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00144	QVNFSPGWGT	10	Elliptorhina sp.	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00145	QLNFSPNW	8	Ergaula capucina	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00146	QVNFSPGWGT	10	Eublaberus distanti	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00147	QVNFSPGWGT	10	Eublaberus posticus	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00148	QVNFSPGWGT	10	Eublaberus sp.	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00149	QVNFSPNW	8	Eurycotis floridana	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00150	QLTFTPNWGT	10	Extatosoma tiaratum	AKH/HRTH/RPCH	Hypertrehalosaemic neuropeptide
+NP00151	QVNFSPGWGT	10	Gromphadorhina grandidieri	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00152	QVNFSPGWGT	10	Gromphadorina portentosa	AKH/HRTH/RPCH	Hypertrehalosaemic hormone
+NP00153	QVNFSTGW	8	Gryllus bimaculatus	AKH/HRTH/RPCH	Adipokinetic hormone G
+NP00154	QVNFSPGWGT	10	Gyna cf. cafforum	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00155	QVNFSPGWGT	10	Gyna lurida	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00156	QLTFTSSWG	9	Helicoverpa zea	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00157	QLTFSSGWGN	10	Helicoverpa zea	AKH/HRTH/RPCH	Hypertrehalosaemic hormone
+NP00158	QVNFTPGW	8	Hemilobophasma montaguense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00159	QVNFTPGW	8	Karoophasma biedouwense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00160	QVNFTPGW	8	Karoophasma botterkloofense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00161	QVNFSPNW	8	Leptinotarsa decemlineata	AKH/HRTH/RPCH	Hypertrehalosaemic factor 1
+NP00162	QLTFTPNW	8	Leptinotarsa decemlineata	AKH/HRTH/RPCH	Hypertrehalosaemic factor 2
+NP00163	QVNFTPSW	8	Libellula auripennis	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00164	QVNFTPGW	8	Lobatophasma redelinghuysense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00165	QVNFSPGWGT	10	Loboptera decipiens	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00166	QLNFTPNWGT	10	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic hormone 1
+NP00167	DAADFADPYSFLYRLIQAEARKMSGCSN	28	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic hormone precursor-related peptide alpha chain
+NP00168	QLNFTPNWGTGKRDAADFADPYSFLYRLIQAEARKMSGCSN	41	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic prohormone type 1
+NP00169	QLNFSAGW	8	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic hormone 2
+NP00170	YADPNADPMAFLYRLIQIEARKLAGCSD	28	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic hormone precursor-related peptide beta chain
+NP00171	QLNFSAGWGRRYADPNADPMAFLYRLIQIEARKLAGCSD	39	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic prohormone type 2
+NP00172	QLNFTPWW	8	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic hormone 3
+NP00173	ALGAPAAGDCVSASPQALLSILNAAQAEVQKLIDCSRFTSEANS	44	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic hormone precursor-related peptide gamma chain
+NP00174	QLNFTPWWGKRALGAPAAGDCVSASPQALLSILNAAQAEVQKLIDCSRFTSEANS	55	Locusta migratoria	AKH/HRTH/RPCH	Adipokinetic prohormone type 3
+NP00175	QVTFSRDWSP	10	Locusta migratoria	AKH/HRTH/RPCH	Hypertrehalosaemic hormone
+NP00176	QVNFSPGWGT	10	Lucihormetica grossei	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00177	QVNFSPGWGT	10	Lucihormetica subcincta	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00178	QVNFSPGWG	9	Lucihormetica verrucosa	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00179	QLTFTSSWG	9	Manduca sexta	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00180	QLTFTSSWGGKRAMTNSISCRNDEAIAAIYKAIQNEAERFIMCQKN	46	Manduca sexta	AKH/HRTH/RPCH	Adipokinetic prohormone
+NP00181	QVNFSPGW	8	Mantophasma kudubergense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00182	QVNFSPNW	8	Mastotermes darwiniensis	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00183	QLNYSPDW	8	Melolontha melolontha	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00184	QVNFTPGW	8	Namaquaphasma ookiepense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00185	QVNFSPGWGT	10	Nauphoeta cinerea	AKH/HRTH/RPCH	Hypertrehalosaemic hormone
+NP00186	QVNFSPNW	8	Neostylopyga rhombifolia	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00187	QLNYSPDW	8	Pachnoda marginata	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00188	QVNFSPGW	8	Pachyphasma brandbergense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00189	QVNFSPGWGT	10	Panchlora sp.	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00190	QVNFSPGWGT	10	Panchlora viridis	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00191	QVNFSPGWGT	10	Panesthia sp.	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00192	QVNFSPNW	8	Periplaneta americana	AKH/HRTH/RPCH	Hypertrehalosaemic factor 1
+NP00193	QLTFTPNW	8	Periplaneta americana	AKH/HRTH/RPCH	Hypertrehalosaemic factor 2
+NP00194	QVNFSPNW	8	Periplaneta australasiae	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00195	QVNFSPNW	8	Periplaneta brunnea	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00196	QVNFSPNW	8	Periplaneta fuliginosa	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00197	QVNFSPGWG	9	Perisphaeria ruficornis	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00198	QLNFSPNW	8	Polyphaga aegyptiaca	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00199	QVNFSPGW	8	Praedatophasma maraisi	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00200	QVNFSPGWGT	10	Princisia vanwaerbeki	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00201	QLTFSPDW	8	Protophormia terraenovae	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00202	QVNFSPNW	8	Pseudoderopeltis cf. bimaculata JT-2004	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00203	QVNFSPNW	8	Pseudoderopeltis flavescens	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00204	QVNFSPNW	8	Pseudoderopeltis foveolata	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00205	QVNFSPGWG	9	Pycnoscelus surinamensis	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00206	QVNFSPGWGT	10	Rhyparobia maderae	AKH/HRTH/RPCH	Hypertrehalosaemic hormone
+NP00207	QVNFSPGWG	9	Rhyparobia maderae	AKH/HRTH/RPCH	Hypertrehalosaemic factor 2
+NP00208	QVNFSTGW	8	Romalea microptera	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00209	QVNFTPNWGT	10	Romalea microptera	AKH/HRTH/RPCH	RO-1
+NP00210	QLNFTPNWGT	10	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic hormone 1
+NP00211	FTPNWGT	7	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic hormone I4-10
+NP00212	DAADFGDPYSFLYRLIQAEARKMSGCSN	28	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic hormone precursor-related peptide alpha chain
+NP00213	QLNFTPNWGTGKRDAADFGDPYSFLYRLIQAEARKMSGCSN	41	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic prohormone type 1
+NP00214	QLNFSTGW	8	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic hormone 2
+NP00215	YADPNADPMAFLTKLIQIEARKLSGCSN	28	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic hormone precursor-related peptide beta chain
+NP00216	QLNFSTGWGRRYADPNADPMAFLTKLIQIEARKLSGCSN	39	Schistocerca gregaria	AKH/HRTH/RPCH	Adipokinetic prohormone type 2
+NP00217	QLNFTPNWGT	10	Schistocerca nitens	AKH/HRTH/RPCH	Adipokinetic hormone 1
+NP00218	DAGDYGDPYSFLYRLIQAEARKMSGCSN	28	Schistocerca nitens	AKH/HRTH/RPCH	Adipokinetic hormone precursor-related peptide alpha chain
+NP00219	QLNFTPNWGTGKRDAGDYGDPYSFLYRLIQAEARKMSGCSN	41	Schistocerca nitens	AKH/HRTH/RPCH	Adipokinetic prohormone type 1
+NP00220	QLNFSTGW	8	Schistocerca nitens	AKH/HRTH/RPCH	Adipokinetic hormone 2
+NP00221	YADPNADPMAFLYKLIQIEARKLAGCSN	28	Schistocerca nitens	AKH/HRTH/RPCH	Adipokinetic hormone precursor-related peptide beta chain
+NP00222	QLNFSTGWGRRYADPNADPMAFLYKLIQIEARKLAGCSN	39	Schistocerca nitens	AKH/HRTH/RPCH	Adipokinetic prohormone type 2
+NP00223	QVNFTPSW	8	Striatophasma naukluftense	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00224	QVNFSPGWG	9	Symploce pallens	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00225	QLTFTPGW	8	Tabanus atratus	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00226	QLTFTPGWGY	10	Tabanus atratus	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00227	QLNFSPNW	8	Tenebrio molitor	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00228	QLNFSPNW	8	Therea petiveriana	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00229	QVNFSPGW	8	Tyrannophasma gladiator	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00230	QLNFSPNW	8	Zophobas atratus	AKH/HRTH/RPCH	Hypertrehalosaemic factor
+NP00231	QLTFSSGWGNCTS	13	Spodoptera frugiperda	AKH/HRTH/RPCH	Adipokinetic hormone 4
+NP00232	QLTFTPSW	8	Aedes aegypti	AKH/HRTH/RPCH	Adipokinetic hormone 1
+NP00233	QLNFSPGW	8	Carcinus maenas	AKH/HRTH/RPCH	Red pigment-concentrating hormone
+NP00234	QVNFSTSW	8	Daphnia pulex	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00235	QLNFSTGW	8	Nasonia vitripennis	AKH/HRTH/RPCH	Adipokinetic hormone
+NP00613	RFTFDCPGMMGQRYLYEQVEQVCDDCYNLYREEKIAVNCRENCFLNSWFTVCLQATMREHETPRFDIWR	69	Jasus lalandii	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00614	EXYXKQSAFNAVS	13	Locusta migratoria	Arthropod CHH/MIH/GIH/VIH hormone	locustamyoinhibin
+NP00615	RSAEGLGRMG	10	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[1-10]
+NP00616	RSAEGLGRMGRL	12	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[1-12]
+NP00617	RSAEGLGRMGRLL	13	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[1-13]
+NP00618	LASLKSDTVTPLR	13	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[13-25]
+NP00619	ASLKSDTVTPLR	12	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[14-25]
+NP00620	SLKSDTVTPLR	11	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[15-25]
+NP00621	SDTVTPLRGFE	11	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[18-28]
+NP00622	RSAEGLGRM	9	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[1-9]
+NP00623	TPLRGFEGETGHPLE	15	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	CPRP[22-36]
+NP00624	RVINDDCPNLIGNR	14	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[1-14]
+NP00625	RVINDDCPNLIGNRD	15	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[1-15]
+NP00626	KVEWICEDCSNIFR	14	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[19-32]
+NP00627	VEWICEDCSNIFR	13	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[20-32]
+NP00628	VINDDCPNLIGNR	13	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[2-14]
+NP00629	VINDDCPNLIGNRDLYK	17	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[2-18]
+NP00630	NTGMATLCR	9	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[33-41]
+NP00631	KNCFFNEDFLWCVYATER	18	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[42-59]
+NP00632	NCFFNEDFLWCVYATER	17	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MIH[43-59]
+NP00633	RRINNDCQNFIGNRAMYE	18	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[1-18]
+NP00634	VDWICKDCANIFR	13	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[20-32]
+NP00635	RINNDCQNFIGNR	13	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[2-14]
+NP00636	DCANIFR	7	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[26-32]
+NP00637	DCANIFRQDGLLNNCR	16	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[26-41]
+NP00638	CANIFRKDGLLNNCRSNCFYNTE	23	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[27-49]
+NP00639	INNDCQNFIGNR	12	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[3-14]
+NP00640	QDGLLNNCR	9	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[33-41]
+NP00641	SNCFYNTEFLWCIDATENTR	20	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[42-61]
+NP00642	EQLEQWAAILGAGWN	15	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[64-78]
+NP00643	QWAAILGAGWN	11	Cancer borealis	Arthropod CHH/MIH/GIH/VIH hormone	MOIH[68-78]
+NP00644	PSAALAVEHGTTHPLE	16	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00645	RSTPGYGRMDRIL	13	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00646	RSTPGYGRMDRILAA	15	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00647	RSTPGYGRMDRILAALKTSPMEPSAALAVEHGTTHPLE	38	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00648	RSTQGYGRMDPIL	13	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00649	RSTQGYGRMDRILAA	15	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00650	RSTQGYGRMDRILAALKTSPMEPSAALAVEHGTTHPLE	38	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00651	SPMEPSAALAVEHGTTHPLE	20	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00652	TSPMEPSAALAVEHGTTHPLE	21	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00653	PLGFLSQDHS	10	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00654	PLGFLSQDHSV	11	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00655	PLGFLSQDHSVN	12	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00656	RSVEGASRMEKL	12	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00657	RSVEGASRMEKLL	13	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00658	RSVEGASRMEKLLS	14	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00659	RSVEGASRMEKLLSS	15	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00660	RSVEGASRMEKLLSSS	16	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00661	RSVEGASRMEKLLSSSN	17	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00662	RSVEGASRMEKLLT	14	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00663	RSVEGVSRME	10	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00664	RSVEGVSRMEKLL	13	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00665	RSVEGVSRMEKLLS	14	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00666	RSVEGVSRMEKLLSSISPSSTPLGFLSQDHSVN	33	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00667	RSVEGVSRMEKLLT	14	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00668	GPAESSGESAHPLE	14	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00669	LLTSLRGPAESSGESAHPLE	20	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00670	LPSAHPLE	8	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00671	LTSLRGPAESSGESAHPLE	19	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00672	RGPAESSGESAHPLE	15	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00673	SLRGPAESDGESAHPLE	17	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00674	SLRGPAESSGESAHPLE	17	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00675	SLRGPAESSGESALSE	16	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00676	TSLRGPAESSGESAHPLE	18	Ocypode ceratophthalma	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00677	RSVESSGSSSSEPLSFLSQDQSVN	24	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	CPRPv1
+NP00678	RSVESSGSSSSEPLSFLSQDQSVS	24	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	CPRPv2
+NP00679	HEEYQAHVQTV	11	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycaemic hormones
+NP00680	AHVQTVGK	8	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00681	SFFTLECKGVFDAAIFARLDRICDDCFNLFREPQLYTLCRAECFTTPYFKGCMESLYLYDEKEQIDQMIDFV	72	Bombyx mori	Arthropod CHH/MIH/GIH/VIH hormone	CHH-like protein
+NP00682	RVINDDCPNLIGNRDLYKKVEWICDDCANIYRSTGMASLCRKDCFFNEDFLWCVRATERSEDLAQLKQWVTILGAGRI	78	Callinectes sapidus	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00683	RSAQGMGKMERLLASYRGALEPSTPLGDLSGSLGHPVE	38	Cancer pagurus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00684	RSTQGYGRMDRILAALKTSPMEPSAALAVENGTTHPLE	38	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00685	QIYDTSCKGVYDRALFNDLEHVCDDCYNLYRTSYVASACRSNCYSNLVFRQCMDDLLMMDEFDQYARKVQMV	72	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00686	RVINDECPNLIGNRDLYKKVEWICEDCSNIFRKTGMASLCRRNCFFNEDFVWCVHATERSEELRDLEEWVGILGAGRD	78	Carcinus maenas	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00687	RVFNDDCPNLMGNRDLYKKVEWICDDCANIFRIPGMASICRKDCFFNEDFLWCVRATERTEEMMQLKQWVRILGAGRM	78	Charybdis feriatus	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00688	RSVEGASRMEKLLSSSNSPSSTPLGFLSQDHSVN	34	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide A(Potential)
+NP00689	QVFDQACKGVYDRNLFKKLDRVCEDCYNLYRKPFVATTCRENCYSNWVFRQCLDDLLLSDVIDEYVSNVQMV	72	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone A
+NP00690	RSVEGVSRMEKLLSSSISPSSTPLGFLSQDHSVN	34	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide B
+NP00691	QVFDQACKGVYDRNLFKKLNRVCEDCYNLYRKPFIVTTCRENCYSNRVFRQCLDDLLLSDVIDEYVSNVQMV	72	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone B
+NP00692	ASAWFTNDECPGVMGNRDLYEKVAWVCNDCANIFRNNDVGVMCKKDCFHTMDFLWCVYATERHGEIDQFRKWVSILRA	78	Homarus americanus	Arthropod CHH/MIH/GIH/VIH hormone	Gonad-inhibiting hormone
+NP00693	RSTQGYGRMDKLLATLMGSSEGGALESASQHSLE	34	Libinia emarginata	Arthropod CHH/MIH/GIH/VIH hormone	MOIH precursor-related peptide
+NP00694	QIFDPSCKGLYDRGLFSDLEHVCKDCYNLYRNPQVTSACRVNCYSNRVFRQCMEDLLLMEDFDKYARAIQTV	72	Libinia emarginata	Arthropod CHH/MIH/GIH/VIH hormone	Mandibular organ-inhibiting hormone
+NP00695	SLFDPSCTGVFDRQLLRRLRRVCDDCFNVFREPNVSTECRSNCYNNEVFRQCMEYLLPPHLHEEHRLAVQMV	72	Litopenaeus vannamei	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00696	DTFDHSCKGIYDRELFRKLDRVCEDCYNVFREPKVATECKSNCFVNKRFNVCVADLRHDVSRFLKMANSALS	72	Litopenaeus vannamei	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone-like
+NP00697	WSLDGLARIEKLLSTSSSASAASPTRGQALNL	32	Macrobrachium lanchesteri	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide
+NP00698	AILDQSCKGIFDRELFKKLDRVCDDCYNLYRKPYVAIDCREGCYQNLVFRQCIQDLQLMDQLDEYANAVQIV	72	Macrobrachium lanchesteri	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00699	RVINDDCPNLIGNRDLYKRVEWICEDCSNIFRNTGMATLCRKNCFFNEDFLWCVYATERTEEMSQLRQWVGILGAGRE	78	Metacarcinus magister	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00700	ASSPRVDHRLV	11	Metapenaeus ensis	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide B
+NP00701	SLFDPSCTGVFDRELLGRLNRVCDDCYNVFREPKVATECRSHCFLNPAFIQCLEYIIPEVLHEEYQANVQLV	72	Metapenaeus ensis	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone B
+NP00702	SYIENTCRGVMGNRDIYKKVVRVCEDCTNIFRLPGLDGMCRDRCFNNEWFLVCLKAANRDDELDKFKVWISILNPGL	77	Metapenaeus ensis	Arthropod CHH/MIH/GIH/VIH hormone	Probable molt-inhibiting hormone
+NP00703	RSVEGSSRMERLLSSGSSSSEPLSFLSQDQSVS	33	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide A
+NP00704	QVFDQACKGIYDRAIFKKLDRVCEDCYNLYRKPYVATTCRQNCYANSVFRQCLDDLLLIDVLDEYISGVQTV	72	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00705	RSVEGSSRMERLLSSGSSSSEPLSFLSQDQSVN	33	Orconectes limosus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide A
+NP00706	SPVDAFSPPEASLTGGQSLS	20	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 1
+NP00707	SLFDPSCTGVFDRQLLRRLGRVCDDCFNVFREPNVATECRSNCYNNPVFRQCMAYVVPAHLHNEHREAVQMV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 1
+NP00708	DAFSPPEASLTGGQSLS	17	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 2
+NP00709	SLFDPSCTGVFDRQLLRRLGRVCDDCFNVFREPNVAMECRSNCYNNPVFRQCMEYLLPAHLHDEYRLAVQMV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 2
+NP00710	RSFDASPSATSGNHSLN	17	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 3
+NP00711	SLFDPACTGIYDRQLLRKLGRLCDDCYNVFREPKVATGCRSNCYHNLIFLDCLEYLIPSHLQEEHMAAMQTV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 3
+NP00712	RSSEDLSAPEDRSLS	15	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 5
+NP00713	LVFDPSCAGVYDRVLLGKLNRLCDDCYNVFREPNVATECRSNCFYNLAFVQCLEYLMPPSLHEEYQANVQMV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 5
+NP00714	RSLEGSSSPVTSLTRGRSLN	20	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 7
+NP00715	AAFDPSCTGVYDRELLGRLSRLCDDCYNVFREPKVAMECRSNCFFNPAFVQCLEYLIPAELHEEYQALVQTV	72	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 7
+NP00716	SFIDNTCRGVMGNRDIYKKVVRVCEDCTNIFRLPGLDGMCRNRCFYNEWFLICLKAANREDEIEKFRVWISILNAGQ	77	Penaeus japonicus	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00717	DALSPPAAGLGADHSFT	17	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 1
+NP00718	SLFDPSCTGVFDRQLLRRLSRVCDDCFNVFREPNVATECRSNCYNNEVFRQCMEYLLPAHLHEEHRLAVQMV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 1
+NP00719	RSLEGSSSPVASLIRGRSLS	20	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 2
+NP00720	ANFDPSCAGVYNRELLGRLSRLCDDCYNVFREPKVATECRSNCFYNPVFVQCLEYLIPADLHEEYQAHVQTV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 2
+NP00721	RSFN	4	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 3
+NP00722	ANFDPSCAGVYNRELLGRLSRLCDDCYNVFREPKVATECRNNCFYNPVFVQCLEYLIPADLHEEYQAHVQTV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 3
+NP00723	RSLDASPSSAFSGNHSLS	18	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide 4
+NP00724	SLFDPACTGIYDRQLLGKLGRLCDDCYNVFREPKVATGCRSNCYYNLIFLDCLEYLIPSHLQEEHMEALQTV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 4
+NP00725	ANFDPSCAGVYDRELLGGLSRLCDDCYNVFREPKVATECRSNCFYNSVFVQCLEYLIPADLHEEYQAHVQTV	72	Penaeus monodon	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone 5
+NP00726	QVFDQACKGIYDRAIFKKLELVCDDCYNLYRKPKVATTCRENCYANSVFRQCLDDLLLINVVDEYISGVQIV	72	Procambarus bouvieri	Arthropod CHH/MIH/GIH/VIH hormone	Molt-inhibiting hormone
+NP00727	RSVEGSSRMERLLSSGSSSSEPLSFLSQDQSVN	33	Procambarus clarkii	Arthropod CHH/MIH/GIH/VIH hormone	CHH precursor-related peptide(Potential)
+NP00728	QVFDQACKGIYDRAIFKKLDRVCEDCYNLYRKPYVATTCRQNCYANSVFRQCLDDLLLIDVVDEYISGVQTV	72	Procambarus clarkii	Arthropod CHH/MIH/GIH/VIH hormone	Crustacean hyperglycemic hormone
+NP00729	SFFDIQCKGVYDKSIFARLDRICEDCYNLFREPQLHSLCRSDCFKSPYFKGCLQALLLIDEEEKFNQMVEIL	72	Schistocerca gregaria	Arthropod CHH/MIH/GIH/VIH hormone	Ion transport peptide
+NP00730	NSEIINSLLGLPKVLNDA	18	Gryllus bimaculatus	Arthropod PDH	Pigment-dispersing factor
+NP00731	NSGMINSILGIPRVMTEA	18	NA	Arthropod PDH	pigment-dispersing crustacean neurohormone
+NP00732	NSELINSLLSLPKKLNDA	18	Aedes aegypti	Arthropod PDH	Pigment-dispersing hormone
+NP00733	NSELINSLLGLPKNMNNA	18	Apis mellifera	Arthropod PDH	Pigment dispersing factor
+NP00734	QELHVPEREA	10	Callinectes sapidus	Arthropod PDH	Pigment-dispersing hormone
+NP00735	NSELINSILGLPKVMNDA	18	Cancer borealis	Arthropod PDH	?-PDH
+NP00736	NSELINSLLGISRLMNEA	18	Cancer borealis	Arthropod PDH	?-PDH
+NP00737	NSELINSLLGLPRFMKVV	18	Daphnia pulex	Arthropod PDH	Pigment dispersing hormone
+NP00738	NSELINSILGLPKVMNDA	18	Homarus americanus	Arthropod PDH	?-PDH
+NP00739	NSELINSLLGISRLMNEA	18	Homarus americanus	Arthropod PDH	?-PDH
+NP00740	NSELINSLLSLPKNMNNA	18	Nasonia vitripennis	Arthropod PDH	Pigment dispersing factor
+NP00741	NSELINSILGLPK	13	Ocypode ceratophthalma	Arthropod PDH	Pigment-dispersing hormone
+NP00742	NSELINSILGLPKVM	15	Ocypode ceratophthalma	Arthropod PDH	Pigment-dispersing hormone
+NP00743	NSELINSILGLPKVMNDA	18	Ocypode ceratophthalma	Arthropod PDH	Pigment-dispersing hormone
+NP00744	SELINSILGLPKVMNDA	17	Ocypode ceratophthalma	Arthropod PDH	Pigment-dispersing hormone
+NP00745	AAQILRVAQGPSAFVAGPH	19	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00746	LINSILGLPK	10	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00747	LINSLLGIPKVMNDA	15	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00748	LINSLLGIPKVMTDA	15	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00749	LLGIPKVMNDA	11	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00750	NSELINSLLGIP	12	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00751	NSELINSLLGIPK	13	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00752	NSELINSLLGIPKVM	15	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00753	NSELINSLLGIPKVMNDA	18	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00754	NSELINSLLGIPKVMTDA	18	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00755	RSIAVVVL	8	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00756	RVAQGPSAFVAGPH	14	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00757	VAQGPSAFVAG	11	Penaeus monodon	Arthropod PDH	Pigment-dispersing hormone
+NP00758	QSRDFSISEREIVASLAKQLLRVARMGYVPEGDLPR	36	Eurydice pulchra	Arthropod PDH	PDH precursor-related peptide(Potential)
+NP00759	NAELINSLLGVPRVMSDA	18	Eurydice pulchra	Arthropod PDH	Pigment-dispersing hormone
+NP00760	NSELINAILGSPTLFGEV	18	Orconectes limosus	Arthropod PDH	Pigment-dispersing hormone B
+NP00761	NSELINAILGSPTLMGEV	18	Orconectes limosus	Arthropod PDH	Pigment-dispersing hormone C
+NP00762	NSELINSILGLPKVMNDA	18	Cancer productus	Arthropod PDH	Canpr-beta-PDH I
+NP00763	NSELINSLLGLSRLMNEA	18	Cancer productus	Arthropod PDH	Canpr-beta-PDH II
+NP00764	NSELINSLLGIPKVMTDA	18	Penaeus japonicus	Arthropod PDH	Pej-PDH-I
+NP00765	NSELINSILGLPKVMNDA	18	Callinectes sapidus	Arthropod PDH	Pigment-dispersing hormone
+NP00766	NSELINSILGLPKVMNDA	18	Carcinus maenas	Arthropod PDH	Pigment-dispersing hormone
+NP00924	SVNPYLQGKRLDNVV	15	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretogranin c-terminal peptide
+NP00925	SVNPYLQGKRLDNVVA	16	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretogranin c-terminal peptide
+NP00926	IHEGEEGEAEEE	12	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretogranin1
+NP00927	SGKLSFLE	8	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretogranin2
+NP00928	SGKLSFLEDE	10	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretogranin2
+NP00929	SGKLSFLEDEM	11	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretogranin2
+NP00930	TNEIVEEQYTPQS	13	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretoneurin
+NP00931	TNEIVEEQYTPQSL	14	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretoneurin
+NP00932	TNEIVEEQYTPQSLATLE	18	Coturnix coturnix japonica	Chromogranin/secretogranin 	Secretoneurin
+NP00933	ESKDQLSEDASKVITYL	17	Mus musculus	Chromogranin/secretogranin 	Secretogranin II
+NP00934	AYGFRDPGPQL	11	Rattus norvegicus	Chromogranin/secretogranin 	Chromogranin A
+NP00935	LEGEDDPDRSMKLSF	15	Rattus norvegicus	Chromogranin/secretogranin 	CMGA 377-391
+NP00936	LEGEDDPDRSMKLSFRA	17	Rattus norvegicus	Chromogranin/secretogranin 	CMGA 377-393
+NP00937	HTEESGEKHNAFSN	14	Rattus norvegicus	Chromogranin/secretogranin 	SCG1 186-199
+NP00938	SEESQEKEYP	10	Rattus norvegicus	Chromogranin/secretogranin 	SCG1 371-380
+NP00939	DEGHDPVHESPVDTA	15	Rattus norvegicus	Chromogranin/secretogranin 	SCG1 437-451
+NP00940	YPQSKWQEQ	9	Rattus norvegicus	Chromogranin/secretogranin 	SCG1 454-462
+NP00941	YLNQEQAEQGREHLA	15	Rattus norvegicus	Chromogranin/secretogranin 	SCG2 598-612
+NP00942	LNQEQAEQGREHLA	14	Rattus norvegicus	Chromogranin/secretogranin 	SCG2 599-612
+NP00943	ELSAERPLNEQIAEAE	16	Rattus norvegicus	Chromogranin/secretogranin 	SCG3 38-53
+NP00944	SFAKAPHLDL	10	Rattus norvegicus	Chromogranin/secretogranin 	Secretogranin I
+NP00945	FPKPAGSQDKPLHNRELSAERPLNEQIAEAEADEIKKTYPPENKPGESNYSFVDNLNLLKAITEKEKNEKERQSVKISPNDNKLNVEDVDSTKNRRLIDDYDSTKSGLDRKFQDDPDGLHQLDGTPLTAEDIVQKIATRIYEENDRGVFDRIVSKLLNLGLITESQAHTLEDEVAEVLQKLISKEANNYEEELNKPTSKTESQTGKIPEKVTPMAAIQDAFTNGENDETVSNTLTLTNGLERRTKTYSEDNFEELQYFPNFYALLKSIDSEKEAKEKETLITIMKTLIDFVKMMVKYGTISPEEGVSYLENLDETIALQTKNKLEKNVTDNKSKLFAVPSEKSHEETDSTKEEAAKMEKEYGTLKDSTKDDDSNPRGKTDEHKGKTEAYLEAIRKNIDWLKKHNKKENKEDYDLSKMRDFINQQADAYVEKGILDKEEADAIKRIYSSL	449	Bos taurus	Chromogranin/secretogranin 	Secretogranin-3
+NP00946	FPTPAGPDDKYNRELTEEKPLEQQIAEADSIRKTESKPTPPAEEETNSEDDDITFLKALAEKSKESNNETPISDSANERLGADDTDSTKNRRLADDYDSTKNGMDYKYQDDPESFRQLDGTPLTAQDIVQKIANKIYEEDDRGVFDRIVSKLLKLGLITDSQAETLEYEVAEALQDLITKNAKDNMIGDRSVDYPVSAAKDTQDEEDRPSPRFDEEDEVENEGGDDANGDEPQEEESRDDTVRSDDSWDAVSDGNDRNELNPEDGLQDLQFFPNFYRLLKSLDSEQDKEERETLITIMKTLIDFVKMMVKYGTITPEEGVTYLENLDAMIALQTKNKLGKSLVPLSITPPTGKAADDDDNTKTEAAKMQKEYESLKDSTKDVQTAAEISHPGKSESYLEAIRKNIEWLKKHNKEGNKEDYDLSKLRDFMDQQVDSYIDKGILEKDEGDVIKRIYGSL	457	Danio rerio	Chromogranin/secretogranin 	Secretogranin-3
+NP00947	LPVNSPMDTGDTEVMKCIVEVISDTLSKPSPVPVSQECFETLRGDERILSILRHQNLLKELQDLALQGAKERAPQQKHSRLEDELAEVLEKQNHQAELKEVTEEALSEDAAEARGDSKEVEENGEDADGARPQAALEPEQESRVEDAQAPGEEKEAINTHSPTRLPSQKHPDPQAEGDSDSPSQGLVDREKGLGAERGQQAKREEEEDEAGEKADAEEEGPTAAFNPHPSLSYKIRKGESWSEALVVDGARKTGAEEAQPPEGQGEREHSRQEEEEEEETAGASRGLFRGGKSRELEQEKEQERLSKEWEDAKRWSKMDQLAKELTAEKRLEGEDEEEDDPDRSMKLSFRARAYGFRGPGLQLRRGWRPSSREDSIEAGLPPPVRGYPEEKKEEEGSANRRPEDQELESLSAIEAELEKVAHQLQALRRG	430	Equus caballus	Chromogranin/secretogranin 	Chromogranin-A
+NP00948	SEALVVDGARKTGAEEAQPPEGQGEREHSRQEEEEEEETAGASRGLFRG	49	Equus caballus	Chromogranin/secretogranin 	Pancreastatin (By similarity)
+NP00949	WSKMDQLAKELTAE	14	Equus caballus	Chromogranin/secretogranin 	WE-14 (By similarity)
+NP00950	QRNQLLQKEPDLRLENVQKFPSPEMIRALEYIEKLRQQAHKEESSPDYNPYQGVSIPLQQKENGDESHLPERDSLSEEDWMRIILEALRQVENEPQSVPKENKPHALNSEKNFPIDMSDDYETQQWPERKLKHMQFPPMYEENSRDNPFKRTNEIVEEQYTPQSLATLESVFQELGKLTGPNNQKRERMDEEQKLYTDDEDDIYKANNIAYEDVVGGEDWNPVEEKIESQTQEEVRDSKENTEKNEQINDEVKRSGQLGIQEEDLRKESKDQLSDDVSKVITYLKRLVNAAGSGRLQNGQNGERATRLFEKPLDSQSIYQLIEISRNLQIPPEDLIEMLKTGEKPNGSVEPERELDLPVDLDDISEADLDHPDLFQNKMLSKSGYPKTVGRAGTEALPDGLSVEDILNLLGMESAANQKTSYFPNPYNQEKVLPRLPYGPGRSRSNQLPKAAWMPYVENRQMAYENLNDKDQELGEYLARMLVKYPEIINSNQVKRVPGQGSPEDDLQEEEQIEQAIKEHLNQGSSQETDKLAPVSKRFPVGPPKNDDTPNRQYLDEDLLTKVLEYLNQEKAEKGREHIAKRAMENM	587	Macaca fascicularis	Chromogranin/secretogranin 	Secretogranin-2
+NP00951	TNEIVEEQYTPQSLATLESVFQELGKLTGPNNQ	33	Macaca fascicularis	Chromogranin/secretogranin 	Secretoneurin
+NP00952	QYYQVPQQDQEYRMKTLQRLPSPDMLKALEYIENLRKQASRTESLPDYTSYQGAPFLSEQKDTQALSTDTAKSPTSDDESEWMRAMLEALMQAEKEAKVSPQEKNNLYMDKNIPPELIEDYDSNKWSEKRPKAGKFSSRLYDDYSRDNPLKRTNEIVEGQYTPQSLATLQSVFQELGKLKGQANNKRDRMEEDQKLYKDDEDDLYKANNIAYEDVAGGEDWNPIEEKVESQTQEELKESKEEVEKTDDMEDEIKRSGLLGLQDEEPEKDTKEQESENLSNLMNTYLNMWMNRMDKGKQNPDRRSLRFSGKELDPEAIYQLIDISRNLQIPPEDLIDMLRDEDGRKFGGRLESEKEVDVPLDLDEVTETMTDKTNVYKNKQGFVRQPTSPVLPNIPEGLTVEDMVNLMGADKLQNRFKQNNGLQRPYPMLSKIKGHKAIWPKESEKRQIEYESRPEKEEELADYVVKMLAKYPELLGNNQNKKMPIPYSAGDLQELEKQYENALRGYVNMRGYQDLETVSSSNRRLSTRENDDTQNKQYIDEDLLMKVLEYLNQEKAEKARDHSVKRSMENM	571	Pelophylax ridibundus	Chromogranin/secretogranin 	Secretogranin-2
+NP00953	TNEIVEGQYTPQSLATLQSVFQELGKLKGQANN	33	Pelophylax ridibundus	Chromogranin/secretogranin 	Secretoneurin
+NP00954	QRNQLLQKEPDLRLENVKKFPSPEMIRALEYIEKLRQQAHKEESSSDYNPYQGVSVPFQQKENGDESHLPERDSLSEEDWMRIILEALRQAENEPQSAPKENKPYALNSEKNFPMDMSDDYETQQWPERKLKHMQFPPMNEENSRDNPFKRTNEIVEEQYAPQSLATLESVFQELGKLTGPNNQKRERMDEEQKLYTDDEDDIYKANNIAYEDVVGGEDWNPVEEKIESQTQEEVRDSKENIEKNEQINDEMKRSGQLGIQEEDLRKESKDQLSDDVSKVIAYLKRLVNAAGSGRLQNGQNGERATRLFEKPLDSQSIYQLIEISRNLQIPPEDLIEMLKTGEKPNGSVEPERELDLPVDLDDISEADLDHPDLFQNKMLSKSGYPKTPGRAGTEALPDGLSVEDILNLLGMESAANQKTSYFPNPYNQEKVLPRLPYGPGRSRSNQLPKAAWMPYVENRQMAYENLNDKDQELGEYLARMLVKYPEIISSNQVKRVPGQSSSEDDLQEEEQIEQAIKEHLNQGSSQETDKLAPVSKRFPVGPPKNDDTPNRQYLDEDLLMKVLEYLNQEKAEKGREHIAKRAMENM	587	Pongo abelii	Chromogranin/secretogranin 	Secretogranin-2
+NP00955	TNEIVEEQYAPQSLATLESVFQELGKLTGPNNQ	33	Pongo abelii	Chromogranin/secretogranin 	Secretoneurin
+NP00956	LPVTNNMNKGDTKVMKCIVEVISDTLSKPNPLPISEECLETLRGDERIISILRHQNLLKELQEIAVQGANERTQQQRRTEDQELESLAAIEAELESVAHSLQAL	104	Struthio camelus	Chromogranin/secretogranin 	Chromogranin-A
+NP00957	LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSQECFETLRGDERILSILRHQNLLKELQDLALQGAKERSHQQKKQSSYEDELSEVLEKQNDQAELKEGTEEASSKEAAEKRGDSKEVEKNDEDADGAKPQASLEPPXXXEAEDQTPGEEEAASTHPLASLPSKKRPGAQAEEDHEGPSQGPVDREKGPSAEQGPQAEREEEEEAEAGEKAVPEEEGPRSEAFDSHPSLGYKEMQRGWPQAPAMDGAGKTGAEEAQPPEGKGAREHSRQEEEEETAGAPQGLFRGGKRGEPAQEEEERLSEEWENAKRWSKMDRLAKELTAEKRLQGEEEEEEEEEDPDRSMKLSFRAPAYGFRGPGLQLRRGWRPSSREDSVEAGLPLQVRXYLEEKKEEEGSANRRPEDQELESLSAIEAELEKVAPQLQSLRRG	430	Sus scrofa	Chromogranin/secretogranin 	Chromogranin-A
+NP00958	GWPQAPAMDGAGKTGAEEAQPPEGKGAREHSRQEEEEETAGAPQGLFRG	49	Sus scrofa	Chromogranin/secretogranin 	Pancreastatin
+NP00959	WSKMDRLAKELTAE	14	Sus scrofa	Chromogranin/secretogranin 	WE-14
+NP00960	LSFRAPAYGFRGPGLQLRRGWRPSSREDSVEAGLPLQVRXYLEEKKEEEGSANRRPEDQELESLSAIEAELEK	73	Sus scrofa	Chromogranin/secretogranin 	Parastatin
+NP00961	MPVDNRNHNEEMVAHCIIEVLSNALSKSNAPPITPECRQVLKKGGKEVKDEEKGANENTRFEVRLLRDPADTSETQRPSGGREGAEAPSEDTQGPPGADVEGGGHSREGAGKPRGGPYSSDNPVAKEGKTRHSEKSEGQDREEEEGEKYQKRERGEEGSEERHLQEPGETQTAFLNQGNRATAKKKEEFESRYDAHSAGGPAKTHSRERSSQESGEETGSQDAAPGEPESPPEGQEAPEESQEDASLEVDKRRWRPRHHHGRSRPDRAPQEGSPPPEERGHPREESEESVLGLASPGGQRTRHPTHYPASEEEAEHGEEVRSSSSVQAPGDLVGARYGGRGGAEHRAARRPGEESPEQDRRVGASSELRNKGPGHSEESEEERGDEGQRHHRAWAGGPRADAPPDPAEEEQFWGEAHRPVPESQVDEARRHPQAKLRNYLNRGEENGEEGAPGRWQQPEDLQGPGEHAAEARLPGKPYAAHRIPEKKRLGELLNPYYVPPQWESSHFERKDNVGDNFLEGEDANGVTLNEKTFFPEYSYDWWEKKPFEEDVNWGYEERNLAPKLDLKRQYDRVAELDQLLHYRKKSAEFPDFYDSGEHLSPRHAAESEKERAGQGVLTEEEEKELENLAAMDLELQKIAEKFSGNRRG	648	Sus scrofa	Chromogranin/secretogranin 	Secretogranin-1
+NP00962	SAEFPDFYDSGEHLSPRHAAESEKERAGQGVLTEEEEKELENLAAMDLELQKIAEKFSGNRRG	63	Sus scrofa	Chromogranin/secretogranin 	CCB peptide (By similarity)
+NP00963	SAEFPDFYDSGEHLSPR	17	Sus scrofa	Chromogranin/secretogranin 	Peptide SR-17
+NP00964	HAAESEKERAGQGVLTEEEEKELENLAAMDLELQ	34	Sus scrofa	Chromogranin/secretogranin 	Peptide HQ-34
+NP00965	KIAEKFSGNRR	11	Sus scrofa	Chromogranin/secretogranin 	Peptide KR-11
+NP00966	QRNQLLQKEPDLRLENVQRFASPEMIRALEYIEKLRQQAHKEESSPDYNPYQGVSVPLQQKENSDLPESSRDSLSEDEWMKILLEALRQAENEPQSSLKENKPYTLNSEKNFPMDMPDDYETQQWPERKLEHMRFPPMYEENSRDNPFKRTNEIVEEQYTPQSLATLESVFQELGKLTGPNNQKRERVDEEQKLYTDDEDDIYKANNIAYEDVVGGEDWNPVEEKIESQTQEEVRDSKENIEKNEQINDEMKRSGQMGLQDEDLRKEGKDQLSEDVSKVIAYLKRLVNAVGSGKSQNGQNGERANRLFEKPLDSQSIYQLIELSRNLQIPPEDLIDMLKTGEKPNASVEPEQELEIPVDLDDISEVDLDHPDLFQNKMLSKNGYSKTPGRAVSEALPDGLSVEDILNLLGMENAANQKPPYFPNQYNREKILPRLPYGPGRAKANQLPKAVWMPDVENRQMAYDNLNDKDQELGEYLARMLVKYPEIMNSNQVKRVPSQGSSEDDLQEENQIEQAIKERLNQHSSQETDKLALVSKRLPVATPKSDDAPNRQYLDEDLLMKVLEYLNQEKAEKGREHIAKRAMENM	586	Sus scrofa	Chromogranin/secretogranin 	Secretogranin-2
+NP00967	TNEIVEEQYTPQSLATLESVFQELGKLTGPNNQ	33	Sus scrofa	Chromogranin/secretogranin 	Secretoneurin (By similarity)
+NP00968	FPNPGIKQDKAVHNRELSEERPLEEQIAEADTVSRGTSKENQEMLKNDSFADELGLLMSVAEKEGDVKRSGSVRSSVGGHRGTLDDADSTKNLKPAEYFDSTKSMLDYKYEDDPDGLHQLDGTPLTAEDIVRKIATRIYEENDRGVFDKIVSKLLNLGLITESQAYTLEDEVAEVLQQLIANEAKNREKEAGDLDYAAVRSDVYDDDKQEGKMETRNKNEDRESSETKNEDSFSSKERRNELSPEEDFDDLQYFPNFNRLIKSLNSENDAKEKKTLITIMKTLIDFVKMMVKYGTITPEEGVNYLENLDAMIAVQAKNKLGKSFGSHKSILSEDKNVDESDSTKQEAAKMEKEYEALKDSTKPEPKDAEDKDKPKGKAETYLEAIRKNIEWLKEHNKEGNKGVSDNDLSKLKDFINQQADSYVEKGILDKEEANVIKRIYSSL	443	Xenopus tropicalis	Chromogranin/secretogranin 	Secretogranin-3
+NP00969	RSMRLSFRARGYGFRGPGLQL	21	Bos taurus	Chromogranin/secretogranin 	Catestatin
+NP00970	YPGPQAKEDSEGPSQGPASREK	22	Bos taurus	Chromogranin/secretogranin 	Chromacin
+NP00971	LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSKECFETLRGDERILSILRHQNLLKELQDLALQGAKERTHQQKKHSSYEDELSEVLEKPNDQAEPKEVTEEVSSKDAAEKRDDFKEVEKSDEDSDGDRPQASPGLGPGPKVEEDNQAPGEEEEAPSNAHPLASLPSPKYPGPQAKEDSEGPSQGPASREKGLSAEQGRQTEREEEEEKWEEAEAREKAVPEEESPPTAAFKPPPSLGNKETQRAAPGWPEDGAGKMGAEEAKPPEGKGEWAHSRQEEEEMARAPQVLFRGGKSGEPEQEEQLSKEWEDAKRWSKMDQLAKELTAEKRLEGEEEEEEDPDRSMRLSFRARGYGFRGPGLQLRRGWRPNSREDSVEAGLPLQVRGYPEEKKEEEGSANRRPEDQELESLSAIEAELEKVAHQLEELRRG	431	Bos taurus	Chromogranin/secretogranin 	Chromogranin-A
+NP00972	SDEDSDGDRPQASPGLGPGP	20	Bos taurus	Chromogranin/secretogranin 	Chromostatin
+NP00973	AAPGWPEDGAGKMGAEEAKPPEGKGEWAHSRQEEEEMARAPQVLFRG	47	Bos taurus	Chromogranin/secretogranin 	Pancreastatin
+NP00974	LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSKECFETLRGDERILSILRHQNLLKELQDLALQGAKERTHQQ	76	Bos taurus	Chromogranin/secretogranin 	Vasostatin-1
+NP00975	WSKMDQLAKELTAE	14	Bos taurus	Chromogranin/secretogranin 	WE-14
+NP00976	SAEFPDFYDSEEQMSPQHTAENEEEKAGQGVLTEEEEKELENLAAMDLELQKIAEKFSGTRRG	63	Bos taurus	Chromogranin/secretogranin 	CCB peptide
+NP00977	QYDRVAELDQLLHY	14	Bos taurus	Chromogranin/secretogranin 	Peptide BAM-1745
+NP00978	MPVDIRNHNEEVVTHCIIEVLSNALLKSSAPPITPECRQVLKKNGKELKNEEKSENENTRFEVRLLRDPADTSEAPGLSSREDSGEGDAQVPTVADTESGGHSRERAGEPPGSQVAKEAKTRYSKSEGQNREEEMVKYQKRERGEVGSEERLSEGPGKAQTAFLNQRNQTPAKKEELVSRYDTQSARGLEKSHSRERSSQESGEETKSQENWPQELQRHPEGQEAPGESEEDASPEVDKRHSRPRHHHGRSRPDRSSQEGNPPLEEESHVGTGNSDEEKARHPAHFRALEEGAEYGEEVRRHSAAQAPGDLQGARFGGRGRGEHQALRRPSEESLEQENKRHGLSPDLNMAQGYSEESEEERGPAPGPSYRARGGEAAAYSTLGQTDEKRFLGETHHRVQESQRDKARRRLPGELRNYLDYGEEKGEEAARGKWQPQGDPRDADENREEARLRGKQYAPHHITEKRLGELLNPFYDPSQWKSSRFERKDPMDDSFLEGEEENGLTLNEKNFFPEYNYDWWEKKPFEEDVNWGYEKRNPVPKLDLKRQYDRVAELDQLLHYRKKSAEFPDFYDSEEQMSPQHTAENEEEKAGQGVLTEEEEKELENLAAMDLELQKIAEKFSGTRRG	626	Bos taurus	Chromogranin/secretogranin 	Secretogranin-1
+NP00979	QYAPHHITEKRLGELLNPFYDPSQWKSSRFERKDPMDDSFLEGEEENGLTLNEKNFFPEYNYDWWEKKPFEEDVNWGYEKRNPVPKLDLKR	91	Bos taurus	Chromogranin/secretogranin 	Secretogranin-1(476-566)
+NP00980	QKIAEKFSGTRRG	13	Bos taurus	Chromogranin/secretogranin 	Secretolytin
+NP00981	QRNQLLQKEPDLRLENVQRFPSPEMIRALEYIEKLRQQAHKEESSPDYNPYQGVSVPLQQKENGDLPESSRDSLSEDEWMKIIAEALRQAENEPQSAPKENKPYTLNSEKNFPMDMPDDYETQQWAERKLKHMRFPPMYEENSRDNPFKRTNEIVEEQYTPQNLATLESVFQELGKLTGPNSQKRERADEEQKLYTDDEDDIYKANNIAYEDVVGGEDWNPVEEKIESQTQEEVRDSKENADKTEQINDEMKRSGQLGLQDEDLRKESKDQLSDDVSKVITYLKRLVNAAGSGRSQNGQTGERAIRLFEKPLDPQSIYQLIEISRNLQIPPEDLIDMLKTGEKPVEPEQELEIPVEPEDISEVDLDHPDLFQNKMLSKNGYPKAPGHAVAEALSEGLSVEDILNLLGMESAANPKPPYFPNQYNREKVLSRLPYGPGRSKANQLPKAVWMPDVENRQMAYENLNDKDQELGEYLARMLVKYPEIMNANPAKRVPSQGSTEDDRQDENQIEQALKEHLSQHSSQETDKLASVSKRLPVGTPKSDDTPNRPYLDEDLLVKVLEYLNQEKAEKGREHIAKRAMENM	583	Bos taurus	Chromogranin/secretogranin 	Secretogranin-2
+NP00982	TNEIVEEQYTPQNLATLESVFQELGKLTGPNSQ	33	Bos taurus	Chromogranin/secretogranin 	Secretoneurin
+NP00983	AYGFRGPGPQL	11	Homo sapiens	Chromogranin/secretogranin 	AL-11
+NP00984	LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSQECFETLRGDERILSILRHQNLLKELQDLALQGAKERAHQQKKHSGFEDELSEVLENQSSQAELKEAVEEPSSKDVMEKREDSKEAEKSGEATDGARPQALPEPMQESKAEGNNQAPGEEEEEEEEATNTHPPASLPSQKYPGPQAEGDSEGLSQGLVDREKGLSAEPGWQAKREEEEEEEEEAEAGEEAVPEEEGPTVVLNPHPSLGYKEIRKGESRSEALAVDGAGKPGAEEAQDPEGKGEQEHSQQKEEEEEMAVVPQGLFRGGKSGELEQEEERLSKEWEDSKRWSKMDQLAKELTAEKRLEGQEEEEDNRDSSMKLSFRARAYGFRGPGPQLRRGWRPSSREDSLEAGLPLQVRGYPEEKKEEEGSANRRPEDQELESLSAIEAELEKVAHQLQALRRG	439	Homo sapiens	Chromogranin/secretogranin 	Chromogranin-A
+NP00985	EDSKEAEKSGEATDGARPQALPEPMQESKAEGNNQAPGEEEEEEEEATNTHPPASLPSQKYPGPQAEGDSEGLSQGLVDREKGLSAEPGWQA	92	Homo sapiens	Chromogranin/secretogranin 	EA-92
+NP00986	EEEGSANRRPEDQELESLSAIEAELEKVAHQLQALRR	37	Homo sapiens	Chromogranin/secretogranin 	ER-37
+NP00987	EEEEEEEEEAEAGEEAVPEEEGPTVVLNPHPSL	33	Homo sapiens	Chromogranin/secretogranin 	ES-43
+NP00988	GYPEEKKEEEGSANRRPEDQELESLSAIEAELEKVAHQLQALRR	44	Homo sapiens	Chromogranin/secretogranin 	GR-44
+NP00989	GWRPSSREDSLEAGLPLQV	19	Homo sapiens	Chromogranin/secretogranin 	GV-19
+NP00990	LEGQEEEEDNRDSSMKLSF	19	Homo sapiens	Chromogranin/secretogranin 	LF-19
+NP00991	SEALAVDGAGKPGAEEAQDPEGKGEQEHSQQKEEEEEMAVVPQGLFRG	48	Homo sapiens	Chromogranin/secretogranin 	Pancreastatin
+NP00992	SGELEQEEERLSKEWEDS	18	Homo sapiens	Chromogranin/secretogranin 	SS-18
+NP00993	LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSQECFETLRGDERILSILRHQNLLKELQDLALQGAKERAHQQ	76	Homo sapiens	Chromogranin/secretogranin 	Vasostatin-1
+NP00994	LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSQECFETLRGDERILSILRHQNLLKELQDLALQGAKERAHQQKKHSGFEDELSEVLENQSSQAELKEAVEEPSSKDVME	113	Homo sapiens	Chromogranin/secretogranin 	Vasostatin-2
+NP00995	WSKMDQLA	8	Homo sapiens	Chromogranin/secretogranin 	WA-8
+NP00996	WSKMDQLAKELTAE	14	Homo sapiens	Chromogranin/secretogranin 	WE-14
+NP00997	SAEFPDFYDSEEPVSTHQEAENEKDRADQTVLTEDEKKELENLAAMDLELQKIAEKF	57	Homo sapiens	Chromogranin/secretogranin 	CCB peptide
+NP00998	FLGEGHHRVQENQMDKARRHPQGAWKELDRNYLNYGEEGAPGKWQQQGDLQDTKENREEARFQDKQYSSHHTAE	74	Homo sapiens	Chromogranin/secretogranin 	GAWK peptide
+NP00999	MPVDNRNHNEGMVTRCIIEVLSNALSKSSAPPITPECRQVLKTSRKDVKDKETTENENTKFEVRLLRDPADASEAHESSSRGEAGAPGEEDIQGPTKADTEKWAEGGGHSRERADEPQWSLYPSDSQVSEEVKTRHSEKSQREDEEEEEGENYQKGERGEDSSEEKHLEEPGETQNAFLNERKQASAIKKEELVARSETHAAGHSQEKTHSREKSSQESGEETGSQENHPQESKGQPRSQEESEEGEEDATSEVDKRRTRPRHHHGRSRPDRSSQGGSLPSEEKGHPQEESEESNVSMASLGEKRDHHSTHYRASEEEPEYGEEIKGYPGVQAPEDLEWERYRGRGSEEYRAPRPQSEESWDEEDKRNYPSLELDKMAHGYGEESEEERGLEPGKGRHHRGRGGEPRAYFMSDTREEKRFLGEGHHRVQENQMDKARRHPQGAWKELDRNYLNYGEEGAPGKWQQQGDLQDTKENREEARFQDKQYSSHHTAEKRKRLGELFNPYYDPLQWKSSHFERRDNMNDNFLEGEEENELTLNEKNFFPEYNYDWWEKKPFSEDVNWGYEKRNLARVPKLDLKRQYDRVAQLDQLLHYRKKSAEFPDFYDSEEPVSTHQEAENEKDRADQTVLTEDEKKELENLAAMDLELQKIAEKFSQRG	657	Homo sapiens	Chromogranin/secretogranin 	Secretogranin-1
+NP01000	QRNQLLQKEPDLRLENVQKFPSPEMIRALEYIENLRQQAHKEESSPDYNPYQGVSVPLQQKENGDESHLPERDSLSEEDWMRIILEALRQAENEPQSAPKENKPYALNSEKNFPMDMSDDYETQQWPERKLKHMQFPPMYEENSRDNPFKRTNEIVEEQYTPQSLATLESVFQELGKLTGPNNQKRERMDEEQKLYTDDEDDIYKANNIAYEDVVGGEDWNPVEEKIESQTQEEVRDSKENIEKNEQINDEMKRSGQLGIQEEDLRKESKDQLSDDVSKVIAYLKRLVNAAGSGRLQNGQNGERATRLFEKPLDSQSIYQLIEISRNLQIPPEDLIEMLKTGEKPNGSVEPERELDLPVDLDDISEADLDHPDLFQNRMLSKSGYPKTPGRAGTEALPDGLSVEDILNLLGMESAANQKTSYFPNPYNQEKVLPRLPYGAGRSRSNQLPKAAWIPHVENRQMAYENLNDKDQELGEYLARMLVKYPEIINSNQVKRVPGQGSSEDDLQEEEQIEQAIKEHLNQGSSQETDKLAPVSKRFPVGPPKNDDTPNRQYWDEDLLMKVLEYLNQEKAEKGREHIAKRAMENM	587	Homo sapiens	Chromogranin/secretogranin 	Secretogranin-2
+NP01001	TNEIVEEQYTPQSLATLESVFQELGKLTGPNNQ	33	Homo sapiens	Chromogranin/secretogranin 	Secretoneurin
+NP01002	FPKPGGSQDKSLHNRELSAERPLNEQIAEAEEDKIKKTYPPENKPGQSNYSFVDNLNLLKAITEKEKIEKERQSIRSSPLDNKLNVEDVDSTKNRKLIDDYDSTKSGLDHKFQDDPDGLHQLDGTPLTAEDIVHKIAARIYEENDRAVFDKIVSKLLNLGLITESQAHTLEDEVAEVLQKLISKEANNYEEDPNKPTSWTENQAGKIPEKVTPMAAIQDGLAKGENDETVSNTLTLTNGLERRTKTYSEDNFEELQYFPNFYALLKSIDSEKEAKEKETLITIMKTLIDFVKMMVKYGTISPEEGVSYLENLDEMIALQTKNKLEKNATDNISKLFPAPSEKSHEETDSTKEEAAKMEKEYGSLKDSTKDDNSNPGGKTDEPKGKTEAYLEAIRKNIEWLKKHDKKGNKEDYDLSKMRDFINKQADAYVEKGILDKEEAEAIKRIYSSL	449	Homo sapiens	Chromogranin/secretogranin 	Secretogranin-3
+NP01003	LPVNSPMTKGDTKVMKCVLEVISDSLSKPSPMPVSPECLETLQGDERILSILRHQNLLKELQDLALQGAKERAQQPLKQQQPPKQQQQQQQQQQQEQQHSSFEDELSEVFENQSPDAKHRDAAAEVPSRDTME	133	Mus musculus	Chromogranin/secretogranin 	Beta-granin (By similarity)
+NP01004	LPVNSPMTKGDTKVMKCVLEVISDSLSKPSPMPVSPECLETLQGDERILSILRHQNLLKELQDLALQGAKERAQQPLKQQQPPKQQQQQQQQQQQEQQHSSFEDELSEVFENQSPDAKHRDAAAEVPSRDTMEKRKDSDKGQQDGFEATTEGPRPQAFPEPNQESPMMGDSESPGEDTATNTQSPTSLPSQEHVDPQATGDSERGLSAQQQARKAKQEEKEEEEEEEAVAREKAGPEEVPTAASSSHFHAGYKAIQKDDGQSDSQAVDGDGKTEASEALPSEGKGELEHSQQEEDGEEAMVGTPQGLFPQGGKGRELEHKQEEEEEEEERLSREWEDKRWSRMDQLAKELTAEKRLEGEDDPDRSMKLSFRTRAYGFRDPGPQLRRGWRPSSREDSVEARSDFEEKKEEEGSANRRAEDQELESLSAIEAELEKVAHQLQALRRG	445	Mus musculus	Chromogranin/secretogranin 	Chromogranin-A
+NP01005	DDGQSDSQAVDGDGKTEASEALPSEGKGELEHSQQEEDGEEAMVGTPQGLFPQG	54	Mus musculus	Chromogranin/secretogranin 	Pancreastatin (By similarity)
+NP01006	WSRMDQLAKELTAE	14	Mus musculus	Chromogranin/secretogranin 	WE-14 (By similarity)
+NP01007	ADEFPDFYDSEEQMGPHQEANDEKARADQRVLTAEEKKELENLAAMDLELQKIAEKFSQRG	61	Mus musculus	Chromogranin/secretogranin 	CCB peptide (By similarity)
+NP01008	APVDNRDHNEEMVTRCIIEVLSNALSKSSVPTITPECRQVLKKSGKEVKGEEKGENQNSKFEVRLLRDPADASGTRWASSREDAGAPVEDSQGQTKVGNEKWTEGGGHSREGVDDQESLRPSNQQASKEAKIYHSEERVGKEREKEEGKIYPMGEHREDAGEEKKHIEDSGEKPNTFSNKRSEASAKKKDESVARADAHSMELEEKTHSREQSSQESGEETRRQEKPQELTDQDQSQEESQEGEEGEEGEEGEEGEEDSASEVTKRRPRHHHGRSGSNKSSYEGHPLSEERRPSPKESKEADVATVRLGEKRSHHLAHYRASEEEPEYGEESRSYRGLQYRGRGSEEDRAPRPRSEESQEREYKRNHPDSELESTANRHGEETEEERSYEGANGRQHRGRGREPGAHSALDTREEKRLLDEGHYPVRESPIDTAKRYPQSKWQEQEKNYLNYGEEGDQGRWWQQEEQLGPEESREEVRFPDRQYEPYPITEKRKRLGALFNPYFDPLQWKNSDFEKRGNPDDSFLEDEGEDRNGVTLTEKNSFPEYNYDWWERRPFSEDVNWGYEKRSFARAPQLDLKRQYDGVAELDQLLHYRKKADEFPDFYDSEEQMGPHQEANDEKARADQRVLTAEEKKELENLAAMDLELQKIAEKFSQRG	657	Mus musculus	Chromogranin/secretogranin 	Secretogranin-1
+NP01009	QRNQLLQKEPDLRLENVQKFPSPEMIRALEYIEKLRQQAHREESSPDYNPYQGVSVPLQLKENGEESHLAESSRDALSEDEWMRIILEALRQAENEPPSAPKENKPYALNLEKNFPVDTPDDYETQQWPERKLKHMRFPLMYEENSRENPFKRTNEIVEEQYTPQSLATLESVFQELGKLTGPSNQKRERVDEEQKLYTDDEDDVYKTNNIAYEDVVGGEDWSPIEEKIETQTQEEVRDSKENTEKNEQINEEMKRSGQLGLPDEENRRESKDQLSEDASKVITYLRRLVNAVGSGRSQSGPNGDRAARLLQKPLDSQSIYQLIEISRNLQIPPEDLIEMLKAGEKPNGLVEPEQDLELAVDLDDIPEADLDRPDMFQSKMLSKGGYPKAPGRGMVEALPDGLSVEDILNVLGMENVVNQKSPYFPNQYSQDKALMRLPYGPGKSRANQIPKVAWIPDVESRQAPYENLNDQELGEYLARMLVKYPELLNTNQLKRVPSPVSSEDDLQEEEQLEQAIKEHLGPGSSQEMERLAKVSKRIPVGSLKNEDTPNRQYLDEDMLLKVLEYLNQEQAEQGREHLAKRAMENM	587	Mus musculus	Chromogranin/secretogranin 	Secretogranin-2
+NP01010	TNEIVEEQYTPQSLATLESVFQELGKLTGPSNQ	33	Mus musculus	Chromogranin/secretogranin 	Secretoneurin
+NP01011	FPKPEGSQDKSLHNRELSAERPLNEQIAEAEADKIKKAFPSESKPSESNYSSVDNLNLLRAITEKETVEKERQSIRSPPFDNQLNVEDADSTKNRKLIDEYDSTKSGLDHKFQDDPDGLHQLDGTPLTAEDIVHKIATRIYEENDRGVFDKIVSKLLNLGLITESQAHTLEDEVAEALQKLISKEANNYEETLDKPTSRTENQDGKIPEKVTPVAAVQDGFTNRENDETVSNTLTLSNGLERRTNPHREDDFEELQYFPNFYALLTSIDSEKEAKEKETLITIMKTLIDFVKMMVKYGTISPEEGVSYLENLDETIALQTKNKLEKNTTDSKSKLFPAPPEKSQEETDSTKEEAAKMEKEYGSLKDSTKDDNSNLGGKTDEATGKTEAYLEAIRKNIEWLKKHNKKGNKEDYDLSKMRDFINQQADAYVEKGILDKEEANAIKRIYSSL	449	Mus musculus	Chromogranin/secretogranin 	Secretogranin-3
+NP01012	LPVNSPMTKGDTKVMKCVLEVISDSLSKPSPMPVSPECLETLQGDERVLSILRHQNLLKELQDLALQGAKERAQQQQQQQQQQQQQQQQQQQQHSSFEDELSEVFENQSPAAKHGDAASEAPSKDTVE	128	Rattus norvegicus	Chromogranin/secretogranin 	Beta-granin
+NP01013	LPVNSPMTKGDTKVMKCVLEVISDSLSKPSPMPVSPECLETLQGDERVLSILRHQNLLKELQDLALQGAKERAQQQQQQQQQQQQQQQQQQQQHSSFEDELSEVFENQSPAAKHGDAASEAPSKDTVEKREDSDKGQQDAFEGTTEGPRPQAFPEPKQESSMMGNSQSPGEDTANNTQSPTSLPSQEHGIPQTTEGSERGPSAQQQARKAKQEEKEEEEEEKEEEEEEKEEKAIAREKAGPKEVPTAASSSHFYSGYKKIQKDDDGQSESQAVNGKTGASEAVPSEGKGELEHSQQEEDGEEAMAGPPQGLFPGGKGQELERKQQEEEEEEERLSREWEDKRWSRMDQLAKELTAEKRLEGEDDPDRSMKLSFRARAYGFRDPGPQLRRGWRPSSREDSVEARGDFEEKKEEEGSANRRAEDQELESLSAIEAELEKVAHQLQALRRG	448	Rattus norvegicus	Chromogranin/secretogranin 	Chromogranin-A
+NP01014	DDDGQSESQAVNGKTGASEAVPSEGKGELEHSQQEEDGEEAMAGPPQGLFPG	52	Rattus norvegicus	Chromogranin/secretogranin 	Pancreastatin (Potential)
+NP01015	WSRMDQLAKELTAE	14	Rattus norvegicus	Chromogranin/secretogranin 	WE-14
+NP01016	AAEFPDFYDSEEQMGPHQEAEDEKDRADQRVLTEEEKKELENLAAMDLELQKIAEKFSQRG	61	Rattus norvegicus	Chromogranin/secretogranin 	CCB peptide long form
+NP01017	AAEFPDFYDSEEQMGPHQEAEDEKDRADQRVLTEEEKKELENLAAMDLELQKIAEKFSQR	60	Rattus norvegicus	Chromogranin/secretogranin 	CCB peptide short form
+NP01018	APVDNRDHNEEMVTRCIIEVLSNALSKSSAPTITPECRQVLRKSGKEVKGEEKGENENSKFEVRLLRDPSDASVGRWASSREETGAPVEDSPGQAKVDNEEWTGGGGHSREAVDDQESLHPSNQQVSKEAKIRHSEERGGKEEEEEEGKIYPKGEHRGDAGEEKKHTEESGEKHNAFSNKRSEASAKKKEESVARAEAHFVELEKTHSREQSSQESGEETRRQEKPQELPDQDQSEEESEEGEEGEEGATSEVTKRRPRHHHWRSQSNKPSYEGRRPLSEERKHAAGESKDANVATANLGEKRGHHLAHYRASEEEPDYGEELRSYPGFQAPQGLQYQGRGSEEVRAPSPRSEESQEKEYKRNHPDSELESTANRHSEETEEERSYEGAKGRQHRGRGREPGAYPALDSRQEKRLLDEGHDPVHESPVDTAKRYPQSKWQEQEKNYLNYDEEGDQGRWWQQEEQLEPEESREEVSFPDRQYAPYPTTEKRKRLGALFNPYFDPLQWKNSDFEKKGNPDDSFLDDDGEDGNGVTMTEKNFFPEYNYDWWEKRPFSEDVNWGYEKRSFARAPHLDLKRQYDDGVAELDQLLHYRKKAAEFPDFYDSEEQMGPHQEAEDEKDRADQRVLTEEEKKELENLAAMDLELQKIAEKFSQRG	655	Rattus norvegicus	Chromogranin/secretogranin 	Secretogranin-1
+NP01019	QRNQLLQKEPDLRLENVQKFPSPEMIRALEYIEKLRQQAHREESSPDYNPYQGISVPLQLKENGEESHLAESSRDVLSEDEWMRIILEALRQAENEPPSALKENKPYALNLEKNFPVDTPDDYETQQWPERKLKHMRFPLMYEENSRENPFKRTNEIVEEQYTPQSLATLESVFQELGKLTGPSNQKRERVDEEQKLYTDDEDDVYKTNNIAYEDVVGGEDWSPMEEKIETQTQEEVRDSKENTEKNEQINEEMKRSGHLGLPDEGNRKESKDQLSEDASKVITYLRRLVNAVGSGRSQSGQNGDRAARLLERPLDSQSIYQLIEISRNLQIPPEDLIEMLKAGEKPNGLVEPEQDLELAVDLDDIPEADIDRPDMFQSKTLSKGGYPKAPGRGMMEALPDGLSVEDILNVLGMENVANQKSPYFPNQYSRDKALLRLPYGPGKSRANQIPKVAWIPDVESRQAPYDNLNDKDQELGEYLARMLVKYPELMNTNQLKRVPSPGSSEDDLQEEEQLEQAIKEHLGQGSSQEMEKLAKVSKRIPAGSLKNEDTPNRQYLDEDMLLKVLEYLNQEQAEQGREHLAKRAMENM	589	Rattus norvegicus	Chromogranin/secretogranin 	Secretogranin-2
+NP01020	TNEIVEEQYTPQSLATLESVFQELGKLTGPSNQ	33	Rattus norvegicus	Chromogranin/secretogranin 	Secretoneurin
+NP01021	FPKPEGSQDKSLHNRELSAERPLNEQIAEAEADKIKKTYPSESKPSESNFSSVDNLNLLKAITEKETVEKAKQSIRSSPFDNRLNVDDADSTKNRKLTDEYDSTKSGLDRKVQDDPDGLHQLDGTPLTAEDIVHKIATRIYEENDRGVFDKIVSKLLNLGLITESQAHTLEDEVAEALQKLISKEANNYEEAPEKPTSRTENQDGKIPEKVTPVAATQDGFTNRENDDTVSNTLTLSNGLERRTNPHRDDDFEELQYFPNFYALLTSIDSEKEAKEKETLITIMKTLIDFVKMMVKYGTISPEEGVSYLENLDETIALQTKNKLEKNTTDSKSKLFPAPPEKSHEETDSTKEEAAKMEKEYGSLKDSTKDDNSNLGGKTDEAKGKTEAYLEAIRKNIEWLKKHNKKGNKEDYDLSKMRDFINQQADAYVEKGILDKEEANAIKRIYSSL	449	Rattus norvegicus	Chromogranin/secretogranin 	Secretogranin-3
+NP01107	DPSPEPFNPNYNRFRQKIPRI	21	Daphnia pulex	Ecdysis triggering hormone	Ecdysis-triggering hormone 1
+NP01108	GEGIIAEYMNSESFPHEGSLSNFFLKASKAVPRL	34	Daphnia pulex	Ecdysis triggering hormone	Ecdysis-triggering hormone 2
+NP01109	DEPPAFFLKIAKNIPRI	17	Nasonia vitripennis	Ecdysis triggering hormone	Ecdysis triggering hormone
+NP01110	DETPGFFIKLSKSVPRI	17	Aedes aegypti	Ecdysis triggering hormone	Ecdysis triggering hormone-1b
+NP01111	GDFENFFLKQSKSVPRI	17	Aedes aegypti	Ecdysis triggering hormone	Ecdysis triggering hormone-2b
+NP01112	DDSSPGFFLKITKNVPRL	18	Drosophila melanogaster	Ecdysis triggering hormone	Ecdysis triggering hormone 1
+NP01113	GENFAIKNLKTIPRI	15	Drosophila melanogaster	Ecdysis triggering hormone	Ecdysis-triggering hormone 2
+NP01114	CSCSSLMDKECVYFCHLDIIW	21	Atelerix albiventris	Endothelin/sarafotoxin	Endothelin-1
+NP01115	CSCNSWLDKECVYFCHLDIIW	21	Atelerix albiventris	Endothelin/sarafotoxin	Endothelin-2
+NP01116	CSCSSLMDKECVYFCHLDIIW	21	Bos taurus	Endothelin/sarafotoxin	Endothelin-1
+NP01117	CSCSSWLDKECVYFCHLDIIW	21	Bos taurus	Endothelin/sarafotoxin	Endothelin-2
+NP01118	CSCSSLMDKECVYFCHLDIIW	21	Canis familiaris	Endothelin/sarafotoxin	Endothelin-1
+NP01119	CSCSSWLDKECVYFCHLDIIW	21	Canis familiaris	Endothelin/sarafotoxin	Endothelin-2
+NP01120	CTCFTYKDKECVYYCHLDIIW	21	Canis familiaris	Endothelin/sarafotoxin	Endothelin-3
+NP01121	CSCSSLMDKECVYFCHLDIIW	21	Cavia porcellus	Endothelin/sarafotoxin	Endothelin-1
+NP01122	CSCSSWLDKECVYFCHLDIIW	21	Equus caballus	Endothelin/sarafotoxin	Endothelin-2
+NP01123	CSCSSLLDKECVYFCHLDIIW	21	Felis catus	Endothelin/sarafotoxin	Endothelin-1
+NP01124	CSCSSWLDKECVYFCHLDIIW	21	Felis catus	Endothelin/sarafotoxin	Endothelin-2
+NP01125	CSCSSLMDKECVYFCHLDIIWVNTPEHVVPYGLGSPRS	38	Homo sapiens	Endothelin/sarafotoxin	Big endothelin-1
+NP01126	CSCSSLMDKECVYFCHLDIIW	21	Homo sapiens	Endothelin/sarafotoxin	Endothelin-1
+NP01127	CSCSSWLDKECVYFCHLDIIW	21	Homo sapiens	Endothelin/sarafotoxin	Endothelin-2
+NP01128	CTCFTYKDKECVYYCHLDIIW	21	Homo sapiens	Endothelin/sarafotoxin	Endothelin-3
+NP01129	CSCSSLMDKECVYFCHLDIIW	21	Mus musculus	Endothelin/sarafotoxin	Endothelin-1
+NP01130	CSCNSWLDKECVYFCHLDIIW	21	Mus musculus	Endothelin/sarafotoxin	Endothelin-2
+NP01131	CTCFTYKDKECVYYCHLDIIW	21	Mus musculus	Endothelin/sarafotoxin	Endothelin-3
+NP01132	CSCSSWLDKECVYFCHLDIIW	21	Mustela putorius furo	Endothelin/sarafotoxin	Endothelin-2
+NP01133	CSCSSLMDKECVYFCHLDIIW	21	Oryctolagus cuniculus	Endothelin/sarafotoxin	Endothelin-1
+NP01134	CSCSSWLDKECVYFCHLDIIW	21	Oryctolagus cuniculus	Endothelin/sarafotoxin	Endothelin-2
+NP01135	CTCFTYKDKECVYYCHLDIIW	21	Oryctolagus cuniculus	Endothelin/sarafotoxin	Endothelin-3
+NP01136	CSCSSLMDKECVYFCHLDIIW	21	Ovis aries	Endothelin/sarafotoxin	Endothelin-1
+NP01137	CSCSSLMDKECVYFCHLDIIW	21	Rattus norvegicus	Endothelin/sarafotoxin	Endothelin-1
+NP01138	CSCNSWLDKECVYFCHLDIIW	21	Rattus norvegicus	Endothelin/sarafotoxin	Endothelin-2
+NP01139	CTCFTYKDKECVYYCHLDIIW	21	Rattus norvegicus	Endothelin/sarafotoxin	Endothelin-3
+NP01140	CSCSSLMDKECVYFCHLDIIWVNTPEHIVP	30	Sus scrofa	Endothelin/sarafotoxin	Big endothelin-1
+NP01141	CSCSSLMDKECVYFCHLDIIW	21	Sus scrofa	Endothelin/sarafotoxin	Endothelin-1
+NP01142	CTCFTYKDKECVYYCHLDIIW	21	Sus scrofa	Endothelin/sarafotoxin	Endothelin-3
+NP01143	PEQTAPYGLGNPPRRRRRSLPRRCQCSSARDPSCATFCLRRPWTEARAVPSRKSPADVFQTGKTGATRGELLQRLRDIS	79	Macaca fascicularis	Endothelin/sarafotoxin	Endothelin-2
+NP02041	DYMGWMDF	8	Calliphora vomitoria	Gastrin/cholecystokinin	Cholecystokinin 8
+NP02042	DQFDDYGHMRF	11	Calliphora vomitoria	Gastrin/cholecystokinin	Drosulfakinin II
+NP02043	FLPHVFAELSDRKGFVQGNGAVEALHDHFYPDWMDF	36	Gallus gallus	Gastrin/cholecystokinin	Gastrin
+NP02044	AGGSGGVGGEYDDYGHL/I	17	Litopenaeus vannamei	Gastrin/cholecystokinin	Sulfakinin-1
+NP02045	AVQKVDGEPRAHLGALLARYIQQARKAPSGRMSVIKNLQSLDPSHRISDRDYMGWMDF	58	Mus musculus	Gastrin/cholecystokinin	Cholecystokinin-58
+NP02046	YMGWMDF	7	NA	Gastrin/cholecystokinin	Cholecystokinin
+NP02047	WMDF	4	NA	Gastrin/cholecystokinin	Cholecystokinin 4
+NP02048	GWMDF	5	NA	Gastrin/cholecystokinin	Cholecystokinin 5
+NP02049	AVQKVDGESRAHLGALLARYIQQARKAPSGRVSMIKNLQSLDPSHRISDRDYMGWMDF	58	NA	Gastrin/cholecystokinin	Cholecystokinin-58
+NP02050	VPSSAGQLKPIQRLDGNVDQKANIGALLAKYLQQARKGPTGRISMMGNRVQNIDPTHRINDRDYMGWMD	69	NA	Gastrin/cholecystokinin	Cholecystokinin-70
+NP02051	DLLEALSQDQKLLMAKFLPHIYAELANREGNWHEDAALRPLHDHDYPGWMDF	52	NA	Gastrin/cholecystokinin	Gastrin
+NP02052	ASGPGPSHKIKDRDYLGWMDF	21	Oncorhynchus mykiss	Gastrin/cholecystokinin	CCK-L
+NP02053	DYLGWMDF	8	Oncorhynchus mykiss	Gastrin/cholecystokinin	CCK-L
+NP02054	ESDDYGHMRF	10	Periplaneta americana	Gastrin/cholecystokinin	Leucosulfakinin-II
+NP02055	ASSSAQLKPFQRIDGTSDQKAVIGAMLAKYLQTRKAGSSTGRYAVLPNRPVIDPTHRINDRDYMGWMDF	69	Pseudis bolbodactyla	Gastrin/cholecystokinin	Cholecystokinin-69
+NP02056	DLLASLTHEQKQLIMSQLLPELLSELSNAEDHLHPMRDRDYAGWMDF	47	Pseudis bolbodactyla	Gastrin/cholecystokinin	Gastrin
+NP02057	RVDGNSDQKAVIGAMLAKDLQTRKAGSSTGRYAVLPNR	38	Rana nigrovittata	Gastrin/cholecystokinin	Cholecystokinin
+NP02058	ESDDYGHMRF	10	Rhyparobia maderae	Gastrin/cholecystokinin	Leucosulfakinin-II
+NP02059	DYLGWMDF	8	Seriola quinqueradiata	Gastrin/cholecystokinin	Cholecystokinin 8
+NP02060	FDDYGHMRF	9	Aedes aegypti	Gastrin/cholecystokinin	Sulfakinin-1
+NP02061	GGGGEGEQFDDYGHMRF	17	Aedes aegypti	Gastrin/cholecystokinin	Sulfakinin-2
+NP02062	QQFDDYGHLRF	11	Apis mellifera	Gastrin/cholecystokinin	Sulfakinin
+NP02063	QPDDYGHMRY	10	Daphnia pulex	Gastrin/cholecystokinin	Sulfakinin 1
+NP02064	DFDDYGHMRF	10	Daphnia pulex	Gastrin/cholecystokinin	Sulfakinin 2
+NP02065	QDDDYGHMRF	10	Ixodes scapularis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02066	SDDYGHMRF	9	Ixodes scapularis	Gastrin/cholecystokinin	Sulfakinin-2
+NP02067	FDDYGHMRF	9	Lucilia cuprina	Gastrin/cholecystokinin	Sulfakinin-1
+NP02068	GGEEQFDDYGHMRF	14	Lucilia cuprina	Gastrin/cholecystokinin	Sulfakinin-2
+NP02069	QFDEYGHMRF	10	Penaeus monodon	Gastrin/cholecystokinin	Sulfakinin-1
+NP02070	AGGSGGVGGEYDDYGHLRF	19	Penaeus monodon	Gastrin/cholecystokinin	Sulfakinin-2
+NP02071	VGGEYDDYGHLRF	13	Penaeus monodon	Gastrin/cholecystokinin	Sulfakinin-3
+NP02072	ETSDDYGHLRF	11	Zophobas atratus	Gastrin/cholecystokinin	Sulfakinin-1
+NP02073	EQFEDYGHMRF	11	Aptera fusca	Gastrin/cholecystokinin	Sulfakinin-1
+NP02074	EQFEDYGHMRF	11	Archimandrita tessellata	Gastrin/cholecystokinin	Sulfakinin-1
+NP02075	EQFEDYGHMRF	11	Bantua robusta	Gastrin/cholecystokinin	Sulfakinin-1
+NP02076	EQFEDYGHMRF	11	Blaberus craniifer	Gastrin/cholecystokinin	Sulfakinin-1
+NP02077	EQFEDYGHMRF	11	Blaptica dubia	Gastrin/cholecystokinin	Sulfakinin-1
+NP02078	EQFDDYGHMRF	11	Blatta lateralis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02079	EQFDDYGHMRF	11	Blatta orientalis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02080	EQFDDYGHMRF	11	Blattella germanica	Gastrin/cholecystokinin	Sulfakinin-1
+NP02081	EQFEDYGHMRF	11	Blepharodera discoidalis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02082	FDDYGHMRF	9	Calliphora vomitoria	Gastrin/cholecystokinin	Callisulfakinin-1
+NP02083	GGEEQFDDYGHMRF	14	Calliphora vomitoria	Gastrin/cholecystokinin	Callisulfakinin-2 (Potential)
+NP02084	NYYGWMDF	8	Ciona intestinalis	Gastrin/cholecystokinin	Cionin
+NP02085	EQFDDYGHMRF	11	Cryptocercus darwini	Gastrin/cholecystokinin	Sulfakinin-1
+NP02086	EQFDDYGHMRF	11	Cryptocercus kyebangensis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02087	GGEEQFDDYGHMRF	14	Delia radicum	Gastrin/cholecystokinin	Sulfakinin
+NP02088	FDDYGHMRF	9	Delia radicum	Gastrin/cholecystokinin	Sulfakinin(6-14)
+NP02089	EQFDDYGHMRF	11	Deropeltis atra	Gastrin/cholecystokinin	Sulfakinin-1
+NP02090	EQFDDYGHMRF	11	Deropeltis erythrocephala	Gastrin/cholecystokinin	Sulfakinin-1
+NP02091	EQFDDYGHMRF	11	Deropeltis integerrima	Gastrin/cholecystokinin	Sulfakinin-1
+NP02092	EQFEDYGHMRF	11	Diploptera punctata	Gastrin/cholecystokinin	Sulfakinin-1
+NP02093	NQKTISF	7	Drosophila erecta	Gastrin/cholecystokinin	Drosulfakinin-0 (Potential)
+NP02094	FDDYGHMRF	9	Drosophila erecta	Gastrin/cholecystokinin	Drosulfakinin-1 (Potential)
+NP02095	GGDDQFDDYGHMRF	14	Drosophila erecta	Gastrin/cholecystokinin	Drosulfakinin-2 (By similarity)
+NP02096	NQKTISF	7	Drosophila mauritiana	Gastrin/cholecystokinin	Drosulfakinin-0 (Potential)
+NP02097	FDDYGHMRF	9	Drosophila mauritiana	Gastrin/cholecystokinin	Drosulfakinin-1 (Potential)
+NP02098	GGDDQFDDYGHMRF	14	Drosophila mauritiana	Gastrin/cholecystokinin	Drosulfakinin-2 (By similarity)
+NP02099	NQKTMSF	7	Drosophila melanogaster	Gastrin/cholecystokinin	Drosulfakinin-0 (Potential)
+NP02100	FDDYGHMRF	9	Drosophila melanogaster	Gastrin/cholecystokinin	Drosulfakinin-1 (Potential)
+NP02101	GGDDQFDDYGHMRF	14	Drosophila melanogaster	Gastrin/cholecystokinin	Drosulfakinin-2
+NP02102	HQRSTGF	7	Drosophila pseudoobscura pseudoobscura	Gastrin/cholecystokinin	Drosulfakinin-0 (Potential)
+NP02103	FDDYGHMRF	9	Drosophila pseudoobscura pseudoobscura	Gastrin/cholecystokinin	Drosulfakinin-1 (Potential)
+NP02104	GGDDQFDDYGHMRF	14	Drosophila pseudoobscura pseudoobscura	Gastrin/cholecystokinin	Drosulfakinin-2 (By similarity)
+NP02105	NQKTISF	7	Drosophila sechellia	Gastrin/cholecystokinin	Drosulfakinin-0 (Potential)
+NP02106	FDDYGHMRF	9	Drosophila sechellia	Gastrin/cholecystokinin	Drosulfakinin-1 (Potential)
+NP02107	GGDDQFDDYGHMRF	14	Drosophila sechellia	Gastrin/cholecystokinin	Drosulfakinin-2 (By similarity)
+NP02108	NQKAISF	7	Drosophila simulans	Gastrin/cholecystokinin	Drosulfakinin-0 (Potential)
+NP02109	FDDYGHMRF	9	Drosophila simulans	Gastrin/cholecystokinin	Drosulfakinin-1 (Potential)
+NP02110	GGDDQFDDYGHMRF	14	Drosophila simulans	Gastrin/cholecystokinin	Drosulfakinin-2 (By similarity)
+NP02111	NQKIITF	7	Drosophila teissieri	Gastrin/cholecystokinin	Drosulfakinin-0 (Potential)
+NP02112	FDDYGHMRF	9	Drosophila teissieri	Gastrin/cholecystokinin	Drosulfakinin-1 (Potential)
+NP02113	GGDDQFDDYGHMRF	14	Drosophila teissieri	Gastrin/cholecystokinin	Drosulfakinin-2 (By similarity)
+NP02114	NQKIITF	7	Drosophila yakuba	Gastrin/cholecystokinin	Drosulfakinin-0 (Potential)
+NP02115	FDDYGHMRF	9	Drosophila yakuba	Gastrin/cholecystokinin	Drosulfakinin-1 (Potential)
+NP02116	GGDDQFDDYGHMRF	14	Drosophila yakuba	Gastrin/cholecystokinin	Drosulfakinin-2 (By similarity)
+NP02117	EQFEDYGHMRF	11	Elliptorhina sp.	Gastrin/cholecystokinin	Sulfakinin-1
+NP02118	EQFDDYGHMRF	11	Ergaula capucina	Gastrin/cholecystokinin	Sulfakinin-1
+NP02119	EQFEDYGHMRF	11	Eublaberus distanti	Gastrin/cholecystokinin	Sulfakinin-1
+NP02120	EQFEDYGHMRF	11	Eublaberus posticus	Gastrin/cholecystokinin	Sulfakinin-1
+NP02121	EQFEDYGHMRF	11	Eublaberus sp.	Gastrin/cholecystokinin	Sulfakinin-1
+NP02122	QSDDYGHMRF	10	Eurycotis floridana	Gastrin/cholecystokinin	Sulfakinin-1
+NP02123	EQFEDYGHMRF	11	Gromphadorhina grandidieri	Gastrin/cholecystokinin	Sulfakinin-1
+NP02124	EQFEDYGHMRF	11	Gromphadorina portentosa	Gastrin/cholecystokinin	Sulfakinin-1
+NP02125	EQFEDYGHMRF	11	Gyna cf. cafforum	Gastrin/cholecystokinin	Sulfakinin-1
+NP02126	EQFEDYGHMRF	11	Gyna lurida	Gastrin/cholecystokinin	Sulfakinin-1
+NP02127	QLASDDYGHMRF	12	Locusta migratoria	Gastrin/cholecystokinin	Sulfakinin
+NP02128	EQFEDYGHMRF	11	Lucihormetica grossei	Gastrin/cholecystokinin	Sulfakinin-1
+NP02129	EQFEDYGHMRF	11	Lucihormetica subcincta	Gastrin/cholecystokinin	Sulfakinin-1
+NP02130	EQFEDYGHMRF	11	Lucihormetica verrucosa	Gastrin/cholecystokinin	Sulfakinin-1
+NP02131	EQFDDYGHMRF	11	Mastotermes darwiniensis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02132	EQFDDYGHMRF	11	Neostylopyga rhombifolia	Gastrin/cholecystokinin	Sulfakinin-1
+NP02133	EQFEDYGHMRF	11	Panchlora sp.	Gastrin/cholecystokinin	Sulfakinin-1
+NP02134	EQFEDYGHMRF	11	Panchlora viridis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02135	EQFEDYGHMRF	11	Panesthia sp.	Gastrin/cholecystokinin	Sulfakinin-1
+NP02136	QSDDYGHMRF	10	Periplaneta americana	Gastrin/cholecystokinin	Leucosulfakinin-2
+NP02137	EQFDDYGHMRF	11	Periplaneta americana	Gastrin/cholecystokinin	Sulfakinin-1
+NP02138	EQFDDYGHMRF	11	Periplaneta australasiae	Gastrin/cholecystokinin	Sulfakinin-1
+NP02139	EQFDDYGHMRF	11	Periplaneta brunnea	Gastrin/cholecystokinin	Sulfakinin-1
+NP02140	EQFDDYGHMRF	11	Periplaneta fuliginosa	Gastrin/cholecystokinin	Sulfakinin-1
+NP02141	EQFEDYGHMRF	11	Perisphaeria ruficornis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02142	EQFDDYGHMRF	11	Polyphaga aegyptiaca	Gastrin/cholecystokinin	Sulfakinin-1
+NP02143	EQFEDYGHMRF	11	Princisia vanwaerbeki	Gastrin/cholecystokinin	Sulfakinin-1
+NP02144	EQFDDYGHMRF	11	Pseudoderopeltis cf. bimaculata JT-2004	Gastrin/cholecystokinin	Sulfakinin-1
+NP02145	EQFDDYGHMRF	11	Pseudoderopeltis flavescens	Gastrin/cholecystokinin	Sulfakinin-1
+NP02146	EQFDDYGHMRF	11	Pseudoderopeltis foveolata	Gastrin/cholecystokinin	Sulfakinin-1
+NP02147	EQFEDYGHMRF	11	Pycnoscelus surinamensis	Gastrin/cholecystokinin	Sulfakinin-1
+NP02148	QFNEYGHMRF	10	Rhodnius prolixus	Gastrin/cholecystokinin	Sulfakinin-1
+NP02149	NSDEQFDDYGYMRF	14	Rhodnius prolixus	Gastrin/cholecystokinin	Sulfakinin-2
+NP02150	QSDDYGHMRF	10	Rhyparobia maderae	Gastrin/cholecystokinin	Leucosulfakinin-2
+NP02151	EQFEDYGHMRF	11	Rhyparobia maderae	Gastrin/cholecystokinin	Sulfakinin-1
+NP02152	FDDYGHMRF	9	Sarcophaga bullata	Gastrin/cholecystokinin	Neosulfakinin-1
+NP02153	XXEEQFDDYGHMRF	14	Sarcophaga bullata	Gastrin/cholecystokinin	Neosulfakinin-2
+NP02154	EQFDDYGHMRF	11	Symploce pallens	Gastrin/cholecystokinin	Sulfakinin-1
+NP02155	EQFDDYGHMRF	11	Therea petiveriana	Gastrin/cholecystokinin	Sulfakinin-1
+NP02156	KPSSDADEDNDEVERYVRGWASKIGQTLGKIAKVGLQGLMQPKREAMLRSAEAQGMIGTLTSKRIKQG	68	Xenopus laevis	Gastrin/cholecystokinin	Prolevitide
+NP02157	GWASKIGQTLGKIAKVGLQGLMQPK	25	Xenopus laevis	Gastrin/cholecystokinin	Amphipathic peptide
+NP02158	QGMIGTLTSKRIKQ	14	Xenopus laevis	Gastrin/cholecystokinin	Levitide
+NP02159	DWPEPPSQEQQQRFISRFLPHVFAELSDRKGFVQGNGAVEALHDHFYPDWMDF	53	Gallus gallus	Gastrin/cholecystokinin	Gastrin
+NP02160	EPFDDYGHMRFG	12	Gryllus bimaculatus	Gastrin/cholecystokinin	Sulfakinin-1
+NP02161	QSDDYGHMRFG	11	Gryllus bimaculatus	Gastrin/cholecystokinin	Sulfakinin-1
+NP02162	AVQKVDGEPRAHLGALLARYIQQARKAPSGRMSVIKNLQNLDPSHRISDRDYMGWMDF	58	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-58
+NP02163	AVQKVDGEPRAHLGALLARYIQQARKAPSGRMSVIKNLQNLDPSHRISD	49	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-58 desnonopeptide
+NP02164	YIQQARKAPSGRMSVIKNLQNLDPSHRISDRDYMGWMDF	39	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-39
+NP02165	KAPSGRMSVIKNLQNLDPSHRISDRDYMGWMDF	33	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-33
+NP02166	VIKNLQNLDPSHRISDRDYMGWMDF	25	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-25
+NP02167	LDPSHRISDRDYMGWMDF	18	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-18
+NP02168	ISDRDYMGWMDF	12	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-12 (By similarity)
+NP02169	DYMGWMDF	8	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02170	YMGWMDF	7	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-7
+NP02171	GWMDF	5	Canis familiaris	Gastrin/cholecystokinin	Cholecystokinin-5
+NP02172	QLGLQGPPQLVADLSKKQGPWMEEEEAAYGWMDF	34	Canis familiaris	Gastrin/cholecystokinin	Big gastrin
+NP02173	QGPWMEEEEAAYGWMDF	17	Canis familiaris	Gastrin/cholecystokinin	Gastrin
+NP02174	QLGLQGSPHLVADLSKKQGPWLEKEEAAYGWMDF	34	Equus caballus	Gastrin/cholecystokinin	Big gastrin
+NP02175	QGPWLEKEEAAYGWMDF	17	Equus caballus	Gastrin/cholecystokinin	Gastrin
+NP02176	QLGLQGPPQQVADLSKKQGPWLEEEEAAYGWMDF	34	Felis catus	Gastrin/cholecystokinin	Big gastrin
+NP02177	QGPWLEEEEAAYGWMDF	17	Felis catus	Gastrin/cholecystokinin	Gastrin
+NP02178	QQPAGSHDGSPVAAELQQSLTEPHRHSRAPSSAGPLKPAPRLDGSFEQRATIGALLAKYLQQARKGSTGRFSVLGNRVQSIDPTHRINDRDYMGWMDFGRRSAEEYEYSS	110	Gallus gallus	Gastrin/cholecystokinin	Cholecystokinin
+NP02179	APSSAGPLKPAPRLDGSFEQRATIGALLAKYLQQARKGSTGRFSVLGNRVQSIDPTHRINDRDYMGWMDF	70	Gallus gallus	Gastrin/cholecystokinin	Cholecystokinin-70 (Probable)
+NP02180	DYMGWMDF	8	Gallus gallus	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02181	YMGWMDF	7	Gallus gallus	Gastrin/cholecystokinin	Cholecystokinin-7 (By similarity)
+NP02182	QQTVGSMNEDPGAREIEQQNILQHPRHIRASSSAQLKPFQRIDGTSDQKAVIGAMLAKYLQTRKAGSSTGRYAVLPNRPVIDPTHRINDRDYMGWMDFGRRSAEEYEYSS	110	Lithobates catesbeiana	Gastrin/cholecystokinin	Cholecystokinin
+NP02183	RIDGTSDQKAVIGAMLAKYLQTRKAGSSTGRYAVLPNRPVIDPTHRINDRDYMGWMDF	58	Lithobates catesbeiana	Gastrin/cholecystokinin	Cholecystokinin-58
+NP02184	GSSTGRYAVLPNRPVIDPTHRINDRDYMGWMDF	33	Lithobates catesbeiana	Gastrin/cholecystokinin	Cholecystokinin-33
+NP02185	DYMGWMDF	8	Lithobates catesbeiana	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02186	YMGWMDF	7	Lithobates catesbeiana	Gastrin/cholecystokinin	Cholecystokinin-7
+NP02187	QPVPPAEPAGSGLQRAEEAPRRQLRAVQRTDGESRAHLGALLARYIQQARKAPSGRMSIIKNLQNLDPSHRISDRDYMGWMDFGRRSAEEYEYPS	95	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin
+NP02188	AVQRTDGESRAHLGALLARYIQQARKAPSGRMSIIKNLQNLDPSHRISDRDYMGWMDF	58	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-58 (By similarity)
+NP02189	AVQRTDGESRAHLGALLARYIQQARKAPSGRMSIIKNLQNLDPSHRISD	49	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-58 desnonopeptide (By similarity)
+NP02190	YIQQARKAPSGRMSIIKNLQNLDPSHRISDRDYMGWMDF	39	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-39 (By similarity)
+NP02191	KAPSGRMSIIKNLQNLDPSHRISDRDYMGWMDF	33	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-33 (By similarity)
+NP02192	IIKNLQNLDPSHRISDRDYMGWMDF	25	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-25 (By similarity)
+NP02193	LDPSHRISDRDYMGWMDF	18	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-18 (By similarity)
+NP02194	ISDRDYMGWMDF	12	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-12 (By similarity)
+NP02195	DYMGWMDF	8	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-8 (By similarity)
+NP02196	YMGWMDF	7	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-7 (By similarity)
+NP02197	GWMDF	5	Macaca fascicularis	Gastrin/cholecystokinin	Cholecystokinin-5 (By similarity)
+NP02198	QLGLQDPPHMVADLSKKQGPWVEEEEAAYGWMDF	34	Ovis aries	Gastrin/cholecystokinin	Big gastrin
+NP02199	QGPWVEEEEAAYGWMDF	17	Ovis aries	Gastrin/cholecystokinin	Gastrin
+NP02200	HPISSQHLDEGQRSISTPSEALLEADTHSLGEPHLRQSRSAPQLKSLPVAEEDGDSRANLSELLARLISSRKGSVRRNSTAYSKGLSPNHRIADRDYLGWMDFGRRSAEEYEYSS	115	Paralichthys olivaceus	Gastrin/cholecystokinin	Cholecystokinin
+NP02201	DYLGWMDF	8	Paralichthys olivaceus	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02202	DYMGWMDF	8	Python molurus	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02203	QQTAGSHNGNPLAAELEQSLTEHHRHVRAPSSAGPLKPVPRLDGSIDQRANIGALLAKYLQQARKGPTGRISVMGNRVQSIDPTHRINDRDYMGWMDFGRRSAEEYEYSS	110	Struthio camelus	Gastrin/cholecystokinin	Cholecystokinin
+NP02204	APSSAGPLKPVPRLDGSIDQRANIGALLAKYLQQARKGPTGRISVMGNRVQSIDPTHRINDRDYMGWMDF	70	Struthio camelus	Gastrin/cholecystokinin	Cholecystokinin-70 (Probable)
+NP02205	DYMGWMDF	8	Struthio camelus	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02206	YMGWMDF	7	Struthio camelus	Gastrin/cholecystokinin	Cholecystokinin-7
+NP02207	QPVPPADSAVPGAQEEEAHRRQLRAVQKVDGESRAHLGALLARYIQQARKAPSGRVSMIKNLQSLDPSHRISDRDYMGWMDFGRRSAEEYEYTS	94	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin
+NP02208	AVQKVDGESRAHLGALLARYIQQARKAPSGRVSMIKNLQSLDPSHRISDRDYMGWMDF	58	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-58
+NP02209	VQKVDGESRAHLGALLARYIQQARKAPSGRVSMIKNLQSLDPSHRISDR	49	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-58 desnonopeptide (By similarity)
+NP02210	YIQQARKAPSGRVSMIKNLQSLDPSHRISDRDYMGWMDF	39	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-39
+NP02211	KAPSGRVSMIKNLQSLDPSHRISDRDYMGWMDF	33	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-33
+NP02212	IKNLQSLDPSHRISDRDYMGWMDFG	25	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-25 (By similarity)
+NP02213	DPSHRISDRDYMGWMDFG	18	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-18 (By similarity)
+NP02214	ISDRDYMGWMDF	12	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-12
+NP02215	DYMGWMDF	8	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02216	MGWMDFG	7	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-7 (By similarity)
+NP02217	WMDFG	5	Sus scrofa	Gastrin/cholecystokinin	Cholecystokinin-5 (By similarity)
+NP02218	QLGLQGPPHLVADLAKKQGPWMEEEEEAYGWMDF	34	Sus scrofa	Gastrin/cholecystokinin	Big gastrin
+NP02219	QGPWMEEEEEAYGWMDF	17	Sus scrofa	Gastrin/cholecystokinin	Gastrin
+NP02220	QQATGSHNENPVATELEQSLTEHHRHVRVPSSAGQLKPIQRLDGNVDQKANIGALLAKYLQQARKGPTGRISMMGNRVQNIDPTHRINDRDYMGWMDFGRRSAEEYEYSS	110	Trachemys scripta	Gastrin/cholecystokinin	Cholecystokinin
+NP02221	RLDGNVDQKANIGALLAKYLQQARKGPTGRISMMGNRVQNIDPTHRINDRDYMGWMDF	58	Trachemys scripta	Gastrin/cholecystokinin	Cholecystokinin-58
+NP02222	YLQQARKGPTGRISMMGNRVQNIDPTHRINDRDYMGWMDF	40	Trachemys scripta	Gastrin/cholecystokinin	Cholecystokinin-40
+NP02223	GPTGRISMMGNRVQNIDPTHRINDRDYMGWMDF	33	Trachemys scripta	Gastrin/cholecystokinin	Cholecystokinin-33
+NP02224	DYMGWMDF	8	Trachemys scripta	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02225	YMGWMDF	7	Trachemys scripta	Gastrin/cholecystokinin	Cholecystokinin-7
+NP02226	GTNGKPPDPKKESQDYLGWMDF	22	Varanus varius	Gastrin/cholecystokinin	Cholecystoxin-22
+NP02227	DYLGWMDF	8	Varanus varius	Gastrin/cholecystokinin	Cholecystoxin-8
+NP02228	DYMGWMDF	8	Xenopus laevis	Gastrin/cholecystokinin	Cholecystokinin
+NP02229	QPMPHADPTGPRAQQAEEAPRRQLRAVPRVDDEPRAQLGALLARYIQQARKAPSGRMSVIKNLQSLDPSHRISDRDYMGWMDFGRRSAEEFEYTS	95	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin
+NP02230	ISDRDYMGWMDF	12	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-12
+NP02231	LDPSHRISDRDYMGWMDF	18	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-18 (By similarity)
+NP02232	VIKNLQSLDPSHRISDRDYMGWMDF	25	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-25 (By similarity)
+NP02233	KAPSGRMSVIKNLQSLDPSHRISDRDYMGWMDF	33	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-33
+NP02234	YIQQARKAPSGRMSVIKNLQSLDPSHRISDRDYMGWMDF	39	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-39
+NP02235	GWMDF	5	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-5 (By similarity)
+NP02236	AVPRVDDEPRAQLGALLARYIQQARKAPSGRMSVIKNLQSLDPSHRISDRDYMGWMDF	58	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-58
+NP02237	AVPRVDDEPRAQLGALLARYIQQARKAPSGRMSVIKNLQSLDPSHRISD	49	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-58 desnonopeptide (By similarity)
+NP02238	YMGWMDF	7	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-7 (By similarity)
+NP02239	DYMGWMDF	8	Bos taurus	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02240	QLGLQDPPHMVADLSKKQGPWVEEEEAAYGWMDF	34	Bos taurus	Gastrin/cholecystokinin	Big gastrin
+NP02241	QGPWVEEEEAAYGWMDF	17	Bos taurus	Gastrin/cholecystokinin	Gastrin
+NP02242	QPVPPADPAGSGLQRAEEAPRRQLRVSQRTDGESRAHLGALLARYIQQARKAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDFGRRSAEEYEYPS	95	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin
+NP02243	ISDRDYMGWMDF	12	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-12
+NP02244	LDPSHRISDRDYMGWMDF	18	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-18 (By similarity)
+NP02245	IVKNLQNLDPSHRISDRDYMGWMDF	25	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-25 (By similarity)
+NP02246	KAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF	33	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-33
+NP02247	YIQQARKAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF	39	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-39
+NP02248	GWMDF	5	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-5 (By similarity)
+NP02249	VSQRTDGESRAHLGALLARYIQQARKAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF	58	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-58
+NP02250	VSQRTDGESRAHLGALLARYIQQARKAPSGRMSIVKNLQNLDPSHRISD	49	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-58 desnonopeptide (By similarity)
+NP02251	YMGWMDF	7	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-7 (By similarity)
+NP02252	DYMGWMDF	8	Homo sapiens	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02253	QLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF	34	Homo sapiens	Gastrin/cholecystokinin	Big gastrin
+NP02254	QGPWLEEEEEAYGWMDF	17	Homo sapiens	Gastrin/cholecystokinin	Gastrin
+NP02255	WLEEEEEAYGWMDF	14	Homo sapiens	Gastrin/cholecystokinin	Gastrin-14
+NP02256	DLELPWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF	52	Homo sapiens	Gastrin/cholecystokinin	Gastrin-52
+NP02257	YGWMDF	6	Homo sapiens	Gastrin/cholecystokinin	Gastrin-6
+NP02258	SWKPRSQQPDAPLGTGANRDLELPWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF	71	Homo sapiens	Gastrin/cholecystokinin	Gastrin-71
+NP02259	QPVVPAEATDPVEQRAQEAPRRQLRAVLRTDGEPRARLGALLARYIQQVRKAPSGRMSVLKNLQSLDPSHRISDRDYMGWMDFGRRSAEDYEYPS	95	Mus musculus	Gastrin/cholecystokinin	Cholecystokinin
+NP02260	ISDRDYMGWMDF	12	Mus musculus	Gastrin/cholecystokinin	Cholecystokinin-12
+NP02261	KAPSGRMSVLKNLQSLDPSHRISDRDYMGWMDF	33	Mus musculus	Gastrin/cholecystokinin	Cholecystokinin-33
+NP02262	DYMGWMDF	8	Mus musculus	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02263	QLGPQGPQHFIADLSKKQRPRMEEEEEAYGWMDF	34	Mus musculus	Gastrin/cholecystokinin	Big gastrin
+NP02264	QRPRMEEEEEAYGWMDF	17	Mus musculus	Gastrin/cholecystokinin	Gastrin
+NP02265	SWKPRSQLQDASSGPGTNEDLEQRQFNKLGSASHHRRQLGPQGPQHFIADLSKKQRPRMEEEEEAYGWMDF	71	Mus musculus	Gastrin/cholecystokinin	Gastrin-71
+NP02266	AVLRPDSEPRARLGALLARYIQQVRKAPSGRMSVLKNLQGLDPSHRISDRDYMGWMDF	58	Rattus norvegicus	Gastrin/cholecystokinin	Cholecystokinin
+NP02267	ISDRDYMGWMDF	12	Rattus norvegicus	Gastrin/cholecystokinin	Cholecystokinin-12
+NP02268	NLQGLDPSHRISDRDYMGWMDF	22	Rattus norvegicus	Gastrin/cholecystokinin	Cholecystokinin-22
+NP02269	KAPSGRMSVLKNLQGLDPSHRISDRDYMGWMDF	33	Rattus norvegicus	Gastrin/cholecystokinin	Cholecystokinin-33
+NP02270	YIQQVRKAPSGRMSVLKNLQGLDPSHRISDRDYMGWMDF	39	Rattus norvegicus	Gastrin/cholecystokinin	Cholecystokinin-39
+NP02271	DYMGWMDF	8	Rattus norvegicus	Gastrin/cholecystokinin	Cholecystokinin-8
+NP02272	QLGPQGPQHFIADLSKKQRPPMEEEEEAYGWMDF	34	Rattus norvegicus	Gastrin/cholecystokinin	Big gastrin
+NP02273	QRPPMEEEEEAYGWMDF	17	Rattus norvegicus	Gastrin/cholecystokinin	Gastrin
+NP02516	EHWSYGLQPG	10	Alligator mississippiensis	GnRH	GnRH I
+NP02517	EHWSHGWYPG	10	Alligator mississippiensis	GnRH	GnRH II
+NP02518	QNYHFSNGWYAG	12	Aplysia californica	GnRH	GnRH
+NP02519	EHWSYGLRPG	10	Branchiostoma lanceolatum	GnRH	GnRH
+NP02520	EHWSDYFKPG	10	Chelyosoma productum	GnRH	GnRH-I
+NP02521	EHWSLCHAPG	10	Chelyosoma productum	GnRH	GnRH-II
+NP02522	EHWSHGLNPG	10	Clarias gariepinus	GnRH	GnRH I
+NP02523	EHWSHGWYPG	10	Clarias gariepinus	GnRH	GnRH II
+NP02524	EHWSHGLSPG	10	Clupea pallasii	GnRH	GnRH
+NP02525	EHWSYGMNPG	10	Coregonus clupeaformis	GnRH	GnRH
+NP02526	EHWSHGWYP	9	Gallus gallus	GnRH	LHRH-II
+NP02527	EHWSHGWYPG	10	Hydrolagus colliei	GnRH	GnRH
+NP02528	CHWSYGLRPG	10	NA	GnRH	GnRH
+NP02529	EHSYGLSPG	9	NA	GnRH	GnRH
+NP02530	EHWSHGWLPG	10	NA	GnRH	GnRH
+NP02531	EHYSLEWKPG	10	NA	GnRH	GnRH
+NP02532	EHSHGWYPG	9	NA	GnRH	GnRH II
+NP02533	EHWSGLRPG	9	NA	GnRH	GnRH II
+NP02534	QHWSHGWFPG	10	NA	GnRH	GnRH-II
+NP02535	EHWSFGLSPG	10	Odontesthes bonariensis	GnRH	GnRH
+NP02536	EHWSYGWLPG	10	Oncorhynchus sp.	GnRH	GnRH
+NP02537	HWSHDWKPG	9	Petromyzon marinus	GnRH	GnRH-III
+NP02538	EHWSHGWYPG	10	Sparus aurata	GnRH	GnRH
+NP02539	EHWSYGLSPG	10	Sparus aurata	GnRH	GnRH
+NP02540	QHWSKGYSPG	10	Ciona intestinalis	GnRH	t-GnRH-3
+NP02541	QHWSYEFMPG	10	Ciona intestinalis	GnRH	t-GnRH-5
+NP02542	DPLTNIM	7	Ciona intestinalis	GnRH	t-GnRH-6
+NP02543	GEKESRPLSSYPGSV	15	Ciona intestinalis	GnRH	t-GnRH-6
+NP02544	QHWSYEYMPG	10	Ciona intestinalis	GnRH	t-GnRH-6
+NP02545	WLRYDA	6	Ciona intestinalis	GnRH	t-GnRH-6
+NP02546	HWSYGLRPG	9	Rattus norvegicus	GnRH	LHRH
+NP02547	QHWSNWWIPGAPGYNG	16	Ciona intestinalis	GnRH	Ci-GnRH-X
+NP02548	QYWSYGVRPGGKRNIEPLVDSFQEMAKEIDQLAEPQHFECTLHQPRSPLRDLKGALESLMEEETGQKKI	69	Cavia porcellus	GnRH	Progonadoliberin-1
+NP02549	QYWSYGVRPG	10	Cavia porcellus	GnRH	Gonadoliberin-1
+NP02550	NIEPLVDSFQEMAKEIDQLAEPQHFECTLHQPRSPLRDLKGALESLMEEETGQKKI	56	Cavia porcellus	GnRH	GnRH-associated peptide 1
+NP02551	QHWSYGLQPGGKRNAENLVESFQEIANEMESLGEGQKAECPGSYQHPRLSDLKETMASLIEGEARRKEI	69	Gallus gallus	GnRH	Progonadoliberin-1
+NP02552	QHWSYGLQPG	10	Gallus gallus	GnRH	Gonadoliberin-1
+NP02553	NAENLVESFQEIANEMESLGEGQKAECPGSYQHPRLSDLKETMASLIEGEARRKEI	56	Gallus gallus	GnRH	GnRH-associated peptide 1
+NP02554	QHWSYGLRPGGKRNAERLGDSFQEMDKEVDQLAEPQHLECTVHWPRSPLRDLRGVLESLIEEE	63	Mesocricetus auratus	GnRH	Progonadoliberin-1
+NP02555	QHWSYGLRPG	10	Mesocricetus auratus	GnRH	Gonadoliberin-1
+NP02556	NAERLGDSFQEMDKEVDQLAEPQHLECTVHWPRSPLRDLRGVLESLIEEE	50	Mesocricetus auratus	GnRH	GnRH-associated peptide 1 (By similarity)
+NP02557	QHWSYGLRPGGKRNAKNVIDSFQEIAKEVDQPVEPKCCGCIVHQSHSPLRDLKAALESLIE	61	Ovis aries	GnRH	Progonadoliberin-1
+NP02558	QHWSYGLRPG	10	Ovis aries	GnRH	Gonadoliberin-1
+NP02559	NAKNVIDSFQEIAKEVDQPVEPKCCGCIVHQSHSPLRDLKAALESLIE	48	Ovis aries	GnRH	GnRH-associated peptide 1
+NP02560	QHWSHGWYPGGKRSPDSPQDPQPAPRFPEGYWLGLAAGNPRQSTQSLPSKALAPPEDTVSEEAKTMAWWHLQKQRLIQTLLPRP	84	Suncus murinus	GnRH	Progonadoliberin-2
+NP02561	QHWSHGWYPG	10	Suncus murinus	GnRH	Gonadoliberin-2
+NP02562	SPDSPQDPQPAPRFPEGYWLGLAAGNPRQSTQSLPSKALAPPEDTVSEEAKTMAWWHLQKQRLIQTLLPRP	71	Suncus murinus	GnRH	GnRH-associated peptide 2
+NP02563	QHWSYGLRPGGKRNAENVIDSFQEMAKEVARLAEPQRFECTAHQPRSPLRDLKGALESLIEEETGQKT	68	Sus scrofa	GnRH	Progonadoliberin-1
+NP02564	QHWSYGLRPG	10	Sus scrofa	GnRH	Gonadoliberin-1
+NP02565	GKRNAENVIDSFQEMAKEVARLAEPQRFECTAHQPRSPLRDLKGALESLIEEETGQKT	58	Sus scrofa	GnRH	GnRH-associated peptide 1
+NP02566	QHWSYGLRPGGKRNAENLIDSFQEIAKEADQLAEPQHFECTISQPRSPLRALKGALESLIEEETGQKKI	69	Tupaia belangeri	GnRH	Progonadoliberin-1
+NP02567	QHWSYGLRPG	10	Tupaia belangeri	GnRH	Gonadoliberin-1
+NP02568	NAENLIDSFQEIAKEADQLAEPQHFECTISQPRSPLRALKGALESLIEEETGQKKI	56	Tupaia belangeri	GnRH	GnRH-associated peptide 1
+NP02569	QHWSHGWYPGGKRASNSPQDPQSALRPPAPSAAQTAHSFRSAALASPEDSVPWEGRTTAGWSLRRKQHLMRTLLSAAGAPRPAAVPIKP	89	Tupaia belangeri	GnRH	Progonadoliberin-2
+NP02570	QHWSHGWYPG	10	Tupaia belangeri	GnRH	Gonadoliberin-2
+NP02571	ASNSPQDPQSALRPPAPSAAQTAHSFRSAALASPEDSVPWEGRTTAGWSLRRKQHLMRTLLSAAGAPRPAAVPIKP	76	Tupaia belangeri	GnRH	GnRH-associated peptide 2
+NP02572	DAENLIDSFQEIVKEVGQLAETQRFECTTHQPRSPLRDLKGALESLIEEETGQKKI	56	Homo sapiens	GnRH	GnRH-associated peptide 1
+NP02573	QHWSYGLRPG	10	Homo sapiens	GnRH	Gonadoliberin-1
+NP02574	QHWSYGLRPGGKRDAENLIDSFQEIVKEVGQLAETQRFECTTHQPRSPLRDLKGALESLIEEETGQKKI	69	Homo sapiens	GnRH	Progonadoliberin-1
+NP02575	ALSSAQDPQNALRPPGRALDTAAGSPVQTAHGLPSDALAPLDDSMPWEGRTTAQWSLHRKRHLARTLLTAAREPRPAPPSSNKV	84	Homo sapiens	GnRH	GnRH-associated peptide 2
+NP02576	QHWSHGWYPG	10	Homo sapiens	GnRH	Gonadoliberin-2
+NP02577	QHWSHGWYPGGKRALSSAQDPQNALRPPGRALDTAAGSPVQTAHGLPSDALAPLDDSMPWEGRTTAQWSLHRKRHLARTLLTAAREPRPAPPSSNKV	97	Homo sapiens	GnRH	Progonadoliberin-2
+NP02578	DAENLMDSFQEIVKEVGQLAETQHFECTMHQPRSPLQDLKGALESLIEE	49	Macaca mulatta	GnRH	GnRH-associated peptide 1
+NP02579	QHWSYGLRPG	10	Macaca mulatta	GnRH	Gonadoliberin-1
+NP02580	QHWSYGLRPGGKRDAENLMDSFQEIVKEVGQLAETQHFECTMHQPRSPLQDLKGALESLIEE	62	Macaca mulatta	GnRH	Progonadoliberin-1
+NP02581	ALSSAQDPQNALRPPAGSPAQATYGLPSDALAHLEDSMPWEGRTMAWWSLRRKRYLAQTLLTAAREPRPVPPSSNKV	77	Macaca mulatta	GnRH	GnRH-associated peptide 2
+NP02582	QHWSHGWYPG	10	Macaca mulatta	GnRH	Gonadoliberin-2
+NP02583	QHWSHGWYPGGKRALSSAQDPQNALRPPAGSPAQATYGLPSDALAHLEDSMPWEGRTMAWWSLRRKRYLAQTLLTAAREPRPVPPSSNKV	90	Macaca mulatta	GnRH	Progonadoliberin-2
+NP02584	QHWSYGLRPG	10	Mus musculus	GnRH	Gonadoliberin-1
+NP02585	QHWSYGLRPGGKRNTEHLVESFQEMGKEVDQMAEPQHFECTVHWPRSPLRDLRGALESLIEEEARQKKM	69	Mus musculus	GnRH	Progonadoliberin-1
+NP02586	NTEHLVESFQEMGKEVDQMAEPQHFECTVHWPRSPLRDLRGALESLIEEEARQKKM	56	Mus musculus	GnRH	Prolactin release-inhibiting factor 1
+NP02587	QHWSYGLRPG	10	Rattus norvegicus	GnRH	Gonadoliberin-1
+NP02588	QHWSYGLRPGGKRNTEHLVDSFQEMGKEEDQMAEPQNFECTVHWPRSPLRDLRGALERLIEEEAGQKKM	69	Rattus norvegicus	GnRH	Progonadoliberin-1
+NP02589	NTEHLVDSFQEMGKEEDQMAEPQNFECTVHWPRSPLRDLRGALERLIEEEAGQKKM	56	Rattus norvegicus	GnRH	Prolactin release-inhibiting factor 1
+NP02901	TADDNNQVLEHRNLAQQLNIPIL	23	Oryzias latipes	Melanin-concentrating hormone	MCH gene-related peptide
+NP02902	DTMRCMVGRVYRPCWEV	17	Oryzias latipes	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02903	EIGDEENSAKFPIG	14	Rattus norvegicus	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02904	ILLSASKSIRNLEDDMVFNTFRLGKALQKEDTPQKSVVAPSLEQYKNDDSSFMNDEENKNSKNTGSKHNFLNHGLPLNLAIKPYLALKGSVAFPAENGVQNTESTQEKREIGDEENSAKFPIGRRDFDMLRCMLGRVYRPCWQV	144	Canis familiaris	Melanin-concentrating hormone	Pro-MCH
+NP02905	DFDMLRCMLGRVYRPCWQV	19	Canis familiaris	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02906	EIGDEENSAKFPI	13	Canis familiaris	Melanin-concentrating hormone	Neuropeptide-glutamic acid-isoleucine
+NP02907	GSVAFPAENGVQNTESTQE	19	Canis familiaris	Melanin-concentrating hormone	Neuropeptide-glycine-glutamic acid(Potential)
+NP02908	DFDMLRCMLGRVYRPCWQV	19	Homo sapiens	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02909	EIGDEENSAKFPI	13	Homo sapiens	Melanin-concentrating hormone	Neuropeptide-glutamic acid-isoleucine
+NP02910	GSVAFPAENGVQNTESTQE	19	Homo sapiens	Melanin-concentrating hormone	Neuropeptide-glycine-glutamic acid(Potential)
+NP02911	DFDMLRCMLGRVYRPCWQV	19	Mus musculus	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02912	EIGDEENSAKFPI	13	Mus musculus	Melanin-concentrating hormone	Neuropeptide-glutamic acid-isoleucine (By similarity)
+NP02913	GSVAFPAENGVQNAESTQE	19	Mus musculus	Melanin-concentrating hormone	Neuropeptide-glycine-glutamic acid(Potential)
+NP02914	ISIGKMDDVALEQDTLDSLLSVEVSENSPDSVRGRSSKIVLLADSGLWMNLNRGLPFYKLRAAAAGPDRALTLDRREAGQDLSPSISIVRRDTMRCMVGRVYRPCWEV	108	Oncorhynchus keta	Melanin-concentrating hormone	Pro-MCH 1
+NP02915	IPMGKMEDTALEQDTLDSLLNEEVADKNPDSVRSGSSKIIVLADSGMWKNLNRGLPLYKLKAAAAGLDRALTLDRREADQDLSPSISIVRRDTMRCMVGRVYRPCWEV	108	Oncorhynchus keta	Melanin-concentrating hormone	Pro-MCH 2
+NP02916	DTMRCMVGRVYRPCWEV	17	Oncorhynchus keta	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02917	EAGQDLSPSISIV	13	Oncorhynchus keta	Melanin-concentrating hormone	Neuropeptide-glutamic acid-valine(Potential)
+NP02918	EADQDLSPSISIV	13	Oncorhynchus keta	Melanin-concentrating hormone	Neuropeptide-glutamic acid-valine(Potential)
+NP02919	IPMGKMEDTALEQDTLDSLLNESVADKNPDSVRSGSSKIIVLADSGMWKNLNRGLPLYKLKAAAAGLDRALTLDRREADQDLSPSISIVRRDTMRCMVGRVYRPCWEV	108	Oncorhynchus kisutch	Melanin-concentrating hormone	Pro-MCH 1
+NP02920	DTMRCMVGRVYRPCWEV	17	Oncorhynchus kisutch	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02921	EADQDLSPSISIV	13	Oncorhynchus kisutch	Melanin-concentrating hormone	Neuropeptide-glutamic acid-valine(Potential)
+NP02922	IPIGKMDDVALEQDTLDSLLRVEVSENSPDSVRGRSSKIVLLADSGLWMNLNRGLPLYKLIAAAAGPDRALTLDRREAGQDLSPSISIVRRDTMRCMVGRVYRPCWEV	108	Oncorhynchus mykiss	Melanin-concentrating hormone	Pro-MCH 1
+NP02923	IPMGKMEDTALEQDTLDSLLNEEVADKNPDSVRSGSSKIIVLADSGMWKNLNRGLPLYKLKAAAAGLDRALTLDRREADQDLSPSISIVRRDTMRCMVGRVYRPCWEV	108	Oncorhynchus mykiss	Melanin-concentrating hormone	Pro-MCH 2
+NP02924	DTMRCMVGRVYRPCWEV	17	Oncorhynchus mykiss	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02925	EAGQDLSPSISIV	13	Oncorhynchus mykiss	Melanin-concentrating hormone	Neuropeptide-glutamic acid-valine(Potential)
+NP02926	EADQDLSPSISIV	13	Oncorhynchus mykiss	Melanin-concentrating hormone	Neuropeptide-glutamic acid-valine(Potential)
+NP02927	IPIGKMDDVALEQDTLDSLLRVEVSENSPDSVRGRSSKIVLLADSGLWMNLNRGLPFYKLRAAAAGPDRALTLDRQEAGQDLSPSISIVRRDTMRCMVGRVYRPCWEV	108	Oncorhynchus tshawytscha	Melanin-concentrating hormone	Pro-MCH 1
+NP02928	IPMGKMEDTALEQDTLDSLLNEEVADKNPDSVRSGSSKIIVLADSGMWKNLNRGLPLYKLKAAAAGLDRALTLDRREADQDLSPSISIVRRDTMRCMVGRVYRPCWEV	108	Oncorhynchus tshawytscha	Melanin-concentrating hormone	Pro-MCH 2
+NP02929	DTMRCMVGRVYRPCWEV	17	Oncorhynchus tshawytscha	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02930	EAGQDLSPSISIV	13	Oncorhynchus tshawytscha	Melanin-concentrating hormone	Neuropeptide-glutamic acid-valine(Potential)
+NP02931	EADQDLSPSISIV	13	Oncorhynchus tshawytscha	Melanin-concentrating hormone	Neuropeptide-glutamic acid-valine(Potential)
+NP02932	LTVALPMAKAEDGSLEKDAFTSLLNDEATENSLGDAELSSMTKSRAPRVIVIAADANLWRDLRVLHNGLPLYKRRVDENNQVVEHKDVGQDLTIPILRRDTMRCMVGRVYRPCWEV	116	Oreochromis mossambicus	Melanin-concentrating hormone	Pro-MCH
+NP02933	RDTMRCMVGRVYRPCWEV	18	Oreochromis mossambicus	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02934	DFDMLRCMLGRVYRPCWQV	19	Rattus norvegicus	Melanin-concentrating hormone	Melanin-concentrating hormone
+NP02935	EIGDEENSAKFPI	13	Rattus norvegicus	Melanin-concentrating hormone	Neuropeptide-glutamic acid-isoleucine
+NP02936	GPAVFPAENGVQNTESTQE	19	Rattus norvegicus	Melanin-concentrating hormone	Neuropeptide-glycine-glutamic acid(Potential)
+NP02937	ILLSASKSIRNLDDDMVFNTFRLGKGFQKEDTAEKSVIAPSLEQYKNDESSFMNEEENKVSKNTGSKHNFLNHGLPLNLAIKPYLALKGSVAFPAENGVQNTESTQEKREIGDEENSAKFPIGRRDFDMLRCMLGRVYRPCWQV	144	Homo sapiens	Melanin-concentrating hormone	Pro-MCH
+NP02938	ILLSASKSIRNLEDDIVFNTFRMGKAFQKEDTAERSVVAPSLEQYKNDESGFMNDDDNKNSKNTGSKQNLVTHGLPLSLAVKPYLALKGSVAFPAENGVQNAESTQEKREIGDEENSAKFPIGRRDFDMLRCMLGRVYRPCWQV	144	Mus musculus	Melanin-concentrating hormone	Pro-MCH
+NP02939	ILLSASKSIRNSDDDMVFNTFRLGKAFQKEDTAEKSVIAPSLEEYKNDESS	51	Pan troglodytes	Melanin-concentrating hormone	Pro-MCH
+NP02940	ILLSASKSIRNVEDDIVFNTFRMGKAFQKEDTAERSVVAPSLEGYKNDESGFMKDDDDKTTKNTGSKQNLVTHGLPLSLAVKPYLALKGPAVFPAENGVQNTESTQEKREIGDEENSAKFPIGRRDFDMLRCMLGRVYRPCWQV	144	Rattus norvegicus	Melanin-concentrating hormone	Pro-MCH
+NP02941	SSGVSLLTSNKDEEQRELLKAISNLLD	27	Aplysia californica	Molluscan ELH	Acidic peptide
+NP02942	SSGVSLLTSNKDEEQRELLKA	21	Aplysia californica	Molluscan ELH	Acidic peptide(1-20)
+NP02943	LTSNKDEEQRELLKAISNLLD	21	Aplysia californica	Molluscan ELH	Acidic peptide(7-27)
+NP02944	TSNKDEEQRELLKAISNLLD	20	Aplysia californica	Molluscan ELH	Acidic peptide(8-27)
+NP02945	SNKDEEQRELLKA	13	Aplysia californica	Molluscan ELH	Acidic peptide(9-20)
+NP02946	SNKDEEQRELLKAISNLL	18	Aplysia californica	Molluscan ELH	Acidic peptide(9-26)
+NP02947	SNKDEEQRELLKAISNLLD	19	Aplysia californica	Molluscan ELH	Acidic peptide(9-27)
+NP02948	APRLRFYSL	9	Aplysia californica	Molluscan ELH	Alpha-bag cell peptide
+NP02949	APRLRFY	7	Aplysia californica	Molluscan ELH	Alpha-bag cell peptide(1-7)
+NP02950	APRLRFYS	8	Aplysia californica	Molluscan ELH	Alpha-bag cell peptide(1-8)
+NP02951	RLRFH	5	Aplysia californica	Molluscan ELH	Beta-bag cell peptide
+NP02952	DQDEGNFRRFPTNAVSMSADENSPFDLSNEDGAVYQRDL	39	Aplysia californica	Molluscan ELH	Delta-bag cell peptide
+NP02953	DQDEGNFRRFPTNAVSMSADENSPFDLSNEDGAVYQ	36	Aplysia californica	Molluscan ELH	Delta-bag cell peptide(1-36)
+NP02954	ISINQDLKAITDMLLTEQIRERQRYLADLRQRLLEK	36	Aplysia californica	Molluscan ELH	Egg-laying hormone
+NP02955	ISINQDLKAITDML	14	Aplysia californica	Molluscan ELH	Egg-laying hormone(1-14)
+NP02956	ISINQDLKAITDMLLTEQIRERQRYLADL	29	Aplysia californica	Molluscan ELH	Egg-laying hormone(1-29)
+NP02957	LTEQIRERQRYLADLRQRLLEK	22	Aplysia californica	Molluscan ELH	Egg-laying hormone(15-36)
+NP02958	RQRLLEK	7	Aplysia californica	Molluscan ELH	Egg-laying hormone(30-36)
+NP02959	SVLTPSLSSLGESLESGIS	19	Aplysia californica	Molluscan ELH	Epsilon-bag cell peptide
+NP02960	TPSLSSLGESLESGIS	16	Aplysia californica	Molluscan ELH	Epsilon-bag cell peptide(4-19)
+NP02961	RLRFD	5	Aplysia californica	Molluscan ELH	Gamma-bag cell peptide
+NP02962	RLRFDRRDQDEGNFRRFPTNAVSMSADENSPFDLSNEDGAVYQRDL	46	Aplysia californica	Molluscan ELH	Gamma-delta-bag cell peptide
+NP02963	AVKLSSDGNYPFDLSKEDGAQPYFMTPRLRFYPI	34	Aplysia californica	Molluscan ELH	Atrial gland peptide A
+NP02964	ISINQDLKAITDMLLTEQIQARRRCLDALRQRLLDLGKRDSDVSLFNGDLLPNGRCS	57	Aplysia californica	Molluscan ELH	Califin-A
+NP02965	ISINQDLKAITDMLLTEQIQARRRCLDALRQRLLDL	36	Aplysia californica	Molluscan ELH	Califin-A large subunit
+NP02966	DSDVSLFNGDLLPNGRCS	18	Aplysia californica	Molluscan ELH	Califin-A small subunit
+NP02967	ISINQDLKAITDMLLTEQIQARQRCLAALRQRLLDL	36	Aplysia californica	Molluscan ELH	Califin-B large subunit
+NP02968	ISINQDLKAITDMLLTEQIQARRRCLAALRQRLLDL	36	Aplysia californica	Molluscan ELH	Califin-C large subunit
+NP02969	AVKSSSYEKYPFDLSKEDGAQPYFMTPRLRFYPI	34	Aplysia californica	Molluscan ELH	Atrial gland peptide B
+NP02970	ISINQDLKAITDMLLTEQIRERQRYLADLRQRLLEK	36	Aplysia fasciata	Molluscan ELH	Egg-laying hormone
+NP02971	SSEVALAASDKGDEERELLNTLSNLLE	27	Aplysia parvula	Molluscan ELH	Acidic peptide
+NP02972	APRLRFYSL	9	Aplysia parvula	Molluscan ELH	Alpha-bag cell peptide
+NP02973	RLRFH	5	Aplysia parvula	Molluscan ELH	Beta-bag cell peptide
+NP02974	ISINQDLKAIADMLIVEQKQEREKYLADLRQRLLNK	36	Aplysia parvula	Molluscan ELH	Egg-laying hormone
+NP02975	RIRFN	5	Aplysia parvula	Molluscan ELH	Gamma-bag cell peptide
+NP02976	RIRFH	5	Aplysia parvula	Molluscan ELH	Gamma-bag cell peptide
+NP02977	EPRLRFHDV	9	Lymnaea stagnalis	Molluscan ELH	Alpha-CDCP
+NP02978	RLRFH	5	Lymnaea stagnalis	Molluscan ELH	Beta-1-CDCP
+NP02979	RLRAS	5	Lymnaea stagnalis	Molluscan ELH	Beta-2-CDCP
+NP02980	RLRFN	5	Lymnaea stagnalis	Molluscan ELH	Beta-3-CDCP
+NP02981	RVDSADESNDDGFD	14	Lymnaea stagnalis	Molluscan ELH	Calfluxin
+NP02982	LSITNDLRAIADSYLYDQHKLRERQEENLRRRFLEL	36	Lymnaea stagnalis	Molluscan ELH	Ovulation hormone
+NP02983	SATAEEGSENAEIEESHLGNSRS	23	Lymnaea stagnalis	Molluscan ELH	X-CDCP
+NP03711	ANLTNGGKSELLKSGSSKSTLKHIWTESSKDLSISRLLSQTFRGKENDTDLDLRYDTPEPYSEQDLWDWLRNSTDLQEPRPRAKRRPIVKTGKFKKMFGWGDFHSNIKTVKLNLLITGKIVDHGNGTFSVYFRHNSTGQGNVSVSLVPPTKIVEFDLAQQTVIDAKDSKSFNCRIEYEKVDKATKNTLCNYDPSKTCYQEQTQSHVSWLCSKPFKVICIYISFYSTDYKLVQKVCPDYNYHSDTPYFPSG	250	Pongo abelii	Neurexophilin	Neurexophilin-1
+NP03712	ANLTNGGKSELLKSGGSKSTLKHIWTESSKDLSISRLLSQTFRGKENDTDLDLRYDTPEPYSEQDLWDWLRNSTDLQEPRPRAKRRPIVKTGKFKKMFGWGDFHSNIKTVKLNLLITGKIVDHGNGTFSVYFRHNSTGQGNVSVSLVPPTKIVEFDLAQQTVIDAKDSKSFNCRIEYEKVDKATKNTLCNYDPSKTCYQEQTQSHVSWLCSKPFKVICIYISFYSTDYKLVQKVCPDYNYHSDTPYFPSG	250	Bos taurus	Neurexophilin	Neurexophilin-1
+NP03713	EKVVHATEGLDWEDKDATGTLVGNVVHSRIINPLRLFVKQSPVPKPGHLAYADSMENFWDWLANITEVQEPLARTKRRPIVKTGKFKKMFGWGDFHSNIKTVKLNLLITGKIVDHGNGTFSVYFRHNSTGLGNVSVSLVPPSKVVEFEVSPQSTLETKESKSFNCRIEYEKTDRAKKTALCNFDPSKICYQEQTQSHVSWLCSKPFKVICIYIAFYSVDYKLVQKVCPDYNYHSETPYLSSG	242	Bos taurus	Neurexophilin	Neurexophilin-2
+NP03714	ANLTNGGKSELLKSGSSKSTLKHIWTESSKDLSISRLLSQTFRGKENDTDLDLRYDTPEPYSEQDLWDWLRNSTDLQEPRPRAKRRPIVKTGKFKKMFGWGDFHSNIKTVKLNLLITGKIVDHGNGTFSVYFRHNSTGQGNVSVSLVPPTKIVEFDLAQQTVIDAKDSKSFNCRIEYEKVDKATKNTLCNYDPSKTCYQEQTQSHVSWLCSKPFKVICIYISFYSTDYKLVQKVCPDYNYHSDTPYFPSG	250	Homo sapiens	Neurexophilin	Neurexophilin-1
+NP03715	KEVVHATEGLDWEDKDAPGTLVGNVVHSRIISPLRLFVKQSPVPKPGPMAYADSMENFWDWLANITEIQEPLARTKRRPIVKTGKFKKMFGWGDFHSNIKTVKLNLLITGKIVDHGNGTFSVYFRHNSTGLGNVSVSLVPPSKVVEFEVSPQSTLETKESKSFNCRIEYEKTDRAKKTALCNFDPSKICYQEQTQSHVSWLCSKPFKVICIYIAFYSVDYKLVQKVCPDYNYHSETPYLSSG	242	Homo sapiens	Neurexophilin	Neurexophilin-2
+NP03716	QDDGPPGSEDPERDDHEGQPRPRVPRKRGHISPKSRPMANSTLLGLLAPPGEAWGILGQPPNRPNHSPPPSAKVKKIFGWGDFYSNIKTVALNLLVTGKIVDHGNGTFSVHFQHNATGQGNISISLVPPSKAVEFHQEQQIFIEAKASKIFNCRMEWEKVERGRRTSLCTHDPAKICSRDHAQSSATWSCSQPFKVVCVYIAFYSTDYRLVQKVCPDYNYHSDTPYYPSG	230	Homo sapiens	Neurexophilin	Neurexophilin-3
+NP03717	QIPESGRPQYLGLRPAAAGAGAPGQQLPEPRSSDGLGVGRAWSWAWPTNHTGALARAGAAGALPAQRTKRKPSIKAARAKKIFGWGDFYFRVHTLKFSLLVTGKIVDHVNGTFSVYFRHNSSSLGNLSVSIVPPSKRVEFGGVWLPGPVPHPLQSTLALEGVLPGLGPPLGMAAAAAGPGLGGSLGGALAGPLGGALGVPGAKESRAFNCHVEYEKTNRARKHRPCLYDPSQVCFTEHTQSQAAWLCAKPFKVICIFVSFLSFDYKLVQKVCPDYNFQSEHPYFG	285	Homo sapiens	Neurexophilin	Neurexophilin-4
+NP03718	VPPTKIVEFDLAQQTVIDAKDSKSFNCRIEYEKVDKATKNTLCNYDPSKTCYQEQTQSHVSWLCSKPFKVICIYISFYSTDYKLVQKVCPDYNYHSDTPYFPSG	104	Macaca mulatta	Neurexophilin	Neurexophilin-1
+NP03719	NATGQGNISISLVPPSKAVEXHQXQQIFIEAKASKIFNCRMEWEKVERGRRTSLCTHDPAKICSRDHAQSSATWSCSQPFKVVCVYIAFYSTDYR	95	Macaca mulatta	Neurexophilin	Neurexophilin-3
+NP03720	NCHVEYEKTNRARKHRPCLYDPSQVCFTEHTQSQAAWLCAKPYKVICIFVSFLSFDYKLVQKVCPDYNFQSEHPYFG	77	Macaca mulatta	Neurexophilin	Neurexophilin-4
+NP03721	ANLTNGGKSELLKSGSSKSTLKHIWTESSKDLSISRLLSQTFRGKENDTDLDLRYDTPEPYSEQDLWDWLRNSTDLQEPRPRAKRRPIVKTGKFKKMFGWGDFHSNIKTVKLNLLITGKIVDHGNGTFSVYFRHNSTGQGNVSVSLVPPTKIVEFDLAQQTVIDAKDSKSFNCRIEYEKVDKATKNTLCNYDPSKTCYQEQTQSHVSWLCSKPFKVICIYISFYSTDYKLVQKVCPDYNYHSDTPYFPSG	250	Mus musculus	Neurexophilin	Neurexophilin-1
+NP03722	EEVIHNTESVDWEDRTVPETLVGNLFHSRITSPLRLFVKQPPDPKPSYADNTKNFWDWLANITEIQEQLARTKRRPIVKTGKFKKMFGWGDFHSNIKTVKLNLLITGKIVDHGNGTFSVYFRHNSTGLGNVSVSLVPPSKVVEFEISPQSTLETKESKSFNCHIEYEKTDRAKKTALCNFDPSKICYQEQTQSHVSWLCSKPFKVICIHIIFYSVDYKLVQKVCPDYNYHSETPYLSFG	239	Mus musculus	Neurexophilin	Neurexophilin-2
+NP03723	QDDGPPGSEDPEHDDHEGQPRPRVPRKRGHISPKSRPLANSTLLGLLAPPGEVWGVLGQPPNRPKQSPLPSTKVKKIFGWGDFYSNIKTVALNLLVTGKIVDHGNGTFSVHFRHNATGQGNISISLVPPSKAVEFHQEQQIFIEAKASKIFNCRMEWEKVERGRRTSLCTHDPAKICSRDHAQSSATWSCSQPFKVVCVYIAFYSTDYRLVQKVCPDYNYHSDTPYYPSG	230	Mus musculus	Neurexophilin	Neurexophilin-3
+NP03724	ANLTNGGKSELLKSGNSKSTLKHIWTESSKDLSISRLLSQTFRGKENGTDLDLRYDTPEPYSEQDLWDWLRNSTDLQEPRPRAKRRPIVKTGKFKKMFGWGDFHSNIKTVKLNLLITGKIVDHGNGTFSVYFRHNSTGQGNVSVSLVPPTKIVEFDLAQQTVIDAKDSKSFNCRIEYEKVDKATKNTLCNYDPSKTCYQEQTQSHVSWLCSKPFKVICIYISFYSTDYKLVQKVCPDYNYHSDTPYFPSG	250	Rattus norvegicus	Neurexophilin	Neurexophilin-1
+NP03725	QEDGPPGSEDPEHDDHEGQPRPRVPRKRGHISPKSRPLANSTLLGLLAPPGEVWGILGQPPNRPKQSPLPSTKVKKIFGWGDFYSNIKTVALNLLVTGKIVDHGNGTFSVHFRHNATGQGNISISLVPPSKAVEFHQEQQIFIEAKASKIFNCRMEWEKVERGRRTSLCTHDPAKICSRDHAQSSATWSCSQPFKIVCVYIAFYSTDYRLVQKVCPDYNYHSDTPYYPSG	230	Rattus norvegicus	Neurexophilin	Neurexophilin-3
+NP03726	QIVESGRPQYLDLRPAMAGGGARGQQLPVPASSEGLNPVRSWSWAWPANHTGALARPGAAGGPPVPRTKRKPSIKAARAKKIFGWGDFYFRVHTLKFSLLVTGKIVDHVNGTFSVYFRHNSSSLGNLSVSIVPPSKRVEFGGVWLPGPAPHPLQSTLALEGVLPGLGPPLGMAGQGLGGNLGGALAGPLGGALGVPGAKESRAFNCHVEYEKTNRARKHRPCLYDPSQVCFTEHTQSQAAWLCAKPFKVICIFVSFLSFDYKLVQKVCPDYNFQSEHPYFG	281	Rattus norvegicus	Neurexophilin	Neurexophilin-4
+NP04408	SLALADDAAFRERARLLAALERRHWLNSYMHKLLVLDAP	39	Bos taurus	Parathyroid hormone	Tuberoinfundibular peptide of 39residues
+NP04409	SLALADDAAFRERARLLAALERRHWLNSYMHKLLVLDAP	39	Homo sapiens	Parathyroid hormone	Tuberoinfundibular peptide of 39residues
+NP04410	SLALADDAAFRERARLLAALERRRWLDSYMQKLLLLDAP	39	Mus musculus	Parathyroid hormone	Tuberoinfundibular peptide of 39residues
+NP04411	SLALADDAAFRERARLLAALERRRWLDSYMQKLLLLDAP	39	Rattus norvegicus	Parathyroid hormone	Tuberoinfundibular peptide of 39residues
+NP04412	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWLNSGVAESGLEGDHPYDISATSLELNLRRH	141	Canis familiaris	Parathyroid hormone	Parathyroid hormone-related protein
+NP04413	TRSAWLNSGVAESGLEGDHPYDISATSLELNLR	33	Canis familiaris	Parathyroid hormone	Osteostatin (By similarity)
+NP04414	HQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGRYLTQETNKLEPYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWLNSEVAESGLDGDHLSDFSTTSPELYLRRH	137	Equus caballus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04415	TRSAWLNSEVAESGLDGDHLSDFSTTSPELYLR	33	Equus caballus	Parathyroid hormone	Osteostatin (By similarity)
+NP04416	AVSEHQLLHDKGKSIQDLRRRIFLQNLIEGVNTAEIRATSEVSPNPKPATNTKNYPVRFGSEDEGRYLTQETNKSQTYKEQPLKVSGKKKKAKPGKRKEQEKKKRRARSAWLNSGMYGSNVTESPVLDNSVTTHNHILR	139	Gallus gallus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04417	RSAWLNSGMYGSNVTESPVLDNSVTTHNHILR	32	Gallus gallus	Parathyroid hormone	Osteostatin
+NP04418	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAANTKNHAVRFGSDDEGRYLTQETNKVEPYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWPLSAGAGSGLAGDHLSDISEPEPELDSRRH	141	Oryctolagus cuniculus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04419	TRSAWPLSAGAGSGLAGDHLSDISEPEPELDSR	33	Oryctolagus cuniculus	Parathyroid hormone	Osteostatin (By similarity)
+NP04420	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGKYLTQETNKVETYKEQPLKTPGKKKKGKPG	95	Ovis aries	Parathyroid hormone	Parathyroid hormone-related protein
+NP04421	TRSAWLTSYVAGTGLEEDYLSDISATSLELNSR	33	Bos taurus	Parathyroid hormone	Osteostatin (By similarity)
+NP04422	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGKYLTQETNKVETYKEQPLKTPGKKKKSKPGKRKEQEKKKRRTRSAWLTSYVAGTGLEEDYLSDISATSLELNSRRH	141	Bos taurus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04423	TRSAWLDSGVTGSGLEGDHLSDTSTTSLELDSR	33	Homo sapiens	Parathyroid hormone	Osteostatin
+NP04424	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPSPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWLDSGVTGSGLEGDHLSDTSTTSLELDSRRH	141	Homo sapiens	Parathyroid hormone	Parathyroid hormone-related protein
+NP04425	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEI	36	Homo sapiens	Parathyroid hormone	PTHrP[1-36]
+NP04426	ATSEVSPNSKPSPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKP	57	Homo sapiens	Parathyroid hormone	PTHrP[38-94]
+NP04427	TRSAWPSTAASGLLEDPLPHTSRTSLEPSLR	31	Mus musculus	Parathyroid hormone	Osteostatin (By similarity)
+NP04428	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRREQEKKKRRTRSAWPSTAASGLLEDPLPHTSRTSLEPSLRTH	139	Mus musculus	Parathyroid hormone	Parathyroid hormone-related protein
+NP04429	TRSAWPGTTGSGLLEDPQPHTSPTSTSLEPSSR	33	Rattus norvegicus	Parathyroid hormone	Osteostatin (By similarity)
+NP04430	AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPAPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRREQEKKKRRTRSAWPGTTGSGLLEDPQPHTSPTSTSLEPSSRTH	141	Rattus norvegicus	Parathyroid hormone	Parathyroid hormone-related protein
+NP05518	GPPDPNKFIGLM	12	Agalychnis callidryas	Tachykinin	Tachykinin
+NP05519	SKSHQFYGLM	10	Amia calva	Tachykinin	Tachykinin
+NP05520	DNPSVGQFYGLM	12	Amphiuma tridactylum	Tachykinin	Substance P
+NP05521	APSGFLGVR	9	Blattella germanica	Tachykinin	Tachykinin-related peptide 1
+NP05522	KPRPDQFYGLM	11	Bufo marinus	Tachykinin	bufokinin
+NP05523	YPSGFLGMR	9	Callinectes sapidus	Tachykinin	Tachykinin-related peptide
+NP05524	APSGFLGMRG	10	Cancer borealis	Tachykinin	Tachykinin-related peptide Ia
+NP05525	TPSGFLGMR	9	Cancer irroratus	Tachykinin	Tachykinin-related peptide
+NP05526	TPSGFLGMR	9	Cancer productus	Tachykinin	Tachykinin-related peptide
+NP05527	PSKDAFIGLM	10	Cavia porcellus	Tachykinin	Eledoisin
+NP05528	TPSGFLGMR	9	Homarus americanus	Tachykinin	Tachykinin-related peptide
+NP05529	RPKPQFFGLM	10	Homo sapiens	Tachykinin	Substance P
+NP05530	HKDAFIGLM	9	Lampetra fluviatilis	Tachykinin	Neurokinin A
+NP05531	RKPHPKEFVGLM	12	Lampetra fluviatilis	Tachykinin	Substance P
+NP05532	TPSGFLGMR	9	Metacarcinus magister	Tachykinin	Tachykinin-related peptide
+NP05533	EPSKDAFIGLM	11	NA	Tachykinin	Eledoisin
+NP05534	EADPNKFYGLM	11	NA	Tachykinin	Physalaemin
+NP05535	DDASDRAKKFYGLM	14	Odorrana margaretae	Tachykinin	Ranamargarin
+NP05536	SSANPQITRKRHKINSFVGLM	21	Oncorhynchus mykiss	Tachykinin	neuropeptide-gamma-related peptide
+NP05537	RKPHPKEFVGLM	12	Petromyzon marinus	Tachykinin	Tachykinin
+NP05538	KPKPHQFFGLM	11	Polyodon spathula	Tachykinin	Tachykinin
+NP05539	APSGFLGMR	9	Procambarus clarkii	Tachykinin	Tachykinin-related peptide
+NP05540	RPKPQQFGLM	10	Rattus norvegicus	Tachykinin	Substance P
+NP05541	RPQQFGLM	8	Rattus norvegicus	Tachykinin	Substance P
+NP05542	SKYHQFYGLM	10	Scaphirhynchus platorynchus	Tachykinin	Tachykinin
+NP05543	HKDAFIGLM	9	Sphyrna lewini	Tachykinin	Neurokinin A
+NP05544	DNPSVGQFYGLM	12	Sphyrna lewini	Tachykinin	Substance P
+NP05545	VPSGFTGMR	9	Aedes aegypti	Tachykinin	Tachykinin-related peptide 2
+NP05546	VPNGFLGVR	9	Aedes aegypti	Tachykinin	Tachykinin-related peptide 5
+NP05547	APSGFLGLR	9	Aedes aegypti	Tachykinin	TKRP-1 and 4
+NP05548	APMGFYGTRG	10	Apis mellifera	Tachykinin	Tachykinin
+NP05549	APSGFLGMR	9	Callinectes sapidus	Tachykinin	Tachykinin-related peptide
+NP05550	TPSGFLGMR	9	Callinectes sapidus	Tachykinin	Tachykinin-related peptide
+NP05551	APSGFLGMR	9	Cancer borealis	Tachykinin	Tachykinin-related peptide
+NP05552	APSGFQ	6	Cancer borealis	Tachykinin	Tachykinin-related peptide
+NP05553	GFLGMR	6	Cancer borealis	Tachykinin	Tachykinin-related peptide
+NP05554	TPSGFLGMR	9	Cancer borealis	Tachykinin	Tachykinin-related peptide
+NP05555	SGFLGMR	7	Cancer borealis	Tachykinin	Tachykinin-related peptide Ib
+NP05556	APSGFLGMR	9	Carcinus maenas	Tachykinin	Tachykinin
+NP05557	APSGFLGMRG	10	Carcinus maenas	Tachykinin	Tachykinin
+NP05558	TPSGFLGMR	9	Carcinus maenas	Tachykinin	Tachykinin
+NP05559	PSGFLGMR	8	Carcinus maenas	Tachykinin	Tachykinin-related peptide
+NP05560	SGFLGMR	7	Carcinus maenas	Tachykinin	Tachykinin-related peptide
+NP05561	HVRHFYGLM	9	Ciona intestinalis	Tachykinin	Ci-TK-I
+NP05562	NLLSLLQHAIETANNAYRSPR	21	Ciona intestinalis	Tachykinin	Ci-TK-II
+NP05563	SIGDQPSIFNERASFTGLM	19	Ciona intestinalis	Tachykinin	Ci-TK-II
+NP05564	HKTDSFVGLM	10	Coturnix coturnix japonica	Tachykinin	Neurokinin A
+NP05565	AGYGQISH	8	Coturnix coturnix japonica	Tachykinin	Neuropeptide K
+NP05566	DAGYGQISH	9	Coturnix coturnix japonica	Tachykinin	Neuropeptide K
+NP05567	APYGFTGMR	9	Culex salinarius	Tachykinin	CusTK II
+NP05568	APSGFFGMR	9	Culex salinarius	Tachykinin	CusTK III
+NP05569	APSGFMGMR	9	Culex salinarius	Tachykinin	Tachykinin-1
+NP05570	TPNSRAFLGMR	11	Daphnia pulex	Tachykinin	Tachykinin-related peptide 1
+NP05571	KMHGEKFLGMR	11	Daphnia pulex	Tachykinin	Tachykinin-related peptide 2
+NP05572	APSSNSFMGMR	11	Daphnia pulex	Tachykinin	Tachykinin-related peptide 3
+NP05573	APSGFLGMR	9	Homarus americanus	Tachykinin	Tachykinin
+NP05574	APSGFLGMR	9	Homarus americanus	Tachykinin	Tachykinin
+NP05575	APSGFLGMRG	10	Homarus americanus	Tachykinin	Tachykinin
+NP05576	SGFLGMR	7	Homarus americanus	Tachykinin	Tachykinin
+NP05577	PSGFLGMR	8	Homarus americanus	Tachykinin	Tachykinin-related peptide
+NP05578	GSGFFGMR	8	Ixodes scapularis	Tachykinin	Tachykinin-related peptide 2
+NP05579	AFHAMR	6	Ixodes scapularis	Tachykinin	TKRP-1
+NP05580	APAGFLGMR	9	Litopenaeus vannamei	Tachykinin	Tachykinin-related peptide
+NP05581	APSGFLDMR	9	Litopenaeus vannamei	Tachykinin	Tachykinin-related peptide
+NP05582	APSGFLGMR	9	Litopenaeus vannamei	Tachykinin	Tachykinin-related peptide
+NP05583	APSGFLGMRG	10	Litopenaeus vannamei	Tachykinin	Tachykinin-related peptide
+NP05584	APSGFNGMR	9	Litopenaeus vannamei	Tachykinin	Tachykinin-related peptide
+NP05585	ASMRGFQGMR	10	Nasonia vitripennis	Tachykinin	Tachykinin-1
+NP05586	APMGFQGMR	9	Nasonia vitripennis	Tachykinin	Tachykinin-2
+NP05587	AMMGGFQGMR	10	Nasonia vitripennis	Tachykinin	Tachykinin-3
+NP05588	ALLGFHGMR	9	Nasonia vitripennis	Tachykinin	Tachykinin-4
+NP05589	PMMMGFHGMR	10	Nasonia vitripennis	Tachykinin	Tachykinin-5
+NP05590	SPYRFFGTR	9	Nasonia vitripennis	Tachykinin	Tachykinin-6
+NP05591	NPRWEMRGKFVGVR	14	Nasonia vitripennis	Tachykinin	Tachykinin-7
+NP05592	APSGFLGMR	9	Ocypode ceratophthalma	Tachykinin	Tachykinin-related peptide
+NP05593	APSGFLGMRG	10	Ocypode ceratophthalma	Tachykinin	Tachykinin-related peptide
+NP05594	PSGFLGMR	8	Ocypode ceratophthalma	Tachykinin	Tachykinin-related peptide
+NP05595	SGFLGMR	7	Ocypode ceratophthalma	Tachykinin	Tachykinin-related peptide
+NP05596	TPSGFLGMR	9	Ocypode ceratophthalma	Tachykinin	Tachykinin-related peptide
+NP05597	KPRPHQFIGLM	11	Oryzias latipes	Tachykinin	Substance P
+NP05598	APSGFLGMR	9	Penaeus monodon	Tachykinin	Tachykinin-related peptide
+NP05599	APSGFQGMR	9	Penaeus monodon	Tachykinin	Tachykinin-related peptide
+NP05600	PSGFLGMR	8	Penaeus monodon	Tachykinin	Tachykinin-related peptide
+NP05601	LAQSQFVGSR	10	Urechis unicinctus	Tachykinin	UruTK I
+NP05602	GPSGFLGMR	9	Acrosternum hilare	Tachykinin	Tachykinin-related peptide 1
+NP05603	APAAGFFGMR	10	Acrosternum hilare	Tachykinin	Tachykinin-related peptide 2
+NP05604	GPSSGFFGMR	10	Acrosternum hilare	Tachykinin	Tachykinin-related peptide 3
+NP05605	SPASGFFGMR	10	Acrosternum hilare	Tachykinin	Tachykinin-related peptide 4
+NP05606	APLMGFQGVR	10	Acrosternum hilare	Tachykinin	Tachykinin-related peptide 5
+NP05607	APSMGFMGMR	10	Acrosternum hilare	Tachykinin	Tachykinin-related peptide 6
+NP05608	NTGDKFYGLM	10	Aedes aegypti	Tachykinin	Sialokinin
+NP05609	ALMGFQGVR	9	Apis mellifera	Tachykinin	ALMGFQGVR-amide
+NP05610	APMGFQGMR	9	Apis mellifera	Tachykinin	APMGFQGMR-amide 1
+NP05611	APMGFYGTR	9	Apis mellifera	Tachykinin	APMGFYGTR-amide
+NP05612	APTGHQEMQ	9	Apis mellifera	Tachykinin	APTGHQEMQ-amide
+NP05613	ARMGFHGMR	9	Apis mellifera	Tachykinin	ARMGFHGMR-amide
+NP05614	APMGFYGT	8	Apis mellifera	Tachykinin	Brain peptide APMGFYGT
+NP05615	ASFDDEYY	8	Apis mellifera	Tachykinin	Brain peptide ASFDDEYY
+NP05616	EILDEI	6	Apis mellifera	Tachykinin	Brain peptide EILDEI
+NP05617	GVMDFQIGLQ	10	Apis mellifera	Tachykinin	Brain peptide GVMDFQIGLQ
+NP05618	IILDALEELD	10	Apis mellifera	Tachykinin	Brain peptide IILDALEELD
+NP05619	ILDALEELD	9	Apis mellifera	Tachykinin	Brain peptide ILDALEELD
+NP05620	NSIINDVKNELFPEDIN	17	Apis mellifera	Tachykinin	Brain peptide NSIINDVKNELFPEDIN
+NP05621	SLEEILDEI	9	Apis mellifera	Tachykinin	Brain peptide SLEEILDEI
+NP05622	SLEEILDEIK	10	Apis mellifera	Tachykinin	Brain peptide SLEEILDEIK
+NP05623	VLSMDGYQNILDKKDELLGEWE	22	Apis mellifera	Tachykinin	Brain peptide VLSMDGYQNILDKKDELLGEWE
+NP05624	NPRWEFRGKFVGVR	14	Apis mellifera	Tachykinin	NPRWEFRGKFVGVR-amide
+NP05625	SPFRYLGAR	9	Apis mellifera	Tachykinin	SPFRYLGAR-amide
+NP05626	TTRFQDSRSKDVYLIDYPEDY	21	Apis mellifera	Tachykinin	TTRFQDSRSKDVYLIDYPEDY-amide
+NP05627	GPSGFLGMR	9	Banasa dimidiata	Tachykinin	Tachykinin-related peptide 1
+NP05628	APAAGFFGMR	10	Banasa dimidiata	Tachykinin	Tachykinin-related peptide 2
+NP05629	GPSSGFFGMR	10	Banasa dimidiata	Tachykinin	Tachykinin-related peptide 3
+NP05630	SPASGFFGMR	10	Banasa dimidiata	Tachykinin	Tachykinin-related peptide 4
+NP05631	APLMGFQGVR	10	Banasa dimidiata	Tachykinin	Tachykinin-related peptide 5
+NP05632	APSMGFMGMR	10	Banasa dimidiata	Tachykinin	Tachykinin-related peptide 6
+NP05633	ALNSVAYERSVMQDYE	16	Bos taurus	Tachykinin	C-terminal-flanking peptide
+NP05634	HKTDSFVGLM	10	Bos taurus	Tachykinin	Neurokinin A
+NP05635	DADSSIEKQVALLKALYGHGQLSHKRHKTDSFVGLM	36	Bos taurus	Tachykinin	Neuropeptide K
+NP05636	RPKPQQFFGLM	11	Bos taurus	Tachykinin	Substance P
+NP05637	DMHDFFVGLM	10	Bos taurus	Tachykinin	Neurokinin-B
+NP05638	APTAFYGVR	9	Calliphora vomitoria	Tachykinin	Callitachykinin-1
+NP05639	GLGNNAFVGVR	11	Calliphora vomitoria	Tachykinin	Callitachykinin-2
+NP05640	GKRSQEEPESYEWGTVQIYDKRR	23	Carassius auratus	Tachykinin	C-terminal-flanking peptide
+NP05641	HKINSFVGLM	10	Carassius auratus	Tachykinin	Neurokinin A
+NP05642	SPANAQITRKRHKINSFVGLM	21	Carassius auratus	Tachykinin	Neuropeptide gamma
+NP05643	KPRPHQFIGLM	11	Carassius auratus	Tachykinin	Substance P
+NP05644	RPKPQQFFGLM	11	Cavia porcellus	Tachykinin	Substance P
+NP05645	TPTAFYGVR	9	Delia radicum	Tachykinin	Tachykinin-related peptide TPTAFYGVR-amide
+NP05646	GLGNNAFLGVR	11	Delia radicum	Tachykinin	Tachykinin-related peptide GLGNNAFLGVR-amide
+NP05647	DEEHDTSEGNWLGSGPDPLDYADEEADSSYAEN	33	Drosophila melanogaster	Tachykinin	Tachykinin-associated peptide 1(Potential)
+NP05648	FIPINNRLSDVLQSLEEERLRDSLLQDFFDRVAGRDGSAV	40	Drosophila melanogaster	Tachykinin	Tachykinin-associated peptide 2(Potential)
+NP05649	PALLAGDDDAEADEATELQQ	20	Drosophila melanogaster	Tachykinin	Tachykinin-associated peptide 3(Potential)
+NP05650	DVSHQHY	7	Drosophila melanogaster	Tachykinin	Tachykinin-associated peptide 4(Potential)
+NP05651	AALSDSYDLRGKQQRFADFNSKFVAVR	27	Drosophila melanogaster	Tachykinin	Tachykinin-associated peptide 5(Potential)
+NP05652	SDLEGNGVGIGDDHEQALVHPWLYLWGE	28	Drosophila melanogaster	Tachykinin	Tachykinin-associated peptide 6(Potential)
+NP05653	APTSSFIGMR	10	Drosophila melanogaster	Tachykinin	Tachykinin-related peptide 1 (Potential)
+NP05654	APLAFVGLR	9	Drosophila melanogaster	Tachykinin	Tachykinin-related peptide 2 (Potential)
+NP05655	APTGFTGMR	9	Drosophila melanogaster	Tachykinin	Tachykinin-related peptide 3 (Potential)
+NP05656	APVNSFVGMR	10	Drosophila melanogaster	Tachykinin	Tachykinin-related peptide 4 (Potential)
+NP05657	APNGFLGMR	9	Drosophila melanogaster	Tachykinin	Tachykinin-related peptide 5 (Potential)
+NP05658	EDEKDQRAADWMGPDPLDYADMDEDSIYYEN	31	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-associated peptide 1(Potential)
+NP05659	YIPISNRLSDVLHQIEEQRMRENLLEDLFERLAAGDDSVGDV	42	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-associated peptide 2(Potential)
+NP05660	PMSGDDDDNDAMELLQ	16	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-associated peptide 3(Potential)
+NP05661	DVSHQHY	7	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-associated peptide 4(Potential)
+NP05662	AALSEAYDVRGKKERYADFNSKFVAVR	27	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-associated peptide 5(Potential)
+NP05663	SEQEAGLDTGDGDGDQQYLVRPWLYLWADN	30	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-associated peptide 6(Potential)
+NP05664	APTSSFIGMR	10	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-related peptide 1 (Potential)
+NP05665	APMSFVGMR	9	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-related peptide 2 (Potential)
+NP05666	APTGFTGMR	9	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-related peptide 3 (Potential)
+NP05667	APVNSFLGVR	10	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-related peptide 4 (Potential)
+NP05668	APSGFQGMR	9	Drosophila pseudoobscura pseudoobscura	Tachykinin	Tachykinin-related peptide 5 (Potential)
+NP05669	QPSKDAFIGLM	11	Eledone cirrhosa	Tachykinin	Eledoisin
+NP05670	QPSKDAFIGLM	11	Eledone moschata	Tachykinin	Eledoisin
+NP05671	RPKPQQFFGLM	11	Equus caballus	Tachykinin	Substance P
+NP05672	GPSGFLGMR	9	Euschistus servus	Tachykinin	Tachykinin-related peptide 1
+NP05673	APAAGFFGMR	10	Euschistus servus	Tachykinin	Tachykinin-related peptide 2
+NP05674	GPSSGFFGMR	10	Euschistus servus	Tachykinin	Tachykinin-related peptide 3
+NP05675	SPASGFFGMR	10	Euschistus servus	Tachykinin	Tachykinin-related peptide 4
+NP05676	APLMGFQGVR	10	Euschistus servus	Tachykinin	Tachykinin-related peptide 5
+NP05677	APSMGFMGMR	10	Euschistus servus	Tachykinin	Tachykinin-related peptide 6
+NP05678	KPRPQQFIGLM	11	Gadus morhua	Tachykinin	Substance P
+NP05679	HKINSFVGLM	10	Gadus morhua	Tachykinin	Neurokinin A
+NP05680	RPRPQQFFGLM	11	Gallus gallus	Tachykinin	Substance P
+NP05681	HKTDSFVGLM	10	Gallus gallus	Tachykinin	Neurokinin A
+NP05682	ALNSVAYERSAMQNYE	16	Homo sapiens	Tachykinin	C-terminal-flanking peptide
+NP05683	HKTDSFVGLM	10	Homo sapiens	Tachykinin	Neurokinin A
+NP05684	DADSSIEKQVALLKALYGHGQISHKRHKTDSFVGLM	36	Homo sapiens	Tachykinin	Neuropeptide K
+NP05685	RPKPQQFFGLM	11	Homo sapiens	Tachykinin	Substance P
+NP05686	DMHDFFVGLM	10	Homo sapiens	Tachykinin	Neurokinin-B
+NP05687	DEPKPDQFVGLM	12	Kassina maculata	Tachykinin	Hylambates kassinin
+NP05688	DPPDPDRFYGMM	12	Kassina maculata	Tachykinin	Hylambatin
+NP05689	DVPKSDQFVGLM	12	Kassina senegalensis	Tachykinin	Kassinin
+NP05690	KPSPDRFYGLM	11	Lithobates catesbeiana	Tachykinin	Ranatachykinin-A
+NP05691	YKSDSFYGLM	10	Lithobates catesbeiana	Tachykinin	Ranatachykinin-B
+NP05692	HNPASFIGLM	10	Lithobates catesbeiana	Tachykinin	Ranatachykinin C
+NP05693	KPNPERFYAPM	11	Lithobates catesbeiana	Tachykinin	Ranatachykinin-D
+NP05694	GPSGFYGVR	9	Locusta migratoria	Tachykinin	Locustatachykinin-1
+NP05695	APLSGFYGVR	10	Locusta migratoria	Tachykinin	Locustatachykinin-2
+NP05696	APQAGFYGVR	10	Locusta migratoria	Tachykinin	Locustatachykinin-3
+NP05697	APSLGFHGVR	10	Locusta migratoria	Tachykinin	Locustatachykinin-4
+NP05698	ALNSVAFERSAMQNYE	16	Mesocricetus auratus	Tachykinin	C-terminal-flanking peptide (Bysimilarity)
+NP05699	HKTDSFVGLM	10	Mesocricetus auratus	Tachykinin	Neurokinin A
+NP05700	DADSSIEKQVALLKALYGHGQISHKRHKTDSFVGLM	36	Mesocricetus auratus	Tachykinin	Neuropeptide K
+NP05701	RPKPQQFFGLM	11	Mesocricetus auratus	Tachykinin	Substance P
+NP05702	ALNSVAYERSAMQNYE	16	Mus musculus	Tachykinin	C-terminal-flanking peptide (Bysimilarity)
+NP05703	HKTDSFVGLM	10	Mus musculus	Tachykinin	Neurokinin A
+NP05704	DADSSVEKQVALLKALYGHGQISHKRHKTDSFVGLM	36	Mus musculus	Tachykinin	Neuropeptide K
+NP05705	RPKPQQFFGLM	11	Mus musculus	Tachykinin	Substance P
+NP05706	DMHDFFVGLM	10	Mus musculus	Tachykinin	Neurokinin-B
+NP05707	GPSGFLGMR	9	Nezara viridula	Tachykinin	Tachykinin-related peptide 1
+NP05708	APAAGFFGMR	10	Nezara viridula	Tachykinin	Tachykinin-related peptide 2
+NP05709	GPSSGFFGMR	10	Nezara viridula	Tachykinin	Tachykinin-related peptide 3
+NP05710	SPASGFFGMR	10	Nezara viridula	Tachykinin	Tachykinin-related peptide 4
+NP05711	APLMGFQGVR	10	Nezara viridula	Tachykinin	Tachykinin-related peptide 5
+NP05712	APSMGFMGMR	10	Nezara viridula	Tachykinin	Tachykinin-related peptide 6
+NP05713	KPPSSSEFIGLM	12	Octopus vulgaris	Tachykinin	Tachykinin-1
+NP05714	KPPSSSEFVGLM	12	Octopus vulgaris	Tachykinin	Tachykinin-2
+NP05715	DDASDRAKKFYGLM	14	Odorrana margaretae	Tachykinin	Ranamargarin
+NP05716	GPSGFLGMR	9	Oncopeltus fasciatus	Tachykinin	Tachykinin-related peptide 1
+NP05717	APASGFFGMR	10	Oncopeltus fasciatus	Tachykinin	Tachykinin-related peptide 2
+NP05718	APSSGFFGTR	10	Oncopeltus fasciatus	Tachykinin	Tachykinin-related peptide 3
+NP05719	NPASGFFGMR	10	Oncopeltus fasciatus	Tachykinin	Tachykinin-related peptide 4
+NP05720	APVMGFQGMR	10	Oncopeltus fasciatus	Tachykinin	Tachykinin-related peptide 5
+NP05721	APSMGFMGMR	10	Oncopeltus fasciatus	Tachykinin	Tachykinin-related peptide 6
+NP05722	KPRPHQFFGLM	11	Oncorhynchus mykiss	Tachykinin	Substance P
+NP05723	HKINSFVGLM	10	Oncorhynchus mykiss	Tachykinin	Neurokinin A
+NP05724	ALNSVAYERSAMQNYE	16	Oryctolagus cuniculus	Tachykinin	C-terminal-flanking peptide
+NP05725	HKTDSFVGLM	10	Oryctolagus cuniculus	Tachykinin	Neurokinin A
+NP05726	DAGHGQISHKRHKTDSFVGLM	21	Oryctolagus cuniculus	Tachykinin	Neuropeptide gamma
+NP05727	RPKPQQFFGLM	11	Oryctolagus cuniculus	Tachykinin	Substance P
+NP05728	KPNPERFYGLM	11	Pelophylax ridibundus	Tachykinin	Ranakinin
+NP05729	HKLDSFIGLM	10	Pelophylax ridibundus	Tachykinin	Neurokinin A
+NP05730	DMHDFFVGLM	10	Pelophylax ridibundus	Tachykinin	Neurokinin-B
+NP05731	GPSGFLGMR	9	Pentatoma rufipes	Tachykinin	Tachykinin-related peptide 1
+NP05732	APAAGFFGMR	10	Pentatoma rufipes	Tachykinin	Tachykinin-related peptide 2
+NP05733	GPSSGFFGMR	10	Pentatoma rufipes	Tachykinin	Tachykinin-related peptide 3
+NP05734	SPASGFFGMR	10	Pentatoma rufipes	Tachykinin	Tachykinin-related peptide 4
+NP05735	APLMGFQGVR	10	Pentatoma rufipes	Tachykinin	Tachykinin-related peptide 5
+NP05736	APSMGFMGMR	10	Pentatoma rufipes	Tachykinin	Tachykinin-related peptide 6
+NP05737	QNPNRFIGLM	10	Phyllomedusa bicolor	Tachykinin	Phyllomedusin
+NP05738	QADPNKFYGLM	11	Physalaemus fuscomaculatus	Tachykinin	Physalaemin
+NP05739	QPHPDEFVGLM	11	Pseudophryne guentheri	Tachykinin	Kassinin-like peptide K-I
+NP05740	QPNPDEFVGLM	11	Pseudophryne guentheri	Tachykinin	Kassinin-like peptide K-II
+NP05741	QPHPNEFVGLM	11	Pseudophryne guentheri	Tachykinin	Kassinin-like peptide K-III
+NP05742	QPNPDEFFGLM	11	Pseudophryne guentheri	Tachykinin	Substance P-like peptide 1
+NP05743	QPNPNEFFGLM	11	Pseudophryne guentheri	Tachykinin	Substance P-like peptide 2
+NP05744	GPSGFLGMR	9	Pyrrhocoris apterus	Tachykinin	Tachykinin-related peptide 1
+NP05745	APASGFFGMR	10	Pyrrhocoris apterus	Tachykinin	Tachykinin-related peptide 2
+NP05746	GPSSGFFGTR	10	Pyrrhocoris apterus	Tachykinin	Tachykinin-related peptide 3
+NP05747	TPASGFFGMR	10	Pyrrhocoris apterus	Tachykinin	Tachykinin-related peptide 4
+NP05748	APVMGFQGMR	10	Pyrrhocoris apterus	Tachykinin	Tachykinin-related peptide 5
+NP05749	APSSMGFMGMR	11	Pyrrhocoris apterus	Tachykinin	Tachykinin-related peptide 6
+NP05750	ALNSVAYERSAMQNYE	16	Rattus norvegicus	Tachykinin	C-terminal-flanking peptide
+NP05751	HKTDSFVGLM	10	Rattus norvegicus	Tachykinin	Neurokinin A
+NP05752	DADSSIEKQVALLKALYGHGQISHKRHKTDSFVGLM	36	Rattus norvegicus	Tachykinin	Neuropeptide K
+NP05753	RPKPQQFFGLM	11	Rattus norvegicus	Tachykinin	Substance P
+NP05754	DMHDFFVGLM	10	Rattus norvegicus	Tachykinin	Neurokinin-B
+NP05755	SGPGFMGVR	9	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 1
+NP05756	TSMGFQGVR	9	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 2
+NP05757	APASGFFGMR	10	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 3
+NP05758	ASGFFGMR	8	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 3(3-10)
+NP05759	SGFFGMR	7	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 3(4-10)
+NP05760	TPSDGFMGMR	10	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 4
+NP05761	APACVGFQGMR	11	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 5
+NP05762	GPSSSAFFGMR	11	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 6
+NP05763	SPATMGFAGVR	11	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 7
+NP05764	QERRAMGFVGMR	12	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 8
+NP05765	FVGMR	5	Rhodnius prolixus	Tachykinin	Tachykinin-related peptide 8(8-12)
+NP05766	APSGFLGVR	9	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 1
+NP05767	APEESPKRAPSGFLGVR	17	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 2
+NP05768	NGERAPGSKKAPSGFLGTR	19	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 3
+NP05769	APSGFMGMR	9	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 4
+NP05770	APAMGFQGVR	10	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 5
+NP05771	APAAGFFGMR	10	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 6
+NP05772	VPASGFFGMR	10	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 7
+NP05773	GPSMGFHGMR	10	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 8
+NP05774	APSMGFQGMR	10	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 9
+NP05775	SGLDSLSGATFGGNR	15	Rhyparobia maderae	Tachykinin	Tachykinin-related peptide 10
+NP05776	GNTKKAVPGFYGTR	14	Schistocerca gregaria	Tachykinin	Tachykinin-1
+NP05777	AKFDKFYGLM	10	Scyliorhinus canicula	Tachykinin	Scyliorhinin-1
+NP05778	SPSNSKCPDGPDCFVGLM	18	Scyliorhinus canicula	Tachykinin	Scyliorhinin-2
+NP05779	KPRPGQFFGLM	11	Scyliorhinus canicula	Tachykinin	Substance P
+NP05780	DMHDFFVGLM	10	Sus scrofa	Tachykinin	Neurokinin-B
+NP05781	SNSKCPDGPDCFVGLM	16	Torpedo marmorata	Tachykinin	Des[Ser(1)Pro(2)] scyliorhinin-2
+NP05782	QADPNAFYGLM	11	Uperoleia inundata	Tachykinin	Uperin-11
+NP05783	QPDPNAFYGLM	11	Uperoleia rugosa	Tachykinin	Uperolein
+NP05784	QADPKTFYGLM	11	Uperoleia rugosa	Tachykinin	Rugosauperolein-2
+NP05785	LRQSQFVGSR	10	Urechis unicinctus	Tachykinin	Urechistachykinin-1
+NP05786	AAGMGFFGAR	10	Urechis unicinctus	Tachykinin	Urechistachykinin-2
+NP05787	EHP	3	Rattus norvegicus	TRH	Thyrotropin-releasing hormone
+NP05788	QPLAGEGDPSLDELFQRAESLLIRSILTQTEDENHGDGEQTEWLEKRQHPGKRQHPGKREDTDYEDEAAALQKRQHPGKREEEEDSARLRRQHPGKRLSLEHMMLEEPTAQSELAKRQHPGRRYLMLLHKRQHPGRRELHEAAGDFSDLAKRQHPGKRLCEDWDVTGCDQASILLELLDNVNKSRAEEKRQHPGKRFALEDELTEQESL	209	Carassius auratus	TRH	Prothyroliberin
+NP05789	QHP	3	Carassius auratus	TRH	Thyroliberin
+NP05790	QALPGEGDPSLDELLQLLRSMLTQMEDENHANGEQTEWLEKRQHPGKREEDGGRLRRQHPGKRLSLEQVMLEEPSEQSELSKRQHPGKRYLMLLHKRQHPGRRELQEASLAKRQHPGKRLCEDWSETGCDPASVLLELLDRSGAEEKRQHPGKRLELEDDLTEQE	165	Cyprinus carpio	TRH	Prothyroliberin
+NP05791	QHP	3	Cyprinus carpio	TRH	Thyroliberin
+NP05792	QDGPAEEELFQRAEDLLLRSILTQMEEQNSENDQPEWMEKRQHPGKRQHPGKREEDLEPEVEMERWRRQHPGKRAPLDLGMLEDPTALSELSKRQHPGKRYLMLLHKRQHPGRRELQEADGDSAELEKRQHPGKRRCEGWADAGCGLLELLDTSGAPEKRQHPGRRAELEDELPGLE	177	Danio rerio	TRH	Prothyroliberin
+NP05793	QHP	3	Danio rerio	TRH	Thyroliberin
+NP05794	FPPELSENMGRSSLDDILQRSGSHMLQSVLKKVEKKEEMNKELNMPLPQWLSKRQHPGKRYISDPEKRQHPGKRDVEEKASFGDIQKRQHLGKTEVEGYLVNYLELKKRQHPGRRSLWDQSTDISSSQLTYLNELSKRQHPGRRYLMYKHQHPSKRGWNDELDLSDQNWEKHQQFGNRDRDSDSPDYTGPCDLQQSAICNKDSLLLDLAEKFSKEGVEEKHQHPGRRSAWENETEE	236	Gallus gallus	TRH	Prothyroliberin
+NP05795	QHP	3	Gallus gallus	TRH	Thyroliberin
+NP05796	QHL	3	Gallus gallus	TRH	Thyroliberin-like
+NP05797	QGIPAEEETGDRQTIDDIILQRAESLLLRSILKNIGDEDGANEGLTSQPEWLVKRQHPGKRYQEELEKRQHPGKREEDEDEDYDEVQKRQHPGKREDEFDSFVELQRRQHPGKRLILEQITENPAFLSELSKRQHPGKRYVMYYSKRQHPGRREVDDESDAGDLRELEKRQHPGKRYLDNTSPDLGANSPCDVLDPGCSKANLLLQLLDNVNKSRAEKRQHPGKRSAPVEDLTEQE	236	Oncorhynchus nerka	TRH	Prothyroliberin type A
+NP05798	QHP	3	Oncorhynchus nerka	TRH	Thyroliberin
+NP05799	QPEAAQQEAVTAAEHPGLDDFLRQVERLLFLRENIQRLQGDQGEHSASQIFQSDWLSKRQHPGKREEEEEEGVEEEEEEEGGAVGPHKRQHPGRREDEASWSVDVTQHKRQHPGRRSPWLAYAVPKRQHPGRRLADPKAQRSWEEEEEEEEREEDLMPEKRQHPGKRALGGPCGPQGAYGQAGLLLGLLDDLSRSQGAEEKRQHPGRRAAWVREPLEE	218	Homo sapiens	TRH	Pro-thyrotropin-releasing hormone
+NP05800	QHP	3	Homo sapiens	TRH	Thyrotropin-releasing hormone
+NP05801	LLEAAQEEGAVTPDLPGLEKVQVRPERRFLRKDLQRVRGDLGAALDSWITKRQHPGKREEKEEDVEAEERGDLGEVGAWRPHKRQHPGRRANQDKDSWSDEGDSDWLPPSWLPDFFLDSWFSDAPQVKRQHPGRRSFPWMESDVTKRQHPGRRFIDPELQRSWEETEGEEGGLMPEKRQHPGKRAVGHPCGPQGICGQTGLLQLLGDLSRGQETLAKQTPQLEAWVREPLEE	232	Mus musculus	TRH	Pro-thyrotropin-releasing hormone
+NP05802	QHP	3	Mus musculus	TRH	Thyrotropin-releasing hormone (By similarity)
+NP05803	LPEAAQEEGAVTPDLPGLENVQVRPERRFLWKDLQRVRGDLGAALDSWITKRQHPGKREEEEKDIEAEERGDLGEGGAWRLHKRQHPGRRANQDKYSWADEEDSDWMPRSWLPDFFLDSWFSDVPQVKRQHPGRRSFPWMESDVTKRQHPGRRFIDPELQRSWEEKEGEGVLMPEKRQHPGKRALGHPCGPQGTCGQTGLLQLLGDLSRGQETLVKQSPQVEPWDKEPLEE	231	Rattus norvegicus	TRH	Pro-thyrotropin-releasing hormone
+NP05804	QHP	3	Rattus norvegicus	TRH	Thyrotropin-releasing hormone

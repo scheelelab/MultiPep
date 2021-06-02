@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ63	1168628	P46160		Beta-defensin 2 	Bos taurus 	Animalia (Mammals)	VRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW	40	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ108	12644272	P46163		Beta-defensin 5 precursor 	Bos taurus 	Animalia (Mammals)	QVVRNPQSCRWNMGVCIPISCPGNMRQIGTCFGPRVPCCR	40	8454635	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ128	134863	P18312		Sarcotoxin-1D	Sarcophaga peregrina	Animalia (Insects)	GWIRDFGKRIERVGQHTRDATIQTIAVAQQAANVAATLKG	40	3182836	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ130	1352071	P46165		Beta-defensin 7 	 Bos taurus 	Animalia (Mammals)	QGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPRIKCCR	40	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ336	298770			Beta-defensin 5 , BNBD-5	Bos taurus 	Animalia (Mammals)	EVVRNPQSCRWNMGVCIPISCPGNMRQIGTCFGPRVPCCR	40	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ338	298772			Beta-defensin 7 , BNBD-7	Bos taurus 	Animalia (Mammals)	EGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPRIKCCR	40	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ339	298774			Beta-defensin 9 , BNBD-9	Bos taurus 	Animalia (Mammals)	EGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPQIKCCR	40	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ340	298775			Beta-defensin 10 , BNBD-10	Bos taurus 	Animalia (Mammals)	EGVRSYLSCWGNRGICLLNRCPGRMRQIGTCLAPRVKCCR	40	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ397	401061	P31530		Sapecin-C	Sarcophaga peregrina	Animalia (Insects)	ATCDLLSGIGVQHSACALHCVFRGNRGGYCTGKGICVCRN	40	8471044	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ848	61252268	P83404		Defensin	Phlebotomus duboscqi	Animalia (Insects)	ATCDLLSAFGVGHAACAAHCIGHGYRGGYCNSKAVCTCRR	40	15557638	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ854	6647599	P82103		Myticin-A	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	HSHACTSYWCGKFCGTASCTHYLCRVLHPGKMCACVHCSR	40	10491159	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ855	6647598	P82102		Myticin-B	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	HPHVCTSYYCSKFCGTAGCTRYGCRNLHRGKLCFCLHCSR	40	10491159	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ886	116086	P14954		Cecropin-A1/A2	Drosophila melanogaster	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATARG	40	2390977	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ894	544149	P36192		Defensin	Drosophila melanogaster	Animalia (Insects)	ATCDLLSKWNWNHTACAGHCIAKGFKGGYCNDKAVCVCRN	40	8168509	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ906	134214	P18313	1L4V	Sapecin	Sarcophaga peregrina	Animalia (Insects)	ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKAVCVCRN	40	3182836	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ942	74639078	Q53I06	1ZFU,3E7R,3E7U	Plectasin	Pseudoplectania nigrella	Fungi	GFGCNGPWDEDDMQCHNHCKSIKGYKGGYCAKGGFVCKCY	40	16222292	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1139	5902771	P81591		Antimicrobial protein PN-AMP1	Ipomoea nil	Viridiplantae	QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCR	40	9507071	Antifungal		Experimentally Validated
+CAMPSQ2715		P46168		  Bovine Beta-defensin 10  	Bos taurus	Animalia (Mammals)	QGVRSYLSCWGNRGICLLNRCPGRMRQIGTCLAPRVKCCR	40	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3188				  Smd2 	Stomoxys calcitrans	Animalia (Insects)	ATCDLLSMWNVNHSACAAHCLLLGKSGGRCNDDAVCVCRK	40	9326639	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3418				  Beta-amyloid peptide(1-40) 	Homo sapiens	Animalia (Mammals)	DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV	40	20209079	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3933		P86253		Beta-defensin 1	Emys orbicularis 	Animalia (Reptiles)	YDLSKNCRLRGGICYIGKCPRRFFRSGSCSRGNVCCLRFG	40	19253295	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4156	460425417	B3EWY5		Lucifensin	Lucilia cuprina 	Animalia (Mammals)	ATCDLLSGTGIKHSACAAHCLLRGNRGGYCNGRAICVCRN	40		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ4482		Q0MWV8	2LG4	Aurelin	Aurelia aurita	Animalia	AACSDRAHGHICESFKSFCKDSGRNGVKLRANCKKTCGLC	40	16890198	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8099	328929996	G9CU49		Beta-defensin	Gadus morhua 	Animalia (Pisces)	FPWSCPTLSGVCRKVCLPTEMFFGPLGCGKEFQCCVSHFF	40	23638029	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8253				OaBac5gamma	Ovis aries	Animalia (Mammals)	RFRPPILRPPIRPPFRPPFRPPVRPPIRPPFRPPFRPPIGPFP	40	14651991	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

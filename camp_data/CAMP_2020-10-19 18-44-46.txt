@@ -1,0 +1,27 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ177	159106936	Q8SQD4		Sperm associated antigen 11 isoform C	Macaca mulatta	Animalia (Mammals)	APIIRRIPYYPEVESDLRIVDCKRSEGFCQEYCNYLETQVGYCSKKKDACCLH	53	15229135	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ193	1706354	P17722		Royalisin precursor 	Apis mellifera	Animalia (Insects)	VTCDLLSFKGQVNDSACAANCLSLGKAGGHCEKVGCICRKTSFKDLWDKYF	51	2358464	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ385	3913449	P81462		Defensin	Bombus pascuorum 	Animalia (Insects)	VTCDLLSIKGVAEHSACAANCLSMGKAGGRCENGICLCRKTTFKELWDKRF	51	9219367	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ671	26393023	P81571		Antimicrobial peptide D2 	Spinacia oleracea	Viridiplantae	GIFSSRKCKTPSKTFKGICTRDSNCDTSCRYEGYPAGDCKGIRRRCMCSKPC	52	9762899	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ746	51701746	P84117		Perinerin	Perinereis aibuhitensis	Animalia (Annelids (Polychaeta))	FNKLKQGSSKRTCAKCFRKIMPSVHELDERRRGANRWAAGFRKCVSSICRY	51	15113828	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ817				Enterocin B	Enterococcus faecium T136	Bacteria	ENDHRMPNNLNRPNNLSKGGAKCGAAIAGGLFGIPKGPLAWAAGLANVYSKCN	53	Reference: Komori, T., Yamada, S., Imaseki, H. (1997). Plant Physiol. 115, 314.	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ912	3915600	P30224		Cysteine-rich antifungal protein 1 (At-AFP1)	Arabidopsis thaliana	Viridiplantae	QKLCERPSGTWSGVCGNSNACKNQCINLEKARHGSCNYVFPAHKCICYFPC	51	8422949	Antifungal		Experimentally Validated
+CAMPSQ915	75139850	Q7M1F4, P0C8Y5		Defensin AMP1	Heuchera sanguinea	Viridiplantae	DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC	54	7628617	Antifungal		Experimentally Validated
+CAMPSQ917	1703204	P30231		Cysteine-rich antifungal protein 1 (Sa-AFP1)	Sinapis alba 	Viridiplantae	QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC	51	8422949	Antifungal		Experimentally Validated
+CAMPSQ918	1703192	P30232		Cysteine-rich antifungal protein 2 (Sa-AFP2)	Sinapis alba	Viridiplantae	QKLCQRPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC	51	8422949	Antifungal		Experimentally Validated
+CAMPSQ922	1703206	P30230		Cysteine-rich antifungal protein 2	Raphanus sativus	Viridiplantae	QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSCNYVFPAHKCICYFPC	51	7780308	Antifungal		Experimentally Validated
+CAMPSQ1655	11386634	O80995		Probable cysteine-rich antifungal protein	Arabidopsis thaliana	Viridiplantae	QKLCEKPSGTWSGVCGNSNACKNQCINLEGAKHGSCNYVFPAHKCICYFPC	51		Antifungal		Experimentally Validated
+CAMPSQ3083		P56552	1BRZ	  Brazzein 	Pentadiplandra brazzeana	Viridiplantae	QDKCKKVYENYPVSKCQLANQCNYDCKLDKHARSGECFYDEKRNLQCICDYCEY	54	15118082	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3256				  AdDLP 	Anaeromyxobacter dehalogenans	Bacteria	VNPSYRLDPESRPQCEAHCGQLGMRLGAIVIMGTATGCVCEPKEAATPESR	51	19615342	Antiparasitic		Experimentally Validated
+CAMPSQ3270				  Adrenomedullin 	Homo sapiens	Animalia (Mammals)	YRQSMNNFQGLRSFGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY	52	10225288	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3329				  AvBD10 	Anas platyrhynchos	Animalia (Aves)	VLLFLFQAAPGSADAPFADTAACRSQGNFCRAGACPPTFAASGSCHGGLLNCCAK	55	Reference: Liao W, Ma D, Wang R, Han Z, Shao T, Li H, Liu S (2009) mRNA Cloning, Evolutionary Analysis and Biological Characterization of Duck Avian Beta-defensin 10. Acta Veterinaria et Zootechnica Sinica, 2009, 40(9): 1320-1326.
+	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3335		Q01701	2KCN	  PAF 	Penicillium chrysogenum	Fungi (Eurotiomycetes)	AKYTGKCTKSKNECKYKNDAGKDTFIKCPKFDNKKCTKDNNKCTVDTYNNAVDCD	55	12856109	Antifungal		Experimentally Validated
+CAMPSQ3363				  SpStrongylocin 2 	Strongylocentrotus purpuratus	Animalia (Echinoidea)	WNPFRKLYRKECNDVTSCDTVSGVKTCTKKNCCHRKFFGKTILKAPECTVIS	52	19852980	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3475				  Defensin-NV 	Nasonia vitripennis	Animalia (Insects)	VTCELLMFGGVVGDSACAANCLSMGKAGGSCNGGLCDCRKTTFKELWDKRFG	52	20362606	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3528				  Hc-AFP2 	Heliophila coronopifolia	Viridiplantae	QKLCERPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC	51	22032337	Antifungal		Experimentally Validated
+CAMPSQ3530				  Ac-AFP4 	Heliophila coronopifolia	Viridiplantae	QKLCERPSGTWSGVCGNNGACRNQCIRLERARHGSCNYVFPAHKCICYFPC	51	22032337	Antifungal		Experimentally Validated
+CAMPSQ3671				  Oh-defensin 	Haplopelma hainanum	Animalia (Arachnids)	MLCKLSMFGAVLGVPACAIDCLPMGKTGGSCEGGVCGCRKLTFKILWDKKFG	52	21538709	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3819				  CATH_BRALE 	Brachymystax lenok	Animalia (Pisces)	RRSKARGGSRGSKMGRKDSKGGSRGRPGSGSRPGGGSSIAGASRGDRGGTRNA	53	23390641	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3892		P0A313		Bacteriocin lactococcin-A 	Lactococcus lactis subsp. cremoris 	Bacteria	KLTFIQSTAAGDLYYNTNTHKYVYQQTQNAFGAAANTIVNGWMGGAAGGFGLHH	54	1904860	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ8042				DEFB30	Rattus norvegicus 	Animalia (Mammals)	GVNMYIRQIYDTCWKLKGHCRNVCGKKEIFHIFCGTQFLCCIERKEMPVFVK	52	16457734	Antibacterial	Gram-ve	Experimentally Validated

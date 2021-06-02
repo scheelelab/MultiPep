@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ277	2495138	P55897		Buforin-1 	Bufo gargarizans	Animalia (Amphibians)	AGRGKQGGKVRAKAKTRSSRAGLQFPVGRVHRLLRKGNY	39	8573171	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ469	462270	P34084		Histatin-1	Macaca fascicularis	Animalia (Mammals)	DSHEERHHGRHGHHKYGRKFHEKHHSHRGYRSNYLYDN	38	2229609	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ513	543976	Q06589		Cecropin-1	Ceratitis capitata	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQTIAVAQQAANVAATAR	39	7916722	Antibacterial		Experimentally Validated
+CAMPSQ555	6016131, 546442	P46156		Gallinacin-1	Gallus gallus	Animalia (Aves)	GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIW	39	8150085	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ618	73915343, 546441	P46157		Gallinacin-1 alpha	Gallus gallus 	Animalia (Aves)	GRKSDCFRKNGFCAFLKCPYLTLISGKCSRFHLCCKRIW	39	8150085	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ710		A6MBR1		OdP2a	Odorrana grahami	Animalia (Amphibians)	GLLSGILGAGKHIVCGLSGPCQSLNRKSSDVEYHLAKC	38	17272268	Antibacterial,Antifungal 	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ734	38641346	Q6TN20		Cathelicidin	Canis lupus familiaris	Animalia (Mammals)	RLKELITTGGQKIGEKIRRIGQRIKDFFKNLQPREEKS	38	17462733	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ738	123134	P15515		Histatin-1	Homo sapiens 	Animalia (Mammals)	DSHEKRHHGYRRKFHEKHHSHREFPFYGDYGSNYLYDN	38	3286634	Antifungal		Experimentally Validated
+CAMPSQ845	115654	P02663		Casocidin-1	Bos taurus 	Animalia (Mammals)	KTKLTEEEKNRLNFLKKISQRYQKFALPQYLKTVYQHQK	39	7556666	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ887	116089	P14956		Cecropin-B	Drosophila melanogaster	Animalia (Insects)	GWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATAR	39	2390977	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ934	51317001	P80571	1FJN	Defensin MGD-1 precursor	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRC	38	8925841	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ959	75172159	Q9FR52		Shepherin II	Capsella bursa-pastoris	Viridiplantae	GYHGGHGGHGGGYNGGGGHGGHGGGYNGGGHHGGGGHG	38	11117262	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ979	1706115	P51437		Cathelin-related antimicrobial peptide 	 Mus musculus	Animalia (Mammals)	ISRLAGLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE	38	9148921	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1108	190359306	P85148		Bacteriocin E50-52 	Enterococcus faecium	Bacteria	TTKNYGNGVCNSVNWCQCGNVWASCNLATGCAAWLCKLA	39	18293921	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2812				  ALL-38 	Homo sapiens	Animalia (Mammals)	ALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	38	12759353	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2861				  Mussel defensin MGD-2 	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	GFGCPNNYACHQHCKSIRGYCGGYCAGWFRLRCTCYRCG	39	10564642	Antibacterial, Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ2910				  G. mellonella moricin-like peptide A 	Galleria mellonella	Animalia (Insects)	KVNANAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH	39	18207081	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3079				  Enterocin 1071 	Enterococcus faecalis BFE 1071	Bacteria	ESVFSKIGNAVGPAAYWILKGLGNMSDVNQADRINRKKH	39	10742203	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3260				  Longicin 	Haemaphysalis longicornis	Animalia (Insects)	GFGCPLNQGACHNHCRSIGRRGGYCAGIIKQTCTCYRK	38	17485458	Antibacterial, Antiparasitic		Experimentally Validated
+CAMPSQ3339				  Enterocin X	Enterococcus faecium KU-B5	Bacteria	SNDSLWYGVGQFMGKQANCITNHPVKHMIIPGYCSKILG	39	20418437	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3703				  Px-cec1 	Plutella xylostella L	Animalia (Insects)	KPFKKLEKVGRNIRDGIIKAGPAVAVIGQATSIARPTGK	39	22921836	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3776			2LR5	  Micasin	Microsporum canis	Fungi	GFGCPFNENECHAHCLSIGRKFGFCAGPLRATCTCGKQ	38	22586077	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3855		P86393		Bacteriocin SRCAM 602	Paenibacillus polymyxa 	Bacteria	ATYYGNGLYCNKQKHYTWVDWNKASREIGKITVNGWVQH	39	15690798	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ4339				Chicken AvBD1	Gallus gallus	Animalia (Aves)	GRKSDCFRKSGFCAFLKPSLTLISGKCSRFYLCCKRIW	38	19738012	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8188				Ps-AFP1	Pisum sativum	Viridiplantae	RQLKSSRRGALVCVRLKLCSAILSRGLSCGMFSCNARR	38	23835303	Antifungal		Experimentally Validated

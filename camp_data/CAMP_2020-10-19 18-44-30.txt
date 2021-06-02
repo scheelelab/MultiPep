@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2	103485139	Q8WTQ1		Human Defensin  beta 104A 	Synthetic construct		ELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRK	48	11481241	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ51	115544	P06833		Caltrin precursor 	Bos taurus 	Animalia (Mammals)	SDEKASPDRHHRFSLSRYAKLANRLSKWIGNRGNRLANPKLLETFKSV	48	8485159	Antibacterial,Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ238	20141302	P81605	2KSG,2YMK	Dermcidin 	Homo sapiens 	Animalia (Mammals)	SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSV	47	11694882	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ246	22095934	P83247		Oxyopinin-1 	Oxyopes kitabensis 	Animalia (Arachnids)	FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ	48	11976325	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ312	27806807	P06833		Seminalplasmin 	Bos taurus 	Animalia (Mammals)	SDEKASPDKHHRFSLSRYAKLANRLANPKLLETFLSKWIGDRGNRSVK	48	16453469	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ521	55976267	P84262		Palustrin-3b	Rana palustris	Animalia (Amphibians)	GIFPKIIGKGIKTGIVNGIKSLVKGVGMKVFKAGLSNIGNTGCNEDEC	48	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ531	55976286	P84281		Palustrin-3a	Rana palustris	Animalia (Amphibians)	GIFPKIIGKGIKTGIVNGIKSLVKGVGMKVFKAGLNNIGNTGCNEDEC	48	11087945	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ536	584890	P38580	1CW5,1RY3	Bacteriocin carnobacteriocin B2 	Carnobacterium maltaromaticum	Bacteria	VNYGNGVSCSKTKCSVNWGQAFQERYTAGINSFVSGVASGAGSIGRRP	48	8163526	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ914	75232038	Q7M1F2		Defensin AMP1 , cysteine-rich antimicrobial protein 	Clitoria ternatea	Viridiplantae	NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFNC	49	7628617	Antifungal		Experimentally Validated
+CAMPSQ921	44887845	Q8H6Q0		Floral defensin-like protein 2	Petunia x hybrida	Viridiplantae	GTCKAECPTWEGICINKAPCVKCCKAQPEKFTDGHCSKILRRCLCTKPC	49	12644678	Antifungal		Experimentally Validated
+CAMPSQ932	18202534	Q43413		Defensin J1-1	Capsicum annuum	Viridiplantae	KICEALSGNFKGLCLSSRDCGNVCRREGFTDGSCIGFRLQCFCTKPCA	48	8883377	Antifungal		Experimentally Validated
+CAMPSQ1132	124015189	P0C2D1		L-amino-acid oxidase	Bothrops pirajai	Animalia (Reptiles)	ADDKNPLEEFRETNYEVFLEIAKNGLKATSNPKRVVIVGAGMAGLSAAY	49	16809041	Antibacterial,Antitumor	Gram-ve	Experimentally Validated
+CAMPSQ1654	11386627	O24331		Cysteine-rich antifungal protein 4	Raphanus sativus	Viridiplantae	QKLCERSSGTWSGVCGNNNACKNQCINLEGARHGSCNYIFPYHRCICY	48	7780308	Antifungal		Experimentally Validated
+CAMPSQ1803	71153772	Q8VBV2		Antimicrobial-like protein Bin-1b	Rattus norvegicus	Animalia (Mammals)	DIPPGIRNTVCFMQRGHCRLFMCRSGERKGDICSDPWNRCCVSSSIKNR	49		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2568	354991233	G8GZ64		Antifungal peptide 3  	Heliophila coronopifolia  	Viridiplantae	YCERSSGTWSGVCGNTDKCSSQCQRLEGAAHGSCNYVFPAHKCICYYPC	49	22032337	Antifungal		Experimentally Validated
+CAMPSQ2569	354991229	G8GZ62		Antifungal peptide 1  	Heliophila coronopifolia  	Viridiplantae	YCERSSGTWSGVCGNSGKCSNQCQRLEGAAHGSCNYVFPAHKCICYYPC	49	22032337	Antifungal		Experimentally Validated
+CAMPSQ2702				  Ct-AMP1 	Clitoria ternatea	Viridiplantae	NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFDC	49	7628617	Antifungal		Experimentally Validated
+CAMPSQ2843				  Human beta defensin 4 	Homo sapiens	Animalia (Mammals)	FELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRKWDESLLNRTKP	49	11481241	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3090				  Lactacin F 	Lactobacillus johnsonii VPI11088 (Laf+)	Bacteria	NRWGDTVLSAASGAGTGIKACKSFGPWGMAICGVGGAAIGGYFGYTHN	48	8157592	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3341				  Strongylocin 1 	Strongylocentrotus droebachiensis	Animalia (Echinoidea)	IFGSIYHRKCVVKNRCETVSGHKTCKDLTCCRAVIFRHERPEVCRPQT	48	18656496	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3362				  SpStrongylocin 1 	Strongylocentrotus purpuratus	Animalia (Echinoidea)	IFNSIYHRKCVVKNRCETVSGHKTCKDLTCCRAVIFRHERPEVCRPST	48	19852980	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3526				  HIMS-Defensin 	Haemaphysalis longicornis	Animalia (Arachnids)	DFGCARGMIFVCMRRCARMYPGSTGYCQGFRCMCDTMIPIRRPPFIMG	48	22033149	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ3604				  Cathelicidin-AL 	Amolops loloensis	Animalia (Amphibians)	RRSRRGRGGGRRGGSGGRGGRGGGGRSGAGSSIAGVGSRGGGGGRHYA	48	22009138	Antibacterial, Antifungal		Experimentally Validated
+CAMPSQ3663		H1ZZ98		  Laterosporulin 	Brevibacillus sp. strain GI-9	Bacteria	ACQCPDAISGWTHTDYQCHGLENKMYRHVYAICMNGTQVYCRTEWGSSC	49	22403615	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3697				  Sd1 	Saccharum officinarum	Viridiplantae	RYCLSQSHRFKGLCMSSSNCANVCQTENFPGGECKADGATRKCFCKKIC	49	18618271	Antifungal		Experimentally Validated

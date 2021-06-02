@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ106	12585254	P82656		Hadrurin	Hadrurus aztecus 	Animalia (Arachnids)	GILDTIKSIASKVWNSKTVQDLKRKGINWVANKLGVSPQAA	41	10931184	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ323	28849941	P46162		Neutrophil beta-defensin 4 	Bos taurus 	Animalia (Mammals)	QRVRNPQSCRWNMGVCIPFLCRVGMRQIGTCFGPRVPCCRR	41	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ335	298769			Beta-defensin 4 , BNBD-4	Bos taurus 	Animalia (Mammals)	ERVRNPQSCRWNMGVCIPFLCRVGMRQIGTCFGPRVPCCRR	41	8454635	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ351	32363160	P83596		Antifungal peptide 1 	Eucommia ulmoides 	Viridiplantae	QTCASRCPRPCNAGLCCSIYGYCGSGNAYCGAGNCRCQCRG	41	12067732	Antifungal		Experimentally Validated
+CAMPSQ352	32363161	P83597	1P9G,1P9Z	Antifungal peptide 2 	Eucommia ulmoides 	Viridiplantae	QTCASRCPRPCNAGLCCSIYGYCGSGAAYCGAGNCRCQCRG	41	12067732	Antifungal		Experimentally Validated
+CAMPSQ472	46395690	P91793		Defensin-A	Aedes aegypti	Animalia (Insects)	ATCDLLSGFGVGDSACAAHCIARGNRGGYCNSKKVCVCRN	40	7633471 , 7568275	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ542	5902771	P81591		Antimicrobial protein PN-AMP1	Ipomoea nil	Viridiplantae	QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCRS	41	9507071	Antibacterial,Antifungal	Gram+ve	Experimentally Validated
+CAMPSQ559	61239611	P0A310		Bacteriocin sakacin-A	 Lactobacillus sakei 	Bacteria	ARSYGNGVYCNNKKCWVNRGEATQSIIGGMISGWASGLAGM	41	1487735	Antibacterial		Experimentally Validated
+CAMPSQ739	20138667	Q969E1	2L1Q	LEAP-2	Homo sapiens 	Animalia (Mammals)	MTPFWRGVSLRPIGASCRDDSECITRLCRKRRCSLSVAQE	40	12493837	Antibacterial		Experimentally Validated
+CAMPSQ931	150387846	P0C200		Tachystatin-C	Tachypleus tridentatus 	Animalia	DYDWSLRGPPKCATYGQKCRTWSPPNCCWNLRCKAFRCRPR	41	10473569	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ974	145566913	P85115		Ostricacin-3	Struthio camelus	Animalia (Aves)	IPRPLDPCIAQNGRCFTGICRYPYFWIGTCRNGKSCCRRR	40	16459058	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1055	25090166	Q8T0W8	2E2F	Diapause-specific peptide 	Gastrophysa atrocyanea	Animalia (Insects)	AVRIGPCDQVCPRIVPERHECCRAHGRSGYAYCSGGGMYCN	41	17994764	Antifungal		Experimentally Validated
+CAMPSQ1610	18203569	Q9WTL0		Beta-defensin 3	Mus musculus	Animalia (Mammals)	KKINNPVSCLRKGGRCWNRCIGNTRQIGSCGVPFLKCCKRK	41		Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1698	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2b 	Macadamia integrifolia 	Viridiplantae	DPQTECQQCQRRCRQQESDPRQQQYCQRRCKEICEEEEEYN	41	10571855	Antibacterial,Antifungal		Experimentally Validated
+CAMPSQ2745		P10891	1ICA	 Phormia defensin A 	Phormia terranovae	Animalia (Insects)	ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKGVCVCRN	40	2911573	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2804				  Hinnavin I 	Artogeia rapae	Animalia (Insects)	GWKIGKKLEHHGQNIRDGLISAGPAVFAVGQAATIYAAAK	40	9339895	Antibacterial		Experimentally Validated
+CAMPSQ3074				  Gallinacin 6 	Gallus gallus	Animalia (Aves)	DTLACRQSHGSCSFVACRAPSVDIGTCRGGKLKCCKWAPSS	41	17194828	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3198				  ADP-2 	Amblyomma hebraeum	Animalia (Arachnids)	YENPYGCPTDEGKCFDRCNDSEFEGGYCGGSYRATCVCYRT	41	14705963	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3365				  Gallin 	Gallus gallus	Animalia (Aves)	LVLKYCPKIGYCSNTCSKTQIWATSHGCKMYCCLPASWKWK	41	20226050	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ3480				  Arasin-likeSp 	Scylla paramamosain	Animalia (Crustaceans (Malacostraca))	SPRVSRRYGRPFGGRPFVGGQFGGRPGCVCIRSPCPCANYG	41	21220028	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3706				  MiAMP2b 	Macadamia integrifolia	Viridiplantae	DPQTECQQCQRRCRQQESGPRQQQYCQRRCKEICEEEEEYN	41	10571855	Antifungal		Experimentally Validated
+CAMPSQ3854		P86291		Bacteriocin	Lactococcus sp.	Bacteria	TSYGNGVHCNKSKCWIDVSELETYKAGTVSNPKDILWSLKE	41		Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ4327				  Tachystatin A	Tachypleus tridentatus	Animalia (Merostomata ( Horseshoe crabs ))	YSRCQLQGFNCVVRSYGLPTIPCCRGSYFPGSTYGRCQRP	40	10473569	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8180	745997996	P0DKH7		Antimicrobial peptide 1 (Fa-AMP1)	Fagopyrum esculentum	Viridiplantae	AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCK	40	12951494	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ8181	745997997	P0DKH8		Antimicrobial peptide 2 (Fa-AMP2)	Fagopyrum esculentum	Viridiplantae	AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCR	40	12951494	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated

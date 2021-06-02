@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ27	110825776	P12026		Acyl-CoA-binding protein 	Sus scrofa	Animalia (Mammals)	KQATVGDINTERPGILDLKGKAKWDAWNGLKGTSKEDAMKAYINKVEELKKKYGI	55	8375398	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ62	1168625	P19661		Bactenecin-7 precursor 	Bos taurus 	Animalia (Mammals)	RRIRPRPPRLPRPRPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRPLPFPRPGPRP	55	2229048	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ302	26392176	P83282		Cicadin	Cicada flammata 	Animalia (Insects)	NEYHGFVDKANNENKRKKQQGRDDFVVKPNNFANRRRKDDYNENYYDDVDAADVV	55	11814612	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ462	45644956	P24022		Bacteriocin lactacin-F subunit lafA precursor	Lactobacillus johnsonii 	Bacteria	RNNWQTNVGGAVGSAMIGATVGGTICGPACAVAGAHYLPILWTAVTAATGGFGKIRK	57	1903624	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ678		P83428		Locusta migratoria 	Locusta migratoria	Animalia (Insects)	ATTGCSCPQCIIFDPICASSYKNGRRGFSSGCHMRCYNRCHGTDYFQISKGSKCI	55		Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ808	556654	Q48499		Acidocin B	Lactobacillus acidophilus	Bacteria	NIYWIADQFGIHLATGTARKLLDAVASGASLGTAFAAILGVTLPAWALAAAGALGATAA	59	11555873	Antibacterial		Experimentally Validated
+CAMPSQ818	529068	Q48496		Acidocin A	Lactobacillus acidophilus	Bacteria	KTYYGTNGVHCTKKSLWGKVRLKNVIPGTLCRKQSLPIKQDLKILLGWATGAFGKTFH	58	11254635	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ1101	48428972	P83578		Proteinase inhibitor PSKP-1	Phyllomedusa sauvagii	Animalia (Amphibians)	VIEPKCYKYEGKKCPPDINPVCGTDKRTYYNECALCVFIRQSTKKADKAIKIKKWGKC	58	15153102	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ1144		P19957	2REL	Elafin	Homo sapiens 	Animalia (Mammals)	AQEPVKGPVSTKPGSCPIILIRCAMLNPPNRCLKDTDCPGIKKCCEGSCGMACFVPQ	57	16336202	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1166	18448201	P86030		Pg-AMP	Psidium guajava	Viridiplantae	RESPSSRMECYEQAERYGYGGYGGGRYGGGYGSGRGQPVGQGVERSHDDNRNQPR	55	18448201	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ2457	353558689	P86929		Antimicrobial peptide lumbricin-PG	Metaphire guillelmi  	Animalia (Annelids (Clitellata))	SRYARMRDSRPWSDRKNNYSGPQFTYPPEKAPPEKLIKWNNEGSPIFEMPAEGGHIEP	58	21539875	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2591	298351734	B3RFR8	2K35	Hydramacin-1	Hydra vulgaris  	Animalia (Hydrozoans)	IVDCWETWSRCTKWSQGGTGTLWKSCNDRCKELGRKRGQCEEKPSRCPLSKKAWTCICY	59	19013190	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2597	294956524	P0CF38		Im-1 	Isometrus maculatus  	Animalia (Arachnids)	SFKRLKGFAKKLWNSKLARKIRTKGLKYVKNFAKDMLSEGEEAPPAAEPPVEAPQ	55	20139620	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2782				  Im-1 	Isometrus maculatus	Animalia (Arachnids)	FSFKRLKGFAKKLWNSKLARKIRTKGLKYVKNFAKDMLSEGEEAPPAAEPPVEAPQ	56	20139620	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ2956				  Acidocin B 	Lactobacillus acidophilus M46	Bacteria	IYWIADQFGIHLATGTARKLLDAVASGASLGTAFAAILGVTLPAWALAAAGALGATAA	58	7961186	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3091				  Brochocin C 	Brochothrix campestris ATCC 43754	Bacteria	YSSKDCLKDIGKGIGAGTVAGAAGGGLAAGLGAIPGAFVGAHFGVIGGSAACIGGLLGN	59	9835559	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3331		B3RFR8	2K35	  Hydramacin-1 	Hydra magnipapillata	Animalia (Hydrozoans)	QIVDCWETWSRCTKWSQGGTGTLWKSCNDRCKELGRKRGQCEEKPSRCPLSKKAWTCICY	60	19019828	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3336				  AnAFP 	Aspergillus niger	Fungi (Eurotiomycetes)	SKYGGECSVEHNTCTYLKGGKDHIVSCPSAANLRCKTERHHCEYDEHHKTVDCQTPV	57	10512732	Antibacterial, Antifungal	Gram-ve	Experimentally Validated
+CAMPSQ3699				  Neuromacin  	Hirudo medicinalis	Animalia (Annelids (Clitellata))	DCYEDWSRCTPGTSFLTGILWKDCHSRCKELGHRGGRCVDSPSKHCPGVLKNNKQCHCY	59	18606660	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ3754				  Ubiquicidin 	Mus musculus	Animalia (Mammals)	KVHGSLARAGKVRGQTPKVAKQEKKKKKTGRAKRRMQYNRRFVNVVPTFGKKKGPNANS	59	10496312	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3830		Q9Y4X3	2KUM	  CCL27 	Homo sapiens	Animalia (Mammals)	PPSTACCTQLYRKPLSDKLLRKVIQVELQEADGDCHLQAFVLHLAQRSICIHPQNP	56	12538707	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ3962		D0EXD3		Antifungal protein	Penicillium chrysogenum 	Fungi	LSKFGGECSLKHNTCTYLKGGKNHVVNCGSAANKKCKSDRHHCEYDEHHKRVDCQTPV	58	19683356	Antifungal		Experimentally Validated
+CAMPSQ4025	410067123	K4Q515		Antimicrobial peptide 	Chionodraco hamatus 	Animalia (Pisces)	FFGHLYRGITSVVKHVHGLLSGETPRQQEVMKEAMREAMKVQEAMDQEAFDRERALV	57	22982327	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ7536		Q6UWK7		Antimicrobial peptide-57	Homo sapiens 	Animalia (Mammals)	KRRPAKAWSGRRTRLCCHRVPSPNSTNLKGHHVRLCKPCKLEPEPRLWVVPGALPQV	57	25585381	Antibacterial, Antifungal, Antiviral	Gram+ve	Experimentally Validated
+CAMPSQ8200				Sonorensin	Bacillus sonorensis MT93	Bacteria	CWSCMGHSCWSCMGHSCWSCAGHSCWSCMGHSCWSCMGHSCWSCAGHCCGSCWHGGM	57	24610839	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
