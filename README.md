@@ -12,7 +12,7 @@
 
 <br>
 
-<b>To geneate sequence data:</b>
+<b>To geneate sequence data (not necessary):</b>
 <p>python extract_data_and_bin_up2.py</p>
 
 <br>
