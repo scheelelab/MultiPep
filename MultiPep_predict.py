@@ -285,8 +285,8 @@ print("Predicting...")
 alprds = []
 for i in range(10):
     print("... using model", i)
-    with open("final_models/r1/numpy_mullab_data_tree_final_{}.pkl".format(i),"rb") as f:
-        xtr, ytr, xtrsq, xv, yv, xvsq, xt, yt, xtsq = pickle.load(f)
+    #with open("final_models/r1/numpy_mullab_data_tree_final_{}.pkl".format(i),"rb") as f:
+    #    xtr, ytr, xtrsq, xv, yv, xvsq, xt, yt, xtsq = pickle.load(f)
     
     with open("final_models/r1/fold_{}_save_model_based_on_MCC_loss_and_bin_best_all_plusMCC5.pkl".format(i), "rb") as f:    
         Ws = pickle.load(f)
