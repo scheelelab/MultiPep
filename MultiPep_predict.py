@@ -7,7 +7,7 @@ from tensorflow.keras.layers import Dense, Input, Dropout,Multiply, LSTM, Add, C
 from tensorflow.keras.layers import Conv1D, Flatten, Lambda, MaxPooling1D, GRU, SimpleRNN, PReLU
 from tensorflow.keras.layers import Reshape 
 from tensorflow.keras.models import Model
-from keras.regularizers import l2, l1
+#from keras.regularizers import l2, l1
 from tensorflow.keras.losses import BinaryCrossentropy
 from tensorflow.keras.initializers import RandomNormal, RandomUniform, Constant
 from tensorflow.keras import backend as K
