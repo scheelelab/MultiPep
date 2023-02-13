@@ -1,5 +1,5 @@
 # MultiPep
-###MultiPep stand-alone program and network parameters
+### MultiPep stand-alone program and network parameters
 
 
 <b>To use the MultiPep_predict.py for finding mean of models:</b>
